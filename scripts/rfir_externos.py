@@ -177,7 +177,7 @@ def main():
                     r = M.parse_plantilla(tx, nmax, nopt)
                     cubre = sum(1 for q in qs if q['n'] in r); anul = sum(1 for q in qs if r.get(q['n']) == 0)
                     if cubre < 0.9 * len(qs): raise ValueError(f"respuestas para {cubre} de {len(qs)}; inicio del texto: «{tx[:700].replace(chr(10), ' / ')}»")
-                    if anul > 15: raise ValueError(f'{anul} anuladas: la tabla no se ha leído bien (lo normal son menos de 10)')
+                    if anul > (25 if nmax > 240 else 15): raise ValueError(f'{anul} anuladas: la tabla no se ha leído bien (lo normal son menos de 10; en los exámenes de 260 preguntas, algo más)')
                     vp = re.search(r'versi[oó]n(?:\s+de\s+examen)?\s*:?\s*(\d)', tx[:800], re.I)
                     if VERC != '0' and vp and vp.group(1) != VERC: raise ValueError(f'plantilla de la versión {vp.group(1)} y el cuaderno es de la versión {VERC}')
                     conc = concordancia(qs, r, nopt)

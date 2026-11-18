@@ -6,12 +6,20 @@
    "https://radiofisicagratis.wordpress.com/wp-content/uploads/2016/02/examen2013.pdf",
    "https://radiofisicagratis.wordpress.com/wp-content/uploads/2017/11/cuaderno_2015_1_r.pdf",
    "https://www.redaccionmedica.com/contenido/images/RFIR%283%29.pdf",
-   "https://huggingface.co/datasets/head_qa/resolve/main/data/head-qa-es-en-pdfs.zip"
+   "https://huggingface.co/datasets/head_qa/resolve/main/data/head-qa-es-en-pdfs.zip",
+   "https://radiofisicagratis.wordpress.com/wp-content/uploads/2017/02/respuestas-correctas-2016.pdf",
+   "https://radiofisicagratis.wordpress.com/wp-content/uploads/2017/02/cuaderno_2016_1_r.pdf",
+   "https://radiofisicagratis.wordpress.com/wp-content/uploads/2017/11/respuestas-correctas-2015.pdf",
+   "https://radiofisicagratis.wordpress.com/wp-content/uploads/2017/11/plantilla_2016.pdf",
+   "https://radiofisicagratis.wordpress.com/wp-content/uploads/2021/11/plantilla_2016.pdf",
+   "https://radiofisicagratis.wordpress.com/wp-content/uploads/2021/11/plantilla_2015.pdf"
   ],
   "paginas": [
    "https://www.consalud.es/formacion/rfir-2020-consulte-preguntas-examen_73431_102.html",
    "https://www.consalud.es/especial-mir/rfir-2020-consulta-respuestas_73524_102.html",
-   "https://www.redaccionmedica.com/formacion/mir/20210330/oficial-sanidad-publica-las-respuestas-correctas-del-examen-mir/157297_0.html"
+   "https://www.redaccionmedica.com/formacion/mir/20210330/oficial-sanidad-publica-las-respuestas-correctas-del-examen-mir/157297_0.html",
+   "https://radiofisicagratis.wordpress.com/author/radiofisicagratis/page/2/",
+   "https://radiofisicagratis.wordpress.com/page/2/"
   ],
   "sitios": [
    "https://radiofisicagratis.wordpress.com/",
