@@ -1,0 +1,2356 @@
+MINISTERIO
+DE SANIDAD
+PRUEBAS SELECTIVAS 2025 NÚMERO DE MESA:
+CUADERNO DE EXAMEN NÚMERO DE EXPEDIENTE:
+Nº DE D.N.I. O EQUIVALENTE PARA EXTRANJEROS:
+APELLIDOS Y NOMBRE:
+ADVERTENCIA IMPORTANTE
+ANTES DE COMENZAR SU EXAMEN, LEA ATENTAMENTE LAS SIGUIENTES
+INSTRUCCIONES
+PROHIBIDA LA REPRODUCCIÓN TOTAL O PARCIAL
+LANUBIRT
+LED
+NÓICACIDNI
+AL
+A
+ETNEMALOS
+RIRBA
+FÍSICA 2025
+FÍSICA - VERSIÓN: 1
+1. MUY IMPORTANTE: Compruebe que este Cuaderno de Examen, integrado por 200
+preguntas más 10 de reserva, lleva todas sus páginas y no tiene defectos de impresión. Si
+detecta alguna anomalía, pida otro Cuaderno de Examen a la Mesa.
+2. La “Hoja de Respuestas” está nominalizada. Se compone de tres ejemplares en papel
+autocopiativo que deben colocarse correctamente para permitir la impresión de las
+contestaciones en todos ellos. Recuerde que debe firmar esta Hoja.
+3. Compruebe que la respuesta que va a señalar en la “Hoja de Respuestas” corresponde al
+número de pregunta del cuestionario. Sólo se valoran las respuestas marcadas en la “Hoja de
+Respuestas”, siempre que se tengan en cuenta las instrucciones contenidas en la misma.
+4. Si inutiliza su “Hoja de Respuestas” pida un nuevo juego de repuesto a la Mesa de Examen
+y no olvide consignar sus datos personales.
+5. Recuerde que el tiempo de realización de este ejercicio es de cuatro horas y treinta
+minutos improrrogables y que está prohibida la utilización de teléfonos móviles, o de
+cualquier otro dispositivo con capacidad de almacenamiento de información o posibilidad de
+comunicación mediante voz o datos.
+6. Solamente podrá utilizar el modelo de calculadora que le haya facilitado la Mesa, estando
+prohibida la utilización de cualquier otro modelo.
+7. No se entregarán, en ningún caso, los cuestionarios con las preguntas de examen. Las
+distintas versiones de los cuadernos de examen se publicarán en la Web del Ministerio de
+Sanidad, al cierre de la última mesa de examen.
+
+1. Sa1biendo que la presión atmosférica media en la
+tie. rra es de 1000 hPa y que el radio del planeta
+es de unos 6400 km, estime la masa total de aire
+en la atmósfera en kg:
+1. 5 ×1018.
+2. 5 ×1016.
+3. 1014.
+4. 1012.
+2. Ex2prese el faradio (unidad de capacidad eléc-
+tr.i ca) como una combinación de unidades del
+Sistema Internacional:
+1. kg-1 A2 s4 m-2.
+2. kg A2 s4 m-2.
+3. kg-1 A-2 s4 m-2.
+4. kg-1 A2 s4 m2.
+3. ¿C3uál de las siguientes opciones define CO-
+RR. ECTAMENTE la intensidad de corriente
+eléctrica?:
+1. La diferencia de potencial entre dos puntos de
+un circuito.
+2. La fuerza que se opone al flujo de cargas eléc-
+tricas en un circuito.
+3. La carga eléctrica que pasa por unidad de
+tiempo a través de una sección de la región
+donde ésta fluye.
+4. La energía potencial que tienen las cargas en
+reposo.
+4. La4 unidad de resistividad eléctrica de un mate-
+ria. l en el Sistema Internacional es:
+1. Ω/m.
+2. Ω⋅m.
+3. Ω.
+4. S/m.
+5. ¿C5uál de las siguientes magnitudes se puede ex-
+pr.e sar en m-2?:
+1. Energía radiante.
+2. Fluencia de energía.
+3. Fluencia de partículas.
+4. Flujo de energía.
+6. La8 masa del bosón de Higgs es 125 GeV/c2. Indi-
+qu. e cuál sería el valor de su masa en kg:
+1. 2.2×10-25.
+2. 2.2×10-35.
+3. 2.2×10-15.
+4. 2.2×10-5.
+7. En9 el Sistema Internacional las unidades de la
+co.n stante de Stefan-Boltzmann son:
+1. W m-2 K-4.
+2. W m-1 K-4.
+3. W-1 m K4.
+4. W-1 m-2 K4.
+8. Un1 valor promedio de consumo eléctrico de un
+ho0gar es de 20 kWh/año. Esto equivale a:
+.
+1. 2.28 W.
+2. 54.8 W.
+3. 5.76 MJ.
+4. 7.14 MJ.
+9. ¿C1uál es el valor de la aceleración de la gravedad
+en1 la superficie de un planeta de radio 637 km si
+tie. ne una densidad de masa igual a la de la Tie-
+rra?:
+(Dato: radio de la Tierra 6370 km)
+1. 9604 m/s2.
+2. 98 m/s2.
+3. 0.98 m/s2.
+4. 0.9604 m/s2.
+10. Da1do un sistema con una coordenada generali-
+za2da q, cuyo lagrangiano es: 𝑳(𝒒,𝒒̇,𝒕)=𝟏 𝜶𝒒̇𝟐+
+. 𝟐
+𝜷𝒒̇ −𝑽(𝒒,𝒕). ¿Cuál es el momento generalizado
+p asociado a la coordenada generalizada q?:
+1. 𝑚𝑞̇.
+2. 𝛼𝑞̇ +𝛽.
+𝜕𝑉(𝑞,𝑡)
+3. 𝛼𝑞̇ +𝛽− .
+𝜕𝑡
+𝑑𝑉(𝑞,𝑡)
+4. 𝛼𝑞̇𝑞̈ +𝛽𝑞̈ − .
+𝑑𝑡
+11. En1 mecánica clásica, las ecuaciones de Lagrange
+5 𝒅 𝝏𝑳 𝝏𝑳
+se expresan como ( )− =𝟎, siendo 𝒒 las
+. 𝒅𝒕 𝝏𝒒̇𝒋 𝝏𝒒𝒋 𝒋
+coordenadas y L la función lagrangiana. ¿Cómo
+se expresa la lagrangiana?:
+1. L=T-V, con T energía cinética y V energía po-
+tencial.
+2. L=rmv, con r posición, m masa y v velocidad.
+3.
+𝐿=∫𝑏√1+(𝑑𝑦 )2
+, con a y b los extremos de
+𝑎 𝑑𝑥
+la trayectoria.
+𝑉
+4. 𝐿= , con V potencial e I intensidad.
+𝑑𝐼⁄𝑑𝑡
+12. Co1nsiderar un sólido rígido con sus tres momen-
+to6s principales de inercia tales que 𝑰 >𝑰 >𝑰 ,
+𝟏 𝟐 𝟑
+do. nde el subíndice indica el eje correspondiente.
+¿Sobre qué eje principal la rotación es inestable
+frente a perturbaciones?:
+1. Eje 1.
+2. Eje 2.
+3. Eje 3.
+4. Todos son estables.
+13. ¿C1uántas veces superior es la velocidad terminal
+de8 un humano en relación con la de una hormiga
+al. caer en el aire?:
+(Datos:
+Densidad del aire: 1.225 kg/m3
+Masa de un humano: 70 kg
+Masa de una hormiga: 5 mg
+Área proyectada de un humano: 0.8 m2
+-
+Área proyectada de una hormiga: 5x10 5 m2
+Coeficiente de resistencia de un humano: 0.85
+Coeficiente de resistencia de una hormiga: 0.47)
+1. 1.
+2. 3.
+3. 10.
+4. 22.
+14. Se1a un anillo delgado de masa uniforme M y ra-
+di9o R, ubicado en el plano OXY. ¿Cuál es el mo-
+m.e nto de inercia del anillo con respecto a un eje
+paralelo al eje Z, que pasa por un punto situado
+𝑹
+a una distancia del centro del anillo?:
+𝟑
+1. 2 𝑀𝑅2.
+3
+2. 8 𝑀𝑅2.
+9
+3. 10 𝑀𝑅2.
+9
+4. 4 𝑀𝑅2.
+3
+15. En2 una curva con peralte de radio R y ángulo 𝜽
+co0n coeficiente de rozamiento estático entre neu-
+m.á tico y pavimiento 𝝁, la velocidad máxima a la
+que el vehículo puede circular sin derrapar es:
+𝒈·𝑹·(𝐭𝐚𝐧 𝜽+𝝁)
+1. √ .
+𝟏+𝝁·𝐭𝐚𝐧 𝜽
+𝒈·𝑹·(𝐭𝐚𝐧 𝜽−𝝁)
+2. √ .
+𝟏−𝝁·𝐭𝐚𝐧 𝜽
+𝒈·𝑹·(𝐭𝐚𝐧 𝜽+𝝁)
+3. √ .
+𝟏−𝝁·𝐭𝐚𝐧 𝜽
+𝒈·𝑹·(𝐭𝐚𝐧 𝜽−𝝁)
+4. √ .
+𝟏+𝝁·𝐭𝐚𝐧 𝜽
+16. En2 un ciclotrón clásico, los protones giran en un
+ca1mpo magnético uniforme B y son acelerados
+po. r una diferencia de potencial alterna con fre-
+cuencia f. A medida que ganan energía, el radio
+de su trayectoria aumenta. ¿Qué ocurre con la
+frecuencia de rotación de los protones durante
+este proceso, si se ignoran los efectos relativis-
+tas?:
+1. Disminuye, porque el protón tarda más en
+completar la órbita.
+2. Aumenta, porque al ganar energía su velocidad
+angular también aumenta.
+3. Permanece constante, porque el campo magné-
+tico y la masa no cambian.
+4. Disminuye, porque el radio de su trayectoria
+aumenta.
+17. Do2s partículas 1 y 2 de igual masa, 1kg, se mue-
+ve2n sobre la misma recta en el mismo sentido.
+La. s partículas tienen velocidad v = 5 m/s y v =
+1 2
+1 m/s. Las dos partículas sufren un choque com-
+pletamente inelástico. La velocidad después de la
+colisión es:
+1. 1 m/s.
+2. 2 m/s.
+3. 3 m/s.
+4. 4 m/s.
+18. ¿C2uál es el momento de inercia de una esfera
+hu4eca de pared delgada respecto de un eje que
+pa. sa por su centro?:
+1. 2 𝑀𝑅2.
+5
+2. 1 𝑀𝑅2.
+2
+3. 2 𝑀𝑅2.
+3
+4. 𝑀𝑅2.
+19. Un2 cuerpo pequeño gira en una centrifugadora
+de5 radio 10 cm, sujeto a una pared vertical por
+la. f uerza de rozamiento. Si el coeficiente de roza-
+miento estático es de 0.1, podemos deducir que la
+centrifugadora girará al menos a aproximada-
+mente (en revoluciones por segundo):
+1. 3.2.
+2. 5.0.
+3. 8.8.
+4. 31.
+20. La2 órbita de los satélites geoestacionarios está a
+un6a altura de unos 36000 km sobre la superficie
+de. la Tierra, cuyo radio es aproximadamente
+6400 km. La órbita de un satélite que se encuen-
+tre a unos 1000 km sobre la superficie terrestre
+tendrá un periodo aproximado de:
+1. 30 minutos.
+2. 1 hora.
+3. 100 minutos.
+4. 10 horas.
+21. Se2 quiere estudiar la fuerza de arrastre por un
+flu8ido sobre un objeto. Para ello, se construye un
+m.o delo experimental a escala 1:s del objeto,
+usando el mismo fluido, y se establece un flujo
+similar (mismo número de Reynolds que en el
+modelo real). Asumiendo que la fuerza de arras-
+tre es de la forma F=1/2 C ρV2A, donde ρ es la
+d
+densidad del fluido, V la velocidad, A la sección
+del objeto y C un coeficiente adimensional,
+d
+¿cuál es la relación entre la fuerza de arrastre del
+modelo y la real?:
+1. La real es 𝑠3⁄2 veces la del modelo.
+2. La del modelo es 𝑠 veces la real.
+3. La real es 𝑠 veces la del modelo.
+4. Las dos son iguales.
+22. La2 energía máxima de un electrón de masa m
+e
+ar9rancado por ionización causada por una par-
+tíc. ula de masa M que atraviesa un medio, se
+p
+produce al ser dispersado el electrón en la misma
+dirección que la partícula ionizante. Seleccione
+la expresión de la máxima energía del electrón
+en función de la energía cinética T de la partí-
+p
+cula incidente:
+1. 𝑇 =
+4𝑚𝑒𝑀𝑝
+𝑇 .
+𝑒,𝑚𝑎𝑥 (𝑚𝑒+𝑀𝑝)2 𝑝
+2. 𝑇
+=𝑚𝑒𝑇
+.
+𝑒,𝑚𝑎𝑥 𝑀𝑝 𝑝
+1
+3. 𝑇 = 𝑇 .
+𝑒,𝑚𝑎𝑥 2 𝑝
+4. 𝑇 =𝑇 .
+𝑒,𝑚𝑎𝑥 𝑝
+23. El3 teorema del virial establece que, en un sistema
+lig0ado por una fuerza proporcional a r-n, la ener-
+gí.a cinética media y la potencial cumplen:
+1. 2⟨T⟩=n⟨V⟩.
+2. 2⟨T⟩=−n⟨V⟩.
+3. ⟨T⟩=⟨V⟩.
+4. ⟨T⟩=−⟨V⟩.
+24. ¿C3uál de las siguientes afirmaciones caracteriza
+a l4as fuerzas conservativas?:
+.
+1. El trabajo realizado por la fuerza depende de
+la trayectoria.
+2. El valor del rotacional de la fuerza es no nulo.
+3. La fuerza no realiza trabajo neto en un camino
+cerrado.
+4. La fuerza es proporcional a la velocidad.
+25. ¿C3uál de las siguientes afirmaciones describe
+CO7RRECTAMENTE el comportamiento de un
+os.c ilador armónico amortiguado sobreamorti-
+guado? (Ecuación de movimiento: 𝒎𝒙̈ +𝒃𝒙̇ +
+𝒌𝒙=𝟎):
+1. El sistema regresa al equilibrio sin oscilar, y
+más lentamente que en el caso críticamente
+amortiguado.
+2. El sistema oscila varias veces antes de dete-
+nerse por completo.
+3. El sistema regresa al equilibrio más rápida-
+mente que en cualquier otro régimen.
+4. El sistema mantiene su amplitud constante
+pero con fase retardada.
+26. Se3an dos cuerdas de materiales diferentes (pero
+co8n el mismo grosor) unidas en un punto y suje-
+ta.s a una determinada tensión. Por este sistema
+se propaga una onda armónica. Señale la afirma-
+ción VERDADERA sobre las ondas transmitida
+y reflejada en el punto de unión:
+1. La onda transmitida siempre está en fase con
+la onda incidente.
+2. La onda transmitida siempre está en oposición
+de fase con la onda incidente.
+3. La onda reflejada siempre está en fase con la
+onda incidente.
+4. La onda reflejada siempre está en oposición de
+fase con la onda incidente.
+27. Se3 ha medido una velocidad del sonido en aire de
+3391 m/s a 0 oC. La velocidad esperable a 273 0C
+as.u miendo comportamiento de gas ideal es:
+1. 292 m/s.
+2. 342 m/s.
+3. 394 m/s.
+4. 468 m/s.
+28. La4 impedancia acústica es:
+0
+1.. Independiente de la densidad del medio.
+2. Inversamente proporcional a la densidad del
+medio.
+3. Directamente proporcional a la densidad del
+medio.
+4. Adimensional.
+29. Un4 tren pasa por delante de una estación a velo-
+cid1ad constante. El tren tiene una bocina que
+em. ite a una cierta frecuencia. Un viajero que se
+halla sentado en el andén percibe que la frecuen-
+cia antes de pasar el tren es dos veces mayor que
+la frecuencia después de pasar. Si v es la veloci-
+dad del sonido, ¿cuál es la velocidad del tren?:
+1. 2v/3.
+2. v/2.
+3. v/3.
+4. v/4.
+30. Un4 equipo de Radiofísica Hospitalaria puede
+tr2abajar sometido a aceleraciones mecánicas
+m.á ximas de 50, 60, 20 y 30 mm/s2 a las frecuen-
+cias de 1, 10, 20 y 30 Hz, respectivamente, según
+su hoja de características técnicas. Una obra cer-
+cana provoca vibraciones con velocidades de
+hasta 6.0, 0.8, 0.3 y 0.1 mm/s a las respectivas fre-
+cuencias. ¿A qué frecuencia se encuentra el
+equipo fuera de especificaciones?:
+1. 1 Hz.
+2. 10 Hz.
+3. 20 Hz.
+4. 30 Hz.
+31. Un4a onda viajera, 𝒈(𝒙,𝒕), se desplaza en el sen-
+tid3o positivo del eje 𝑶𝑿 con una velocidad 𝒗 =
+𝟐. m/s. Se sabe que 𝒈(𝒙,𝒕 = 𝟏)= 𝟏 .
+𝟐 + 𝒙𝟐
+¿Cuánto vale 𝒈(𝒙 = 𝟎,𝒕 = 𝟎)?:
+1. 1/2.
+2. 1/4.
+3. 1/6.
+4. 1/8.
+32. Un4 avión se desplaza a una velocidad de 540 m/s
+co4n respecto al aire. ¿Cuál es el número de Mach
+de.l avión? (considerando que la velocidad del so-
+nido en el aire es de 340 m/s):
+1. 0.40.
+2. 0.63.
+3. 1.59.
+4. 2.52.
+33. Un4a onda armónica transversal que se desplaza
+po5r una cuerda tiene un periodo de 0.025 s, una
+lo.n gitud de onda de 0.75 m y una amplitud de
+0.02 m. Dicha onda se propaga en el sentido ne-
+gativo del eje X. Indique la expresión que define
+dicha onda:
+2𝜋 2𝜋
+1. 𝑦 (𝑥,𝑡)=0.02 cos( 𝑥− 𝑡) .
+0.75 0.025
+0.75 0.025
+2. 𝑦 (𝑥,𝑡)=0.02 cos( 𝑥− 𝑡) .
+2𝜋 2𝜋
+0.75 0.025
+3. 𝑦 (𝑥,𝑡)=0.02 cos( 𝑥+ 𝑡) .
+2𝜋 2𝜋
+2𝜋 2𝜋
+4. 𝑦 (𝑥,𝑡)= 0.02 cos( 𝑥+ 𝑡) .
+0.75 0.025
+34. El4ige la afirmación CORRECTA asociada a la
+se6gunda ley de la termodinámica:
+.
+1. La energía interna de un sistema de partículas
+aislado permanece constante.
+2. El cambio en la energía interna de un sistema
+de partículas es igual al trabajo hecho sobre el
+sistema por las fuerzas externas.
+3. En un sistema aislado los procesos que pueden
+ocurrir con mayor probabilidad son aquellos
+en los cuales la entropía aumenta o permanece
+constante.
+4. A temperatura y cantidad de gas constantes, el
+volumen de un gas es inversamente proporcio-
+nal a su presión.
+35. En4 los diagramas de fase de sustancias puras, se-
+ña7le la respuesta CORRECTA sobre las transi-
+cio. nes sólido-líquido, sólido-vapor y líquido-va-
+por:
+1. La pendiente de la curva de equilibrio sólido-
+líquido en el diagrama de presión-temperatura
+es siempre positiva.
+2. En el punto triple, las tres fases coexisten por-
+que el potencial químico es idéntico y los gra-
+dos de libertad son nulos.
+3. La sublimación requiere una menor energía
+por mol que la vaporización.
+4. La presión de vapor en equilibrio líquido-va-
+por disminuye al aumentar la temperatura.
+36. En4 una transición de fase líquido-vapor que
+tr8anscurre en equilibrio, ¿qué coeficiente termo-
+di.n ámico tiende formalmente a infinito?:
+1. El calor específico a volumen constante.
+2. El calor específico a presión constante.
+3. El coeficiente de dilatación isobárico.
+4. El coeficiente de compresibilidad adiabático.
+37. Un4 sistema termodinámico en equilibrio conte-
+ni9do en un recinto adiabático cerrado es some-
+tid. o a una acción externa y alcanza otro estado
+de equilibrio. ¿Cuál de las siguientes afir-
+maciones es VÁLIDA SIEMPRE?:
+1. La energía del sistema NO ha disminuido.
+2. La entropía del sistema NO ha disminuido.
+3. La temperatura del sistema NO ha disminuido.
+4. La entalpía del sistema NO ha cambiado.
+38. El5 valor de equilibrio de cualquier parámetro in-
+te0rno no ligado de un sistema en contacto con
+un. a fuente de temperatura Tr es tal que sobre un
+conjunto de estados con T=Tr:
+1. Maximiza la entropía S.
+2. Minimiza la energía U.
+3. Minimiza la energía libre F=U-TS.
+4. Minimiza la entalpía H=U+pV.
+39. La5 regla de las fases de Gibbs expresa el número
+de1 grados de libertad de un sistema termodiná-
+m.i co en función de los números de fases (f) y
+componentes (c) presentes como:
+1. 2c+f.
+2. c+2-f.
+3. c-f+1.
+4. c+3-2f.
+40. Se5 deja caer desde una altura h sobre el suelo un
+re2cipiente térmicamente aislado y lleno de agua.
+Si. en el choque la mitad de la energía mecánica
+perdida en la caída se convierte en energía in-
+terna del agua, ¿cuál debe ser h para que la tem-
+peratura del agua aumente en 1 ºC?:
+1. 426 m.
+2. 623 m.
+3. 750 m.
+4. 852 m.
+41. En5 un sistema aislado, señale la afirmación CO-
+RR4ECTA sobre un proceso en donde la entropía
+to.t al disminuye:
+1. Es irreversible.
+2. Es reversible.
+3. No existen en la naturaleza los procesos que
+disminuyen la entropía total.
+4. Es un ciclo adiabático.
+42. ¿C5uál de las siguientes afirmaciones describe
+CO5RRECTAMENTE la naturaleza termodiná-
+m.i ca de la energía interna específica, u, definida
+para un sistema como la energía interna total
+por unidad de masa?:
+1. Es una magnitud extensiva, porque se duplica
+al duplicar la energía interna, a masa cons-
+tante.
+2. Es una magnitud intensiva, porque es indepen-
+diente del tamaño del sistema.
+3. No puede clasificarse como intensiva ni exten-
+siva, porque depende del tipo de proceso ter-
+modinámico.
+4. Es extensiva, porque tanto la energía interna
+como la masa son magnitudes extensivas.
+43. Un5 lingote metálico de 0.05 kg se calienta hasta
+2060 ºC y luego se introduce en un vaso de labo-
+ra.t orio que contiene 0.4 kg de agua inicialmente
+a 20 ºC. Si la temperatura de equilibrio final es
+de 22.4 ºC, encontrar el calor específico del me-
+tal:
+1. 500 J/(kg∙ºC).
+2. 358 J/(kg∙ºC).
+3. 286 J/(kg∙ºC).
+4. 453 J/(kg∙ºC).
+44. Cu5ál de los siguientes coeficientes termodinámi-
+co7s puede anularse a temperaturas ordinarias:
+.
+1. El calor específico a volumen constante.
+2. El coeficiente de compresibilidad adiabático.
+3. El índice adiabático.
+4. El coeficiente de dilatación isobárico.
+45. El5 principio de funcionamiento del par termo-
+elé8ctrico o termopar es:
+.
+1. El efecto Seebeck.
+2. El efecto Ettinghausen.
+3. El efecto Hall.
+4. El efecto Coriolis-Marangoni.
+46. Un5a barra delgada de un metal tiene una longi-
+tu9d de 1 m a temperatura ambiente. Se calienta
+de. modo que su temperatura aumenta en 100 K
+y su longitud aumenta en 2 mm. El valor del coe-
+ficiente de expansión lineal del metal es:
+1. 2 ×10-6 K-1.
+2. 2 ×10-5 K-1.
+3. 2 ×10-3 K-1.
+4. 2 ×10-2 K-1.
+47. El6 Sol emite como un cuerpo negro a una tempe-
+ra0tura de unos 5500 ºC, la de su fotosfera. El má-
+xi.m o de su emisión está en la longitud de onda de
+unos 500 nm (correspondiente al color verde). Si
+consideramos el cuerpo humano como un cuerpo
+negro cuya temperatura es de unos 37 ºC, el má-
+ximo de la emisión se encontrará alrededor de:
+1. 460 nm.
+2. 2000 nm.
+3. 9300 nm.
+4. 55000 nm.
+48. Un6 cuerpo negro a 27 ºC radia una potencia de
+1020 W. Si su temperatura sube a 30 ºC emitirá
+ap. roximadamente:
+1. 104 W.
+2. 120 W.
+3. 140 W.
+4. 210 W.
+49. Un6 sistema de refrigeración ideal opera entre dos
+fo3cos térmicos: caliente (ambiente exterior) a
+20. °C y frío (interior del refrigerador) a 0 °C. Se
+desea enfriar y congelar 1 kg de agua inicial-
+mente a 20 °C hasta convertirla completamente
+en hielo a 0 °C. ¿Cuál es el trabajo mínimo que
+debe realizar el compresor del sistema de refri-
+geración ideal para lograr este proceso?:
+(Datos: C = 4.18 kJ/(kg·K), Lf = 334
+agua agua
+kJ/kg)
+1. 30.6 kJ.
+2. 35.6 kJ.
+3. 40.6 kJ.
+4. 45.6 kJ.
+50. Se6leccione cuál sería la temperatura de equili-
+br4io de la superficie de la Tierra si ésta se hallase
+en. equilibrio radiativo y absorbiese el 100% de
+la radiación recibida del Sol:
+(Datos: Constante solar=1.37×103 W/m2, cons-
+tante de Stefan =5.7×10-8 W/(m2K4), constante de
+Wien =2.9×10-3 m∙K):
+1. 255 K.
+2. 278 K.
+3. 298 K.
+4. 390 K.
+51. Un6a carga eléctrica se mueve con aceleración de
+m7ódulo ‘a’. La potencia radiada es proporcional
+a:.
+1. a1/2.
+2. a.
+3. a3/2.
+4. a2.
+52. ¿C6uál de los siguientes modos de una guía de on-
+da8s tiene componente del campo eléctrico a lo
+la.r go de la dirección de propagación?:
+1. TE .
+13
+2. TE .
+31
+3. TEM.
+4. TM .
+22
+53. Un6a bobina circular de radio R y número de
+vu9eltas N está en el seno de un campo magnético
+di.r igido en la dirección del eje de la bobina. El
+campo magnético varía en el tiempo de forma si-
+nusoidal de manera que genera una fuerza elec-
+tromotriz en la bobina de valor eficaz . La
+fuerza electromotriz eficaz ’ que el mismo
+campo magnético genera en una bobina de igual
+número de vueltas N que la anterior, pero con
+radio 2R es:
+1. ’=
+2. ’= 
+3. ’=2
+4. ’= 
+54. ¿C7uál es la impedancia de un condensador en el
+an1álisis de circuitos en el dominio-s, es decir, em-
+pl.e ando la transformada de Laplace?:
+1
+1. 𝑍 (𝑠)= .
+𝐶 𝑠𝐶
+2. 𝑍 (𝑠)=𝑠𝐶.
+𝐶
+3. 𝑍 (𝑠)=𝐶.
+𝐶
+4. 𝑍 (𝑠) =−𝑠𝐶.
+𝐶
+55. Ci7erta región del espacio contiene un campo
+m3agnético de 0.02 T y un campo eléctrico de
+2.5. ×106 N/C. Determinar la energía electromag-
+nética en una caja cúbica de lado 𝒍 = 25 cm:
+1. 1.46 J.
+2. 2.92 J.
+3. 5.84 J.
+4. 2.5×103 J.
+56. En7 un circuito RC en serie alimentado con co-
+rr4iente alterna, el voltaje máximo medido entre
+lo.s bornes de la resistencia:
+1. Aumenta al incrementar la frecuencia de la co-
+rriente.
+2. Disminuye al incrementar la frecuencia de la
+corriente.
+3. Sólo depende de la capacidad del condensador.
+4. Sólo depende de la relación entre la capacidad
+del condensador y la resistencia.
+57. ¿C7uál es la energía electrostática de una esfera
+só5lida de radio R y carga total 𝑸 distribuida uni-
+fo.r memente en su volumen?:
+𝑄2
+1. 𝑈 = .
+4𝜋 𝜀0𝑅
+3𝑄2
+2. 𝑈 = .
+5𝜋 𝜀0𝑅
+2𝑄2
+3. 𝑈 = .
+3𝜋 𝜀0𝑅
+3𝑄2
+4. 𝑈 = .
+20𝜋 𝜀0𝑅
+58. Te7nemos dos resistores conectados en paralelo.
+¿Q6ué magnitud física es la misma para los dos
+re.s istores?:
+1. La potencia disipada.
+2. La intensidad de corriente eléctrica.
+3. La carga que los atraviesa.
+4. La diferencia de potencial eléctrico.
+59. Te7nemos dos condensadores con capacidades C
+1
+y C7 conectados en serie. Conectamos el conjunto
+2
+du. rante un tiempo T a una fuente de corriente
+que proporciona una intensidad I . Las cargas
+0
+que adquieren cada condensador cumplen:
+1. Q =Q =I T.
+1 2 0
+2. Q =Q C / C y I T= Q +Q
+2 1 2 1 0 1 2.
+3. Q =Q C / C y I T= Q +Q
+2 1 1 2 0 1 2.
+4. Q =Q y I T= Q +Q
+2 1 0 1 2.
+60. Se7 tienen dos resistencias iguales y no nulas. Se
+co8mbinan en serie dando un valor Rs y si se com-
+bi.n an en paralelo dan un valor Rp. Se cumple
+que:
+1. Rs = Rp.
+2. Rs = 2 Rp.
+3. Rs = 4 Rp.
+4. Rs = 0.5 Rp.
+61. La7 ley de Gauss para el campo magnético im-
+pl9ica que:
+.
+1. La corriente eléctrica genera un campo magné-
+tico.
+2. La inexistencia de monopolos magnéticos.
+3. Las cargas eléctricas libres generan un campo
+magnético.
+4. La inexistencia de dipolos magnéticos.
+62. Cu8ando una lámina metálica se mueve a través
+de0 un campo magnético intenso y constante, se
+in.d ucen en su interior corrientes de Foucault. En
+relación con estas corrientes y sus efectos, señale
+la afirmación CORRECTA:
+1. Las corrientes de Foucault sólo aparecen si el
+campo magnético varía con el tiempo, y nunca
+si el conductor se mueve en un campo cons-
+tante.
+2. Las corrientes de Foucault aumentan indefini-
+damente mientras el conductor se mueve en el
+campo, sin disipar energía.
+3. Si el conductor se mueve en un campo magné-
+tico constante, las corrientes inducidas generan
+un campo que refuerza el campo aplicado, ace-
+lerando el movimiento.
+4. Las corrientes de Foucault originan una fuerza
+que se opone al movimiento que las produce,
+de acuerdo con la ley de Lenz, y provocan pér-
+didas de energía en forma de calor.
+63. Un8 electrón es emitido con velocidad cero desde
+la1 placa negativa de un condensador. Entre las
+pl.a cas hay vacío, están sometidas a una diferen-
+cia de potencial de 1 V y separadas 1 cm. Cuando
+el electrón llega a la placa positiva tiene una
+energía cinética que vale:
+1. 1 V.
+2. 1 eV.
+3. 1 J.
+4. 1 N·m.
+64. Se8a una esfera aislante sólida de radio R y carga
+Q4 distribuida de manera uniforme en todo su vo-
+lu.m en. Determine el módulo del campo eléctrico
+generado por dicha esfera en un punto situado a
+una distancia r del centro de la esfera tal que r 
+R:
+1. 0.
+𝟏 𝑸𝒓
+2. .
+𝟒𝝅𝜺𝟎𝑹𝟑
+𝟏 𝑸
+3. .
+𝟒𝝅𝜺𝟎𝒓𝟐
+𝑸
+4. .
+𝟐𝜺𝟎
+65. El8 vector de Poynting describe:
+5
+1.. La energía total almacenada en el campo.
+2. El flujo de energía electromagnética por uni-
+dad de área.
+3. El número de fotones por segundo que atra-
+viesa una unidad de superficie.
+4. La densidad de carga libre.
+66. En8 Óptica Geométrica, se dice que “si sobre cada
+un6o de los rayos que salen de un punto emisor, A,
+se. toman caminos ópticos iguales a partir de A, los
+puntos B que limitan estos trayectos están en una
+i
+superficie que es normal a todos los rayos. Esta
+superficie se llama superficie de onda”. ¿A qué
+teorema o ley corresponde esta afirmación?:
+1. Ley de refracción de Snelius.
+2. Teorema de Malus – Dupin.
+3. Ley de Gauss.
+4. Teorema de Lagrange-Helmholtz.
+67. La8 polarización circular de la luz puede obte-
+ne8rse:
+.
+1. Haciendo incidir luz natural sobre un polariza-
+dor lineal.
+2. Superponiendo dos ondas linealmente polari-
+zadas perpendiculares con igual amplitud y di-
+ferencia de fase de 90°.
+3. Refractando la luz en una interfaz entre medios
+con diferente índice.
+4. Utilizando un prisma de dispersión.
+68. Un9 haz de luz natural de intensidad I se hace pa-
+sa0r por tres polarizadores lineales de modo que
+lo.s ejes de transmisión del segundo y del tercero
+formen respectivamente 45 y 90º con respecto al
+primero. La intensidad de salida después de los
+tres polarizadores vendrá dada por:
+1. 0.
+2. I/4.
+3. I/8.
+4. I/16.
+69. Si9 un haz de luz natural incide con ángulo de
+Br1ewster sobre la superficie de separación de dos
+m.e dios, respecto de la luz transmitida podemos
+afirmar que:
+1. No hay luz transmitida para dicho ángulo de
+incidencia.
+2. Es luz natural desfasada 90º respecto a la inci-
+dente.
+3. Está parcialmente polarizada.
+4. Está linealmente polarizada.
+70. Un9 estudiante de Física observa un estanque uti-
+liz2ando gafas de sol polarizadas. Sabiendo que la
+lu.z reflejada en la superficie del agua está par-
+cialmente polarizada, ¿cuál sería el ángulo óp-
+timo respecto a la normal para que las gafas po-
+larizadas sean más efectivas al bloquear dicha
+luz reflejada?:
+(Datos: n = 1.33, n = 1.00)
+agua aire
+1. 47º.
+2. 44º.
+3. 53º.
+4. 58º.
+71. Un9a fuente de luz situada dentro de un bloque de
+vi5drio emite un rayo que incide sobre la superfi-
+cie. vidrio-aire con un ángulo creciente.
+Cuando se supera cierto valor del ángulo de in-
+cidencia, ya no se observa rayo refractado en el
+aire. ¿Cuál de las siguientes afirmaciones des-
+cribe CORRECTAMENTE el fenómeno?:
+1. La luz se refleja completamente dentro del aire
+porque, al superar el ángulo crítico, no existe
+solución real para la ley de Snell.
+2. El fenómeno sólo ocurre si la luz pasa del me-
+dio menos refringente al más refringente, ya
+que en ese caso el ángulo crítico es mayor que
+90° y la refracción deja de cumplirse.
+3. La luz se refleja completamente dentro del vi-
+drio porque, al superar el ángulo crítico, no
+existe solución real para la ley de Snell, y toda
+la energía se refleja internamente.
+4. El rayo refractado desaparece al ser el índice
+de refracción del aire menor que el del vidrio.
+72. La9 permitividad eléctrica compleja () de un
+m6aterial dieléctrico en función de la frecuencia
+ . satisface:
+ ()=(−)
+ ()=(−)
+ ()= −(−)
+4. ()= −(−)
+73. Un9 haz de luz pasa a través de un colimador óp-
+tic7o (una rendija que define el haz) y proyecta
+un. a imagen sobre una pantalla. Si la distancia
+fuente-colimador aumenta mientras se mantiene
+constante la distancia fuente-pantalla, ¿cómo se
+espera que cambie la penumbra geométrica del
+haz?:
+1. La penumbra geométrica disminuye, porque
+los rayos se vuelven más paralelos.
+2. La penumbra geométrica aumenta, porque el
+haz se ensancha al alejarse del colimador.
+3. La penumbra geométrica permanece igual, ya
+que solo depende del tamaño de la rendija del
+colimador.
+4. La penumbra geométrica se vuelve asimétrica,
+aumentando solo en un lateral del haz.
+74. Un9 rayo de luz pasa de un medio con índice de
+re8fracción 𝒏 a otro con índice de refracción 𝒏 ,
+𝟏 𝟐
+se.p arados por una superficie horizontal. El rayo
+forma un ángulo de 30º con la vertical en el me-
+dio 1 y de 60º en el medio 2. Índique cual es la
+relación entre los índices de refracción de los dos
+medios:
+1. 𝑛 =𝑛 /2.
+1 2
+2. 𝑛 =𝑛 /√3.
+1 2
+3. 𝑛 =√3𝑛 .
+1 2
+4. 𝑛 =2𝑛 .
+1 2
+75. Un9 haz de microondas incide perpendicular-
+m9ente a una rejilla formada por hilos de cobre
+co.l ocados verticalmente y separados medio milí-
+metro entre ellos. Seleccione el efecto que tendrá
+esta rejilla sobre la onda transmitida de micro-
+ondas:
+1. No se verá afectada al no estar los hilos de co-
+bre conectados a un circuito externo.
+2. Estará parcialmente polarizada en la dirección
+de los hilos.
+3. Estará parcialmente polarizada perpendicular-
+mente a los hilos.
+4. Estará circularmente polarizada al introducirse
+un desfase.
+76. Un1 objeto de 5 cm de altura se coloca a 10 cm de
+un0 espejo cóncavo con un radio de curvatura de
+300 cm. ¿A qué distancia (en cm) se forma la ima-
+ge.n , y es esta imagen real o virtual?:
+1. 30 cm, virtual.
+2. 15 cm, real.
+3. -30 cm, virtual.
+4. -15 cm, real.
+77. ¿Q1ué ocurre con el patrón de interferencia
+cu0ando la fuente cambia de luz monocromática
+a l1uz con un ancho espectral finito?:
+.
+1. Se vuelve más brillante (menor coherencia es-
+pacial).
+2. Desaparecen las franjas.
+3. La resolución espacial mejora.
+4. La envolvente de interferencia se estrecha
+(menor coherencia temporal).
+78. Un1a fibra óptica tiene una atenuación de 0.2
+dB0/km y una longitud de 100 km. En ella se in-
+ye2cta luz de 2 mW de potencia, a la salida de la
+fib. ra se amplifica con un amplificador de 23 dB
+de ganancia. La potencia a la salida del amplifi-
+cador es:
+1. 1 mW.
+2. 2 mW.
+3. 3 mW.
+4. 4 mW.
+79. Un1 rayo de luz pasa de un medio de índice de re-
+fr0acción n a un medio de índice de refracción
+1
+n3=2n . La velocidad de la luz en el segundo me-
+2 1
+di.o respecto del primero:
+1. Aumenta al doble.
+2. Aumenta hasta 1.5 veces.
+3. Disminuye a la mitad.
+4. Permanece igual.
+80. La1 emisión láser se caracteriza por:
+0
+1.4 La radiación emitida es incoherente y de am-
+. plio espectro.
+2. La luz producida es monocromática, direccio-
+nal y coherente.
+3. Cada fotón emitido tiene una frecuencia dife-
+rente y fase aleatoria.
+4. El proceso fundamental responsable es la emi-
+sión espontánea estimulada por un campo ex-
+terno.
+81. En1 el experimento de la doble rendija con elec-
+tr0ones individuales, ¿cuál de las siguientes afir-
+m5aciones interpreta CORRECTAMENTE lo
+qu. e ocurre desde el punto de vista cuántico?:
+1. Cada electrón atraviesa una rendija determi-
+nada, pero la imposibilidad de conocer cuál
+provoca que aparezca un patrón de interferen-
+cia estadístico.
+2. El electrón atraviesa simultáneamente ambas
+rendijas en un estado de superposición, y el pa-
+trón de interferencia refleja la probabilidad de
+detección asociada a esa superposición.
+3. El patrón de interferencia se debe a la interac-
+ción electromagnética entre los electrones y las
+rendijas, que actúa como una red de difracción.
+4. La trayectoria del electrón está bien definida,
+pero el principio de incertidumbre impide me-
+dirla con suficiente precisión para reproducir
+el patrón.
+82. En1 un sistema cuántico compuesto por partícu-
+la0s de espín ½, en ausencia de campos externos,
+y 6donde el hamiltoniano 𝑯 conmuta con el ope-
+ra.d or de inversión temporal 𝑻, señala la opción
+CORRECTA:
+1. Si el número de partículas es impar, cada nivel
+de energía presenta, al menos, una degenera-
+ción doble.
+2. Los niveles energéticos están degenerados
+sólo si el operador de paridad también con-
+muta con el hamiltoniano.
+3. Los niveles energéticos degenerados corres-
+ponden a estados con simetría temporal.
+4. Para un número par de partículas, sólo están
+degenerados los niveles con espín total entero.
+83. Un1 electrón y un positrón se combinan en un
+m0ismo sistema. Señale los posibles valores de es-
+pí7n total, S:
+.
+1. S = -1/2 y S =1/2.
+2. S = 1.
+3. S = 0 y S = 1.
+4. S = 0, S = 1/2 y S = 1.
+84. Si1 un sistema consta de tres partículas, cada una
+de0 ellas de espín ½ y la energía del sistema es pro-
+po9rcional al cuadrado de la componente z del es-
+pí.n total, H =  (S)², las energías y degeneracio-
+z
+nes resultantes son:
+1. 9/4 (degeneración 2) y /4 (degeneración 6).
+2. 3/2 (degeneración 2) y /2 (degeneración 6).
+3. 9/4 (degeneración 4) y /4 (degeneración 4).
+4. 9/2 (degeneración 3) y 3/2 (degeneración
+5).
+85. ¿Q1ué energías forman el espectro de un rotor
+co1n simetría axial con Hamiltoniano
+𝑯0 =𝑳𝒙𝟐+𝑳𝒚𝟐
++
+𝑳𝒛𝟐
+para un momento angular L=1,
+. 𝟐𝑰𝒙 𝟐𝑰𝒛
+I=I /2?:
+z x
+1. 3ℏ²/2𝐼 𝑦 ℏ²/𝐼 .
+𝑥 𝑥
+2. 0, ℏ²/𝐼 𝑦 3ℏ²/𝐼 .
+𝑥 𝑥
+3. −ℏ²/2𝐼 𝑦 4ℏ²/𝐼 .
+𝑥 𝑥
+4. -ℏ²/2𝐼 ,0 𝑦 ℏ²/2𝐼 .
+𝑥 𝑥
+86. Un1 fotón incide sobre un metal cuya función de
+tr1abajo es 𝛟. La frecuencia del fotón es 𝒇 =
+𝟐1𝛟/𝒉, siendo 𝒉 la constante de Planck. El fotón
+ar.r anca un electrón del metal por efecto fotoeléc-
+trico. Si 𝒎 es la masa del electrón, la velocidad
+máxima del electrón es:
+𝛟
+1. √ .
+𝟐𝒎
+𝛟
+2. √ .
+𝒎
+𝟐𝛟
+3. √ .
+𝒎
+𝟒𝛟
+4. √ .
+𝒎
+87. Si1 denominamos L al operador momento angu-
+la1r, L , L y L a sus componentes cartesianas, y
+x y z
+H2 al hamiltoniano de un sistema de dos partícu-
+la.s con un potencial central, únicamente depen-
+diente de la separación entre las partículas.
+¿Cuál de las siguientes reglas de conmutación es
+cierta?:
+1. [H,L ] = L.
+x z
+2. [H,L ] = 0.
+x
+3. [H,L ] = L L.
+x y z
+4. [L ,L ] = 0.
+x y
+88. Se1a p el operador densidad para un estado cuán-
+tic1o puro. Señala la opción INCORRECTA:
+3
+1.. p2 = p.
+2. Tr(p) = 1.
+3.
+p†
+= p.
+4. p-1 = -p.
+89. Se1gún los postulados de la mecánica cuántica,
+cu1ando se mide la cantidad física 𝓐 de un sis-
+te4ma en el estado normalizado |𝚿⟩, la probabili-
+da. d 𝓟(𝒂 ) de obtener el autovalor 𝒂 del corres-
+𝒏 𝒏
+pondiente observable A es 𝓟(𝒂 )=|⟨𝒖 |𝚿⟩|𝟐,
+𝒏 𝒏
+donde |𝒖 ⟩ es el autovector normalizado de A
+𝒏
+asociado con el autovalor 𝒂 . ¿Para qué caso es
+𝒏
+cierto?:
+1. Para el caso de un espectro discreto no dege-
+nerado.
+2. Para el caso de un espectro discreto degene-
+rado.
+3. Para el caso de un espectro continuo.
+4. Para casos de espectros continuos y discretos
+indistintamente.
+90. Un1a partícula cuántica está confinada en una re-
+gi1ón unidimensional muy pequeña de longitud 𝑳.
+¿C5uál de las siguientes afirmaciones sobre la
+en.e rgía del estado fundamental es CORRECTA,
+de acuerdo con el principio de incertidumbre de
+Heisenberg?:
+1. La energía del estado fundamental es cero,
+porque la partícula está en reposo.
+2. La energía del estado fundamental es inversa-
+mente proporcional a L2.
+3. La energía del estado fundamental es directa-
+mente proporcional a L.
+4. La energía del estado fundamental es indepen-
+diente de L.
+91. Un1 sistema cuántico de tres estados no degenera-
+do1s {|𝟏⟩,|𝟐⟩,|𝟑⟩} con autoenergías {𝑬 ,𝑬 ,𝑬 },
+𝟏 𝟐 𝟑
+re6spectivamente, y Hamiltoniano, H, se encuen-
+tr.a inicialmente estado:
+|𝚿(𝟎)⟩=𝟏⁄ 𝟐 (|𝟏⟩−|𝟐⟩)+𝟏 ⁄ √𝟐|𝟑⟩ . Su estado en
+un instante posterior, t, es:
+1. |Ψ(𝑡)⟩=1 ⁄
+2
+(e−i𝐸 ℏ1𝑡 |1⟩− e−−i𝐸 ℏ2𝑡 |2⟩)+
+1 ⁄ e−−i𝐸 ℏ3𝑡 |3⟩.
+√2
+2. |Ψ(𝑡)⟩=
+e−−i𝐸 ℏ3𝑡
+|3⟩.
+3. |Ψ(𝑡)⟩=1 ⁄ ( 𝐸 𝑡 |1⟩−𝐸 𝑡 |2⟩)+
+√2 1 2
+1 ⁄ 𝐸 𝑡 |3⟩.
+√2 3
+−i(𝐸1−𝐸3)𝑡
+4. |Ψ(𝑡)⟩=(e ℏ |1⟩−
+e−−i(𝐸2 ℏ−𝐸3)𝑡
+|2⟩).
+92. Un1a partícula cuántica se encuentra en el estado
+no1rmalizado | 𝝍 >=√𝟑/𝟐|𝒂 > + 𝟏/𝟐 |𝒂 >,
+𝟏 𝟐
+sie7ndo |𝒂 > y |𝒂 >, los autoestados del opera-
+𝟏 𝟐
+do. r Â, asociado a la magnitud A, que tienen los
+autovalores 𝒂 =𝟏 y 𝒂 =𝟐, respectivamente.
+𝟏 𝟐
+¿Cuál es el valor medio de A en el estado definido
+por | 𝝍 >?:
+1. 7/4.
+2. 5/4.
+3. 3/4.
+4. 1/2.
+93. ¿C1on cuántas dimensiones se trabaja en la teo-
+ría1 de supercuerdas?:
+8
+1.. 10 dimensiones: 3 espaciales, 1 temporal y 6
+espaciales compactadas.
+2. 4 dimensiones: 3 espaciales y 1 temporal.
+3. 6 dimensiones: 5 espaciales y 1 temporal.
+4. 3 dimensiones espaciales.
+94. Da1 da una función de onda de espín a corres-
+1
+pondiente al acoplamiento de dos electrones
+9
+para dar S =1 determinar el valor de
+. T
+a
+S 
+1
+ S
+2
+a :
+1. 22.
+2.  2 .
+3.
+
+4
+2
+.
+4. 0 .
+95. Se1gún la teoría cuántica del átomo de hidrógeno,
+pa2ra un número cuántico l dado, los únicos valo-
+re0s de energía negativa posibles vienen dados por
+𝑬. = −𝑬𝑰 ; 𝒌=𝟏,𝟐,𝟑,⋯ , siendo 𝑬 la ener-
+𝒌,𝒍 (𝒌+𝒍)𝟐 𝑰
+gía de ionización. ¿Qué tipo de degeneración nos
+encontramos?:
+1. Degeneración esencial relacionada con el he-
+cho de que la ecuación radial depende sólo del
+número cuántico l y no del número cuántico m.
+2. Degeneración accidental, ya que 2 autovalores
+𝐸
+𝑘,𝑙
+y 𝐸 𝑘′,𝑙′, correspondientes a dos ecuaciones
+radiales diferentes 𝑙′≠𝑙 son iguales si 𝑘+𝑙 =
+𝑘′+𝑙′.
+3. No existe degeneración.
+4. Degeneración esencial y degeneración acci-
+dental.
+96. El1 estado cuántico que describe un sistema de N
+fe2rmiones es:
+1
+1.. Definido positivo.
+2. Antisimétrico frente al intercambio de dos de
+ellos.
+3. Simétrico frente al intercambio de dos de ellos.
+4. Antisimétrico en la parte espacial y antisimé-
+trico en la de espín.
+97. Un1a partícula de masa en reposo 2 MeV/c2 y
+en2ergía cinética 3 MeV choca con una partícula
+es2tacionaria de masa en reposo 4 MeV/c2. Des-
+pu. és del choque, las dos partículas quedan uni-
+das. Hallar la cantidad de movimiento final en el
+sistema:
+1. 4.58 MeV/c.
+2. 5.02 MeV/c.
+3. 6.32 MeV/c.
+4. 7.31 MeV/c.
+98. En1 el límite ultra-relativista y asumiendo unida-
+de2s naturales, 𝒄=𝟏, la energía de una partícula
+es4:
+.
+1. Igual a su masa en reposo.
+2. Igual a su momento lineal.
+3. Igual al cuadrado de su momento lineal.
+4. Igual al producto de su masa en reposo y su
+momento lineal.
+99. Un1 vagón de tren de longitud propia 𝒍 se mueve
+a 2velocidad 𝒗=𝒄/𝟐 respecto a una estación. En
+la5 parte trasera del mismo se enciende una luz.
+Se.g ún el sistema de referencia ligado a la esta-
+ción, ¿cuánto tiempo tarda un rayo de luz en lle-
+gar a la parte delantera del vagón?:
+1. √3𝑙/𝑐.
+2. √2𝑙/𝑐.
+3. √5/3 𝑙/𝑐.
+4. √1/2𝑙/𝑐.
+100. Su1pongamos tres sistemas de referencia O, O1 y
+O22 que se mueven en un régimen relativista coli-
+ne6almente a lo largo de sus ejes x, de modo que
+O.1 se mueve con velocidad v respecto a O, y O2
+1
+se mueve con velocidad v respecto a O1. Enton-
+2
+ces, la velocidad v con la que se desplaza O2 res-
+pecto a O vendrá dada por:
+1. (v + v )/(1 + v v /c2).
+1 2 1 2
+2. v + v .
+1 2
+3. (v + v )/(1 + (v1 +v2)2/c2).
+1 2
+4. c2/(v + v ).
+1 2
+101. Un1 muon tiene una vida media de 2×10−6 s, me-
+di2da por un observador en reposo respecto al
+m7uon. Si estos muones se desplazan a una velo-
+cid. ad de 0.9c y se produce una descarga de muo-
+nes en un punto de la atmósfera, pero sólo el 5 %
+de ellos logra llegar a la superficie terrestre, ¿a
+qué altura se originó la descarga?:
+1. 2.5 km.
+2. 3.7 km.
+3. 4.3 km.
+4. 5.2 km.
+102. Un1 astronauta viaja en una nave espacial a una
+ve2locidad de 0.8c, siendo c la velocidad de la luz
+en8 el vacío, con respecto a la Tierra. ¿Cuál de las
+sig. uientes afirmaciones sobre la dilatación del
+tiempo es la VERDADERA?
+1. El tiempo en la nave espacial transcurre más
+rápido que en la Tierra.
+2. Los observadores en la Tierra verán el tiempo
+del astronauta transcurrir más rápido que su
+propio tiempo.
+3. El astronauta verá el tiempo de la Tierra trans-
+currir más lento que su propio tiempo.
+4. Ambos observadores, el de la Tierra y el astro-
+nauta, verán el tiempo del otro transcurrir más
+rápido.
+103. Ba1jo transformaciones de Lorentz ¿Qué perma-
+ne2ce invariante?:
+9
+1.. La energía de una partícula.
+2. El momento lineal de una partícula.
+3. La densidad de carga eléctrica.
+4. La ecuación de ondas de una onda electromag-
+nética en el vacío.
+104. La1 regla de oro de Fermi determina la probabi-
+lid3ad de transición por unidad de tiempo desde
+un1 estado inicial discreto a un estado final en un
+co.n tinuo de estados. Señale la opción CO-
+RRECTA acerca de sus propiedades:
+1. El estado final puede ser discreto y no degene-
+rado.
+2. Depende linealmente del elemento de matriz
+de la perturbación 𝑉̂ entre los estados inicial y
+final ⟨𝑓|𝑉̂|𝑖⟩.
+3. Depende cuadráticamente de la densidad de
+estados finales.
+4. Permite describir fenómenos físicos como el
+efecto fotoeléctrico.
+105. ¿C1uál de los siguientes efectos es el responsable
+de3l desplazamiento y desdoblamiento de las lí-
+ne2as espectrales en átomos y moléculas debido a
+la. presencia de un campo eléctrico externo?:
+1. Paschen-Back.
+2. Zeeman.
+3. Stark.
+4. Raman.
+106. La1 energía de un fotón de luz visible es del orden
+de3:
+4
+1.. 1 MeV.
+2. 1 keV.
+3. 1 eV.
+4. 1 meV.
+107. El1 número de electrones en la capa M para el ele-
+m3ento cuya configuración electrónica es
+1s522s22p63s23p2 debe ser:
+.
+1. 2.
+2. 4.
+3. 6.
+4. 10.
+108. Un1 fotón interactúa con un átomo mediante el
+ef3ecto fotoeléctrico, arrancando un electrón de la
+ca6pa K. El electrón es expulsado con una energía
+cin. ética de 2 keV. Posteriormente, un electrón de
+la capa L cae a la capa K, emitiendo un fotón de
+rayos X característico con una energía de 58
+keV. Si se sabe que la energía de enlace del elec-
+trón en la capa L es de 12 keV, ¿cuál es la energía
+del fotón incidente (en keV)?:
+1. 60.
+2. 70.
+3. 72.
+4. 84.
+109. El1 potencial de ionización de los átomos verifica
+qu3e:
+7
+1.. Aumenta al aumentar la carga nuclear debido
+a la atracción coulombiana.
+2. Disminuye dentro de cada periodo debido al
+apantallamiento.
+3. No varía de forma monótona con Z y alcanza
+máximos en los gases nobles.
+4. Alcanza sus máximos valores para los elemen-
+tos alcalinos.
+110. La1 función de onda radial del estado 1s del hi-
+dr3ógeno (normalizada), teniendo en cuenta que
+a8 es el radio de Bohr, tiene la forma:
+0
+.
+1. 𝑅 ∝𝑒−𝑟/(2𝑎0).
+1𝑠
+2. 𝑅 ∝𝑒−𝑟/𝑎0.
+1𝑠
+3. 𝑅
+∝𝑒−𝑟2/𝑎02
+.
+1𝑠
+4. 𝑅 ∝1/𝑟.
+1𝑠
+111. En1 el átomo de hidrógeno, los ceros de las fun-
+cio3nes de onda radiales 𝑹 (𝒓) dependen de los
+𝒏,𝒍
+nú9meros cuánticos n y l. ¿Cuál es el número de
+no. dos radiales de 𝑹 (𝒓) ?:
+𝒏,𝒍
+1. 𝑛+𝑙+1.
+2. 𝑛+𝑙.
+3. 𝑛−𝑙.
+4. 𝑛−𝑙−1.
+112. De1 acuerdo con las leyes de la mecánica estadís-
+tic4a, dos sistemas que pueden intercambiar entre
+sí 0energía y partículas están en equilibrio
+cu.a ndo:
+1. Tienen la misma temperatura y el mismo nú-
+mero de estados degenerados congruentes mu-
+tuamente excluyentes.
+2. Tienen la misma temperatura y el mismo po-
+tencial químico.
+3. Tienen la misma energía específica y tempera-
+turas próximas al cero absoluto.
+4. Tienen la misma entalpía específica y la
+misma entalpía absoluta.
+113. El1 número de fotones por unidad de volumen en
+un4 gas de fotones a temperatura T es proporcio-
+na1l a:
+.
+1. T1/2.
+2. T.
+3. T2.
+4. T3.
+114. Co1nsideremos un gas ideal. Tenemos que r es el
+ra4dio de una molécula del gas, T es su tempera-
+tu2ra, p es su presión y k es la constante de Boltz-
+m.a nn. La expresión del camino libre medio de
+una molécula en el gas es:
+𝑘𝑇
+1. 𝜆= .
+4𝜋√2𝑟2𝑝
+𝑝
+2. 𝜆= .
+4𝜋√2𝑟2𝑘𝑇
+𝑘𝑇𝑝
+3. λ= .
+4π√2 𝑟2
+1
+4. λ= .
+4π√2𝑟2𝑘𝑇𝑝
+115. ¿C1uál de las siguientes afirmaciones describe lo
+qu4e ocurre en un material ferromagnético
+cu3ando se supera su temperatura de Curie?:
+.
+1. El material se vuelve diamagnético, ya que sus
+electrones se reorganizan para oponerse al
+campo magnético aplicado.
+2. El material pierde su orden magnético espon-
+táneo y pasa a comportarse como un material
+paramagnético.
+3. El material se convierte en un superconductor,
+permitiendo el paso de corriente sin resisten-
+cia.
+4. El material conserva su magnetización perma-
+nente, pero con menor intensidad debido al au-
+mento de la agitación térmica.
+116. En1 relación con el fenómeno de la superconduc-
+tiv4idad, señale la afirmación CORRECTA:
+4
+1.. La resistencia eléctrica de un superconductor
+disminuye progresivamente con la tempera-
+tura, pero nunca llega a ser exactamente cero.
+2. En un superconductor, los electrones se mue-
+ven libremente sin interacción mutua, lo que
+elimina la resistencia.
+3. La superconductividad se explica por la forma-
+ción de pares de electrones (pares de Cooper)
+que se comportan colectivamente como un es-
+tado cuántico coherente.
+4. Los superconductores sólo pueden existir en
+materiales ferromagnéticos.
+117. Se1leccione qué NO permiten calcular las relacio-
+ne4s de Kramers-Kronig:
+5
+1.. La parte real de la respuesta de la función de
+transferencia de un sistema lineal, conocida la
+parte imaginaria para todas las frecuencias.
+2. La reactancia de un circuito conocida su resis-
+tencia a todas las frecuencias.
+3. La fase de la reflectancia conocido el valor de
+ésta para todas las frecuencias.
+4. La transmitancia de un medio conocida su ab-
+sorbancia a una frecuencia dada.
+118. An1te un campo magnético de 0.1 T, el agua lí-
+qu4ida a 20 ºC y 1 atm se comporta como un ma-
+te7rial:
+.
+1. Diamagnético.
+2. Paramagnético.
+3. Ferromagnético.
+4. Antiferromagnético.
+119. Un1 campo magnético rotatorio de amplitud 𝑩 y
+𝟏
+fr4ecuencia 𝝎, hace que una muestra de agua ab-
+so8rba por resonancia magnética nuclear una po-
+te.
+n cia 𝑾 (𝝎)∝
+𝝎𝑻𝟐𝑩𝟏𝟐
+, relacionada con el
+𝟐 𝟏+(𝝎𝟎−𝝎)𝟐𝑻 𝟐𝟐
+tiempo de relajación transversal 𝑻 y la frecuen-
+𝟐
+cia 𝝎 de Larmor inducida por el campo magné-
+𝟎
+tico estático al que se somete la muestra. Selec-
+cione el valor de la semianchura de la línea de
+absorción a mitad de máximo 𝜟𝝎 :
+𝟏⁄𝟐
+1. 𝛥𝜔 =1/𝑇 .
+1⁄2 2
+2. 𝛥𝜔 =√𝜔 ⁄𝑇 .
+1⁄2 0 2
+3. 𝛥𝜔 =2/𝑇 .
+1⁄2 2
+4. 𝛥𝜔 =√4𝜔 /𝑇 .
+1⁄2 0 2
+120. Un1a red de Bravais se define como:
+4
+1.9 Un conjunto infinito de puntos idénticos obte-
+. nidos por traslaciones enteras de vectores pri-
+mitivos.
+2. Una disposición periódica de átomos que in-
+cluye la base.
+3. La celda de Wigner-Seitz de un cristal.
+4. Una estructura simple cúbica.
+121. De1 acuerdo con la ley de Dulong-Petit, ¿cuál es
+ap5roximadamente el valor del calor específico
+m0olar a volumen constante 𝑪 de muchos sólidos
+𝒗
+cr.i stalinos?:
+1. 3R.
+2. 2R.
+3. 3/2 R.
+4. 1/2 R.
+122. En1 un núcleo atómico donde N es número de
+ne5utrones, Z el de protones y A el número má-
+sic1o, ¿cómo se expresa el radio nuclear R?:
+(D. ato: ro=1.2fm)
+1. R=r₀ A1/3.
+2. R=r₀ A2/3.
+3. R=r₀ (Z-A)1/3.
+4. R=r₀ (N-Z)1/3.
+123. Da1da una reacción de fisión inducida por neu-
+tr5ones térmicos U-235 + n, el resultado final es:
+3
+1.. Siempre Cs-141 + Rb-93 + 2n.
+2. Siempre Ba-141 + Kr-92 + 3n.
+3. Variable siguiendo una distribución tal que se
+conserva el número de nucleones.
+4. No se puede producir con neutrones térmicos.
+124. Un1 núcleo inestable puede decaer a dos estados
+fin5ales. Teniendo en cuenta que el número de nú-
+cle6os iniciales es N y el de núcleos finales es N y
+0 a
+N. determinar el cociente N /N al cabo de 1 min
+b a b
+sabiendo que las constantes de decaimiento co-
+rrespondientes son λ = 4 min-1 y λ = 2 min-1:
+a b
+1. Na/Nb = 0.50.
+2. Na/Nb = 0.88.
+3. Na/Nb = 1.76.
+4. Na/Nb = 2.00.
+125. Lo1s neutrones térmicos reciben este nombre por
+es5tar en equilibrio térmico con el medio que los
+ro8dea. ¿Cuál es la velocidad más probable de es-
+to.s neutrones si la temperatura del medio es de
+20 ºC?:
+1. 550 m/s.
+2. 1100 m/s.
+3. 2200 m/s.
+4. 2480 m/s.
+126. Un1a de las grandes contribuciones de la física en
+el 5ámbito hospitalario ocurre en medicina nu-
+cle9ar, ¿qué significa la "vida media" de un ra-
+di.o núclido?:
+1. El tiempo que ha de transcurrir para que el nú-
+mero de átomos radiactivos se reduzca a la mi-
+tad.
+2. Es el valor medio de la vida de un átomo ra-
+diactivo.
+3. La duración del tratamiento recomendado con
+el radionúclido.
+4. El tiempo que tarda en acumularse en el ór-
+gano blanco.
+127. Cu1ál de las siguientes características NO es pro-
+pi6a de la desintegración α:
+0
+1.. La mayoría proviene de núcleos pesados.
+2. El espectro energético de las partículas α es
+continuo.
+3. El número atómico disminuye en 2 unidades.
+4. El número másico disminuye en 4 unidades.
+128. La1 interacción nuclear fuerte se caracteriza por
+se6r:
+1
+1.. De largo alcance y siempre atractiva.
+2. Responsable de la desintegración β.
+3. Independiente del espín de los nucleones.
+4. De corto alcance, atractiva a 1 fm y repulsiva
+a distancias menores.
+129. ¿C1uál es la partícula 𝑿 en la reacción nuclear
+𝒏6+ 𝑩𝟏𝟎 →𝑳𝒊𝟕+𝑿?:
+𝟓 𝟑
+2
+1.. 𝛽+.
+2. 𝛼.
+3. 𝛾.
+4. 𝛽−.
+130. La1 radiación Cherenkov se produce cuando:
+6
+1.3 Una partícula neutra se desplaza en un medio
+. a una velocidad mayor que la de la luz en ese
+medio.
+2. Una partícula neutra se desplaza en un medio
+a una velocidad menor que la de la luz en ese
+medio.
+3. Una partícula cargada se desplaza en un medio
+a una velocidad mayor que la de la luz en ese
+medio.
+4. Una partícula cargada se desplaza en un medio
+a una velocidad menor que la de la luz en ese
+medio.
+131. Un1 átomo inestable emite radiación alfa y, tras
+va6rias desintegraciones sucesivas, se convierte fi-
+na4lmente en un isótopo estable de plomo. ¿Qué
+af.i rmación refleja mejor lo que ocurre durante
+el proceso?:
+1. La masa total del sistema se conserva exacta-
+mente, ya que la energía emitida no tiene masa
+asociada.
+2. Las radiaciones alfa, beta y gamma modifican
+por igual el número másico del núcleo.
+3. La energía liberada proviene de una disminu-
+ción en la masa nuclear, de acuerdo con la
+equivalencia entre masa y energía.
+4. El proceso termina cuando el núcleo emite una
+partícula gamma y recupera su masa inicial.
+132. En1 una instalación nuclear, el agua de refrigera-
+ció6n se activa produciendo tritio de forma conti-
+nu5a, con tasa de producción R y período de de-
+sin. tegración T. Suponiendo que la producción se
+mantiene constante durante un tiempo t, ¿cuál
+será aproximadamente la actividad de tritio pre-
+sente en el agua al cabo de ese tiempo?:
+1. 𝐴 = 𝑅.
+𝑡
+2. 𝐴 = 𝑅 𝑒−ln2 𝑇.
+𝑡
+3. 𝐴 = 𝑅 .
+𝑇
+𝑡
+4. 𝐴 = 𝑅 (1−𝑒−ln2 𝑇).
+133. El1 𝟐𝟏𝟐𝐁𝐢 tiene dos vías de desintegración,
+𝟖𝟑
+𝟐𝟏6𝟐𝐁𝐢→ 𝟐𝟏𝟐𝐏𝐨+𝐞−+𝛎̅̅̅ y 𝟐𝟏𝟐𝐁𝐢→ 𝟐𝟎𝟖𝐓𝐥+
+𝟖𝟑 𝟖𝟒 𝐞 𝟖𝟑 𝟖𝟏
+𝟒𝐇6𝐞, con periodos de semidesintegración de 94.5
+𝟐
+y 1. 68.5 min, respectivamente. Determina la pro-
+babilidad de que el 𝟐𝟏𝟐𝐁𝐢 sufra una desintegra-
+𝟖𝟑
+ción 𝛃−:
+1. 36%.
+2. 44%.
+3. 56%.
+4. 64%.
+134. Pa1ra datar una muestra biológica mediante ¹⁴C,
+se6 mide una actividad de 375 desintegraciones
+po7r minuto en una muestra de 2 kg que contiene
+un. 10% de carbono. Sabiendo que un organismo
+vivo tiene una actividad de 15 desintegraciones
+por minuto y gramo de carbono, y que el periodo
+de semidesintegración del ¹⁴C es 5730 años, ¿cuál
+es la edad aproximada de la muestra?:
+1. 5700 años.
+2. 11400 años.
+3. 17200 años.
+4. 25000 años.
+135. In1dica las fuentes radiactivas que están CO-
+RR6ECTAMENTE ordenadas de mayor a menor
+ac9tividad en las siguientes listas:
+.
+1. Mineral de uranio (10%), unidades de Co-60
+para tratamiento médico, fuentes utilizadas en
+gammagrafía y bomba atómica de fisión equi-
+valente a 20000 tm de TNT.
+2. Bomba atómica de fisión equivalente a 20000
+tm de TNT, unidades de Co-60 para trata-
+miento médico, mineral de uranio (10%) y
+fuentes utilizadas en gammagrafía.
+3. Bomba atómica de fisión equivalente a 20000
+tm de TNT, unidades de Co-60 para trata-
+miento médico, fuentes utilizadas en gamma-
+grafía y mineral de uranio (10%).
+4. Mineral de uranio (10%), bomba atómica de
+fisión equivalente a 20000 tm de TNT, unida-
+des de Co-60 para tratamiento médico y fuen-
+tes utilizadas en gammagrafía.
+136. El1 espectro de energía de las partículas emitidas
+en7 una desintegración beta es continuo. ¿Cuál es
+la0 razón principal de esta característica?:
+.
+1. La energía de la partícula beta se distribuye de
+forma aleatoria entre los electrones de las ca-
+pas atómicas.
+2. El núcleo padre tiene una energía de excitación
+que varía, lo que provoca la emisión de partí-
+culas beta de diferentes energías.
+3. El momento lineal se conserva, pero no la
+energía, lo que resulta en un espectro continuo
+de energía.
+4. La energía de la transición se reparte entre la
+partícula beta, el neutrino y el núcleo de retro-
+ceso.
+137. Pa1ra el diagnóstico por imagen, ¿qué caracterís-
+tic7a principal deben cumplir los radionucleidos
+ut2ilizados?:
+.
+1. Deben emitir partículas alfa con alta energía
+para destruir células tumorales.
+2. La energía de emisión ha de ser lo más cercana
+posible a 150 keV, que corresponde a la ener-
+gía óptima de detección.
+3. Es preferible que posean un periodo de desin-
+tegración muy largo para mantener la señal du-
+rante semanas.
+4. Se acumulan exclusivamente en el tejido óseo
+para mejorar la resolución de imágenes.
+138. Un1 vial de 99mTc medido a las 9:00 h contiene 20
+G7Bq de actividad. Si en ningún momento se re-
+tir3a dosis del vial y sabiendo que el periodo de
+se.m idesintregración del radioisótopo es de 6 h,
+¿qué actividad del vial tendremos a las 21:00 h
+del mismo día?:
+1. La misma ya que no se retira dosis del vial.
+2. 15 GBq.
+3. 5 GBq.
+4. 2.5 GBq.
+139. El1 parámetro de impacto en un problema de dis-
+pe7rsión entre una partícula cargada acelerada y
+un4 núcleo es:
+.
+1. La mínima distancia a la que pasaría el proyec-
+til del blanco si no existiera interacción entre
+ambos.
+2. La máxima distancia a la que pasaría el pro-
+yectil del blanco si existiera exclusivamente
+interacción de Coulomb.
+3. La máxima distancia a la que pasaría el pro-
+yectil del blanco si no existiera interacción al-
+guna entre ellos.
+4. La mínima distancia a la que pasaría el proyec-
+til del blanco si la interacción entre ambos
+fuera exclusivamente repulsiva.
+140. O1rdene las siguientes partículas fundamentales
+en7 orden CRECIENTE de masa: protón (p+),
+ne5utrón (n0), muon (µ-), Kaón neutro (K0):
+.
+1. K0, µ- , p+, n0.
+2. µ- , K0, p+, n0.
+3. µ- , p+, K0, n0.
+4. µ- , p+, n0, K0.
+141. En1 relación con la interacción fuerte y la estruc-
+tu7ra de los hadrones, señale la afirmación CO-
+RR6ECTA:
+.
+1. Los bariones y los mesones son estados liga-
+dos de quarks, mantenidos por el intercambio
+de gluones.
+2. Los mesones están formados por tres quarks y
+son responsables de mediar la interacción débil
+entre nucleones.
+3. La interacción fuerte actúa únicamente entre
+protones y neutrones, sin afectar a los quarks.
+4. El confinamiento de color implica que los
+quarks pueden observarse libres a altas ener-
+gías.
+142. ¿C1uál de los siguientes procesos está permitido?:
+7
+1.7 𝑝 →𝑛 + 𝑒−+𝜈̅ .
+𝑒
+2.. 𝑛 →𝑝+ 𝑒−.
+3. 𝑛 →𝑝+ 𝑒− + 𝜈 .
+𝑒
+4. 𝑛 →𝑝+ 𝑒−+ 𝜈̅ .
+𝑒
+143. El1 valor absoluto del espín de los piones es:
+7
+1.9 0.
+2.. 1.
+3. 2.
+4. 3.
+144. La1 partícula de mayor masa entre las siguientes
+es8:
+0
+1.. El bosón de Higgs.
+2. El bosón Z0.
+3. El bosón W+.
+4. El quark top.
+145. La1 hipótesis de confinamiento del modelo quark
+es8tablece que:
+1
+1.. Los gluones no interaccionan entre sí.
+2. Solo se observan singletes de color.
+3. Los quarks no poseen carga de color.
+4. Los leptones no pueden escapar de los núcleos.
+146. In1dique el contenido en quarks de la partícula
+K8+:
+2
+1.. 𝑢𝑠̅.
+2. 𝑢𝑑̅.
+3. 𝑢𝑢𝑑.
+4. 𝑢𝑢̅+𝑑𝑑̅.
+147. ¿Q1ué energía en reposo y carga le corresponde
+al8 quark C (charm)?:
+4
+1.. 1300 MeV, -2/3 e.
+2. 173 GeV, +2/3 e.
+3. 1300 MeV, +2/3 e.
+4. 173 GeV, -2/3 e.
+148. El1 proceso responsable del color azul del cielo se
+co8noce como dispersión de Rayleigh y en él la
+se7cción eficaz depende de la longitud de onda de
+la. radiación proveniente del Sol, λ, como:
+1. 1/λ⁴.
+2. λ⁴.
+3. 1/λ3.
+4. λ2.
+149. Un1 fotón de rayos X con longitud de onda ini-
+cia8l λ=0.05 nm incide sobre un electrón libre y
+se8 dispersa con un ángulo de 60º. ¿Cuál es el co-
+rr.i miento en la longitud de onda del fotón
+𝒉
+(Δλ=λ′−λ) después de la dispersión? (𝛌 =
+𝑪 𝒎𝒆𝒄
+es la longitud de onda de Compton):
+1. 0.25λ .
+C
+2. 0.5λ .
+C
+3. 0.75λ
+C
+4. 1.25λ .
+C
+150. La1 interacción de fotones de 1 MeV con agua o
+te8jidos biológicos tiene lugar, mayoritariamente,
+po9r medio de:
+.
+1. Interacción fotoeléctrica.
+2. Interacción Compton.
+3. Producción de pares.
+4. Dispersión coherente.
+151. Si1 hacemos incidir en agua un haz de protones
+cu9yo rango en agua es de 10 cm, ¿qué porcentaje
+de0 la fluencia inicial tendremos aproximada-
+m.e nte en los puntos A y B, situados, respectiva-
+mente, a 5 cm y 20 cm de profundidad?:
+1. 75% en A, 25% en B.
+2. 95% en A, 80% en B.
+3. 100% en A, 0% en B.
+4. 95% en A, 0% en B.
+152. Pa1ra electrones atravesando un medio, el valor
+es9perado de la tasa de energía cinética perdida
+po4r unidad de longitud se denomina:
+.
+1. Sección eficaz.
+2. Poder de frenado lineal.
+3. Transferencia lineal de energía.
+4. Eficiencia radiobiológica.
+153. ¿C1uál es el alcance aproximado de protones de
+1490 MeV de energía en agua?:
+6
+1.. 0.8 mm.
+2. 2.5 mm.
+3. 20 mm.
+4. 139.6 mm.
+154. Si1 R denota rango, M masa y Z carga, la expre-
+9 2
+R M Z 
+sió7n 1 = 1  0  relaciona el rango de:
+. R M  Z 
+0 0 1
+1. Dos partículas pesadas cargadas incidiendo en
+un mismo material con la misma velocidad.
+2. Dos partículas pesadas cargadas incidiendo en
+un mismo material con la misma energía ciné-
+tica.
+3. Dos partículas cargadas, ligeras o pesadas, in-
+cidiendo en un mismo material con la misma
+velocidad.
+4. Dos partículas cargadas, ligeras o pesadas, in-
+cidiendo en un mismo material con la misma
+energía cinética.
+155. Da1do un haz de fotones de 10 MeV incidiendo en
+un9 bloque de hierro de 10 metros de espesor
+(d8ensidad 7.874 g/cm³) determinar el valor de la
+ca.p a hemirreductora:
+𝝁 𝝁
+(Datos: ⁄𝝆=𝟎.𝟎𝟎𝟐𝟗𝟗𝟒 cm2/g y 𝒆𝒏⁄𝝆=
+𝟎.𝟎𝟎𝟐𝟏𝟎𝟖 cm2/g)
+1. 29.4 cm
+2. 41.9 cm.
+3. 42.4 cm.
+4. 1000 cm.
+156. Un1 haz de fotones de 3 MeV incide en un bloque
+de9 agua. La energía umbral para la producción
+de9 tripletes es:
+.
+1. 1.022 MeV.
+2. 1.533 MeV.
+3. 2.044 MeV.
+4. 3.000 MeV.
+157. Lo2s protones de 100 MeV tienen un poder de fre-
+na0do específico de 10 MeVcm2/g en agua. Calcu-
+la1r la dosis que un haz de protones de 1 nA de-
+po. sita en la superficie de un volumen de agua,
+cuando incide de forma homogénea sobre un
+área de 1 cm2 durante 1 segundo:
+1. 0.01 Gy.
+2. 0.1 Gy.
+3. 1 Gy.
+4. 10 Gy.
+158. Sa2biendo que el alcance o rango de electrones de
+1 0MeV en agua es de unos pocos milímetros, en-
+to2nces, podemos estimar que el alcance en aire
+se.c o de esos electrones será del orden de:
+1. mm.
+2. cm.
+3. m.
+4. km.
+159. Cu2ando protones de 20 MeV atraviesan un me-
+di0o de Z=40, ¿Cómo es la pérdida de energía por
+ra3diación con respecto a la pérdida por ioniza-
+ció. n o colisión?:
+1. El doble.
+2. La mitad.
+3. Mucho mayor.
+4. Mucho menor.
+160. El2 poder de frenado de colisión de una partícula
+ca0rgada pesada en un medio material cumple
+qu4e:
+.
+1. Aumenta con la velocidad de la partícula hasta
+alcanzar un máximo, para luego disminuir.
+2. Disminuye a medida que la velocidad de la
+partícula aumenta.
+3. Es constante, ya que depende solo de las pro-
+piedades del medio.
+4. Es independiente de la carga de la partícula.
+161. La2 absorción fotoeléctrica de la radiación
+ga0mma satisface que:
+5
+1.. Aumenta linealmente con el número atómico
+del material absorbente.
+2. Es el modo predominante a energías relativa-
+mente bajas.
+3. Solo tiene lugar si la energía del haz es mayor
+que el doble de la energía en reposo del elec-
+trón.
+4. Es menos probable para materiales con nú-
+mero atómico elevado.
+162. Co2nsiderando una expresión tipo Bortfeld para
+el 0 rango másico de protones en agua,
+6
+.
+R ( E
+K
+) = 0 . 0 0 2 2  E 1K .7 7 donde E es la energía
+K
+cinética del protón, obtener el rango másico de
+( )
+partículas alfa M =4M con una
+alfa proton
+energía cinética de 100 MeV impactando en un
+bloque de agua:
+1. 7.63 g/cm2.
+2. 1.91 g/cm2.
+3. 2.62 g/cm2.
+4. 0.656 g/cm2.
+163. Si2 un neutrino de energía 1.5 MeV interacciona
+elá0sticamente con un electrón, la máxima ener-
+gí7a que le puede transmitir es de aproximada-
+m.e nte:
+1. 0.3 MeV.
+2. 0.75 MeV.
+3. 1.3 MeV.
+4. 1.5 MeV.
+164. La2 sección eficaz total de absorción de neutrones
+té0rmicos por núcleos de Cd es de 2700 barn.
+¿C8uál es el espesor necesario que debe tener una
+lá.m ina de Cd para reducir en un factor 1000 el
+flujo de neutrones térmicos que inciden perpen-
+dicularmente a ella?:
+(Datos: densidad del Cd = 8.6g/cm3; masa ató-
+mica relativa del Cd = 112.4)
+1. 0.024 cm.
+2. 0.055 cm.
+3. 0.24 cm.
+4. 0.55 cm.
+165. ¿Q2ué hace al tungsteno (wolframio) ser una
+bu0ena elección para el target (diana o blanco) de
+un9 tubo de rayos X?:
+.
+1. Su alto punto de fusión y alto número atómico.
+2. Su bajo punto de fusión y bajo número ató-
+mico.
+3. Su bajo punto de fusión y alto número ató-
+mico.
+4. Su alto punto de fusión y bajo número ató-
+mico.
+166. Co2locamos un material de atenuación de espesor
+“y1” en la trayectoria de un haz monoenergético
+ho0mogéneo de rayos X y con él logramos reducir
+la. i ntensidad en un 50%. Si añadimos un espesor
+“3y”, ¿qué porcentaje de intensidad se atenúa
+con respecto al haz inicial?:
+1. 87.5%.
+2. 1.5%.
+3. 12.5%.
+4. Al ser el haz homogéneo la intensidad no se
+reduce.
+167. El poder de frenado por colisión de los electrones
+en la materia se describe mejor en la aproxima-
+ción cuántica por:
+1. Fórmula de Bethe-Bloch.
+2. Ley de Bragg-Kleeman.
+3. Ley de Lambert-Beer.
+4. Ecuación de Klein-Nishina.
+168. La diferencia principal entre kerma y dosis ab-
+sorbida es que:
+1. La dosis absorbida siempre es mayor que el
+kerma.
+2. La dosis absorbida solo incluye radiación se-
+cundaria al contrario que el kerma.
+3. Son definiciones equivalentes para partículas
+ligeras.
+4. El kerma incluye energía transferida pero no
+depositada localmente al contrario que la dosis
+absorbida.
+169. Un detector registra, en promedio, 20 cuentas
+por minuto. Se realiza una medida directa de 10
+segundos. Asumiendo que el número de cuentas
+sigue una distribución de Poisson, ¿cuál es la
+probabilidad de obtener 2 o menos cuentas en
+esos 10 segundos?:
+1. 0.119.
+2. 0.198.
+3. 0.353.
+4. 0.396.
+170. Se están realizando medidas con una cámara de
+ionización abierta al aire en un medio para una
+fuente de tasa constante. Un electrómetro mues-
+tra la carga recogida en la cámara, y este valor
+se convierte en la dosis absorbida en el medio a
+través de unos factores de corrección. Si la tem-
+peratura de la sala aumenta, ¿cuál de las siguien-
+tes afirmaciones es CORRECTA?:
+1. La carga recogida y la dosis absorbida aumen-
+tan.
+2. La carga recogida disminuye y la dosis absor-
+bida no varía.
+3. La carga recogida y la dosis absorbida dismi-
+nuyen.
+4. La carga recogida y la dosis absorbida no va-
+rían.
+171. ¿Q ué tipo de detector tiene como característica
+un factor de Fano aproximadamente igual a la
+unidad?:
+1. Semiconductor.
+2. Contador proporcional.
+3. Xenón líquido.
+4. Centelleo.
+172. In dique la energía cinética mínima que debería
+tener un electrón para emitir radiación de Che-
+renkov en agua, cuyo índice de refracción es n =
+1.33:
+1. 0.05 eV.
+2. 2.4 GeV.
+3. 75 MeV.
+4. 0.26 MeV.
+173. Un detector no paralizable registra una activi-
+dad de 200 Bq de una muestra radiactiva. El
+tiempo muerto del detector es de 0.0009 s. ¿Cuál
+es la actividad VERDADERA de la muestra?:
+1. 203 Bq.
+2. 220 Bq.
+3. 235 Bq.
+4. 244 Bq.
+174. ¿C uál de las siguientes afirmaciones describe
+mejor el mecanismo principal por el cual un con-
+tador Geiger-Müller detecta fotones de rayos X
+o gamma, en comparación con partículas carga-
+das como electrones o partículas alfa?:
+1. El contador Geiger-Müller detecta fotones de
+rayos gamma directamente a través del efecto
+fotoeléctrico, mientras que a las partículas car-
+gadas las detecta por ionización indirecta.
+2. Los fotones de rayos gamma interaccionan con
+el gas del detector para producir electrones
+que, a su vez, causan la ionización, mientras
+que las partículas cargadas ionizan el gas di-
+rectamente.
+3. Los fotones de rayos gamma se detectan por su
+capacidad para causar ionización directa-
+mente, mientras que las partículas cargadas se
+detectan solo después de haber perdido toda su
+energía.
+4. Las partículas alfa y los electrones se detectan
+indirectamente al producir fotones de fluores-
+cencia en el gas, y los fotones de rayos gamma
+se detectan directamente por la ionización.
+175. Re specto a las películas radiocrómicas usadas
+para dosimetría de radiaciones ionizantes, pode-
+mos AFIRMAR que son un tipo de detector de
+radiación:
+1. Activo y fuertemente dependiente de la tasa de
+dosis.
+2. Activo e independiente de la tasa de dosis.
+3. Pasivo y fuertemente dependiente de la tasa de
+dosis.
+4. Pasivo e independiente de la tasa de dosis.
+176. ¿C uál de los siguientes detectores de radiación
+se utiliza habitualmente para la dosimetría per-
+sonal en trabajadores expuestos a radiaciones
+ionizantes?:
+1. Cámara de ionización.
+2. Contador Geiger-Müller.
+3. Espectrómetro de centelleo con cristal de
+NaI(Tl).
+4. Dosímetro termoluminiscente.
+177. La resolución en energía de un detector propor-
+cional gaseoso para una energía dada está limi-
+tada principalmente por:
+1. Estadística de creación de pares de ionización
+(factor de Fano).
+2. Altura del pulso (factor de altura).
+3. Dimensiones del ánodo (factor ánodo).
+4. Voltaje de polarización (factor polarización).
+178. ¿E n qué cuadrante de la característica voltaje-
+corriente (curva de corriente en función de vol-
+taje) funciona un diodo Zener como estabiliza-
+dor de voltaje?:
+1. V>0, I>0.
+2. V>0, I<0.
+3. V<0, I>0.
+4. V<0, I<0.
+179. Pa ra los semiconductores intrínsencos, Si y Ge,
+la diferencia energética entre las bandas de va-
+lencia y conducción, E , para temperaturas en-
+G
+tre 0 y 300 K tiene valores comprendidos entre:
+1. 0.2 y 0.7 eV.
+2. 0.7 y 1.2 eV.
+3. 1.2 y 1.7 eV.
+4. 1.7 y 2.3 eV.
+180. Un transistor MOSFET en modo de enriqueci-
+miento (enhancement) comienza a conducir
+cuando:
+1. La diferencia de potencial compuerta-fuente es
+cero.
+2. La diferencia de potencial compuerta-fuente
+excede un valor umbral mayor que 0.
+3. La diferencia de potencial drenador-fuente es
+cero.
+4. La compuerta está en corto con el drenador.
+181. En un diodo de unión pn, la corriente de satura-
+ción inversa I:
+s
+1. Depende tanto del área de la unión como de la
+temperatura.
+2. Depende del área de la unión pero no de la
+temperatura.
+3. Depende de la temperatura pero no del área de
+la unión.
+4. Es una constante que no depende ni de la tem-
+peratura ni del área de la unión.
+182. En un semiconductor extrínseco tipo N a tempe-
+ratura ambiente, la concentración de electrones
+libres es aproximadamente igual a:
+1. Cero.
+2. La densidad de átomos donadores.
+3. La densidad de átomos aceptores.
+4. La concentración de huecos libres.
+183. Si denotamos por  al coeficiente de correlación
+de dos variables aleatorias X e Y. Entonces po-
+demos AFIRMAR que:
+1.  = 0 implica que X e Y son independientes.
+2. Si X e Y son independientes, entonces  = 0.
+3.  > 0 para todas X e Y.
+4.  > 1 implica que X e Y son proporcionales.
+184. Du rante 10 minutos se realiza una medida con
+un detector y se obtienen 2400 cuentas. En ese
+mismo intervalo de tiempo (10 minutos), se mide
+el fondo y se registran 525 cuentas. Suponiendo
+que la estadística del detector sigue una distribu-
+ción de Poisson, ¿cuál es el número de cuentas
+atribuibles a la fuente y su incertidumbre aso-
+ciada, utilizando un factor de cobertura k = 2?:
+1. 1825±76.
+2. 1825±85.
+3. 1825±93.
+4. 1825±108.
+185. La serie armónica alternada
+∑∞ (−𝟏)𝒏+𝟏 =𝟏−𝟏 +𝟏 −𝟏 +𝟏 ⋯, es un típico
+𝒏=𝟏 𝒏 𝟐 𝟑 𝟒 𝟓
+ejemplo de serie:
+1. Absolutamente convergente.
+2. Condicionalmente convergente.
+3. Uniformemente convergente.
+4. Divergente.
+186. En un cierto experimento, cada medición inde-
+pendiente del número de cuentas por segundo si-
+gue una distribución de Poisson con una deter-
+minada media. Si se repite el experimento mu-
+chas veces y se representa el histograma de los
+valores medios obtenidos, ¿qué forma tendrá esa
+distribución a medida que aumenta el número de
+repeticiones?:
+1. Seguirá teniendo forma de distribución de Poi-
+sson, sin cambiar significativamente.
+2. Se volverá uniforme, ya que todos los valores
+medios serán aproximadamente igual de pro-
+bables.
+3. Adoptará una forma exponencial decreciente,
+concentrando la mayoría de los valores en
+torno a la media pero con cola larga hacia va-
+lores altos.
+4. Se aproximará progresivamente a una distribu-
+ción gaussiana centrada en la media verdadera.
+187. En una distribución estadística normal sesgada
+con asimetría positiva (con cola hacia la dere-
+cha), la media, 𝐱, la mediana, 𝐌𝐞 y la moda, 𝐌𝐨,
+siguen la siguiente relación:
+1. x≥Me≥Mo.
+2. x≤Me≤Mo.
+3. x≥Mo≥Me.
+4. x≤Mo≤Me.
+188. Se a A una matriz no singular, entonces con rela-
+ción a su determinante, det A, podemos afirmar
+que:
+1. det A-1 = (det A) -1.
+2. det A-1 = det A.
+3. det A > 0.
+4. det A = 0.
+189. En una distribución de densidad de probabilidad
+gaussiana de media 1.0 y desviación típica 2.0, la
+probabilidad de obtener menos de 3.0 es del:
+1. 15.9%.
+2. 31.8%.
+3. 68.2%.
+4. 84.1%.
+190. ¿Q ué valor tiene la suma de todas las potencias
+impares negativas de 3?:
+1. 3/8.
+2. 1.
+3. 9/8.
+4. 3.
+191. ¿C uál es la transformada de Laplace del coseno
+hiperbólico de t?:
+1. 1/(s2+1).
+2. s/(s2+1).
+3. 1/(s2-1).
+4. s/(s2-1).
+192. ¿C uál es el resultado de aplicar la operación ló-
+gica XOR entre los siguientes números:
+10011001 y 10110110 ?:
+1. 10010000.
+2. 10111111.
+3. 01101111.
+4. 00101111.
+193. ¿C uál es la frecuencia de Nyquist de un sistema
+de imagen digital cuyo tamaño de píxel es 100
+µm?:
+1. 5 px/mm.
+2. 10 px/mm.
+3. 20 px/mm.
+4. 2.5 px/mm.
+194. ¿Q ué base de numeración es necesaria como mí-
+nimo para representar el número decimal 143
+con sólo dos dígitos?:
+1. 4.
+2. 8.
+3. 12.
+4. 16.
+195. ¿E n qué frecuencia se encuentra el máximo del
+espectro en frecuencia de la radiación de fondo
+del universo?:
+1. 1.60 GHz.
+2. 16.0 GHz.
+3. 160 GHz.
+4. 1600 GHz.
+196. En ecocardiografía es frecuente usar la “ley de
+Hatle”, 𝜟𝑷=𝟒𝑽𝟐 , para calcular el gradiente
+𝒎𝒂𝒙
+de presiones transvalvular 𝜟𝑷 (en mmHg) a par-
+tir de la medida de la velocidad de la sangre V
+max
+(en m/s) a través de una válvula cardiaca. Indi-
+que con qué ecuación de la mecánica de fluidos
+está relacionada esta ley:
+1. Ecuación de Bernoulli.
+2. Ecuación de Stokes.
+3. Ecuación de Laplace.
+4. Ecuación de Poiseuille.
+197. ¿C ómo se le llama a la distancia mínima que
+puede soportar un objeto orbitando un cuerpo
+masivo sin comenzar a desintegrarse por las
+fuerzas de marea?:
+1. Límite de Roche.
+2. Radio de Schwarzschild.
+3. Límite de marea.
+4. Esfera Payne-Gaposchkin.
+198. Un amplificador operacional tiene una ganancia
+de 100000 V/V y un ancho de banda de 5 Hz en
+lazo abierto. ¿Cuál es el ancho de banda espe-
+rado en una configuración no inversora de ga-
+nancia 100 V/V si la respuesta en frecuencia del
+amplificador tiene un polo dominante?:
+1. 5 Hz.
+2. 1 kHz.
+3. 5 kHz.
+4. 1 MHz.
+199. Un biestable JK tiene sus entradas y salidas acti-
+vas a nivel lógico alto. Si sus entradas se corto-
+circuitan a tierra, la salida de este biestable:
+1. Se fija a nivel lógico bajo.
+2. Se fija a nivel lógico alto.
+3. Bascula entre los niveles lógicos bajo y alto.
+4. Se mantiene en el nivel lógico inicial.
+200. En materiales cristalinos, la reducción en el po-
+der de frenado de partículas cargadas que viajan
+paralelas a los planos cristalinos se conoce como
+efecto de:
+1. Channeling.
+2. Lattice resonance.
+3. Axial focusing.
+4. Parallel tunneling.
+201. Co nsiderando el aire como un gas ideal y sa-
+biendo que la densidad del aire a 0 ºC y 101.325
+kPa tienen un valor de 1.293 kg/m3 obtener la
+densidad del aire a una temperatura de 15º C y
+89.3 kPa?:
+1. 0.00 kg/m3.
+2. 1.08 kg/m3.
+3. 1.20 kg/m3.
+4. 1.23 kg/m3.
+202. Un condensador se carga inicialmente a un po-
+tencial de 12 V. Luego se conecta a una resisten-
+cia para su descarga. Transcurrido un tiempo de
+4 s, el potencial en el condensador es de 3 V.
+¿Cuál es la constante de tiempo del circuito?:
+1. 2.88 s.
+2. 500 s.
+3. 0.02 s.
+4. 25.7 s.
+203. Ca6lcular la velocidad cuadrática media de una
+m1olécula de nitrógeno (M = 28 g/mol) en el aire
+a 0. ºC:
+1. 0.45 km/s.
+2. 0.46 km/s.
+3. 0.49 km/s.
+4. 0.53 km/s.
+204. Un7 electrón se mueve en una trayectoria circular
+de2 1 cm de radio debido a la acción de un campo
+m.a gnético uniforme de 1 mT. ¿Cuál es su veloci-
+dad?:
+1. 1.76 m/ms.
+2. 1.76 m/s.
+3. 1.76 m/s.
+4. 1.76 km/s.
+205. ¿C1uál es la frecuencia de la radiación electro-
+m0agnética mínima para arrancar electrones de
+un8 metal cuya función trabajo es de 10 eV?:
+.
+1. 2.4×106 Hz.
+2. 2.4×1013 Hz.
+3. 2.4×1015 Hz.
+4. 2.4×1017 Hz.
+206. Un5a máquina de Carnot opera entre dos focos
+té3rmicos, donde el foco frío se encuentra a una
+te.m peratura de 10 ºC y el foco caliente a 80 ºC.
+¿Cuál es el valor de la eficiencia de esta má-
+quina?:
+1. 0.2.
+2. 0.36.
+3. 0.88.
+4. 0.98.
+207. Ca lcular el valor de ‘a’ para que f(x) sea una fun-
+ción de densidad de probabilidad
+𝒂𝒙𝟑, 𝒑𝒂𝒓𝒂 𝟎<𝒙<𝟐
+𝒇(𝒙)={ :
+𝟎, 𝒓𝒆𝒔𝒕𝒐
+1. 1/4.
+2. 1/2.
+3. 2.
+4. 4.
+208. ¿C uántas salidas tiene un multiplexor con 4 en-
+tradas de selección de datos?:
+1. 1.
+2. 2.
+3. 4.
+4. 16.
+209. ¿C uál es el equivalente hexadecimal del número
+octal 1111?:
+1. F.
+2. 249.
+3. 585.
+4. 1111.
+210. Se an B1 la base canónica en R2 y B2 = {v1,v2},
+con v1 = (1,3) y v2 = (-1,2). Determina las coor-
+denadas de u = (3,-4) en la base B2:
+B1
+1. (2/5, -13/5).
+2. (4/5, 1/5).
+3. (1/5, 3/5).
+4. (-2/5, 4/5).
+
+
+
+
+
+
+
