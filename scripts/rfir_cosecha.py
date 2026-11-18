@@ -63,13 +63,14 @@ def baja_desde(u, pagina=None):
     return X.OP.open(req, timeout=180).read()   # mismo «opener» que al visitar la página: lleva sus cookies
 
 
-def wayback(patron):
+def wayback(patron, filtro=None):
     """PDF y ZIP archivados en la Wayback Machine (archive.org) para un patrón de URL, p. ej. «bir.hol.es/*»: webs ya desaparecidas."""
     q = 'https://web.archive.org/cdx/search/cdx?url=' + urllib.parse.quote(patron, safe='*/:') + '&output=json&filter=statuscode:200&collapse=urlkey&limit=3000'
     try: filas = json.loads(X.baja(q).decode('utf-8', 'ignore') or '[]')
     except Exception as e: print('  wayback ✕', patron, e); return []
-    out = [f'https://web.archive.org/web/{f[1]}id_/{f[2]}' for f in filas[1:] if f[2].lower().split('?')[0].endswith(('.pdf', '.zip')) or 'pdf' in f[3] or 'zip' in f[3]]
-    print(f'  wayback {patron}: {len(out)} ficheros archivados')
+    out = [f'https://web.archive.org/web/{f[1]}id_/{f[2]}' for f in filas[1:] if (f[2].lower().split('?')[0].endswith(('.pdf', '.zip')) or 'pdf' in f[3] or 'zip' in f[3])
+           and (not filtro or re.search(filtro, f[2], re.I))]
+    print(f'  wayback {patron}: {len(out)} ficheros archivados' + (f' que cumplen «{filtro}»' if filtro else ''))
     return out
 
 
@@ -123,7 +124,7 @@ def main():
     F = json.loads((R / 'data' / 'fuentes_externas.json').read_text(encoding='utf-8'))
     C = F.get('_cosecha', {})
     pag = recorre(C.get('sitios', []), C.get('paginas', []))
-    wb = [u for p in C.get('wayback', []) for u in wayback(p)]
+    wb = [u for p in C.get('wayback', []) for u in wayback(p, C.get('wayback_filtro'))]
     fich = list(dict.fromkeys(C.get('ficheros', []) + list(pag) + wb))[:MAX_FICHEROS]
     print(f'{len(fich)} ficheros candidatos')
     cand, vistos, orig = {}, set(), {}

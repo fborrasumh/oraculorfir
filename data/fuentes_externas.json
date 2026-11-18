@@ -16,7 +16,19 @@
   "sitios": [
    "https://radiofisicagratis.wordpress.com/",
    "https://radiofisicagratis.wordpress.com/author/radiofisicagratis/",
-   "http://opositea.blogspot.com/p/examenes-rfir-radiofisico-interno-residente.html"
-  ]
+   "http://opositea.blogspot.com/p/examenes-rfir-radiofisico-interno-residente.html",
+   "https://web.archive.org/web/2018/http://opositea.blogspot.com/p/examenes-rfir-radiofisico-interno-residente.html"
+  ],
+  "wayback": [
+   "sis.msc.es/fse/FicherosMirweb/*",
+   "sis.msps.es/fse/FicherosMirweb/*",
+   "sis.mspsi.es/fse/FicherosMirweb/*",
+   "sis.msssi.es/fse/FicherosMirweb/*",
+   "sis.msssi.gob.es/fse/FicherosMirweb/*",
+   "sis.mscbs.gob.es/fse/FicherosMirweb/*",
+   "fse.msssi.gob.es/fse/FicherosMirweb/*",
+   "fse.mscbs.gob.es/fse/FicherosMirweb/*"
+  ],
+  "wayback_filtro": "_R[._]|_R\\.pdf|radiof|fisic|rfir|rir"
  }
 }
