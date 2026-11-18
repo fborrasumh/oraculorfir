@@ -5,15 +5,18 @@
    "https://radiofisicagratis.wordpress.com/wp-content/uploads/2016/02/examen2009.pdf",
    "https://radiofisicagratis.wordpress.com/wp-content/uploads/2016/02/examen2013.pdf",
    "https://radiofisicagratis.wordpress.com/wp-content/uploads/2017/11/cuaderno_2015_1_r.pdf",
-   "https://www.redaccionmedica.com/contenido/images/RFIR%283%29.pdf"
+   "https://www.redaccionmedica.com/contenido/images/RFIR%283%29.pdf",
+   "https://huggingface.co/datasets/head_qa/resolve/main/data/head-qa-es-en-pdfs.zip"
   ],
   "paginas": [
    "https://www.consalud.es/formacion/rfir-2020-consulte-preguntas-examen_73431_102.html",
-   "https://www.consalud.es/especial-mir/rfir-2020-consulta-respuestas_73524_102.html"
+   "https://www.consalud.es/especial-mir/rfir-2020-consulta-respuestas_73524_102.html",
+   "https://www.redaccionmedica.com/formacion/mir/20210330/oficial-sanidad-publica-las-respuestas-correctas-del-examen-mir/157297_0.html"
   ],
   "sitios": [
    "https://radiofisicagratis.wordpress.com/",
-   "https://radiofisicagratis.wordpress.com/author/radiofisicagratis/"
+   "https://radiofisicagratis.wordpress.com/author/radiofisicagratis/",
+   "http://opositea.blogspot.com/p/examenes-rfir-radiofisico-interno-residente.html"
   ]
  }
 }

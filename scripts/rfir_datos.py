@@ -227,9 +227,20 @@ def texto_pdf(p, columnas=True):
     return '\n'.join(out).translate(SIMBOLO)
 
 
+def desde_headqa(anio, d):
+    """Año sin PDF propio, tomado de HEAD-QA (scripts/rfir_headqa.py): preguntas, opciones y respuesta oficial ya separadas."""
+    qs = json.loads((d / 'headqa.json').read_text(encoding='utf-8'))
+    nopt = max(set(len(q['opciones']) for q in qs), key=[len(q['opciones']) for q in qs].count)
+    out = [{'id': f"{anio}-{q['n']:03d}", 'anio': anio, 'n': q['n'], 'enunciado': q['enunciado'], 'opciones': q['opciones'], 'correcta': q['correcta'],
+            'anulada': False, 'imagen': bool(q['imagen']) or any(not o.strip() for o in q['opciones']), 'fuente': 'tercero'} for q in qs]
+    inf = {'anio': anio, 'ok': True, 'preguntas': len(out), 'opciones': nopt, 'fuente': 'tercero', 'con_respuesta': sum(1 for q in out if q['correcta']), 'anuladas': 0}
+    return out, inf
+
+
 def procesa_anio(anio, d):
     inf = {'anio': anio, 'ok': False}
     cu, pl = d / 'cuaderno.pdf', d / 'plantilla.pdf'
+    if not cu.exists() and (d / 'headqa.json').exists(): return desde_headqa(anio, d)
     if not cu.exists(): inf['error'] = 'falta cuaderno.pdf'; return [], inf
     tx = (d / 'cuaderno.txt').read_text(encoding='utf-8') if (d / 'cuaderno.txt').exists() else texto_pdf(cu)
     (d / 'cuaderno.txt').write_text(tx, encoding='utf-8')

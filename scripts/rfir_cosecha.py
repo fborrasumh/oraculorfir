@@ -4,7 +4,8 @@ Se ejecuta en GitHub Actions (allí hay red):  python3 scripts/rfir_cosecha.py
 Lee «_cosecha» de data/fuentes_externas.json:
   · "sitios": webs dedicadas que se recorren (y sus subpáginas de exámenes) en busca de enlaces a .pdf y .zip;
   · "paginas": noticias sueltas de las que solo se toman sus enlaces a .pdf y .zip;
-  · "ficheros": enlaces directos a .pdf o .zip.
+  · "ficheros": enlaces directos a .pdf o .zip;
+  · "wayback": patrones de URL de webs desaparecidas cuyos .pdf/.zip se buscan en la Wayback Machine (archive.org).
 Descarga cada fichero, abre los .zip y mira DENTRO de cada PDF qué es:
   · cuaderno: su portada es de Física y dice «PRUEBAS SELECTIVAS AAAA» (examen de enero de AAAA+1);
   · plantilla: tiene una tabla de respuestas legible; el año sale de su texto o, si no lo dice, del nombre del fichero.
@@ -62,6 +63,16 @@ def baja_desde(u, pagina=None):
     return X.OP.open(req, timeout=180).read()   # mismo «opener» que al visitar la página: lleva sus cookies
 
 
+def wayback(patron):
+    """PDF y ZIP archivados en la Wayback Machine (archive.org) para un patrón de URL, p. ej. «bir.hol.es/*»: webs ya desaparecidas."""
+    q = 'https://web.archive.org/cdx/search/cdx?url=' + urllib.parse.quote(patron, safe='*/:') + '&output=json&filter=statuscode:200&collapse=urlkey&limit=3000'
+    try: filas = json.loads(X.baja(q).decode('utf-8', 'ignore') or '[]')
+    except Exception as e: print('  wayback ✕', patron, e); return []
+    out = [f'https://web.archive.org/web/{f[1]}id_/{f[2]}' for f in filas[1:] if f[2].lower().split('?')[0].endswith(('.pdf', '.zip')) or 'pdf' in f[3] or 'zip' in f[3]]
+    print(f'  wayback {patron}: {len(out)} ficheros archivados')
+    return out
+
+
 def pdfs_de(u, pagina=None):
     """[(nombre, bytes)] de un enlace: el propio PDF o los PDF de dentro de un .zip (también .zip dentro de .zip)."""
     b = baja_desde(u, pagina)
@@ -112,7 +123,8 @@ def main():
     F = json.loads((R / 'data' / 'fuentes_externas.json').read_text(encoding='utf-8'))
     C = F.get('_cosecha', {})
     pag = recorre(C.get('sitios', []), C.get('paginas', []))
-    fich = list(dict.fromkeys(C.get('ficheros', []) + list(pag)))[:MAX_FICHEROS]
+    wb = [u for p in C.get('wayback', []) for u in wayback(p)]
+    fich = list(dict.fromkeys(C.get('ficheros', []) + list(pag) + wb))[:MAX_FICHEROS]
     print(f'{len(fich)} ficheros candidatos')
     cand, vistos, orig = {}, set(), {}
     for u in fich:
