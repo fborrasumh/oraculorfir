@@ -40,6 +40,9 @@ jobs:
         run: python scripts/rfir_cosecha.py || true
       - name: RFIR antiguos desde copias de los PDF oficiales
         if: env.PASO == 'todo' || env.PASO == 'externos' || env.PASO == 'cosecha'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          MODELO_IA: gpt-6-luna
         run: python scripts/rfir_externos.py
       - name: Cuadernillos de imágenes (portal y copias) → data/img
         if: env.PASO == 'imagenes'
