@@ -1,0 +1,2670 @@
+MINISTERIO DE SANIDAD, SERVICIOS SOCIALES E IGUALDAD
+PRUEBAS SELECTIVAS 2014
+CUADERNO DE EXAMEN
+RADIOFÍSICOS
+ADVERTENCIA IMPORTANTE
+ANTES DE COMENZAR SU EXAMEN, LEA ATENTAMENTE LAS SIGUIENTES
+INSTRUCCIONES
+1. Compruebe que este Cuaderno de Examen integrado por 225 preguntas más 10 de
+reserva, lleva todas sus páginas y no tiene defectos de impresión. Si detecta alguna
+anomalía, pida otro Cuaderno de Examen a la Mesa.
+2. La “Hoja de Respuestas” está nominalizada. Se compone de tres ejemplares en papel
+autocopiativo que deben colocarse correctamente para permitir la impresión de las
+contestaciones en todos ellos. Recuerde que debe firmar esta Hoja y rellenar la fecha.
+3. Compruebe que la respuesta que va a señalar en la “Hoja de Respuestas” correspon-
+de al número de pregunta del cuestionario.
+4. Solamente se valoran las respuestas marcadas en la “Hoja de Respuestas”, siempre
+que se tengan en cuenta las instrucciones contenidas en la misma.
+5. Si inutiliza su “Hoja de Respuestas” pida un nuevo juego de repuesto a la Mesa de
+Examen y no olvide consignar sus datos personales.
+6. Recuerde que el tiempo de realización de este ejercicio es de cinco horas improrro-
+gables y que está prohibida la utilización de teléfonos móviles, o de cualquier otro
+dispositivo con capacidad de almacenamiento de información o posibilidad de comuni-
+cación mediante voz o datos.
+7. Podrá retirar su Cuaderno de Examen una vez finalizado el ejercicio y hayan sido re-
+cogidas las “Hojas de Respuesta” por la Mesa.
+- 1 -
+1. Una partícula en reposo de masa M se desinte-
+gra en dos partículas. Una de las partículas
+posee masa m y la otra no tiene masa. ¿Cuál es
+el momento lineal de la partícula sin masa?:
+Datos: c = velocidad de la luz.
+M2−m2
+1. c
+4M
+M2−m2
+2. c
+2M
+M2−m2
+3. c
+M
+2(M2−m2 )
+4. c
+M
+4(M2−m2 )
+5. c
+M
+2. Un camión de masa 𝐌 se desplaza a velocidad
+𝟎
+𝒗 sobre una superficie plana sin rozamiento.
+𝟎
+En la posición 𝐱 =𝟎 e instante 𝐭 = 0 se empie-
+𝟎 𝟎
+za a cargar con arena a un ritmo de 𝛌 kg/s.
+¿Cuál es la velocidad del camión en función del
+tiempo?:
+λt
+1. v = v
+0
+M0
+2. v =
+M0 v0+λt
+M0
+3. v =
+M0 v0
+M0+λt
+4. v =
+M0 +λt
+v
+0
+M0
+5. v =
+M0 −λt
+v
+0
+M0
+3. Tomando para el aire y el mercurio las densi-
+dades de 1.3 g/l y el 13.6 g/cm3, respectivamente.
+¿Qué altura habría que ascender en la atmósfe-
+ra para que la presión atmosférica descienda 10
+mm de Hg?:
+1. 70 metros
+2. 80 metros
+3. 90 metros
+4. 100 metros
+5. 120 metros
+4. El radio del Sol es 6.96•108 m y gira sobre sí
+mismo con un período de 25.3 días. Estimar el
+período de rotación que tendría el Sol si colap-
+sara sin pérdida de masa hasta convertirse en
+una estrella de neutrones de radio 5 km:
+1. 0.08 ms
+2. 0.09 ms
+-
+3. 0.10 ms
+4. 0.11 ms
+5. 0.12 ms
+5. Un satélite artificial de la Tierra gira en órbita
+circular en el plano del ecuador en el sentido de
+rotación de ésta y a una altura igual a dos veces
+el radio de la Tierra. Determinar el tiempo que
+transcurre entre dos pasos consecutivos por el
+cénit de un punto del ecuador:
+Datos: Radio de la Tierra = 6370 km.
+1. 10 h 31 min
+2. 20 h 54 min
+3. 7 h 15 min
+4. 49 h 27 min
+5. 32 h 14 min
+6. Una capa de aceite de densidad 800 kg/𝐦𝟑 flota
+sobre un volumen de agua de densidad 1000
+kg/𝐦𝟑. Un bloque de densidad desconocida se
+encuentra sumergido y flotando entre ambos
+líquidos con 𝟏/𝟒 de su volumen en aceite y el
+resto en agua. ¿Cuál es su densidad?:
+1. 200 kg/m3
+2. 850 kg/m3
+3. 950 kg/m3
+4. 1050 kg/m3
+5. 1800 kg/m3
+7. Un objeto de masa 1.5 kg situado sobre un mue-
+lle de constante de fuerza 600 N/m pierde el 3%
+de su energía en cada ciclo. El sistema viene
+impulsado por una fuerza sinusoidal con un
+valor máximo de 𝐅 = 0.5N. ¿Cuál es la ampli-
+𝟎
+tud del movimiento si 𝛚=𝟏𝟗 𝐫𝐚𝐝/𝐬?:
+1. 0.213 cm
+2. 1.281 cm
+3. 2.562 cm
+4. 0.854 cm
+5. 0.512 cm
+8. Una piedra que cae libremente desde una altura
+desconocida pasa a las 8:00 horas frente a un
+observador situado a 105 m sobre el suelo, y un
+segundo después frente a un observador situado
+a 80 m sobre el suelo (g=10m/𝐬𝟐). Calcular la
+velocidad con que llegará al suelo:
+1. 49.3 m/s
+2. 33 m/s
+3. 30 m/s
+4. 48.1 m/s
+5. 50 m/s
+9. Determine la distancia media de Urano al Sol,
+sabiendo que el año de Urano tiene una dura-
+ción de 84 años terrestres y que la distancia
+media de la Tierra al Sol es de 149.6•106 Km.:
+1. 1221•106 km
+2. 2869•106 km
+2 -
+3. 2869•107 km
+4. 1340•106 km
+5. 1340•107 km
+10. En una bañera completamente llena de agua
+hacemos un agujero circular de un centímetro
+cuadrado de sección a una distancia de un me-
+tro de la superficie del agua. Si la bañera está
+situada sobre la superficie terrestre [𝒈=
+𝟗.𝟖 𝐦/𝐬𝟐], entonces la velocidad del agua que
+sale inicialmente por el agujero es, en metros
+por segundo, aproximadamente igual a:
+1. 19.6
+2. 3.13
+3. 2.21
+4. 6.21
+5. 4.43
+11. En unidades del sistema internacional, un cuer-
+po de masa unidad oscila alrededor de la posi-
+ción x=0 sometido a la fuerza F(x) =
+− 𝝅𝟐 𝒔𝒆𝒏𝒉(𝒙). Entonces, para oscilaciones con
+amplitudes muy pequeñas (próximas a cero), el
+periodo de oscilación del cuerpo es, en segun-
+dos, aproximadamente igual a:
+1. 2
+2. 1
+3. 𝜋/2
+4. √2
+5. 2/√π
+12. Un DVD dentro de un reproductor se está dete-
+niendo. La velocidad angular del disco en t=0 es
+de 27.5 rad/s y su aceleración angular es cons-
+tante con un valor de - 10 rad/𝐬𝟐. ¿Qué veloci-
+dad angular tiene el disco en t=0.3 segundos?:
+1. 147 rad/minuto
+2. 24.5 rad/s
+3. 24.5 rad/minuto
+4. 147 rad
+5. 2.45 rad/s
+13. Un bote trata de cruzar un río de 3Km de ancho
+apuntando hacia el Norte con una velocidad de
+2.8 m/s relativa al agua. La corriente del río
+lleva una velocidad uniforme de 5 Km/h relati-
+va a la orilla. El tiempo aproximado que tarda
+en alcanzar la otra orilla es:
+1. 15 min
+2. 24 min
+3. 39 min
+4. 11 min
+5. 18 min
+14. Un elevador de masa 1000 Kg transporta un
+grupo de pasajeros con una masa de 800 Kg.
+Durante la subida, el ascensor experimenta una
+fuerza de fricción constante de 4000 N. ¿Cuál es
+la mínima potencia que debe desarrollar el
+-
+motor del ascensor para que éste ascienda a una
+velocidad constante de 3m/s?:
+1. Al ascender a velocidad constante, el teorema
+del trabajo-energía cinética, dice que el traba-
+jo es cero y como consecuencia la potencia
+también.
+2. 65 KW
+3. 42 KW
+4. 14 KW
+5. Es imposible que el ascensor pueda subir a
+esa velocidad dada la fricción existente.
+15. La velocidad máxima de un satélite en órbita
+elíptica (e=0.25) es 25700 km/h. Determinar la
+distancia máxima y mínima de la superficie
+terrestre a la trayectoria del satélite:
+Datos: Masa de la tierra = 5976•1024 kg, radio de la tierra =
+6370 km.
+1. 6633 km y 2180 km
+2. 9930 km y 3411 km
+3. 10811 km y 5421 km
+4. 15978 km y 8387 km
+5. 104065 km y 50439 km
+16. Una curva de 30 m de radio tiene un ángulo de
+peralte 𝛉. Determinar el valor 𝛉 para el cual un
+coche, modelo BMW 130i 3p, puede tomar la
+curva a 40 km/h aunque esté cubierta de hielo:
+1. 24.80
+2. 35.20
+3. 20.10
+4. 22.80
+5. 36.20
+17. Se crea un cuerpo de masa m unido a un muelle
+de constante k. En su movimiento alrededor del
+punto de equilibrio, además de la fuerza recu-
+peradora del muelle está sometido a una fuerza
+de rozamiento proporcional a la velocidad
+F= ̶ 𝛄𝐯. El amortiguamiento crítico se produce
+cuando se cumple la relación:
+1. 2γ2 =4 k•m
+2. 2γ2 =2 k•m
+3. 2γ2 =8 k•m
+4. 2k2 =2 γ•m
+5. 2k2 =8 k•m
+18. Como consecuencia de la rotación de la tierra
+los vientos alisios en el hemisferio norte son
+dirigidos de:
+1. Suroeste a noreste.
+2. Este a oeste.
+3. Noreste a suroeste.
+4. Oeste a este.
+5. Noroeste a sureste.
+19. Una caja de masa 4 kg cuelga del techo por una
+cuerda de masa despreciable. Una fuerza tira
+horizontalmente de la caja hacia un lado hasta
+3 -
+alcanzar un valor de 10 N. En ese instante la
+caja se encuentra en equilibrio. ¿Qué ángulo
+forma la cuerda con la vertical en ese momen-
+to?:
+1. arcsin 0.25
+2. arctan 0.25
+3. arctan 4
+4. arcsin 4
+5. 45º
+20. La presión diferencial de aire suministrada a un
+paciente por un respirador artificial es de 20 cm
+de agua. Expresar la presión en mm de mercu-
+rio y en unidades del Sistema Internacional,
+respectivamente:
+Datos: Densidad del agua = 1 g/cm3. Densidad del Hg = 13.6
+g/cm3.
+1. 14.7 mm de Hg, 846 Pa
+2. 1.47 mm de Hg, 1960 Pa
+3. 14.7 mm de Hg, 1960 Pa
+4. 1.47 mm de Hg, 196 Pa
+5. 14.7 mm de Hg, 1646 Pa
+21. La ecuación del movimiento de un móvil es r=ti
++ Ln(t+1)j, donde r se expresa en metros y t en
+segundos. Si denotamos 𝐚 como el vector ace-
+𝐓
+leración tangencial y 𝐚 como el vector acelera-
+𝐍
+ción normal, en t=3 seg, se cumple:
+Datos: “i” y “j” son vectores unitarios.
+1. |𝐚 |=1.18|𝐚 |
+𝐓 𝐍
+2. |𝐚 |=0.03|𝐚 |
+𝐓 𝐍
+3. |𝐚 |=0.25|𝐚 |
+𝐓 𝐍
+4. |𝐚 |=0.15|𝐚 |
+𝐓 𝐍
+5. |𝐚 |=0.73|𝐚 |
+𝐓 𝐍
+22. La relación entre la frecuencia de una nota y la
+frecuencia del semitono por encima de ella en la
+escala diatónica es aproximadamente 15:16.
+¿Qué velocidad tiene un coche si su bocina dis-
+minuye en un semitono al pasar frente a un
+observador parado? No hay viento. Tomar
+velocidad del sonido = 340 m/s:
+1. 21.6 km/h
+2. 39.5 km/h
+3. 11.0 km/h
+4. 25.2 km/h
+5. 36.7 km/h
+23. Una onda armónica de longitud de onda 25 cm
+y amplitud 1.2 cm se mueve a lo largo de un
+segmento de 15 m de una cuerda de 60 m de
+longitud y 320 g de masa que está sometida a
+una tensión de 12 N. ¿Cuál es la energía total
+media de la onda?:
+1. 4.82 J
+2. 3.27 J
+3. 8.19 J
+4. 12.6 J
+5. 2.75 J
+-
+24. Un frasco de 200 ml está totalmente lleno de
+agua a 4 ºC. Cuando se calienta a 80 ºC se de-
+rraman 6 g de agua. ¿Cuál es la densidad del
+agua a 80 ºC en g/cm3? La densidad del agua a
+4 ºC es 1 g/cm3:
+1. 0.91
+2. 1.12
+3. 1
+4. 0.97
+5. 1.05
+25. La estación espacial internacional se mueve en
+una órbita que supondremos circular a 385 km
+de la superficie terrestre. ¿Cuánto tiempo tarda
+en dar una vuelta entera a la Tierra?:
+Datos: Radio Tierra=6370 km.
+1. 77.6 min
+2. 92.1 min
+3. 231.9 min
+4. 142.8 min
+5. 42.0 min
+26. La constante de difusión de la hemoglobina en
+el agua a la temperatura de 20ºC es
+D=6.9x𝟏𝟎−𝟏𝟏𝐦𝟐𝐬−𝟏. ¿Cuánto tardará una mo-
+lécula de hemoglobina en difundirse 1 cm en
+agua?:
+1. 7.25x109 s
+2. 7.25x105 s
+3. 7.25x107 s
+4. 14.49x1010 s
+5. 14.49x102 s
+27. En una curva de radio r y ángulo 𝛉, la veloci-
+dad a la que un coche puede tomar la curva sin
+salirse de ella depende:
+1. Linealmente del radio.
+2. Del cuadrado del radio.
+3. De la raíz cuadrada del radio.
+4. De la masa del coche.
+5. Es independiente del ángulo.
+28. Un cable vertical de acero de 5 m de longitud y
+0.88 𝐦𝐦𝟐 de sección tiene colgado un objeto de
+2 kg. Si se mueve levemente el objeto hacia
+abajo se produce un movimiento armónico
+simple. Encontrar el periodo de vibración (Mó-
+dulo de Young Y=200 GPa):
+1. 16 ms
+2. 8 ms
+3. 32 ms
+4. 47 ms
+5. 21 ms
+29. En una descarga de grano desde la bodega de
+un barco, un elevador levanta el grano a 12m de
+altura y lo lanza a una velocidad de 3 m/s. La
+descarga se produce a un ritmo de 2 kg por
+4 -
+segundo. Encontrar la mínima potencia del
+motor necesario para efectuar la descarga des-
+crita:
+1. 0.33 kW
+2. 0.235 kW
+3. 0.239 kW
+4. 0.244 kW
+5. 0.247 kW
+30. Un pequeño motor mueve un ascensor que eleva
+una carga de ladrillos de peso 800N a una altu-
+ra de 10m en 20s. ¿Cuál es la potencia mínima
+que debe suministrar el motor?:
+1. 400 W
+2. 0 W
+3. 800 W
+4. 200 W
+5. 100 W
+31. ¿A qué altura puede subir el agua en un capilar
+de vidrio de radio 25 micras?. La tensión super-
+ficial del agua a T=20ºC vale 7.28x𝟏𝟎−𝟐 N•𝒎−𝟏.
+El ángulo de contacto agua-vidrio es 0º:
+1. 0.594 m
+2. 594 micras
+3. 5.94 cm
+4. 594 m
+5. 594 cm
+32. Un objeto flota en el agua con el 80% de su
+volumen por debajo de la superficie. El mismo
+objeto situado en otro líquido flota con el 72%
+de su volumen por debajo de la superficie. De-
+terminar la densidad específica del segundo
+líquido:
+1. 0.75
+2. 0.90
+3. 1.11
+4. 1.25
+5. 1.33
+33. Una mujer y una chica, de la misma altura,
+sujetan una barra rígida, uniforme y horizontal
+de longitud L y 100 N de peso estando situadas
+cada una de ellas en cada extremo de la barra.
+¿A qué distancia de la mujer se tiene que colo-
+car un objeto de 80 kg en la barra para que la
+chica soporte 1/3 del peso que soporta la mu-
+jer?:
+1. 0.30 L
+2. 0.22 L
+3. 0.33 L
+4. 0.27 L
+5. 0.50 L
+34. Si un corazón bombea 100 𝐜𝐦𝟑 de sangre por
+segundo y la caída de presión del sistema arte-
+rial al venoso es de 100 torr, la potencia consu-
+mida por el corazón para vencer las fuerzas
+-
+viscosas es:
+1. 10−3 W
+2. 1000 W
+3. 1 W
+4. 1.33 W
+5. 1.33 J
+35. Una pelota de ping-pong de 5 g y 2.5 cm de
+diámetro está amarrada por un hilo al fondo de
+un recipiente con agua. ¿Cuál es la tensión en el
+hilo? Asuma 1g/𝐜𝐦𝟑 la densidad del agua:
+1. 13.2 x 10−2 N
+2. 3.12 x 10−2 N
+3. 0.0132 N
+4. 31.2 N
+5. 1.32 N
+36. Dos personas A y B se encuentran en un lago
+sobre un bote de remos. A está en el centro del
+bote, remando, y B en un extremo a 2 m del
+centro. A se cansa de remar y una vez que el
+bote se detiene, intercambia su puesto con B.
+Indica la distancia que se ha movido el bote al
+intercambiarse las dos personas:
+Datos: 𝐌 =𝟖𝟎 𝐤𝐠, 𝐌 =𝟏𝟐𝟎 𝐤𝐠, 𝐌 =𝟔𝟎 𝐤𝐠.
+𝐀 𝐁 𝐁𝐎𝐓𝐄
+1. 0.923 m
+2. 0.386 m
+3. 0.308 m
+4. 0.615 m
+5. 0.537 m
+37. De acuerdo con el principio de Pascal, la pre-
+sión en cada punto en un líquido confinado:
+1. Sólo depende de la densidad del líquido.
+2. Es igual al peso del líquido.
+3. Cambia en la cantidad p al aplicarle una pre-
+sión externa p.
+4. Es la misma.
+5. Es igual a la presión aplicada externamente.
+38. Se coloca una moneda sobre una regla y se em-
+pieza a levantar ésta última gradualmente.
+Cuando el ángulo de inclinación es de 25º la
+moneda comienza a deslizar, observando que
+recorre en la regla 80 cm en 1.4 seg. El cociente
+entre el coeficiente de rozamiento dinámico y el
+coeficiente de rozamiento estático toma el valor:
+1. 0.29
+2. 0.62
+3. 0.87
+4. 0.54
+5. 0.79
+39. Una muestra gira en una ultracentrifugadora
+de manera que la fuerza centrífuga es 2x𝟏𝟎𝟒
+veces su peso normal. Si una muestra se encuen-
+tra a 5 cm del centro de rotación, ¿cuántas re-
+voluciones por segundo efectúa la máquina?
+Tomar la aceleración de la gravedad g=10 m
+5 -
+𝐬−𝟐:
+1. 103
+2. 103/𝜋
+3. 104/𝜋
+4. 102/𝜋
+5. 102
+40. La radiación del Sol que llega a la Tierra es de
+1.4 kW/𝐦𝟐. ¿Qué masa pierde el Sol cada día
+debido a la radiación?:
+Datos: Distancia Sol-Tierra 1.5x𝟏𝟎𝟏𝟏 m; c=2.998x𝟏𝟎𝟖 𝐦/𝐬
+1. 3.8x1020 kg
+2. 3.8x1017 kg
+3. 3.8x1014 kg
+4. 3.8x1011 kg
+5. 3.8x108 kg
+41. Cuando un insecto de 1 g queda atrapado en la
+tela de una araña, ésta vibra con una frecuencia
+de 20 Hz, ¿con qué frecuencia vibrará cuando
+quede atrapado un insecto de 4 g?:
+1. 40 Hz
+2. 20 Hz
+3. 10 Hz
+4. 80 Hz
+5. 5 Hz
+42. Se arroja una piedra a un río desde un puente
+que lo cruza a 20 m de altura. Si el lanzamiento
+se produce con un ángulo de 30º sobre la hori-
+zontal y con una velocidad de 30 m/s ¿cuál de
+las siguientes afirmaciones es correcta?:
+1. Es necesario el dato adicional de la masa de la
+piedra para calcular la velocidad en el impac-
+to.
+2. Velocidad de impacto =35.9 m/s
+3. Velocidad de impacto =32.7 m/s
+4. Velocidad de impacto =24.8 m/s
+5. Si el lanzamiento se hubiera producido con
+los mismos 30m/s pero por debajo de la hori-
+zontal (i.e., apuntando hacia el agua) la velo-
+cidad del impacto habría sido mucho mayor.
+43. ¿Cuál es la rapidez máxima a la que se desplaza
+una partícula, de manera que su energía cinéti-
+ca se escriba como (1/2)𝐦𝐯𝟐 con un error rela-
+tivo menor o igual que un 5%?:
+1. 0.05c
+2. 0.006c
+3. 0.082c
+4. 0.27c
+5. 0.11c
+44. Un cuerpo de masa 1.00 kg se mueve con una
+velocidad de 1.00 m/s y choca elásticamente con
+un cuerpo de masa 2.00 kg que se encuentra en
+reposo. El ángulo formado por la trayectoria
+final del primer cuerpo respecto de su trayecto-
+ria inicial es de 65º. Su velocidad final será:
+-
+1. 7.4 cm/s
+2. 0.74 m/s
+3. 1.23 m/s
+4. 5.20 m/s
+5. 10.15 m/s
+45. En un péndulo de torsión ideal la masa total se
+encuentra concentrada en los extremos de una
+varilla de longitud 2R. La frecuencia de oscila-
+ción armónica es:
+1. Inversamente proporcional a la raíz cuadrada
+de la masa total.
+2. Inversamente proporcional a la masa total.
+3. Directamente proporcional a la masa total.
+4. Inversamente proporcional a la raíz cuadrada
+de la longitud de la varilla.
+5. Inversamente proporcional al cubo de la lon-
+gitud de la varilla.
+46. Un globo de aire caliente (120 ºC) de 10𝐦𝟑 al
+nivel del mar (T=20 ºC) ascenderá cuando su
+masa sea aproximadamente:
+Datos: Peso molecular del aire: 29.
+1. 300 kg
+2. 30 kg
+3. 3 kg
+4. 300 g
+5. 30 g
+47. Sobre un globo aerostático que asciende desde
+la superficie de la Tierra con velocidad constan-
+te 𝐯 = 𝐯 , actúa el viento produciéndole una
+𝐲 𝟎
+componente horizontal de la velocidad propor-
+cional a su altura (𝐯 =𝐤∙𝐲). Determinar la
+𝐱
+ecuación analítica de su trayectoria:
+1. 𝑥 =√𝑘 ∙𝑦2
+𝑣0
+2. x = 2y
+3. x = 𝑘 𝑦2
+2𝑣0
+4. x = √𝑣2+(𝑘𝑦)2
+0
+5. x = 𝑘 𝑦2
+𝑣0
+48. ¿A qué velocidad y en qué dirección debe volar
+horizontalmente un avión sobre la latitud 40º
+para que el piloto, partiendo a mediodía, vea
+siempre el sol al Sur?:
+Datos: Radio de la Tierra = 6370 Km.
+1. 1072 km/h, Oeste
+2. 980 km/h, Oeste
+3. 890 km/h, Este
+4. 1072 km/h, Este
+5. 1276 km/h, Oeste
+49. La incidencia de luz sobre la superficie plana de
+6 -
+separación entre dos medios trasparentes tiene
+un ángulo de incidencia especial conocido como
+ángulo de Brewster. ¿Qué función permite rea-
+lizar la incidencia con dicho ángulo?:
+1. Polarización por transmisión.
+2. Polarización por reflexión.
+3. La reflexión total interna.
+4. Pinzas ópticas.
+5. Capas de alta reflectividad.
+50. Calculad la diferencia de tiempo que hay entre
+el tiempo que tarda en recorrer una fibra óptica
+de 15 km de longitud, un rayo que penetra en
+ella normalmente y un rayo que penetra con el
+ángulo máximo del cono de aceptación. El me-
+dio exterior a la fibra tiene un índice de
+𝒏 =𝟏, el núcleo de la fibra tiene 𝒏 =
+𝒏𝒖𝒄 𝒏𝒖𝒄
+𝟏.𝟒𝟗𝟐 y el revestimiento de 𝒏 =𝟏.𝟒𝟖𝟗:
+𝒓𝒆𝒗
+1. ∆𝑡 =100 𝑛𝑠
+2. ∆𝑡 =150 𝑛𝑠
+3. ∆𝑡 =67 𝑛𝑠
+4. ∆𝑡 =68 𝑛𝑠
+5. ∆𝑡 =0
+51. Determinar la potencia en Dioptrías de una
+lente plano-cóncava con un radio de curvatura
+de 10 cm.:
+Datos: 𝐧 =𝟏.𝟓
+𝟏
+1. -1.25 D
+2. -2.5 D
+3. -5 D
+4. -10 D
+5. -20 D
+52. Un objeto cuya altura es de 2 centímetros, se
+sitúa a 10 centímetros de un espejo convexo
+cuyo radio de curvatura es también 10 centíme-
+tros. ¿Cómo será la imagen y cuál será su altu-
+ra?:
+1. Virtual y 0.33 milímetros.
+2. Virtual y 3.33 centímetros.
+3. Virtual y 0.33 centímetros.
+4. Real y 3.33 centímetros.
+5. Real y 0.33 centímetros.
+53. ¿Cuál es la anchura de la franja central del
+patrón de difracción producido en una pantalla
+situada a 5 metros de una rendija de anchura
+0.3 mm por la que ha pasado una luz láser de
+𝝀=𝟔𝟎𝟎 𝒏𝒎?:
+1. 1 mm
+2. 10 mm
+3. 20 mm
+4. 100 mm
+5. 7 mm
+54. Una persona puede ver con nitidez solamente
+los objetos situados entre 20 y 50 cm del ojo.
+Para proporcionarle una visión clara de los
+-
+objetos alejados se le debe colocar una lente de
+potencia:
+1. -2.5 dioptrías.
+2. -2 dioptrías.
+3. -3 dioptrías.
+4. -3.5 dioptrías.
+5. +2 dioptrías.
+55. El radio de la primera cara de una lente delga-
+da de vidrio (n=1.5) de 2.5 dioptrías es +60 cm.
+Por consiguiente el radio de la otra cara de la
+lente es:
+1. -30 cm
+2. -20 cm
+3. +30 cm
+4. +20 cm
+5. -40 cm
+56. Un haz de luz plano cuya longitud de onda es de
+5200 Å incide perpendicularmente sobre una
+rejilla de difracción con 2000 líneas/cm. ¿Qué
+ángulo respecto al haz incidente forman las
+franjas de difracción positiva o máxima?:
+1. 3 grados.
+2. 6 grados.
+3. 9 grados.
+4. 12 grados.
+5. 15 grados.
+57. Suponer que se desea construir un microscopio
+con dos lentes positivas, cuyas distancias focales
+son ambas igual a 25 mm. Suponer también que
+se quiere observar un objeto colocado a 27 mm
+del objetivo del microscopio. ¿A qué distancia
+se han de colocar las lentes?:
+1. 337.5 mm
+2. 160 mm
+3. 362.5 mm
+4. 380 mm
+5. 497.5 mm
+58. Un caballo mide 2.25 metros de alto, y está co-
+locado con su cara a 15 metros del plano de una
+lente delgada cuya distancia focal es de 3 me-
+tros. Calcular el aumento de la imagen formada
+a través de la lente, y la orientación de dicha
+imagen:
+1. Aumento de 0.25. Imagen derecha.
+2. Aumento de 4. Imagen invertida.
+3. Aumento de 0.6. Imagen invertida.
+4. Aumento de 0.6. Imagen derecha.
+5. Aumento de 0.25. Imagen invertida.
+59. Nos encontramos en una piscina debajo del
+agua, miramos hacia arriba y notamos que
+vemos los objetos que están por encima del nivel
+del agua dentro de un cono de luz cuya base
+está en la superficie y cuyo radio aproximada-
+mente es de 2.0 m. Si dirigimos la vista fuera de
+7 -
+dicho cono, nuestra única visión es de los dife-
+rentes lugares de la piscina. ¿A qué profundi-
+dad nos encontramos?:
+1. 2.00 m
+2. 1.75 m
+3. 2.65 m
+4. 3.03 m
+5. 3.52 m
+60. Un haz de luz que se desplaza por el vacío inci-
+de normalmente sobre un bloque de vidrio.
+¿Qué porcentaje de flujo radiante es reflejado?:
+Datos: 𝒏 =𝟏.𝟓
+𝒗𝒊𝒅𝒓𝒊𝒐
+1. 54%
+2. 35%
+3. 4%
+4. 21%
+5. 12%
+61. Un rayo de luz entra por una cara de un bloque
+rectangular de cristal que tiene índice de re-
+fracción “n”. ¿Cuál es el mínimo valor de n
+para que se produzca reflexión total en otra
+cara perpendicular a la de entrada?:
+1. 1.414
+2. 1.511
+3. 1.552
+4. 1.473
+5. 1.399
+62. Un lux es una unidad de:
+1. Flujo luminoso.
+2. Intensidad luminosa.
+3. Iluminancia.
+4. Energía luminosa.
+5. Luminancia.
+63. El recorrido libre medio de una molécula de
+radio 𝟏𝟎−𝟖 𝐜𝐦 en el seno de un gas con una
+densidad de 2.5x𝟏𝟎𝟏𝟗 moléculas/𝐜𝐦𝟑 es apro-
+ximadamente:
+1. 3x10−5 cm
+2. 5x10−9 m
+3. 6.4 μm
+4. 2x10−6 cm
+5. 9x10−7 m
+64. La energía interna de un gas perfecto viene
+dada por la expresión 𝒖=𝑹∙[(𝒂−𝑻)−𝒂∙
+𝒍𝒏(𝒂−𝑻)] 𝑱/𝑲∙𝒎𝒐𝒍 ¿Cuál es su índice adiabá-
+tico 𝜸?:
+1. 𝛾 =𝑎∙𝑇
+2. 𝛾 =𝑎∙𝑇2
+3. 𝛾 =𝑎/𝑇
+4. 𝛾 =𝑎/𝑇2
+5. 𝛾 =𝑙𝑛 (𝑎−𝑇)
+65. La velocidad más probable de las moléculas de
+-
+gas nitrógeno (𝐍 ) 𝐚 T=300K es aproximada-
+𝟐
+mente:
+1. 3.2x104cm/s
+2. 330 m/s
+3. 5.17x104m/s
+4. 420 m/s
+5. 2458 Km/h
+66. Si la temperatura crítica del mercurio es de 4.2
+K. ¿Cuál es la energía de enlace del par de
+Cooper en electronvoltios a T=0 K?:
+1. 2.5∙10−3 𝑒𝑉
+2. 2.1∙10−3 𝑒𝑉
+3. 1.5∙10−3 𝑒𝑉
+4. 1.1∙10−3 𝑒𝑉
+5. 0.5∙10−3 𝑒𝑉
+67. Una bomba de calor cuya eficiencia es de un
+170% es utilizada para elevar la temperatura
+de un baño de agua de 2 𝐦𝟑. ¿Cuántos grados
+centígrados aumenta la temperatura del baño si
+se extraen del foco frío 2478.5 kcal y la bomba
+realiza un trabajo de 14800 KJ?:
+Datos: 1 cal = 4.18 J. Calor específico agua = 1 kcal/(kg∙°𝐂)
+1. 0.003
+2. 12.6
+3. 3
+4. 1.26
+5. 0.72
+68. Una masa de aire seco, a 750 mm de Hg de pre-
+sión, se expande adiabáticamente hasta adquirir
+un volumen doble al de su valor inicial. Calcu-
+lar la presión y temperatura finales, si inicial-
+mente se encontraba a 15ºC. Considerar el aire
+seco como gas ideal diatómico, de índice adiabá-
+tico 𝛄=1.4:
+1. P =568.0 mm Hg,T =218.3 K
+final final
+2. P =284.2 mm Hg,T =109.9 K
+final final
+3. P =284.2 mm Hg,T =216.0 K
+final final
+4. P =218.3 mm Hg,T =284.2 K
+final final
+5. P =284.2 mm Hg,T =218.3 K
+final final
+69. Un termómetro de hidrógeno a volumen cons-
+tante indica una presión de 760 mm Hg a 0 ºC, y
+1160 mm Hg a 100 ºC. ¿Qué temperatura ten-
+drá un recinto en el cual dicho termómetro
+indique 1000 mm Hg?:
+1. 166 ºC
+2. 60 ºC
+3. 40 ºC
+4. 33 ºC
+5. 65.5 ºC
+70. En relación con las capacidades caloríficas 𝐜 y
+𝐩
+𝐜 de los gases monoatómicos a bajas presiones
+𝐯
+es FALSO:
+8 -
+1. c /c disminuye al elevar la temperatura.
+p v
+2. c /c es constante en un amplio intervalo de
+p v
+temperaturas.
+3. c es constante en un amplio intervalo de
+p
+temperaturas.
+4. c es constante en un amplio intervalo de
+v
+temperaturas.
+5. c −c = constante.
+p v
+71. A través de un proceso politrópico una masa de
+aire pasa de una temperatura y presión iniciales
+de 325 K y 125 kPa respectivamente a una tem-
+peratura y presión finales de 500 K y 2.96 atm.
+El exponente politrópico de la transformación
+es:
+1. 20.23
+2. 0.97
+3. 8.76
+4. 1.41
+5. 1.96
+72. La ley de Weiss establece que el momento mag-
+nético de una muestra paramagnética depende
+del campo magnético externo H y de la tempe-
+ratura absoluta T como (C es una constante):
+1. C•H•T
+2. C•H•T−2
+3. C•H•T−1
+4. C•H•T−3
+5. C•H•T2
+73. Sean n moles de un gas ideal, con volumen 𝐕 a
+𝟎
+la temperatura T, que se comprime en forma
+lenta, isotérmicamente, hasta 1/3 de su volumen
+inicial. ¿Qué cantidad de calor debe fluir del
+gas hacia el exterior?:
+Datos: R=cte. gas ideal.
+1. n•R•T•ln 9
+2. –n•R•T•ln 3
+3. 3n•R•T•ln 3
+4. (1/3)n•R•T•ln3
+5. 3n•R•T
+74. Consideremos una persona desnuda de superfi-
+cie corporal 1.5 𝐦𝟐, cuya piel está a 33 ºC y se
+encuentra en una habitación a 29 ºC. ¿A qué
+velocidad pierde calor por convección, tomando
+la constante de transmisión del calor por con-
+vección q=1.7x𝟏𝟎−𝟑 kcal 𝐬−𝟏 𝐦−𝟐 𝐊−𝟏?:
+1. 0.01 kcal s−1
+2. 0.1 kcal s−1
+3. 1 kcal s−1
+4. 10 kcal s−1
+5. 0.001 kcal s−1
+75. ¿Cuál de las afirmaciones siguientes es verda-
+dera de un sistema aislado que consiste en 15
+moléculas de gas?, según la segunda ley de la
+termodinámica:
+-
+1. La entropía del gas no puede disminuir.
+2. La entropía del gas no puede aumentar.
+3. No es probable que la entropía del gas dismi-
+nuya.
+4. No es probable que la entropía del gas au-
+mente.
+5. La entropía del gas debe permanecer igual.
+76. En relación al ciclo de Carnot es FALSO que:
+1. Queda representado por un rectángulo en un
+diagrama TS.
+2. Todo el calor se absorbe a una temperatura
+alta T constante y se emite a una temperatura
+H
+baja constante T .
+C
+3. Los procesos entre las isotermas T y T son
+H C
+adiabáticos.
+4. El rendimiento de un motor de Carnot viene
+dado por 1- T /T .
+H C
+5. Los procesos entre las isotermas T y T son
+H C
+isocoros.
+77. Dos moles de un gas perfecto se calientan de 0 a
+100º. Calcule la variación de energía interna en
+el proceso:
+Datos: Cp= 40 J/(K∙𝐦𝐨𝐥). R=8.3 J/(K∙𝐦𝐨𝐥).
+1. 8000 J
+2. 0 J
+3. 6340 J
+4. 1660 J
+5. 3170 J
+78. Un tanque contiene 18 kg de 𝐍 gas
+𝟐
+(M=28g/mol) a la presión de 4.5 atm. ¿Cuánto
+gas de 𝐇 (M=2g/mol) a 3.5 atm se puede tener
+𝟐
+en el mismo recipiente?:
+1. 0.78 kg
+2. 1.29 kg
+3. 1.0 kg
+4. 0.88 kg
+5. 1.41 kg
+79. Una recámara de bicicleta contiene unos 2500
+moles de aire. ¿Cuál es el cambio de energía
+interna de esta cantidad de aire cuando se en-
+fría de 23.9 ºC a 11.6 ºC a presión constante de
+1 atmósfera?:
+Datos: Trate el aire como gas ideal con 𝛄=𝟏,𝟒.
+1. -2.67x105 cal
+2. -2.67x105 J
+3. -6.39x105 J
+4. +2.67x105 J
+5. -6.39x105 J
+80. Un dipolo eléctrico oscilante está ubicado en el
+origen de coordenadas y orientado en el eje Z.
+¿En qué dirección es máxima la radiación pro-
+medio?:
+1. En la dirección Z, positiva y negativa.
+2. En cualquier dirección radial.
+9 -
+3. En la dirección azimutal.
+4. En cualquier dirección radial del plano Z=0.
+5. En las direcciones de ángulo polar igual a 45º.
+81. El potencial vectorial magnético vale en una
+cierta región del espacio (0, kx, 0), en cartesia-
+nas. ¿Qué valor tiene el campo inducción mag-
+nética B?:
+1. (-k, 0, 0)
+2. (0, -k, 0)
+3. (k, 0, 0)
+4. (0, k, 0)
+5. (0, 0, k)
+82. Un condensador de 20 µF se carga por completo
+mediante una fuente continua. A continuación
+se desconecta de la fuente y se conecta a un
+inductor de 5 mH. Si la resistencia del circuito
+es despreciable, el periodo de oscilación de este
+circuito LC es, en milisegundos, aproximada-
+mente igual a:
+1. 2.0
+2. 1.3
+3. 0.31
+4. 3.4
+5. 7.3
+83. Un Klystron inyecta una potencia de 100 kW en
+una guía de ondas, la guía tiene un coeficiente
+de atenuación de potencia de 0.15 dB/m y una
+longitud de 2m. La potencia a la salida de la
+guía será:
+1. 30.00 kW
+2. 33.33 kW
+3. 70.00 kW
+4. 93.33 kW
+5. 96.61 kW
+84. Una bobina sin núcleo magnético que tiene un
+coeficiente de autoinducción 2 mH acumula una
+energía de 900 mJ cuando por ella circula una
+corriente de 30 A. Si por la bobina circulasen
+3 A la energía sería:
+1. 0.09 mJ
+2. 0.9 mJ
+3. 9 mJ
+4. 90 mJ
+5. 900 mJ
+85. Se tiene un medio homogéneo de conductividad
+eléctrica 𝛔, permitividad eléctrica 𝛆 y permeabi-
+lidad magnética 𝛍. ¿Cuánto vale el tiempo de
+relajación que caracteriza la evolución del me-
+dio hasta alcanzar el equilibrio electrostático?:
+1. (εμ)/σ
+2. (εμ)1/2/σ
+3. σ/(εμ)
+4. ε/σ
+5. μ/σ
+- 1
+86. Se tiene un dipolo eléctrico que varía con el
+tiempo de forma armónica, de amplitud 𝐩 y
+𝟎
+frecuencia angular 𝛚 . El dipolo irradia una
+𝟎
+potencia promedio 𝐏 . ¿Cuál será la potencia
+𝟎
+promedio irradiada si se duplican ambas, la
+amplitud y la frecuencia del dipolo?:
+1. P
+0
+2. 4 P
+0
+3. 16 P
+0
+4. 32 P
+0
+5. 64 P
+0
+87. ¿Cómo varía el coeficiente de autoinducción de
+una bobina con el número de espiras?:
+1. No varía.
+2. Crece linealmente.
+3. Crece cuadráticamente.
+4. Crece exponencialmente.
+5. Disminuye linealmente.
+88. Al introducir un dieléctrico en un condensador
+plano paralelo con carga constante se crea una
+densidad de carga de polarización en las super-
+ficies que están en contacto con las placas, 𝛔 ,
+𝐩
+que modifica las líneas de campo en su interior.
+Indique la FALSA de las siguientes afirmacio-
+nes:
+1. La densidad de líneas de E disminuye dentro
+del dieléctrico respecto al vacío.
+2. Las líneas de P sólo existen dentro del dieléc-
+trico.
+3. Las líneas de D tienen sentido opuesto a las
+líneas de P en el dieléctrico.
+4. La densidad de líneas de D se mantiene igual
+dentro del dieléctrico y en el vacío.
+5. Las líneas de E tienen el mismo sentido que
+las líneas de D en el dieléctrico.
+89. Una moneda de cobre tiene una masa de 3 gra-
+mos ¿cuál es la carga total de los electrones en
+la moneda?:
+Datos: Z=29. Masa atómica=63.5 g/mol
+1. -1.32x105 C
+2. -0.132x105 μC
+3. -11.32x105 C
+4. -1.32x105 μC
+5. -0.132x105 C
+90. ¿Cuál es la dependencia a grandes distancias d
+del potencial eléctrico generado por un cuadru-
+polo eléctrico?:
+1.
+1
+⁄
+d2
+2.
+1
+⁄
+d3
+3.
+1
+⁄
+d4
+10 -
+4.
+1
+⁄
+d5
+5.
+1
+⁄
+d
+91. ¿Se puede afirmar que, en la superficie de sepa-
+ración entre dos medios materiales, la compo-
+nente tangente del campo magnético H es conti-
+nua?:
+1. Solo si los dos medios tienen la misma per-
+meabilidad magnética.
+2. Siempre.
+3. Sí, si no hay corrientes superficiales.
+4. Cuando no hay cargas superficiales.
+5. Nunca.
+92. Un condensador tiene una impedancia reactiva
+de 9 kΩ cuando circula una corriente alterna de
+2 A y 1000 Hz. Cuando circule una corriente de
+1 A y 2000 Hz la impedancia será:
+1. 81 kΩ.
+2. 18 kΩ.
+3. 9 kΩ.
+4. 4.5 kΩ.
+5. 3 kΩ.
+93. El primario de un transformador reductor tiene
+250 vueltas, y está conectado a una tensión efi-
+caz de 120 V. El secundario suministra una
+corriente de 20 A a una tensión de 9 V. Calcular
+la corriente en el circuito primario, y el número
+de vueltas que posee el circuito secundario:
+1. 1.5 A, 18.75
+2. 1.5 A, 3333
+3. 267 A, 3333
+4. 267 A, 18.75
+5. 3.75 A, 18.75
+94. Una secadora eléctrica para el cabello está es-
+pecificada a 1500 W y 120 V. Su potencia ins-
+tantánea máxima será (Nota: la potencia especi-
+ficada es potencia media y el voltaje especifica-
+do es voltaje eficaz rms):
+1. 1500 W.
+2. 2121.32 W.
+3. 750 W.
+4. 1060.66 W.
+5. 3000 W.
+95. El campo eléctrico E de una onda plana elec-
+tromagnética, que se propaga en el vacío, vale
+300 V/m. ¿Qué valor tendrá la inducción mag-
+nética B de dicha onda?:
+1. 3.33 mT
+2. 1 µT
+3. 9x1010 T
+4. 106 T
+5. 0.3 mT
+- 1
+96. Un condensador de 2 µF de capacidad sometido
+a una diferencia de potencial de 10 V acumula
+una energía de 0.1 mJ. Si al condensador se le
+aplican 20 V la energía será:
+1. 0.025 mJ.
+2. 0.05 mJ.
+3. 0.1 mJ.
+4. 0.2 mJ.
+5. 0.4 mJ.
+97. Determinar el campo magnético en el centro de
+una espira de corriente cuadrada, de lado L=50
+cm, por la cual circula una corriente de intensi-
+dad 1.5 A:
+1. 1.67x10−7 T
+2. 8.49x10−7 T
+3. 1.89x10−6 T
+4. 2.23x10−6 T
+5. 3.39x10−6 T
+98. Un imán que genera un campo de 20 mT se
+introduce en el interior de un cubo de aluminio
+herméticamente sellado cuyas aristas tienen una
+longitud de 3 cm. El flujo del campo magnético
+a través de las seis caras del cubo es:
+1. 108 µWb
+2. 36 µWb
+3. 18 µWb
+4. 9 µWb
+5. 0 µWb
+99. Una instalación eléctrica de corriente alterna
+consume 30 kW-h en un día, está alimentada
+con 220 V eficaces y su impedancia equivalente
+es una resistencia. ¿Qué valor promedio tiene la
+corriente eficaz?:
+1. Falta el dato de la resistencia.
+2. 136 A
+3. 3.27 A
+4. 7.33 A
+5. 5.68 A
+100. Una carga 𝐪 =8 nC se encuentra en el origen y
+𝟏
+una segunda carga positiva 𝐪 =𝟏𝟐 𝐧𝐂 está
+𝟐
+sobre el eje x a la distancia a=4 m. Determina el
+campo eléctrico resultante en el punto 𝐏 sobre
+𝟏
+el eje x en x=7 cm y en 𝐏 situado en x=3 m. Las
+𝟐
+respuestas son respectivamente:
+Datos: “i” es vector unitario.
+1. (13.5 N/C)i, (-100 N/C)i
+2. (15.6 N/C)i, (100 N/C)i
+3. (-13.5 N/C)i, (-100 N/C)i
+4. (-15.6 N/C)i, (100 N/C)i
+5. (17.2 N/C)i, (-100 N/C)i
+101. Un haz de electrones no relativistas de longitud
+infinita tiene densidad lineal de carga ‘𝛌’ y
+sección circular de radio ‘a’. El campo eléctrico
+11 -
+en el exterior del haz a una distancia ‘r’ de su
+eje está dado por:
+𝜆 1
+1. E=
+2𝜋𝜀0𝑟2
+𝜆 𝑎
+2. E=
+2𝜋𝜀0𝑟
+𝜆 𝑎2
+3. E=
+2𝜋𝜀0𝑟2
+𝜆 1
+4. E=
+2𝜋𝜀0𝑟
+𝜆
+5. E= 𝑟
+2𝜋𝜀0
+102. Se tiene un circuito serie formado por una resis-
+tencia R de 10 Ω y un condensador C de 20 µF,
+conectado a un generador de corriente alterna
+de 30 V y frecuencia 50 Hz. Se añade una auto-
+inducción en serie L con el objetivo de que la
+corriente sea máxima. ¿Qué valor ha de tener
+L?:
+1. 20 H
+2. 0.5 H
+3. 0.02 H
+4. 3 H
+5. 100 H
+103. Una bobina de autoinducción de 5 mH y una
+resistencia de 15 Ω se sitúa entre los terminales
+de una batería de 12 V de resistencia interna
+despreciable. ¿Cuál es la corriente final y la
+constante de tiempo?:
+1. 3.4 A, 3000 µs
+2. 2.2 A, 1200 µs
+3. 1.4 A, 888 µs
+4. 0.8 A, 333 µs
+5. 0.4 A, 222 µs
+104. Una bombilla eléctrica emite ondas electromag-
+néticas esféricas uniformemente en todas direc-
+ciones. Calcular la presión de radiación, en
+pascales, a una distancia de 3 m de la bombilla,
+suponiendo que se emiten 50 W de radiación
+electromagnética:
+1. 1.5 x 10−19
+2. 1.5 x 10−10
+3. 1.5 x 10−9
+4. 1.5 x 10−3
+5. 1.5
+105. ¿Cuál es el potencial eléctrico a una distancia
+r=0.529 x 𝟏𝟎−𝟏𝟎 m de un protón? (Esta es la
+distancia media entre el protón y el electrón del
+átomo de hidrógeno) (Constante de Coulomb
+k=8.99 x 𝟏𝟎𝟗 𝐍•𝐦𝟐/𝐂𝟐):
+1. 27.2 V
+2. 13.6 V
+- 1
+3. -13.6 V
+4. -27.2 V
+5. 6.8 V
+106. Se tiene un cable eléctrico rectilíneo y muy lar-
+go por el que circula una intensidad de 1 A. Se
+quiere estimar la inducción magnética B que se
+genera a una distancia de 10 cm del cable. ¿Qué
+valor tendrá B?:
+1. 2 µT
+2. 2 T
+3. 10 T
+4. 0.1 T
+5. Depende del diámetro del conductor.
+107. Los iones del interior y exterior de una célula
+están separados por una membrana plana de
+0.01 micras de grosor y de constante dieléctrica
+K=8. ¿Cuál es la capacidad de 1 𝐜𝐦𝟐 de mem-
+brana? 𝜺 =8.85x𝟏𝟎−𝟏𝟐 𝐂 𝐍−𝟏 𝐦−𝟐:
+𝟎
+1. 0.7 F
+2. 0.7 pF
+3. 0.7 µF
+4. 0.7 nF
+5. 70 F
+108. ¿Qué campo magnético se necesita para que un
+ion de 𝐎+ (masa 32 uma) se mueva en una órbi-
+𝟐
+ta circular de radio r=2 m, a una velocidad de
+𝟏𝟎𝟔 m 𝐬−𝟏?:
+Datos: 1 uma=1.66x𝟏𝟎−𝟐𝟕 kg, e=1.60x𝟏𝟎−𝟏𝟗 𝐂
+1. 0.17 gauss
+2. 0.17 tesla
+3. 0.17 weber
+4. 0.17 maxwell
+5. 1700 tesla
+109. Un condensador de 2.0 µF se carga a través de
+un resistor de 30 MΩ por una batería de 45 V.
+Encuéntrese la carga del condensador la co-
+rriente a través de la resistencia, ambos después
+de 83 s de haberse iniciado el proceso de carga:
+1. 6.7 µC, 0.38 µA
+2. 67 µC, 0.38 µA
+3. 67 µC, 3.8 µA
+4. 0.67 µC, 0.38 µA
+5. 67 µC, 0.38 µA
+110. Según la ley de Faraday, una condición necesa-
+ria y suficiente para que se induzca una fuerza
+electromotriz en un circuito cerrado es la pre-
+sencia en el mismo de:
+1. Un campo magnético.
+2. Materiales magnéticos.
+3. Una corriente eléctrica.
+4. Un flujo magnético variable en el tiempo.
+5. Un campo magnético variable en el tiempo.
+111. Se conecta un condensador C de 10 µF en serie
+1
+12 -
+con otro 𝐂 de 20 µF y se aplica al conjunto una
+𝟐
+batería de 6 V. Hallar la diferencia de potencial
+(∆𝐕) en cada condensador:
+1. ∆V =2 V; ∆V = 1 V
+1 2
+2. ∆V =9 V; ∆V = 4.5 V
+1 2
+3. ∆V =22 V; ∆V = 11 V
+1 2
+4. ∆V =4 V; ∆V = 2 V
+1 2
+5. ∆V =18 V; ∆V = 9 V
+1 2
+112. Una bobina (5 Ω, N=100 y d=6 cm) está situada
+entre los polos de un imán de modo que el flujo
+magnético es máximo a través del área trans-
+versal de la bobina. Cuando se quita la bobina
+repentinamente, una carga de 𝟏𝟎−𝟒 𝐂 fluye por
+un galvanómetro de 595 Ω conectado al imán.
+¿Cuál es el campo magnético del imán?:
+1. 0.17 T
+2. 0.09 T
+3. 0.21 T
+4. 0.13 T
+5. 0.05 T
+113. Estimar el campo eléctrico necesario para
+arrancar un electrón de un átomo en un tiempo
+comparable a lo que tarda el electrón en dar
+una vuelta alrededor del núcleo:
+1. 8 x 109 𝑍2 V/cm
+2. 5 x 1011 𝑍5 V/cm
+3. 3 x 108 𝑍3/2 V/cm
+4. 2 x 109 𝑍3 V/cm
+5. 7 x 1010 𝑍2/3 V/cm
+114. Para penetrar la barrera de Coulomb de un
+núcleo ligero, un protón debe tener una energía
+mínima del orden de:
+1. 1 GeV
+2. 1 MeV
+3. 1 keV
+4. 10 keV
+5. 1 eV
+115. Estimar la longitud de onda de mayor energía
+en el espectro característico de rayos X del co-
+bre (Z=29):
+Datos: R=1.09678x𝟏𝟎𝟕𝒎−𝟏
+1. 3.58 Angstrom
+2. 5.63 Angstrom
+3. 7.27 Angstrom
+4. 1.24 Angstrom
+5. 9.82 Angstrom
+116. El recorrido libre medio de neutrones en plomo
+es de unos 5 cm. Encontrar la sección eficaz
+total para neutrones en plomo:
+Datos: A ≈𝟐𝟎𝟎,𝝆=𝟏𝟎𝐠/𝐜𝐦𝟑
+1. 6.64 b
+2. 3.42 b
+3. 0.56 b
+- 1
+4. 12.35 b
+5. 17.57 b
+117. Encuentre la energía umbral para la reacción
+p + p → p + p + 𝝅𝟎 en el sistema de referencia
+laboratorio:
+1. 135 MeV
+2. 559 Mev
+3. 144 MeV
+4. 280 MeV
+5. 77 MeV
+118. En la reacción 𝝅++𝐩→𝐗 se forma una reso-
+nancia de anchura 115 MeV y masa 1232
+MeV/c2. Calcula su vida media:
+1. 7.43x10−12 s
+2. 5.72x10−24 s
+3. 4.56x10−15 s
+4. 3.59x10−23 s
+5. 6.20x10−29 s
+119. ¿Cuál de los siguientes núcleos presenta una
+mayor capacidad de moderación de neutrones
+de 2 MeV?:
+1. 2H
+2. 4He
+3. 12C
+4. 1H
+5. 238U
+120. La velocidad media de un electrón en la prime-
+ra órbita de Bohr de un átomo de número ató-
+mico Z es, en unidades de la velocidad de la luz:
+1. 𝑍3/2
+2. 𝑍
+3. 𝑍1/2/137
+4. 𝑍2/137
+5. Z /137
+121. Teniendo una energía libre de 4.5 GeV, ¿cuál es
+el isótopo más masivo que teóricamente se pue-
+de crear de la nada?:
+1. 3 He
+2. 2 D
+3. 4He
+4. 3T
+5. 5He
+122. ¿Qué energía cinética mínima han de tener los
+núcleos de 3He para que la reacción 9Be (3He,
+3H) 9B tenga lugar?:
+Datos: m(9Be)=8.3927496 GeV/c2; m(3He)=2.8083900
+GeV/c2; m(3H)=2.8089206 GeV/c2; Q= ̶1.088 MeV
+1. 2.13 MeV
+2. 0 MeV
+3. 1.45 MeV
+4. 2.82 MeV
+5. 0.92 MeV
+13 -
+123. En la interacción de la radiación gamma con la
+materia:
+1. La producción de pares domina sobre el efec-
+to Compton para energías muy altas (100
+MeV) y Z grande.
+2. El efecto Compton es predominante a partir
+de 200 MeV y Z grande.
+3. La producción de pares y el efecto Compton
+son igual de probables para cualquier energía.
+4. El efecto fotoeléctrico predomina para ener-
+gías superiores a los 100 MeV.
+5. El efecto Compton, el efecto fotoeléctrico y la
+producción de pares ocurren para cualquier
+energía.
+124. Cuando un átomo de 235U fusiona en un reactor,
+se liberan alrededor de 200 MeV de energía.
+Suponga que el reactor que usa 235U suministra
+700 MW y tiene una eficiencia de 20%. ¿Qué
+masa de 235U se consume en un día?:
+Datos: 1 MeV = 1.6x10-13 J
+1. 37 kg.
+2. 3.7 kg.
+3. 0.37 kg.
+4. 0.037 kg.
+5. 0.0037 kg.
+125. Un sujeto ingiere una sustancia radiactiva cuya
+semivida física es de 8.0 días y cuya semivida
+biológica es de 16.0 días. En este caso, al cabo
+de dos días la actividad inicial A de la sustancia
+pasa a ser 𝛂 A, con 𝛂 aproximadamente igual a:
+1. 0.52
+2. 0.83
+3. 0.88
+4. 0.77
+5. 0.69
+126. Para los nucleidos estables, la relación N/Z ha
+de estar entre ciertos límites:
+1. Si A es impar, para cada valor de A puede
+haber 1, 2 ó 3 isótopos estables.
+2. Si A es impar, para cada valor de Z puede
+haber muchos isótopos estables.
+3. Si A es impar, para cada valor de A sólo hay
+un único isobaro estable.
+4. Si A es par, para cada valor de Z hay 1 o co-
+mo máximo 2 isótopos estables.
+5. Si A es par, la mayoría de los nucleidos esta-
+bles tienen un número par de neutrones y par
+de protones.
+127. El primer término de la segunda serie radiacti-
+va natural (4n+2), U-238, se desintegra en:
+1. Pb-208
+2. Pb-206
+3. Pb-207
+4. Bi-209
+- 1
+5. Np-237
+128. La ionización específica, se define como:
+1. El número de pares de iones primarios, crea-
+dos por la partícula incidente por unidad de
+recorrido de ésta en el medio material.
+2. El número de pares de iones secundarios,
+creados por la partícula incidente por unidad
+de recorrido de ésta en el medio material.
+3. El número de pares de iones, tanto primarios
+como secundarios, creados por la partícula in-
+cidente por unidad de recorrido de ésta en el
+medio material.
+4. El número de pares de iones primarios, crea-
+dos por las partículas secundarias generadas
+por unidad de recorrido de éstas en el medio
+material.
+5. Este término no está definido en ninguna teo-
+ría.
+129. La técnica experimental conocida como espec-
+troscopia Mössbauer, emplea:
+1. La radiación de un isótopo radiactivo y otro
+isótopo diferente en la muestra.
+2. Nucleidos fisibles.
+3. Partículas pesadas, como los piones.
+4. Rayos gamma.
+5. Electrones.
+130. Estimar la energía rotacional característica de
+una molécula de O , suponiendo que la separa-
+2
+ción de los átomos es de 0.1 nm:
+1. 0.66x10-4 eV
+2. 1.31x10-4 eV
+3. 2.62x10-4 eV
+4. 5.24x10-4 eV
+5. 8.23x10-4 eV
+131. La masa atómica del 𝟐𝟑𝑵𝒂 es 22.98977uma.
+𝟏𝟏
+¿Cuál es la energía de ligadura promedio por
+nucleón?:
+Datos para el cálculo: masa del protón= 1.007825 uma,
+masa del neutrón= 1.008665 uma. Recuerde que 1 uma
+equivale a 931.5 MeV
+1. 106.5 MeV
+2. 8.11 MeV
+3. 185.8 MeV
+4. 16.8 MeV
+5. 15.48 MeV
+132. El núcleo 𝟏𝟗𝟖𝑨𝒖 es un emisor 𝛃− con una semi-
+𝟕𝟗
+vida de 2.7 días. ¿Cuál es la actividad de una
+muestra que contiene 1 𝛍g de 𝟏𝟗𝟖𝑨𝒖 puro?
+𝟕𝟗
+Datos: El número de Avogadro es 6 x 1023 átomos/mol
+1. 9x109 Ci
+2. 9x1015 Bq
+3. 9x1015 Ci
+4. 2x1013 Bq
+5. 9x109 Bq
+14 -
+133. La interacción débil es una fuerza fundamental.
+Señale la afirmación FALSA:
+1. Es la responsable de muchos procesos entre
+leptones y quarks.
+2. Es el único tipo de desintegración que sufren
+los neutrinos.
+3. Es de corte alcance, aproximadamente 10−3
+fm.
+4. A escala cósmica, controla la velocidad de
+reacción termonuclear en la secuencia princi-
+pal de las estrellas.
+5. Los estados ligados por la interacción débil
+conocidos son escasos.
+134. Calcular la actividad de una fuente de 30 MBq
+de 𝟐𝟒𝐍𝐚 después de 2.5 días (T =15.0 h):
+𝟏𝟏 1/2
+1. 30.00 MBq
+2. 7.50 MBq
+3. 2.94 MBq
+4. 1.88 MBq
+5. 0 MBq
+135. Dado un núcleo padre que decae a un núcleo
+hijo (𝛌 =𝟏𝟎 𝐬.) que a su vez decae a un tercer
+𝟏
+núcleo estable (𝛌 =𝟏𝟎 𝐡.) Determinar el tipo
+𝟐
+de equilibrio del proceso:
+1. Equilibrio secular.
+2. Equilibrio espacio-temporal.
+3. No equilibrio.
+4. Equilibrio transitorio.
+5. Equilibrio forzado.
+136. Sabiendo que la densidad del cloruro sódico
+(NaCl) es 2.16 g/cm3 podemos afirmar que la
+separación de equilibrio entre los iones 𝐍𝐚+ y
+𝐂𝐥− es:
+Datos: masa atómica Na=23; masa atómica Cl=35.4
+1. 282 pm.
+2. 0.320 nm.
+3. 0.124 nm.
+4. 36 angstroms.
+5. 67 ∙ 10−8 m.
+137. Un dipolo eléctrico con momento dipolar de
+magnitud 0.06 e∙nm forma un ángulo de 35º con
+un campo eléctrico uniforme de magnitud 103
+N/C. Determine la magnitud del momento del
+par que actúa sobre el dipolo:
+1. 2.26x10-27 N∙m
+2. 3.32x10-27 N∙m
+3. 5.51x10-27 N∙m
+4. 6.73x10-27 N∙m
+5. 7.87x10-27 N∙m
+138. El uranio natural es una mezcla de los isótopos
+U-238 (99.28%, T =4.47x𝟏𝟎𝟗 años) y U-235
+1/2
+(0.72%, T =7.04x𝟏𝟎𝟗 años). ¿Cuál es la edad
+1/2
+del sistema solar si se supone que en su creación
+- 1
+ambos isótopos estaban presentes en la misma
+cantidad?:
+1. 1.4x109 años
+2. 3.02x1014 años
+3. 5.91x109 años
+4. 6000 años
+5. 8.45x109 años
+139. Siendo E la energía cinética y E la energía
+kin pot
+potencia, en una órbita circular de Bohr se tiene
+que:
+1. E = E
+kin pot
+2. E = ̶ E
+kin pot
+3. E = ̶ 2∙E
+pot kin
+4. E = 2∙E
+pot kin
+5. 2∙E = E
+pot kin
+140. Un transmisor de radio de 1000 watios transmi-
+te a máxima potencia operando a una frecuen-
+cia de 880 kc/s. ¿Cuántos fotones emite por
+segundo?:
+1. 3.38 x 1029
+2. 1.71 x 1030
+3. 5.83 x 1028
+4. 6.63 x 1034
+5. 8.80 x 1032
+141. Dado un material de espesor 1 mm y densidad
+1.2 g/cm3 con coeficientes másicos de atenuación
+y absorción 8.1 cm2/g y 6.2 cm2/g respectiva-
+mente para fotones de 100 keV de energía. De-
+terminar la proporción de fotones de dicha
+energía que atraviesan dicho material sin inter-
+accionar cuando el haz incide perpendicular-
+mente sobre él:
+1. 37.8 %
+2. 47.5 %
+3. 21.2 %
+4. 74.4 %
+5. 97.2 %
+142. Un fotón de 1.332 MeV procedente de un núcleo
+de Co-60 ha sido dispersado por un electrón un
+ángulo de 140º tras sufrir un proceso Compton.
+¿Cuál es la energía de retroceso adquirida por
+el electrón?:
+1. 1.094 MeV
+2. 0.238 MeV
+3. 1.332 MeV
+4. -0.547 MeV
+5. 0.000 MeV
+143. La serie radiactiva del Thorio empieza con el
+Th232 y finaliza con el Pb208. ¿Podría indicar
+90 82
+cuantas desintegraciones alfa y/o beta ocurren
+en la serie?:
+1. 4 α y 4 β
+2. 6 α y 4 β
+15 -
+3. 6 α y 6 β
+4. No se puede determinar.
+5. Imposible de determinar pero siempre habrá
+más β que α.
+144. Calcular la energía cinética máxima de los posi-
+trones emitidos en la desintegración,
+15O → 15N + 𝐞++ 𝛖
+𝐞
+Sabiendo que se trata de núcleos espejo y que
+R=r A1/3 = 1.45 ∙𝟏𝟎−𝟏𝟓 A1/3 m:
+0
+1. 5.43 MeV
+2. 3.624 MeV
+3. 1.81 MeV
+4. 4.27 MeV
+5. 0.511 MeV
+145. Determinar el umbral de la reacción 32S(n,p)32P
+sabiendo que M(32S)=31.972071 u,
+M(n)=1.008645 u, M(p)= 1.007825 u,
+M(32P)=31.973907 u:
+1. 0.9464 MeV
+2. 0.9762 MeV
+3. -0.9464 MeV
+4. -0.9762 MeV
+5. 0.0011 MeV
+146. Sabiendo que el rango de un protón en agua
+líquida es de 0.1230 cm, determinar el rango de
+un deuterón en el mismo material si incide con
+la misma energía cinética:
+1. 0.1230 cm
+2. 0.0615 cm
+3. 0.2460 cm
+4. 0.0000 cm
+5. 0.4920 cm
+147. Un haz de electrones, inicialmente de 16 MeV,
+atraviesa un cierto espesor de plomo (Z =
+plomo
+82). Calcular la energía crítica de este haz en
+dicho medio:
+1. 0.1025 MeV
+2. 0.12 MeV
+3. 9.76 MeV
+4. 12.76 MeV
+5. 11.71 MeV
+148. ¿Mediante qué vía de desintegración el núcleo
+de 𝟕𝑩𝒆 pasa a 𝟕𝑳𝒊?:
+𝟒 𝟑
+Datos: masa atómica del 𝟕𝑩𝒆 : 7,016928 uma; masa atómica
+𝟒
+del 𝟕𝑳𝒊 : 7,016003 uma
+𝟑
+1. Mediante desintegración 𝛽+ y mediante Cap-
+tura Electrónica, ya que en ambas desintegra-
+ciones el balance energético es positivo.
+2. Mediante desintegración 𝛽− y mediante Cap-
+tura Electrónica, ya que en ambas desintegra-
+ciones el balance energético es positivo.
+3. Sólo mediante Captura Electrónica, ya que el
+- 1
+balance energético de la desintegración 𝛽+en
+este caso es negativo.
+4. Sólo mediante desintegración 𝛽+, ya que el
+balance energético de la Captura Electrónica
+en este caso es negativo.
+5. El núcleo de 7𝐵𝑒 es un núcleo estable y no se
+4
+desintegra.
+149. El momento cuadrupolar eléctrico de un núcleo
+(Q ) se puede expresar en función del momento
+J
+cuadrupolar intrínseco (Q ) como:
+0
+1. Q (2J-1)/(2J+2)
+0
+2. Q (2J-3)/(2J+2)
+0
+3. Q (2J+2)/(2J-3)
+0
+4. Q (2J-3)x(2J+2)
+0
+5. Q (2J-1)/(J+1)
+0
+150. La pérdida de energía por unidad de longitud
+de una partícula cargada pesada al atravesar
+un medio:
+1. Depende linealmente de la carga de la partí-
+cula y es inversamente proporcional al cua-
+drado de su velocidad.
+2. Depende del cuadrado de la carga de la partí-
+cula y es inversamente proporcional a su ve-
+locidad.
+3. Depende del cuadrado de la carga de la partí-
+cula y es directamente proporcional al cua-
+drado de su velocidad.
+4. Es inversamente proporcional al cuadrado de
+su velocidad, depositando una gran cantidad
+de dosis al final de su rango.
+5. Es inversamente proporcional al cuadrado de
+su velocidad, depositando una gran cantidad
+en el momento de penetrar el medio.
+151. El Actinio 226 tiene tres vías de desintegración:
+β- (con branching ratio BR, β-=83% y periodo
+de semidesintegración parcial T , β-=35h),
+1/2
+captura electrónica (BR, 𝛆 17% y T , 𝛆=170h)
+1/2
+y 𝛂 (BR, 𝛂=0.006% y T , 𝛂=55a). ¿Cuál es el
+1/2
+periodo de semidesintegración del 226 Ac?:
+1. 55 a
+2. 18.3 a
+3. 3.6 d
+4. 1.2 d
+5. 23 h
+152. Indique cuál de las siguientes expresiones es
+INCORRECTA respecto a la teoría de la cavi-
+dad de Bragg-Gray (B-G):
+1. La cavidad debe ser lo suficientemente pe-
+queña para que no se perturbe apreciablemen-
+te el campo de partículas cargadas.
+2. La dosis absorbida en la cavidad se deposita
+totalmente por las partículas cargadas que la
+atraviesan.
+3. La teoría de B-G es la base de la dosimetría
+con cámaras de ionización.
+4. La teoría de B-G no puede aplicarse a cavida-
+16 -
+des rellenas de sólido o líquido, solamente es
+válida si la cavidad está rellena de un gas.
+5. La teoría de B-G asume que la fluencia es
+continua a través de la interfaz de la cavidad
+con el medio.
+153. En un generador de 99Mo->99mTc, después de
+cada una de las extracciones de tecnecio, el
+tiempo de acumulación rápida del hijo (99mTc)
+en el generador es aproximadamente igual al
+tiempo en el cual la actividad del hijo alcanza su
+máximo. Dicho tiempo puede aproximarse por:
+Datos: El branching ratio de la desintegración 99Mo->99mTc
+es 86 %. T (99Mo->99mTc)=77.56 h. 𝐓 (99mTc->99Tc)=6.03 h
+1/2 1/2
+1. 4∙T del hijo.
+1/2
+2. T del hijo.
+1/2
+3. T del padre.
+1/2
+4. 0.7∙T del hijo.
+1/2
+5. 2∙T del padre.
+1/2
+154. Identificar la afirmación correcta:
+1. Los mesones interaccionan mediante la fuerza
+débil e interacción fuerte, mientras que los
+bariones lo hacen únicamente con la fuerza
+electromagnética y la interacción fuerte.
+2. Los leptones tienen espín entero e interaccio-
+nan mediante todas las fuerzas.
+3. Los mesones tienen espín entero mientas que
+los bariones tienen espín semientero.
+4. Tanto mesones como los leptones interactúan
+por la interacción fuerte.
+5. Los leptones tienen tanto espín entero como
+semientero y los bariones espín semientero.
+155. La emisión de electrones por efecto fotoeléctrico
+presenta un potencial de frenado que varía
+linealmente con la frecuencia de los fotones
+incidentes. ¿Qué pendiente tiene?:
+Datos: h: constante de Plank; e: carga del electrón;
+m: masa del electrón
+e
+1. h/e
+2. he/m
+e
+3. m/h
+e
+4. h/m
+e
+5. Depende del material.
+156. El radio nuclear del 𝟏𝟑𝟑𝐂𝐬 en su estado base es
+𝟓𝟓
+aproximadamente igual a 4.8 fm. Entonces,
+asumiendo que la densidad nuclear es constan-
+te, una estimación razonable del radio nuclear
+del 𝟐𝟑𝟐𝐓𝐡 en su estado base es, en fm, aproxi-
+𝟗𝟎
+madamente igual a:
+1. 5.1
+2. 5.3
+3. 5.8
+4. 6.4
+5. 8.4
+157. El número medio de partículas alfa detectadas
+en un experimento es de 3 por minuto. Si el
+- 1
+número de partículas detectadas sigue la distri-
+bución de Poisson ¿cuál es la probabilidad de
+que se detecten menos de tres partículas en un
+minuto?:
+1. 22.4%
+2. 37.3%
+3. 42.3%
+4. 50.0%
+5. 64.7%
+158. La longitud de onda de la línea alfa de Lyman
+del átomo de hidrógeno es aproximadamente
+igual a 1.2 x 𝟏𝟎−𝟕 m. ¿Cuál es aproximadamen-
+te la longitud de onda, en metros, de esa misma
+línea para el positronio (formado por un posi-
+trón y un electrón)?:
+1. 0.6 x 10−10
+2. 2.4 x 10−4
+3. 1.2 x 10−7
+4. 2.4 x 10−7
+5. 0.6 x 10−7
+159. La función de onda (sin espín) de un electrón
+en el estado fundamental del átomo de hidró-
+geno es 𝝍(𝒓)= (𝝅 𝒂𝟑)−𝟏/𝟐 exp (-r/𝒂 ), donde r
+𝟎 𝟎
+es la distancia del electrón al núcleo y 𝒂 es el
+𝟎
+radio de Bohr. En tal caso, la probabilidad de
+encontrar al electrón a una distancia compren-
+dida entre r = 𝒂 y r = 1.01 𝒂 es aproximada-
+𝟎 𝟎
+mente igual a:
+1. 7.6 x 10−2
+2. 1.1 x 10−3
+3. 7.6 x 10−4
+4. 4.3 x 10−4
+5. 5.4 x 10−3
+160. Un electrón en el vacío, e inicialmente en reposo
+en la posición A, es acelerado hasta la posición
+B por un campo eléctrico correspondiente a una
+diferencia de potencial de 40 kV entre el punto
+A y B. Teniendo en cuenta que la energía de
+masa en reposo del electrón es de 511 keV, se
+deduce que la velocidad del electrón en B es r
+veces la velocidad de la luz, siendo r aproxima-
+damente igual a:
+1. 0.269
+2. 0.128
+3. 0.374
+4. 0.963
+5. 0.927
+161. Calcule la probabilidad de que un electrón de 1
+eV penetre en una barrera de potencial de 4 eV
+cuando la anchura de la barrera es de 2 Angs-
+troms:
+1. 0.084
+2. 0.026
+3. 0.302
+4. 0.403
+17 -
+5. 0.063
+162. El espectro de emisión de un cuerpo negro tiene
+un máximo a una frecuencia f. ¿Cómo varía
+dicha frecuencia con la temperatura T del
+cuerpo?:
+1. Crece exponencialmente con T.
+2. Crece linealmente con T.
+3. Es independiente de T.
+4. Disminuye con la inversa de T.
+5. Disminuye con la inversa de la exponencial
+de T.
+163. Una cavidad resonante de un acelerador de
+electrones tiene una frecuencia de resonancia de
+3 GHz y un factor de calidad de 2000. El ancho
+de banda a media potencia del resonador será:
+1. 1500 GHz.
+2. 1000 GHz.
+3. 1 GHz.
+4. 100 MHz.
+5. 1.5 MHz.
+164. Supongamos una partícula cuya función de
+onda tiene la siguiente expresión:
+𝚿(𝒙)=𝑨𝒆−𝒂𝒙𝟐
+¿Cuál es el valor de A si se normaliza esta fun-
+ción de onda?
+1. A = 1
+2𝑎
+2. A = ( )
+𝜋
+3. Esta función de onda no es normalizable.
+2𝑎 1/4
+4. A = ( )
+𝜋
+𝜋 1/2
+5. A = ( )
+𝑎
+165. Una partícula de spin ½ se encuentra en un
+estado descrito por el spinor
+𝟏+𝒊
+𝒙=𝑨( )
+𝟐
+donde A es una constante de normalización.
+¿Cuál es la probabilidad de encontrar la partí-
+𝟏
+cula con proyección del spin 𝑺 =− ħ?:
+𝒛 𝟐
+1. 1/6.
+2. 1/3.
+3. 1/2.
+4. 2/3.
+5. 1.
+166. Estimar el desplazamiento Doppler de una línea
+de emisión de longitud de onda 500 nm, emitida
+por argón (A=40, Z=18) a una temperatura de
+- 1
+300 K:
+1. 1.44x10-2 Angstrom
+2. 7.34x10-3 Angstrom
+3. 5.49x10-1 Angstrom
+4. 2.35x10-5 Angstrom
+5. 8.15x10-4 Angstrom
+167. Calcular el recorrido libre medio de un neutrón
+lento en agua, sabiendo que las secciones efica-
+ces totales del hidrógeno y oxígeno son 39∙
+𝟏𝟎−𝟐𝟒 cm2 y 4∙𝟏𝟎−𝟐𝟒 cm2, respectivamente:
+Dato: Número de Avogrado: 𝑵 =𝟔,𝟎𝟐𝟐∙𝟏𝟎𝟐𝟑𝒎𝒐𝒍−𝟏
+𝑨
+1. 0.696 cm
+2. 2.743 cm
+3. 0.365 cm
+4. 0.730 cm
+5. 0.637 cm
+168. Según la teoría supersimétrica, a la pareja su-
+persimétrica del fotón:
+1. Se le denomina superfotón y tiene espín 1.
+2. Se le denomina fotino y tiene espín 1.
+3. Se le denomina superfotón y tiene espín 0.
+4. Se le denomina fotino y tiene espín ½.
+5. No hay compañero supersimétrico del fotón.
+169. La configuración electrónica 1s22s22p5 corres-
+ponde al:
+1. O
+2. C
+3. F
+4. N
+5. Ne
+170. La longitud de onda térmica “de Broglie” para
+la molécula de hidrógeno a una temperatura de
+300 K, es del orden de:
+1. 10−4 cm
+2. 10−6 cm
+3. 10−8 cm
+4. 10−10 cm
+5. 10−12 cm
+171. Un haz láser de longitud de onda de 633 nm
+tiene una potencia de 3 mW. Si la sección trans-
+versal del haz es 3 mm2 e incide perpendicular-
+mente sobre una superficie con reflexión perfec-
+ta, ¿cuál es la presión que ejerce el haz sobre la
+superficie?:
+Datos: h = 6.63x10-34 J s, c=3x108 m/s
+1. 6.6x10−6 Pa
+2. 6.6x10−7 Pa
+3. 6.6x10−8 Pa
+4. 6.6x10−9 Pa
+5. 6.6x10−10 Pa
+172. Un electrón en un átomo de hidrógeno salta del
+nivel n = 5 a n = 3. ¿Se absorbe o se emite un
+18 -
+fotón en este proceso? ¿Cuál es la longitud de
+onda del fotón? ¿En qué intervalo del espectro
+electromagnético está el fotón: visible, ultravio-
+leta, o infrarrojo?:
+Datos: constante de Rydberg R = 1.09776x10-7 m-1
+1. Absorbido, 1280 nm, infrarrojos.
+2. Emitido, 605 nm, visibles.
+3. Emitido, 1280 nm, infrarrojos.
+4. Absorbido, 605 nm, visibles.
+5. Emitido, 605 nm, infrarrojos.
+173. Supóngase un electrón confinado en un pozo de
+potencial de barreras infinitas de lado 1Å y
+V =0. ¿Qué número de niveles energéticos posee
+0
+con energía menor que 1 KeV?:
+1. 8
+2. 230
+3. 2
+4. 14
+5. 5
+174. De las siguientes afirmaciones acerca del mesón
+Kº y del barión 𝚲º respectivamente, señalar la
+respuesta INCORRECTA:
+1. Carga eléctrica: Kº= 0 y Λº= 0
+2. Tiempos de vida en segundos: Kº del orden
+de 10-11 y Λº estable.
+3. Spín intrínseco: Kº= 0 y Λº= 1/2
+4. Paridad intrínseca: Kº= impar y Λº= par
+5. Extrañeza: Kº= +1 y Λº= -1
+175. Un detector de radiación registra 0.453 cuentas
+por segundo en promedio. ¿Cuál es la probabi-
+lidad de que registre 2 cuentas en cualquier
+intervalo de 1 segundo?:
+1. 0.0 %
+2. 98.9 %
+3. 13.5 %
+4. 28.8 %
+5. 6.5 %
+176. ¿Cuál es la desviación estadística de la tasa de
+desintegración de una fuente de 42K con una
+actividad de 37 Bq (1 nCi)? La fuente está en un
+contador con una eficiencia de detección del
+100% y se registra el número de cuentas en un
+intervalo de 1s. (Constante de desintegración
+del 42K; 𝛌 = 0.0559 h-1):
+1. 3.04 s-1
+2. 6.08 s-1
+3. 12.16 s-1
+4. 5.4 s-1
+5. 2.7 s-1
+177. Un detector de radiación se usa para contar las
+partículas emitidas por una fuente radiactiva.
+Se ha determinado con gran precisión que el
+valor medio de la tasa de recuento es de 20
+c/min. Calcular la probabilidad de que en la
+- 1
+próxima medida de 1 minuto, se obtengan 18
+cuentas:
+1. 5.3%
+2. 25.2%
+3. 8.4%
+4. 10.1%
+5. 64.2%
+178. A la temperatura ambiente, un semiconductor
+intrínseco tiene:
+1. Muchos huecos.
+2. Algunos electrones libres y ningún hueco.
+3. Algunos electrones libres y muchos huecos.
+4. Muchos electrones libres y ningún hueco.
+5. Ni huecos ni electrones libres.
+179. El sodio metálico cristaliza en estructura bcc,
+siendo el lado del cubo de 4.25x10-8 cm. Encon-
+trar la concentración de electrones de conduc-
+ción. Asumir un electrón de conducción por
+átomo:
+1. 5.2x1030 cm-3
+2. 2.6x1022 cm-3
+3. 3.4x1015 cm-3
+4. 7.5x1027 cm-3
+5. 1.8x1018 cm-3
+180. Un experimento tiene una tasa de media de
+conteo r de 103 cuentas/s, parte de la cual es
+debida al fondo. La tasa de conteo de fondo 𝒓
+𝑩
+es 900 cuentas/s. ¿Cuánto tiempo debe durar el
+intervalo de conteo para alcanzar una relación
+señal-ruido de 1? (la señal es el número de even-
+tos verdaderos durante el intervalo de conteo):
+1. 100 s
+2. 14 s
+3. 9 s
+4. 900 s
+5. 1000 s
+181. Indicar la respuesta INCORRECTA en relación
+al tiempo muerto, 𝝉, de un detector de radia-
+ción:
+Datos: n=tasa de sucesos real; m=tasa de detección.
+1. En el modo no-paralizable, la tasa de sucesos
+no detectados debido al tiempo muerto es
+mn𝜏.
+2. Si n<<1/ 𝜏, la tasa de detección es aproxima-
+damente la misma en los modos paralizable y
+no-paralizable.
+3. En un sistema paralizable, m(n) es una fun-
+ción monótona creciente.
+4. Si n=1/ 𝜏, la tasa de detección es mayor, en el
+modo no-paralizable.
+5. En el modo paralizable el tiempo muerto se
+incrementa si ocurre un suceso durante el in-
+tervalo en que el detector está inhábil.
+182. Indica la respuesta correcta acerca de una cá-
+19 -
+mara de ionización:
+1. En el caso de iones en un gas, la movilidad
+varía significativamente con el campo eléctri-
+co.
+2. El tiempo en el que un ión recorre un detector
+de un centímetro es del orden de microsegun-
+dos.
+3. La velocidad de deriva de los iones aumenta
+con la presión del gas.
+4. En ciertos gases, existe un efecto de satura-
+ción en la velocidad de deriva de los electro-
+nes.
+5. La movilidad de los electrones es aproxima-
+damente 1000 veces inferior a la de los iones.
+183. La pérdida de energía por unidad de distancia
+de una partícula cargada en un medio material
+es:
+1. Aproximadamente proporcional al cuadrado
+de la velocidad.
+2. Inversamente proporcional al cubo de la velo-
+cidad.
+3. Proporcional a la carga de la partícula.
+4. Inversamente proporcional al cuadrado de la
+carga de la partícula.
+5. Inversamente proporcional al cuadrado de la
+velocidad.
+184. Muchos materiales no conductores se ionizan en
+campos eléctricos muy altos y se convierten en
+conductores. Este fenómeno se denomina:
+1. Efecto Hall.
+2. Efecto Stark.
+3. Ruptura dieléctrica.
+4. Superconductividad.
+5. Semiconducción.
+185. Calcular la energía prohibida de superconduc-
+ción del mercurio (Tc=4.2K) pronosticada por
+la teoría BCS:
+1. 5.43x10−4 eV
+2. 7.24x10−4 eV
+3. 1.09x10−3 eV
+4. 1.27x10−3 eV
+5. 1.63x10−3 eV
+186. El que un cristal carezca de un centro de sime-
+tría:
+1. Es condición necesaria para que el cristal sea
+ferroeléctrico.
+2. Es condición suficiente para que el cristal sea
+ferromagnético.
+3. Es condición necesaria y suficiente para que
+el cristal sea ferroeléctrico.
+4. No tiene relación alguna con que el material
+pueda exhibir comportamiento ferroeléctrico.
+5. Implica que el cristal tiene un punto de fusión
+alto.
+- 2
+187. Un “calibrador de dosis” es un detector de
+geometría tipo pozo empleado en las radiofar-
+macias de las Unidades de Medicina Nuclear.
+Consideremos uno con diámetro de apertura 4
+cm y una muestra puntual que se coloca a 10 cm
+de profundidad en el pozo. Su eficiencia geomé-
+trica de detección será:
+1. 0.96
+2. 0.01
+3. 0.99
+4. 0.49
+5. 0.90
+188. El fenómeno de ruptura Zener puede suceder
+en una unión PN cuando:
+1. La polarización directa es suficientemente
+elevada para provocar gran número de re-
+combinaciones entre portadores.
+2. La polarización directa es suficientemente
+elevada para atravesar la barrera de potencial
+existente en la región de depleción.
+3. La polarización inversa es suficientemente
+elevada como para permitir la generación de
+portadores en la región de depleción.
+4. La polarización inversa y la concentración de
+donadores y aceptores a ambos lados de la
+unión es tal que el ancho de la misma se re-
+duce hasta permitir el paso de portadores por
+efecto túnel.
+5. La polarización inversa es tal que permite
+generar nuevos portadores por colisiones con
+el cristal, en un fenómeno que crece en ava-
+lancha.
+189. Un haz de partículas alfa produce una corriente
+de 10-14 A en una cámara de ionización plano-
+paralela, durante un periodo de tiempo de 8
+segundos. El gas de llenado de la cámara es
+aire, que se encuentra en condiciones normales
+de presión y temperatura. Calcular la energía
+depositada por el haz en la cámara:
+Datos: Tomar el valor de la energía media de ionización de
+las partículas alpha en aire como 36 eV/par
+1. 0.5 MeV
+2. 18 MeV
+3. 0.0139 MeV
+4. 2.26 MeV
+5. 15 MeV
+190. En un material semiconductor intrínseco con
+una densidad de átomos de 5x1022 at/cm3 y a
+una temperatura tal que el número de huecos
+por cm3 es 5x1010, ¿cuánto es el número de elec-
+trones libres por cm3?:
+1. 10-12
+2. 1012
+3. 0
+4. 5x1010
+5. 25x1032
+20 -
+191. La probabilidad de ocupación de los niveles de
+energía por portadores en un semiconductor:
+1. Viene dada por la función de Fermi, represen-
+tando la energía de Fermi (E ) aquélla para la
+F
+que la probabilidad de ocupación es del 50%.
+2. Es independiente de la temperatura del cristal.
+3. Viene dada por la función de Fermi, represen-
+tando la Energía de Fermi (E ) aquélla para la
+F
+que la probabilidad de ocupación es nula.
+4. Para energías superiores a la Energía de Fer-
+mi (E> E +3kT), aumenta exponencialmente.
+F
+5. La probabilidad de ocupación es constante a
+lo ancho del gap hasta que se aplique un
+campo eléctrico.
+192. Un transistor bipolar con sus dos uniones p-n
+directamente polarizadas opera en la zona de:
+1. Corte.
+2. Zener.
+3. Activa.
+4. Lineal.
+5. Saturación.
+193. Indique cual de las siguientes afirmaciones
+sobre el nivel de Fermi, E , de un semiconduc-
+F
+tor NO es correcta:
+1. Representa la energía para la cual la probabi-
+lidad de encontrar un electrón en ese nivel es
+0.5.
+2. A temperaturas altas (rango extrínseco) el
+nivel de Fermi se encuentra muy cerca de la
+banda de conducción o de la banda de valen-
+cia.
+3. A T = 0 K todos los niveles por debajo de E
+F
+están ocupados.
+4. La probabilidad de ocupación de niveles su-
+periores a E es inferior a 0.5 para todas las
+F
+temperaturas.
+5. Depende mucho de las características del
+semiconductor y de factores externos como la
+temperatura.
+194. En un cristal semiconductor y respecto a las
+propiedades de los portadores:
+1. Los electrones y los huecos tienen ambos
+masa idéntica.
+2. Los electrones y los huecos tienen ambos
+masa efectiva idéntica.
+3. La masa efectiva de los electrones es igual a
+la masa de los electrones y la de los huecos es
+nula.
+4. Electrones y huecos tienen valores de masa
+efectiva independiente del cristal semicon-
+ductor considerado.
+5. La masa efectiva de los electrones y huecos
+depende de la estructura cristalina del semi-
+conductor.
+195. En su utilización como detectores de fotones, los
+cristales centelleadores se acoplan a detectores
+- 2
+de luz que transforman los fotones visibles en
+señal. ¿Cuál de los siguientes NO se puede utili-
+zar como detector de luz?:
+1. Fotodiodos convencionales (PD).
+2. Fotomultiplicadores de silicio (SiPM).
+3. Fotodiodos de avalancha (APD).
+4. Fotodetectores de trifluoruro de boro (PBF ).
+3
+5. Fotomultiplicadores (PM).
+196. Una memoria ROM:
+1. Se usa para almacenar datos de forma perma-
+nente.
+2. Pierde su información cuando se apaga su
+alimentación.
+3. Es reprogramable mediante luz ultravioleta.
+4. Se puede borrar mediante luz polarizada.
+5. No se puede construir con tecnología CMOS.
+197. Un circuito modulador:
+1. Tiene un comportamiento no lineal.
+2. Sólo se puede construir con transistores BJT.
+3. No existen comercialmente como circuitos
+integrados.
+4. Se emplea para variar la tensión de alimenta-
+ción de un amplificador.
+5. Genera a su salida una frecuencia igual al
+producto de las de entrada.
+198. En un amplificador en emisor común la señal de
+alterna se acopla:
+1. Al colector y la de salida está en la base.
+2. Al emisor y la de salida está en la base.
+3. Al emisor y la de salida está en el colector.
+4. A la base y la salida está en el emisor.
+5. A la base y la de salida está en el colector.
+199. La impedancia característica para líneas de
+transmisión sin pérdidas:
+1. Depende de la raíz cúbica de la resistencia.
+2. Depende de la raíz cúbica de la inductancia.
+3. Es puramente resistiva.
+4. Es puramente capacitiva.
+5. Es puramente inductiva.
+200. Un optoacoplador:
+1. Está formado por un fotodiodo a la entrada y
+un LED a la salida.
+2. Genera una tensión de salida igual a la ten-
+sión de alimentación más la tensión de salida
+en su resistencia interna.
+3. Combina un diodo LED y un fotodiodo en un
+mismo encapsulado.
+4. Amplifica la luz que le llega en su entrada.
+5. No tiene aislamiento galvánico.
+201. La figura de ruido en un amplificador:
+1. Se expresa en dB.
+21 -
+2. No depende de la frecuencia de la señal de
+entrada.
+3. No depende de la resistencia de fuente.
+4. No depende de la corriente de colector.
+5. Puede tomar valores negativos.
+202. Para el funcionamiento de una puerta lógica
+inversora, la señal de RESET:
+1. Sólo es necesaria en tecnología Complemen-
+tary Metal Oxide Semiconductor.
+2. Requiere de un tren de pulsos.
+3. Se suele conseguir con resistencias y conden-
+sadores.
+4. Requiere el uso imprescindible de un disposi-
+tivo semiconductor.
+5. Sólo es necesaria en tecnología Transistor
+Transistor Logic.
+203. Un display LED de 7 segmentos:
+1. Usa fotodiodos para mostrar los caracteres.
+2. No puede mostrar letras.
+3. Sólo puede mostrar números en base binaria.
+4. Puede mostrar números del 0 al 15 en base
+hexadecimal.
+5. No puede mostrar números de la base octal.
+204. La capacidad de transmisión de un enlace digi-
+tal (en bits/s) para un sistema transmisor de una
+señal de potencia S, en un canal que introduce
+una potencia de ruido N y para un ancho de
+banda de transmisión B, viene dada por:
+1. 𝐶 =𝐵 log (1+𝑆−𝑁)
+2
+𝑆
+2. 𝐶 =𝐵 log (1+ )
+2 𝑁
+1+𝑆
+3. 𝐶 =2 𝐵 log ( )
+10 1+𝑁
+1+𝑆2
+4. 𝐶 =𝐵 log ( )
+10 1+𝑁2
+1+𝑆
+5. 𝐶 =3.32 𝐵 log ( )
+10 1+𝑁
+205. Un analizador multicanal:
+1. Clasifica y almacena los pulsos que le llegan
+en función de su amplitud.
+2. Clasifica y almacena los pulsos que le llegan
+en función del instante de llegada.
+3. Basa su funcionamiento en un conversor digi-
+tal analógico.
+4. Basa su funcionamiento en un conversor
+tiempo a digital.
+5. Tiene una ganancia de conversión menor que
+la unidad.
+206. En un decodificador de 4 bits hay:
+1. 4 bits de entrada y 4 bits de salida.
+2. 2 bits de entrada y 2 bits de salida.
+3. 16 bits de entrada y 2 bits de salida.
+- 2
+4. 16 bits de entrada y 4 bits de salida.
+5. 4 bits de entrada y 16 bits de salida.
+207. Un circuito combinacional que posee n canales
+de entrada, uno de salida y m entradas de selec-
+ción siendo n=2m permitiendo elegir cuál es el
+canal de entrada cuya información aparece en
+la salida se denomina:
+1. Codificador de prioridad.
+2. Codificador.
+3. Demultiplexor.
+4. Multiplexor.
+5. Decodificador.
+208. La representación de 640000 bytes en su valor
+hexadecimal es:
+1. A2121
+2. 8FC49
+3. FFFFF
+4. 9C400
+5. 65342
+209. A altas frecuencias la ganancia de un circuito
+con una única constante de tiempo y con una
+respuesta en frecuencia del tipo paso-baja cae
+en la proporción de:
+1. 2 dB/octava
+2. 10 dB/década
+3. 20 dB/década
+4. 12 dB/octava
+5. 40 dB/década
+210. La expresión correspondiente a una señal sinu-
+soidal de voltaje de 0.2 V de pico-pico y 1000
+rad/s de frecuencia es:
+1. 0.2 ∙sen(2π x 1000𝑡),V
+2. 0.1 ∙sen(2π x 1000𝑡),V
+3. 0.2 ∙sen(1000𝑡),V
+4. (0.2)1/2 ∙sen(2π x 1000𝑡),V
+5. 0.1 ∙sen(1000𝑡),V
+211. La corriente que circula por un diodo LED es:
+1. Proporcional a la intensidad de luz que incide
+sobre el mismo.
+2. Inversamente proporcional a la intensidad de
+luz que incide sobre el mismo.
+3. Proporcional al gradiente de luz que incide
+sobre el mismo.
+4. Proporcional a la intensidad de luz emitida.
+5. Inversamente proporcional a la intensidad de
+luz emitida.
+212. ¿Cuántos bits se requieren para representar un
+número hexadecimal?:
+1. 16.
+2. 8.
+3. 3.
+4. 4.
+22 -
+5. 2.
+213. Para utilizar un transistor bipolar como un
+dispositivo básico para la amplificación de seña-
+les, éste se debe polarizar en su zona de:
+1. Corte.
+2. Saturación.
+3. Triodo.
+4. Ruptura.
+5. Activa.
+214. Si A=1, B=1 y C=0, la expresión booleana 𝑩̅ +
+B ∙(𝑪+ 𝑨̅) coincide con:
+1. 𝐵̅̅̅∙̅̅𝐶̅
+2. 𝐵̅ + C
+3. 𝐴̅
+4. 1
+5. 0
+215. Los mapas de Karnaugh constituyen una técni-
+ca de utilidad para:
+1. Estudiar la estabilidad de sistemas electróni-
+cos.
+2. Simplificar expresiones booleanas.
+3. Analizar la respuesta en frecuencia de filtros.
+4. Diseñar filtros analógicos de orden superior.
+5. Simular el comportamiento de circuitos digi-
+tales.
+216. En un conjunto de 10 átomos de 42K ¿cuál será
+la probabilidad de que los átomos 1, 3 y 8 de-
+caigan en 3 h?:
+Datos: constante de desintegración 𝛌 = 0.0559 h-1
+1. 0.00365
+2. 0.154
+3. 0.603
+4. 0.845
+5. 0.062
+217. Un protón acelerado a una determinada energía
+tiene una probabilidad P=1/4 de interaccionar
+con un blanco dado. Si un paquete de 4 proto-
+nes incide sobre el blanco ¿cuál es la probabili-
+dad de que 2 protones interaccionen con dicho
+blanco?:
+1. 1/128
+2. 108/128
+3. 81/128
+4. 54/128
+5. 27/128
+218. Una serie de 100 medidas de una cantidad física
+muestra una fluctuación estadística caracteri-
+zada por una varianza muestral del valor medio
+del 2%. Si la serie de medidas se amplía a 1000
+medidas, hechas en las mismas condiciones,
+estimar la varianza muestral del valor medio de
+la muestra ampliada:
+- 2
+1. 0.12
+2. 0.005
+3. 0.025
+4. 0.0063
+5. 1.2
+219. Una urna contiene 12 bolas rojas y 8 negras, y
+se extraen sucesivamente 4 bolas. Hallar la
+probabilidad de que las 4 sean rojas si después
+de cada extracción la bola escogida no se de-
+vuelve a la urna :
+1. 4/20
+2. 81/625
+3. 42/387
+4. 67/505
+5. 33/323
+220. En una línea hay cinco canicas rojas, dos blan-
+cas y tres azules. Si las canicas del mismo color
+no pueden diferenciarse entre sí, ¿cuántos arre-
+glos diferentes se pueden hacer?:
+1. 3980
+2. 2520
+3. 5040
+4. 1260
+5. 1750
+221. Si la probabilidad de que una persona tenga
+una mala reacción a la inyección de determina-
+do suero es 0.001, determine la probabilidad de
+que cada 2000 individuos más de 2 individuos
+tengan una mala reacción:
+1. 0.270
+2. 0.323
+3. 0.667
+4. 0.135
+5. 0.112
+222. Una variable aleatoria X sigue una distribución
+exponencial de parámetro 𝛃, siendo 𝛃 un núme-
+ro real mayor que cero. La media y la varianza
+de la distribución serán respectivamente (señale
+la respuesta correcta):
+1. β y β al cuadrado
+2. β al cuadrado y β
+3. β y β
+4. β y β al cubo
+5. β al cubo y β
+223. 𝒅𝒛
+Resolver la integral ∫ , donde 𝜸 es círculo
+𝜸 𝐬𝐢𝐧𝟑𝒛
+orientado positivamente {|𝒛|=𝟏}:
+1. 𝜋𝑖
+2. - 𝜋𝑖
+3. 2𝜋𝑖
+1
+4. 𝜋𝑖
+2
+5. 2𝜋
+224. Sabiendo que la función gamma para argumen-
+23 -
+to 1/2 es 𝚪(1/2) = √𝝅 se deduce que 𝚪(5/2) es
+igual a:
+1. 3√𝜋/4
+2. √𝜋/2
+3. √𝜋/4
+4. 3√𝜋/2
+5. 5√𝜋/2
+225. Para valores de x cercanos a cero, la función
+f(x)=𝒆𝒙𝒑(−𝒙)/(𝟏−𝒙𝟐) puede aproximarse
+por la expresión A + B x donde:
+1. A=0, B=1
+2. A=1, B=1
+3. A=1, B= ̶ 1
+4. A=1, B=0
+5. A= ̶ 1, B=0
+226. El valor de la integral de 0 a infinito de la fun-
+ción (x6 + 1)-1 dx es (seleccione la respuesta co-
+rrecta):
+1. 𝜋
+2. 𝜋/2
+3. 𝜋/3
+4. 𝜋/4
+5. 𝜋/5
+227. ¿De cuántos modos se pueden ordenar las letras
+de la palabra “ACELERADOR”:
+1. 22680
+2. 453600
+3. 1814400
+4. 3628800
+5. 907200
+228. Señalar la respuesta correcta respecto a las
+propiedades de las matrices (considerar A y B
+dos matrices genéricas de dimensión NxN):
+1. A∙𝐵 =𝐵∙𝐴
+2. (𝐴∙𝐵)𝑇 = 𝐵𝑇 ∙𝐴𝑇
+3. A = 1 ∙(𝐴+𝐴−1)+1 ∙(𝐴−𝐴−1)
+2 2
+4. (𝐴∙𝐵)−1 = 𝐴−1∙𝐵−1
+5. 𝐴−1∙𝐴∙𝐵 =𝐴−1∙𝐵+𝐴∙𝐵
+229. Calcular el rango de la matriz A:
+1 1 0 −2
+𝐴=[2 0 2 2]
+4 1 3 1
+1. rango (A) = 4
+2. rango (A) = 1
+3. rango (A) = 3
+4. rango (A) = 3x4
+5. rango (A) = 2
+- 2
+230. La aproximación de Stirling al logaritmo natu-
+ral de factorial de x, cuando x es grande, es:
+1. ln (x!) ≈ x! ln (x) - x
+2. ln (x!) ≈ x! ln (x)
+3. ln (x!) ≈(ln (x))/x
+4. ln (x!) ≈ x ln (x) - x
+5. ln (x!) ≈ x ln (x) + x!
+231. La suma de la serie y=1+2x+3x2+4x3+… para
+x=0.25 tiene el valor:
+1. 1.777
+2. 1.911
+3. 1.709
+4. 1.888
+5. 1.966
+232. La solución a la ecuación diferencial y’’-10y’-
+11y=0 con condiciones iniciales y(0)=1; y’(0)=-1
+es:
+1. exp(-11x)
+2. exp(-x)+exp(-11x)
+3. exp(-x)
+4. exp(11x)
+5. exp(x)
+233. Si representamos gráficamente el conjugado de
+1+i, ¿en qué cuadrante lo situaríamos?:
+1. Superior izquierdo.
+2. Superior derecho.
+3. Inferior derecho.
+4. Inferior izquierdo.
+5. No se puede representar.
+234. Resuelva la ecuación x4 = 1:
+1. x = 1, x = x = x = 0
+1 2 3 4
+2. x = i, x = 1, x = x = 1
+1 2 3 4
+3. x = x = x = x = 1
+1 2 3 4
+4. x = 1, x = i, x = x = -1
+1 2 3 4
+5. x = 1, x = i, x = -1, x = -i
+1 2 3 4
+235. El Laplaciano del campo escalar 𝛗 = xy2z3 es:
+1. y2z3
+2. y2z3 + 2xyz3 + 3xy2z2
+3. 2xyz3 + 6xy3z
+4. y3z3 + 2xy2z3 + 3xy3z2
+5. 2xz3 + 6xy2z
+24 -

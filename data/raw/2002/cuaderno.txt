@@ -1,0 +1,2950 @@
+MINISTERIO DE EDUCACION, CULTURA Y DEPORTE
+MINISTERIO DE SANIDAD Y CONSUMO
+PRUEBAS SELECTIVAS 2001 - CONVOCATORIA ÚNICA -
+CUADERNO DE EXAMEN
+RADIOFÍSICOS
+ADVERTENCIA IMPORTANTE
+ANTES DE COMENZAR SU EXAMEN, LEA ATENTAMENTE LAS SIGUIENTES
+INSTRUCCIONES
+1. Compruebe que este Cuaderno de Examen lleva todas sus páginas y no tiene
+defectos de impresión. Si detecta alguna anomalía, pida otro Cuaderno de Examen a
+la Mesa.
+2. Sólo se valoran las respuestas marcadas en la “Hoja de Respuestas”, siempre que se
+tengan en cuenta las instrucciones contenidas en la misma.
+3. Compruebe que la respuesta que va a señalar en la “Hoja de Respuestas”
+corresponde al número de pregunta del cuestionario.
+4. La “Hoja de Respuestas” se compone de tres ejemplares en papel autocopiativo que
+deben colocarse correctamente para permitir la impresión de las contestaciones en
+todos ellos. Coloque las etiquetas identificativas en el espacio señalado para ellas.
+5. Si inutiliza su “Hoja de Respuestas” pida un nuevo juego de repuesto a la Mesa de
+Examen y no olvide consignar sus datos personales.
+6. Recuerde que el tiempo de realización de este ejercicio es de cinco horas
+improrrogables.
+7. Podrá retirar su Cuaderno de Examen una vez finalizado el ejercicio y hayan sido
+recogidas las “Hojas de Respuesta” por la Mesa.
+- 1 -
+1. Con respecto a las cantidades que se conservan
+en las interacciones fuerte, electromagnética y
+débil, ¿cuál de las siguientes afirmaciones es
+correcta?:
+1. El número leptónico muónico no se conserva
+en la interacción débil.
+2. El número bariónico únicamente se conserva
+en la interacción electromagnética.
+3. La magnitud del isospin se conserva en la
+interacción fuerte y no se conserva en las
+interacciones electromagnética y débil.
+4. La paridad se conserva en las tres
+interacciones.
+5. La conjugación de carga se conserva en las
+interacciones fuerte y débil y no se conserva
+en la interacción electromagnética.
+2. La radiación Cherenkov se debe a:
+1. La pérdida de energía y momento a través de
+la radiación de una partícula cargada
+moviéndose uniformemente en el vacío.
+2. La pérdida de energía y momento a través de
+la radiación de una partícula cargada
+moviéndose uniformemente en un medio de
+índice de refracción mayor que 1.
+3. La pérdida de energía y momento a través de
+la radiación de una partícula cargada
+moviéndose uniformemente en un medio con
+velocidad igual o mayor que la de la luz.
+4. Se debe a la emisión coherente de los dipolos
+formados por la polarización de los átomos del
+medio debido al movimiento de la partícula
+cargada.
+5. Las opciones 2, 3 y 4 son ciertas.
+3. Al bombardear un blanco de berilio Be9 con un
+4
+haz intenso de partículas alfa, se produce una
+reacción cuyo resultante es C12 y un haz de
+6
+radiación de un alto poder penetrante formado
+por:
+1. Partículas alfa.
+2. Rayos gamma.
+3. Partículas beta.
+4. Neutrones.
+5. Protones.
+4. La condición M(A,Z) > M(A, Z-1) + m
+e
+corresponde a:
+1. Decaimiento alfa.
+2. Decaimiento beta+.
+3. Decaimiento beta-.
+4. Captura electrónica.
+5. Aniquilación de pares.
+5. ¿Cuál de las siguientes afirmaciones es la
+correcta?:
+1. El electrón es un fermión, descrito por una
+- 2
+eigenfunción total simétrica y con spin ½.
+2. El positrón es un fermión, descrito por una
+eigenfunción total antisimétrica y spin cero.
+3. El muón es un fermión descrito por una
+eigenfunción total simétrica y spin ½.
+4. La partícula alfa es un bosón descrito por una
+función de onda simétrica y spin cero.
+5. El fotón es un bosón, descrito por una función
+de onda simétrica y spin cero.
+6. Con respecto al modelo atómico de Bohr
+indique cuál de las siguientes afirmaciones es
+FALSA:
+1. El radio de la órbita circular descrita por un
+electrón alrededor del núcleo es proporcional
+al cuadrado del número cuántico n.
+2. En el modelo atómico de Bohr no está
+permitido que el número cuántico tome el
+valor n = 0.
+3. Para valores grandes de Z la velocidad del
+electrón se hace relativista y en estos casos no
+es posible aplicar el modelo de Bohr.
+4. La cuantización del impulso angular orbital
+del electrón conduce a una cuantización de su
+energía total.
+5. Cuando un electrón atómico se mueve en una
+de sus órbitas permitidas, irradia energía
+electromagnética.
+7. Con respecto a los modelos nucleares indicar
+cuál de las siguientes afirmaciones es FALSA:
+1. El modelo de la gota supone que los núcleos
+poseen densidades de masa similares.
+2. El modelo de la gota supone que los núcleos
+poseen energías de enlace casi proporcionales
+a sus masas.
+3. El modelo del gas de Fermi supone que los
+nucleones se mueven independientemente en
+el potencial nuclear neto.
+4. El modelo de capas supone que los nucleones
+se mueven independientemente en el potencial
+nuclear neto, con un fuerte acoplamiento spin-
+órbita invertido.
+5. El modelo colectivo supone que los nucleones
+en las subcapas no llenas de un núcleo, se
+mueven independientemente en un potencial
+nuclear neto esféricamente simétrico
+producido por la coraza de subcapas llenas.
+8. Durante una dispersión Compton se encontró
+que el electrón tenía una energía de 75 keV y el
+fotón de 200 keV. ¿Cuál era la longitud de onda
+inicial del fotón en angstroms? (h=6.62.10-34J.s,
+c=3.188m/s, q=1.6.10-19C).:
+e
+1. 0.16
+2. 0.52
+3. 0.045
+4. 0.062
+5. 0.45
+2 -
+9. Entre los productos radiactivos que se emiten
+en un accidente nuclear están el 131I (T = 8 días)
+y el 137Cs (T = 30 años). Hay unas cinco veces
+más átomos de 137Cs que de 131I producidos en la
+fisión. ¿Al cabo de cuánto tiempo a partir del
+accidente tendrán la misma actividad?:
+1. 3159 d.
+2. 64.6 d.
+3. 88725 d.
+4. 83.1 d.
+5. 114151 d.
+10. Una especie radiactiva X se desintegra en otra
+1
+X . Suponiendo que en el instante inicial no hay
+2
+ningún núcleo de la especie radiactiva X , el
+2
+tiempo para el cual la actividad del segundo
+radionucleido es máxima viene dado por:
+1. ln ((cid:1) -(cid:1) ) / ((cid:1) -(cid:1) ).
+1 2 1 2
+2. ln ((cid:1) /(cid:1) ) / ((cid:1) -(cid:1) ).
+1 2 1 2
+3. ln ((cid:1) /(cid:1) ) / ((cid:1) -(cid:1) ).
+1 2 2 1
+4. (cid:1) ln ((cid:1) -(cid:1) ) / ((cid:1) ).
+2 2 1 1
+5. (cid:1) ln ((cid:1) /(cid:1) ) / ((cid:1) ).
+1 1 2 2
+11. ¿Qué proporción de 235U estaba presente en una
+roca formada hace 5.199 años (edad de la tierra)
+sabiendo que la proporción actual es de 1/140?
+(T =7.2.108 años, T =4.5.109 años):
+235 238
+1. 1/2.45
+2. 1/12.5
+3. 1/20
+4. 1/5.5
+5. 1/1.40
+12. El 238Pu es un emisor (cid:1) de 86 años de periodo de
+semidesintegración. Si el valor Q de esta
+desintegración es 5.6 MeV, la potencia por
+gramo que se puede obtener de este elemento es
+(h = 1.6 x 10-19 J/ev):
+1. 0.6 W/g.
+2. 3.36x1018 W/g.
+3. 0.96 W/g.
+4. 3.36x1018 MeV/g s.
+5. 3.36 W/g.
+13. ¿Cuál de los siguientes radionucleidos puede
+presentar simultáneamente captura electrónica
+y emisión (cid:2)-?:
+1. I-128 (Z=53).
+2. Xe-127 (Z=54).
+3. Te-126 (Z=52).
+4. I-125 (Z=53).
+5. Te-125 (Z=52).
+14. La conversión interna es un proceso
+electromagnético que compite con la emisión
+gamma. ¿Cuál de las siguientes afirmaciones es
+- 3
+verdadera para dicho proceso?:
+1. Es un proceso en dos etapas: emisión de un
+fotón que luego golpea a un electrón orbital
+arrancándolo.
+2. Es más importante para núcleos ligeros que
+para núcleos pesados.
+3. Su probabilidad es tanto mayor cuanto mayor
+sea la energía de la transición.
+4. Los coeficientes de conversión aumentan
+rápidamente con el orden multipolar.
+5. Los coeficientes de conversión son mayores
+para la capa L que para la capa K.
+15. ¿Cuál de los siguientes radionucleidos presenta
+el esquema de niveles más bajos más similar
+(energías, espín y paridad) al del Ca-41
+(Z=20)?:
+1. K-39 (Z=19).
+2. V-51 (Z=23).
+3. Ca-45 (Z=20).
+4. Mn-53 (Z=25).
+5. Co-55 (Z=27).
+16. Lanzamos un haz de protones contra un
+objetivo fijo constituido por hidrógeno, con el
+fin de obtener antiprotones p* (p + p(cid:3)p + p + p
++ p*). Para que esta reacción sea posible, la
+energía cinética mínima de los protones usados
+como proyectiles es (m c2 es la energía en reposo
+p
+del protón):
+1. 0 eV.
+2. m c2.
+p
+3. (m c2)/2.
+p
+4. 1563 MeV.
+5. 6m c2.
+p
+17. ¿Cuál de los siguientes momentos
+electromagnéticos nucleares es siempre nulo?:
+1. dipolar magnético.
+2. Monopolar eléctrico.
+3. Cuadripolar eléctrico.
+4. Dipolar eléctrico.
+5. Octopolar magnético.
+18. De los gluones, como mediadores de interacción,
+se puede afirmar que:
+1. Tiene spin 0.
+2. Son fermiones.
+3. Hay 8.
+4. Son los cuantos del campo “sabor”.
+5. Un quark “up” puede transformarse en un
+quark “down” al emitir o absorber el gluón
+apropiado.
+19. ¿Cuál de las siguientes afirmaciones, relativas a
+las propiedades de las partículas elementales, es
+FALSA?:
+3 -
+1. El gravitón no tiene masa en reposo.
+2. El gravitón no tiene carga.
+3. El gravitón tiene spin s=1.
+4. Todos los neutrinos (electrónico, muónico y
+tauónico) y antineutrinos son estables.
+5. La partícula Z0 se desintegra en Z0 (cid:2) e- +e+.
+20. La supuesta unificación de las interacciones
+fundamentales fuerte, débil y electromagnética
+se sitúa en una escala de energías de:
+1. 1015 MeV.
+2. 1015 GeV.
+3. 1 GeV.
+4. 1010 GeV.
+5. Infinita.
+21. ¿Qué nombre recibe el único estado ligado
+estable de dos nucleones?:
+1. Mesón 2n.
+2. Muonio.
+3. Deuterón.
+4. Núcleo de He-2.
+5. Bosón Z0.
+22. ¿Qué propiedad tienen en común el quark d y el
+quark b?:
+1. Color.
+2. Spin isotópico.
+3. Masa.
+4. Carga.
+5. Belleza.
+23. La potencia emitida por un tubo de rayos X
+sometido a una diferencia de potencial U es
+proporcional a:
+1. U3.
+2. U.
+3. U3/2.
+4. U1/2.
+5. U2.
+24. El spin del neutrino es siempre antiparalelo a su
+impulso, es decir, su helicidad vale:
+1. 0.
+2. 1/2.
+3. –1/2.
+4. (cid:3).
+5. –1.
+25. Una captura electrónica:
+1. Es una interacción en la que un neutrón se
+transforma en un protón con la posterior
+emisión de un electrón.
+2. Es un proceso en el que la mayor parte de la
+energía disponible se emite en forma de
+- 4
+antineutrinos.
+3. Es un proceso en el que la mayor parte de la
+energía disponible se emite en forma de
+positrones.
+4. Es un proceso en el que la mayor parte de la
+energía disponible se emite en forma de
+neutrinos.
+5. Permite obtener un espectro continuo de
+partículas beta.
+26. Un haz de Rayos X de energía E y de intensidad
+incidente I , atraviesa un espesor x de cierto
+0
+tipo de material y se transmite una intensidad I.
+Se cumple que:
+1. I siempre es menor que I.
+0
+2. La relación entre I e I es lineal.
+0
+3. La relación entre I e I no depende de E.
+0
+4. La relación entre I e I sigue una ley
+0
+exponencial.
+5. La relación entre I e I no depende de x.
+0
+27. En el caso de interacciones de Rayos gamma de
+energías menores de 1 MeV, con materiales de Z
+elevado, el efecto predominante:
+1. Depende de la densidad másica del material.
+2. Es la producción de pares.
+3. Es el fotoeléctrico.
+4. No depende de la energía.
+5. Es el Compton.
+28. Al aumentar la sección de un haz de rayos X
+incidente en un medio de nº atómico Z la
+radiación dispersa:
+1. Crece para medios con Z > 30 y disminuye en
+el resto.
+2. No cambia.
+3. Crece para medios con Z > 30 y disminuye en
+el resto.
+4. Crece para todos los medios.
+5. Disminuye para todos los medios.
+29. El término de Coulomb de la fórmula
+semiempírica de masas es proporcional a: (Z =
+nº atómico, A = nº másico):
+1. Z2 A-1/3.
+2. Z A-1.
+3. Z3 A-1.
+4. Z2 A-1/2.
+5. Z2.
+30. La energía lineal transferida (LET):
+1. Se define como partículas sin carga.
+2. Es inversamente proporcional a la dosis
+liberada.
+3. Se define para partículas con carga.
+4. No depende de la energía de las partículas.
+5. Se debe sólo a la radiación primaria.
+4 -
+31. En el proceso de captura electrónica, el núcleo
+emite:
+1. Un neutrino, que para el mismo proceso tendrá
+siempre igual energía.
+2. Un antineutrino, que para el mismo proceso
+tendrá siempre igual energía.
+3. Un neutrino, cuya energía tendrá cualquier
+valor entre cero y un máximo.
+4. Un antineutrino, cuya energía tendrá cualquier
+valor entre cero y un máximo.
+5. No se emite nada, sólo se captura un electrón.
+32. ¿Cuál de los siguientes radionucleidos puede
+presentar simultáneamente captura electrónica
+y emisión (cid:2)-?:
+1. I-128 (Z=53).
+2. Xe-127 (Z=54).
+3. Te-126 (Z=52).
+4. I-125 (Z=53).
+5. Te-125 (Z=52).
+33. En el efecto fotoeléctrico:
+1. La energía cinética máxima del fotoelectrón
+no depende de la intensidad de la luz incidente
+y sí de su longitud de onda.
+2. La energía cinética máxima del fotoelectrón
+depende de la intensidad de la luz incidente y
+de su longitud de onda.
+3. La energía cinética máxima del fotoelectrón
+depende del trabajo de extracción del electrón
+y de la intensidad de la luz incidente.
+4. El trabajo de extracción del electrón de la
+superficie del material es independiente de su
+temperatura.
+5. El fotoelectrón puede adquirir toda la energía
+del fotón o una parte de ella.
+34. La longitud de onda de la radiación de máxima
+energía emitida por el cuerpo negro es:
+1. Directamente proporcional a su temperatura
+absoluta.
+2. Inversamente proporcional a su temperatura
+absoluta.
+3. Directamente proporcional al cuadrado de su
+temperatura absoluta.
+4. Inversamente proporcional al cuadrado de su
+temperatura absoluta.
+5. Inversamente proporcional a la cuarta potencia
+de su temperatura absoluta.
+35. ¿Cuál de estos términos NO tiene relación con
+la radiación láser?:
+1. Emisión estimulada.
+2. Inversión de poblaciones.
+3. Coherencia.
+4. Direccionalidad.
+- 5
+5. Polarización.
+36. Respecto a la luz, ¿cuál de las siguientes
+afirmaciones se cumple?:
+1. Está polarizada normalmente.
+2. Admite polarización con sustancias
+birrefringentes.
+3. Admite polarización con sustancias que no
+sean birrefringentes.
+4. Admite polarización con dos polaroides
+perpendiculares entre sí.
+5. No admite polarización.
+37. ¿Cuál de las siguientes afirmaciones es
+FALSA?:
+1. La exposición sirve para caracterizar de una
+manera indirecta un campo de fotones.
+2. La producción de pares se produce cuando la
+energía del fotón iguala o supera 0.51 MeV.
+3. El kerma caracteriza de manera indirecta un
+campo de neutrones.
+4. La energía media disipada en un gas por par
+de iones formado, se define para partículas
+cargadas.
+5. Cuando la radiación de frenado es
+despreciable, la exposición es el equivalente
+iónico del kerma en aire.
+38. Se va a determinar experimentalmente y con
+gran exactitud el coeficiente másico de
+atenuación del berilio para una calidad de rayos
+X determinada. En estas circunstancias: ¿Cuál
+de las siguientes afirmaciones es cierta?:
+1. No hay que preocuparse de la pureza del
+berilio empleado.
+2. El haz debe irradiar toda la superficie de la
+lámina de berilio.
+3. El detector debe recoger el mayor número
+posible de fotones dispersos en el berilio.
+4. El haz debe ser colimado y estrecho en su
+sección recta.
+5. Cuanto mayor sea el espesor de la lámina de
+berilio con menor incertidumbre se
+determinará el coeficiente.
+39. El kerma es una magnitud dosimétrica que
+caracteriza en un haz de fotones o de neutrones
+la:
+1. Energía que transporta un haz o energía
+radiante.
+2. Energía absorbida en un material.
+3. Energía absorbida en un material procedente
+de la radiación de frenado.
+4. Energía absorbida en un material por las
+partículas cargadas a lo largo de sus
+trayectorias.
+5. Energía transferida a un material.
+5 -
+40. Cuando expresamos un valor numérico en
+unidades de m-2. ¿De qué magnitud o coeficiente
+estamos hablando?:
+1. Fluencia de energía.
+2. Transferencia lineal de energía.
+3. Poder de frenado lineal.
+4. Flujo de energía.
+5. Fluencia de partículas.
+41. El Roentgen por segundo, de símbolo R/s, es
+una unidad antigua y hoy obsoleta de la
+magnitud tasa de exposición, pues no pertenece
+al Sistema Internacional de Unidades (SI).
+¿Cuál es la unidad de la tasa de exposición, en el
+SI?:
+1. Watio dividido por kilogramo.
+2. Amperio dividido por kilogramo.
+3. Watio dividido por segundo.
+4. Unidad electrostática de carga dividido por
+segundo.
+5. Julio dividido por segundo.
+42. El selenio (Z=34) y el silicio (Z=14) se utilizan
+como detectores en radiología digital (rango de
+espectro continuo de rayos X de 60-120 KeV).
+¿Cuál de ellos tendrá mayor coeficiente de
+absorción?:
+1. El selenio por ser un semiconductor.
+2. El silicio porque tiene menor número atómico.
+3. El selenio porque en él se producirán mayor
+número de interacciones fotoeléctricas.
+4. Si tienen el mismo espesor el coeficiente de
+absorción será el mismo.
+5. A baja energía el selenio, a alta el silicio.
+43. En radiología se utiliza para la formación de la
+imagen un detector de centelleo acompañado de
+una partícula que queda impresionada con la
+señal de salida del detector. ¿Qué característica
+fundamental deben tener estas películas?:
+1. Ser altamente sensible a los rayos X.
+2. Ser altamente sensible al rango de energía de
+los fotones emitidos por el detector de
+centelleo.
+3. Deben ser reutilizables.
+4. Deben ser de un número atómico muy elevado
+para que se favorezca el efecto fotoeléctrico
+de los fotones del visible procedentes del
+detector de centelleo.
+5. Deben ser sensibles a los electrones generados
+en el detector de centelleo.
+44. El efecto Raman es:
+1. Una emisión fluorescente del espectro visible
+de los gases diatómicos.
+2. Una emisión infrarroja de moléculas polares
+en dirección paralela al haz incidente en el que
+- 6
+el haz disperso tiene igual frecuencia que el
+incidente.
+3. Un fenómeno de dispersión de la radiación en
+dirección perpendicular al haz incidente en el
+que el haz disperso tiene una frecuencia
+diferente del incidente.
+4. Un fenómeno de interferencia constructiva de
+radiación infrarroja.
+5. Un fenómeno de emisión fosforescente.
+45. Ordenar los diferentes tipos de interacción de
+fotones con la materia según su predominancia
+a bajas energías>medias energías>altas
+energías:
+1. Efecto Compton>Creación de pares>Efecto
+fotoeléctrico.
+2. Efecto fotoeléctrico>Efecto Compton>
+Creación de pares.
+3. Efecto fotoeléctrico>Creación de
+pares>Efecto Compton.
+4. A cualquier energía, siempre predomina el
+efecto fotoeléctrico.
+5. A cualquier energía, siempre predomina el
+efecto de creación de pares.
+46. ¿Qué implica un coeficiente de atenuación
+elevado?:
+1. Un menor poder de penetración de la
+radiación en ese medio.
+2. Un mayor poder de penetración de la
+radiación en ese medio.
+3. Que la radiación es de muy alta energía.
+4. Poca cosa a efectos de protección radiológica
+frente a fotones.
+5. Que el efecto Compton es el predominante.
+47. ¿Cómo son las longitudes de las trayectorias de
+las distintas partículas de un haz
+monoenergético de partículas cargadas pesadas
+que penetran en un medio?:
+1. Son todas muy parecidas.
+2. Unas son muy cortas pero otras muy largas.
+3. Dependen mucho del número atómico Z del
+medio.
+4. Dependen mucho de la composición isotópica
+del medio.
+5. No dependen de la densidad electrónica del
+medio.
+48. ¿Mediante qué procesos se producen
+principalmente las transferencias de energía de
+un electrón que penetra en un medio?:
+1. Colisiones con núcleos y frenado por los
+electrones del medio.
+2. Colisiones con electrones y frenado por los
+electrones del medio.
+3. Colisiones con electrones y frenado por los
+núcleos del medio.
+6 -
+4. Colisiones con electrones y efecto Compton.
+5. Colisiones con núcleos y efecto Compton.
+49. Si la frecuencia de la luz que produce
+fotoemisión de electrones se duplica, la energía
+cinética de los electrones emitidos:
+1. Aumenta en un factor 1/(2)1/2.
+2. Se duplica.
+3. Disminuye en un factor 2.
+4. Aumenta en un factor menor que 2.
+5. Aumenta en un factor mayor que 2.
+50. La velocidad de escape de los fotoelectrones:
+1. Aumenta al aumentar la frecuencia de la luz
+incidente.
+2. Disminuye al aumentar la frecuencia de la luz
+incidente.
+3. Es independiente de la frecuencia de la luz
+incidente.
+4. Es directamente proporcional a la intensidad
+de la luz incidente.
+5. Depende sólo de la intensidad de la luz
+incidente.
+51. Un metal como el cesio puede emitir electrones
+si se hace incidir luz sobre su superficie. Se
+puede aumentar la energía cinética de los
+electrones emitidos por el metal:
+1. Aumentando la frecuencia de la luz utilizada.
+2. Disminuyendo la frecuencia de la luz utilizada.
+3. Aumentando la intensidad de la luz utilizada.
+4. Utilizando un metal con mayor función de
+trabajo.
+5. Ninguna de las propuestas anteriores es
+correcta.
+52. Un protón tiene una cantidad de movimiento
+cinco veces mayor que un electrón. Si el electrón
+tiene una longitud de onda de Broglie (cid:4),
+entonces la longitud de onda de Broglie del
+protón es:
+1. (cid:1).
+2. 5(cid:1).
+3. (cid:1)/5.
+4. 25(cid:1).
+5. (cid:1)/25.
+53. El poder de frenado del agua para radiación
+alfa de 5 MeV es 950 MeV/cm y se necesita una
+energía promedio de 22 eV para producir un
+par iónico en agua. ¿Cuál es la ionización
+específica de una partícula alfa de 5 MeV en
+agua?:
+1. 950 MeV.
+2. 22 eV.
+3. 4.32 x 107 cm-1.
+4. 2.09 GeV/cm.
+- 7
+5. 2.31 x 10-8 cm.
+54. Para una fuente puntual de un radionucleido
+que emite fotones, la tasa de exposición por
+unidad de actividad a una determinada
+distancia se conoce como… :
+1. Tasa de exposición estándar.
+2. Actividad específica.
+3. Kerma en aire.
+4. Constante de tasa de exposición.
+5. Exposición a la distancia dada.
+55. En la interacción de los electrones y los
+positrones con la materia, qué afirmación NO es
+correcta:
+1. El electrón o positrón puede perder una gran
+fracción de su energía en una única colisión
+con un electrón atómico.
+2. Viajan a través de la materia en línea recta.
+3. El espectro de energías de los fotones de
+bremsstrahlung es aproximadamente plano
+hasta el máximo de energía.
+4. El máximo de energía que un fotón de
+bremsstrahlung puede tener es igual a la
+energía cinética del positrón o electrón.
+5. Los positrones y electrones tienen poderes de
+frenado y alcances casi iguales, excepto a
+bajas energías.
+56. Para que se produzca polarización circular
+entre dos vibraciones una vertical y otra
+horizontal de la misma frecuencia y amplitud,
+su diferencia de fase:
+1. Puede tener cualquier valor.
+2. Ha de ser múltiplo par de (cid:3).
+3. Ha de ser múltiplo impar de (cid:3).
+4. Ha de ser múltiplo impar de (cid:3)/2.
+5. Ha de tener el valor de 0,2(cid:3).
+57. ¿Cuál de las siguientes afirmaciones es FALSA
+en el fenómeno de pérdida de energía de
+partículas cargadas pesadas en un medio
+material?. La pérdida de energía por colisión
+por unidad de recorrido es:
+1. Directamente proporcional al cuadrado de la
+carga de la partícula incidente.
+2. Inversamente proporcional al cuadrado de su
+velocidad.
+3. Directamente proporcional a la masa de la
+partícula incidente.
+4. Directamente proporcional al número atómico
+del medio material.
+5. Directamente proporcional a la densidad del
+medio.
+58. El coeficiente de atenuación atómico se mide en:
+1. m2 / Kg.
+7 -
+2. 1 / Kg.
+3. Átomos / Kg.
+4. m2 / átomos.
+5. Kg / m2 átomos.
+59. ¿Cuál es el espín y la paridad del estado
+fundamental del núcleo del 27Al según el modelo
+de capas?:
+1. Spin: 1/2 Paridad. +1.
+2. Spin: 1/3 Paridad: +1.
+3. Spin: 5/2 Paridad: +1.
+4. Spin: 1/2 Paridad: -1.
+5. Spin: 2/3 Paridad: -1.
+60. La condición más débil del Principio de
+exclusión de Pauli nos dice:
+1. Un sistema que contenga varios electrones
+debe ser descrito por una eigenfunción total
+simétrica.
+2. Un sistema que contenga varios electrones
+debe ser descrito por una eigenfunción total
+antisimétrica.
+3. En un átomo multielectrónico nunca podrán
+existir más de un electrón en el mismo estado
+cuántico.
+4. En un átomo multielectrónico puede existir
+más de un electrón en el mismo estado
+cuántico.
+5. Cuando un sistema contiene varios electrones
+puede ser descrito indiferentemente por una
+eigenfunción total anti o simétrica.
+61. La función de distribución de Bose se aplica a:
+1. Partículas distinguibles.
+2. Partículas indistinguibles sujetas al Principio
+de exclusión.
+3. Partículas indistinguibles no sujetas al
+Principio de exclusión.
+4. Partículas distinguibles sujetas al Principio de
+exclusión.
+5. Todo tipo de partículas.
+62. En caso de que dos electrones tengan spin
+opuesto:
+1. Tenderán a estar próximos.
+2. Tenderán a alejarse.
+3. No tiene influencia sobre la posición.
+4. Ninguna es cierta.
+5. Se sitúan en capas distintas.
+63. En caso de dos electrones con idéntico valor de
+m, la función de onda espacial deberá ser:
+s
+1. Simétrica.
+2. Antisimétrica.
+3. Sin simetría determinada.
+4. Triplete.
+5. Singulete
+- 8
+64. ¿Cuál es el valor del factor orbital g?:
+s
+1. 1.
+2. 1/2.
+3. 2.
+4. 3/2.
+5. 0.
+65. ¿Qué función de spin corresponde a un átomo
+de helio con los electrones en los estados n=0,
+1=0 m=0?:
+1
+1. Singulete.
+2. Triplete.
+3. Una combinación de los anteriores.
+4. Ninguno de ellos.
+5. Autoconsistente.
+66. El número de fonones o quanta de la radiación
+acústica:
+1. Es fijo pero no se conserva.
+2. No es fijo ni se conserva.
+3. Es fijo y se conserva.
+4. No es fijo pero se conserva.
+5. Es fijo y a veces se conserva.
+67. ¿Cuál sería el spin en el estado base y la
+paridad del núcleo 8O16?:
+1. Spin nuclear 0, paridad nuclear: par.
+2. Spin nuclear 1, paridad nuclear: par.
+3. Spin nuclear 0, paridad nuclear: impar.
+4. Spin nuclear 1, paridad nuclear: impar.
+5. Spin nuclear –1, paridad nuclear: par.
+68. La partícula elemental (cid:5)(cid:1) tiene una Extrañeza
+S:
+1. 0.
+2. –1.
+3. –2.
+4. –3.
+5. +1.
+69. La existencia de los nº mágicos en el núcleo es
+debido a:
+1. Al potencial nuclear neto.
+2. La interacción spin-órbita atómica.
+3. La interacción spin-órbita débil.
+4. La interacción spin-órbita invertido fuerte.
+5. La interacción spin-momento angular total.
+70. El desdoblamiento de líneas espectrales al
+colocar un átomo en un campo magnético que se
+puede explicar con la teoría clásica se
+denomina:
+1. Efecto de Lorentz.
+2. Efecto Zeeman anómalo.
+8 -
+3. Teoría de Hartree.
+4. Efecto Zeeman normal.
+5. Efecto Landé.
+71. Suponiendo una partícula cuántica con carga en
+un campo electromagnético, señale la respuesta
+correcta en relación con la propiedad de
+“invariancia gauge”:
+1. La función de ondas de la partícula es
+invariante.
+2. El operador posición no lo es.
+3. El hamiltoniano no lo es.
+4. Tanto el momento conjugado como el
+momento lineal lo son.
+5. Ni el momento conjugado ni el momento
+lineal lo son.
+72. ¿En qué unidades se mide la constante de
+Stefan-Boltzmann?:
+1. W/m2 K2.
+2. mK.
+3. m/K.
+4. 1/m2 K2.
+5. W/m2 K4.
+73. Si (cid:6) es el magnetón nuclear, ¿cuánto vale el
+N
+momento magnético del neutrón?:
+1. 2.8 (cid:4) .
+N
+2. 0.
+3. 0.7 (cid:4) .
+N
+4. –1.9 (cid:4) .
+N
+5. –1.1 (cid:4) .
+N
+74. En la cuantización canónica de campos con
+valores de spin entero o semientero, las
+relaciones entre campos en distintos puntos del
+espacio-tiempo deben ser de:
+1. Conmutación para spin semientero, y de
+anticonmutación para spin entero.
+2. Anticonmutación para spin semientero, y de
+conmutación para spin entero.
+3. Conmutación para ambos tipos de partículas.
+4. Anticonmutación para ambos tipos de
+partículas.
+5. Paréntesis de Poisson para ambos.
+75. Si una simetría deja invariante un sistema
+físico, esta simetría vendrá representada por un
+operador que:
+1. No conmuta con el hamiltoniano y es unitario
+o antiunitario.
+2. No conmuta con el hamiltoniano y no es
+unitario ni antiunitario.
+3. Conmuta con el hamiltoniano y es unitario o
+antiunitario.
+4. Conmuta con el hamiltoniano y no es unitario
+ni antiunitario.
+- 9
+5. No es autoadjunto.
+76. En la cuantización del campo escalar, (cid:7)(x),
+representando con x un cuadrivector, la
+relación de conmutación [(cid:7)(x), (cid:7)(y)] tiene un
+valor:
+1. Nulo.
+2. No nulo cuando los tiempos x0 e y0 son
+iguales.
+3. i (cid:5)4(x-y).
+4. Nulo si x(cid:1) y 2> 0.
+5. Nulo si x(cid:1) y 2< 0.
+77. Se desea hacer medidas simultáneas de la
+posición y la velocidad de un electrón que se
+está moviendo en el sentido positivo del eje X. Si
+la velocidad se mide con una precisión de 10-7
+m/s, el límite de precisión con el que se puede
+localizar el electrón es aproximadamente:
+(Datos m e=9.1x10-31Kg; ℏ=1.05x10-34Js)
+1. Cero.
+2. 6.6x10-27 m.
+3. 4.0 m.
+4. 1.2 km.
+5. 4.0 mm.
+78. La energía del nivel n=1 del hidrógeno es –13.6
+eV. La energía del nivel n=4 es:
+1. –6.8 eV.
+2. –3.4 eV.
+3. –54.4 eV.
+4. –27.2 eV.
+5. –0.85 eV.
+79. ¿Cuál de las siguientes partículas es un bosón
+gauge?:
+(cid:1)
+1. e .
+2. p.
+3. n.
+4.
+(cid:6)(cid:1)
+.
+5. W+.
+80. Según la cromodinámica cuántica, ¿cuál de las
+siguientes afirmaciones es FALSA?:
+1. Los quarks con partículas de espín ћ/2 y carga
+fraccionaria la del electrón.
+2. Los leptones no contienen quarks.
+3. Los quarks están confinados dentro de los
+hadrones y no se observan
+independientemente.
+4. La interacción fuerte entre quarks se realiza a
+través del intercambio de gluones.
+5. La fuerza entre quarks y gluones disminuye al
+aumentar la distancia.
+81. Una partícula se encuentra inicialmente en el
+9 -
+estado propio más bajo de un pozo cuadrado
+infinito cuyas paredes están en x=0 y x=L.
+Súbitamente se mueve la pared derecha hasta la
+posición x=2L:
+1. El valor esperado de la energía tras la
+expansión del pozo es 1/2 del que tenía.
+2. Se conserva el valor esperado de la energía.
+3. No podemos decir nada del valor esperado de
+la energía.
+4. El valor esperado de la energía es 32 / 9(cid:3)2 del
+que tenía.
+5. El valor esperado de la energía es 1/4 del que
+tenía.
+82. De las matrices de Pauli, ¿qué afirmación de las
+siguientes es FALSA?:
+1. Las matrices (cid:7), i = x, y, z, son la base de los
+i
+operadores de espín 1/2.
+2. Conmutan entre sí.
+3. Tienen traza cero.
+4. (cid:7)2 = I, donde I es la matriz identidad.
+i
+5. Son hermíticas.
+83. ¿Por qué la vida media de un estado excitado en
+un átomo o núcleo que es estable respecto de la
+emisión de una partícula, pero inestable
+respecto a la emisión de un fotón es larga
+comparada con el inverso de la frecuencia del
+fotón emitido?. Porque:
+1. La constante de Planck es pequeña.
+2. La velocidad de la luz es grande.
+3. La constante de estructura fina es pequeña.
+4. La constante de estructura fina es grande.
+5. La constante de Planck es grande.
+84. De acuerdo con la mecánica cuántica, para una
+partícula sometida a un potencial oscilador
+armónico unidimensional de frecuencia (cid:8)… (ℏ
+es la constante de Planck):
+1. El espectro de energía es continuo.
+2. El espectro de energía es finito.
+3. La energía del estado fundamental es 0.
+1
+4. La energía del estado fundamental es ℏ(cid:8).
+2
+5. La separación entre los niveles de energía
+disminuye progresivamente.
+85. De acuerdo con el fenómeno conocido como
+“polarización del vacío” en la teoría cuántica
+relativista, ¿cómo es la carga eléctrica del
+electrón?:
+1. Constante a cualquier distancia del electrón.
+2. Aumenta cuando nos acercamos al electrón a
+distancias pequeñas.
+3. Disminuye cuando nos acercamos al electrón a
+distancias pequeñas.
+4. Nula en la posición del electrón.
+- 1
+5. Independiente de la distancia a la cual se mide.
+86. Dos partículas, ambas de masa en reposo m, se
+0
+aproximan con velocidades iguales y opuestas
+v = 0.7c. Si, como resultado de su colisión, se
+tiene una sola partícula, entonces por simetría
+esta partícula debe estar en reposo. ¿Cuál es la
+masa en reposo de la partícula combinada?:
+1. m /2.
+0
+2. m .
+0
+3. 2m .
+0
+4. 2m .
+0
+5. 2 2 m .
+0
+87. ¿Cuál es la energía cinética de un electrón cuya
+energía total es 4.00 MeV?. (La masa en reposo
+del electrón es 0.51 MeV/c2):
+1. 0.51 MeV.
+2. 0.78 MeV.
+3. 3.49 MeV.
+4. 4.00 MeV.
+5. 4.51 MeV.
+88. De acuerdo con la Mecánica Cuántica, ¿qué
+condición es necesaria para que dos magnitudes
+físicas sean medibles simultáneamente?:
+1. No es necesaria ninguna condición.
+2. Que sus correspondientes operadores
+conmuten.
+3. Que cumplan con el principio de
+incertidumbre.
+4. Que sus correspondientes operadores sean
+autoadjuntos.
+5. Que los correspondientes autovalores sean
+ortogonales.
+89. La ley de conservación que no puede
+satisfacerse en el efecto fotoeléctrico con
+electrones libres es la:
+1. De la energía.
+2. Del momento.
+3. De la carga.
+4. Del número leptónico.
+5. Energía-momento.
+90. En un plasma de conductividad infinita:
+1. El flujo del campo magnético, tiene la misma
+dirección que el de las partículas.
+2. Se puede producir un movimiento de
+partículas independientes del campo eléctrico.
+3. No puede existir un movimiento de carga
+global de un punto a otro.
+4. 2 corrientes de partículas no interaccionan
+entre sí.
+5. No son aplicables las leyes de Maxwell.
+91. Supongamos una distribución arbitraria de
+10 -
+cargas puntuales, y dos orígenes de
+coordenadas, S y S’, relacionados mediante una
+traslación fija (sin rotación). En estas
+circunstancias es cierto que:
+1. Todos los momentos multipolares eléctricos
+dependen de la elección del origen.
+2. Sólo el momento monopolar eléctrico depende
+de esta elección.
+3. Los momentos dipolares eléctricos son iguales
+en S y S’, siempre que el momento monopolar
+eléctrico en S sea (cid:9) 0.
+4. Todos los momentos multipolares son
+propiedades exclusivas de la distribución de
+cargas, sin importar la elección de origen.
+5. Las componentes del tensor cuadrupolar
+eléctrico en S y S’ coinciden si los momentos
+de orden inferior se anulan.
+92. Las corrientes de Foucault que se producen en
+los conductores por los cuales pasan corrientes
+alternas están dirigidas de manera que:
+1. Debilitan la corriente dentro del conductor y la
+intensifican cerca de la superficie.
+2. Anulan la corriente dentro del conductor y la
+intensifican cerca de la superficie.
+3. Anulan la corriente dentro del conductor.
+4. Aumentan la corriente dentro del conductor y
+debilitan la corriente superficial.
+5. Ninguna de las anteriores.
+93. De acuerdo con la ley de Biot – Savart, la
+inducción magnética es proporcional a la
+intensidad de la corriente que excita el campo.
+De aquí se infiere que la corriente que pasa por
+un circuito y el flujo magnético total a través de
+él que ella crea:
+1. Son proporcionales entre sí.
+2. Son inversamente proporcionales.
+3. Son iguales.
+4. Se anulan.
+5. Ninguna de ellas es cierta.
+94. Una onda electromagnética plana incide
+perpendicularmente sobre una superficie
+perfectamente reflectora. Si la energía incidente
+por unidad de área en la unidad de tiempo es de
+3•103 W•m-2, ¿cuál es la presión de radiación
+ejercida?:
+1. 2•10-5 N•m-2.
+2. 3•10-3 N•m-2.
+3. 4,2•10-2 N•m-2.
+4. 2•10-8 N•m-2.
+5. 8 N•m-2.
+95. El módulo del campo magnético creado a una
+distancia r de un conductor rectilíneo largo es:
+1. Directamente proporcional al cuadrado de la
+- 1
+intensidad del campo eléctrico que le recorre.
+2. Inversamente proporcional al cuadrado de la
+distancia r.
+3. Inversamente proporcional a la distancia r.
+4. Inversamente proporcional a la permeabilidad
+relativa del medio.
+5. Directamente proporcional al cuadrado de la
+permeabilidad magnética del medio.
+96. Considerando la dispersión de partículas
+cargadas por un campo electrostático, conocida
+como dispersión de Rutherford, es cierto que: ((cid:9)
+y (cid:10) son los ángulos de dispersión en los sistemas
+de referencia laboratorio L y centro de masas
+CM, respectivamente)
+1. (cid:7)((cid:10)) = (cid:7)((cid:11)), donde (cid:7) es la sección eficaz
+elemental.
+2. Fue comprobada experimentalmente para la
+interacción de fotones de baja energía con
+núcleos pesados.
+3. (cid:7)((cid:10))(cid:1) sen4((cid:10)/2).
+4. La sección eficaz total calculada en el sistema
+CM diverge, pero no lo hace al calcularse en
+el sistema L.
+5. (cid:7)((cid:10))sen(cid:10)d(cid:10) = (cid:7)((cid:11))sen(cid:11)d(cid:11).
+97. En relación al principio de Hamilton y la
+dinámica de Lagrange es cierto que:
+1. El principio sólo puede enunciarse para
+sistemas conservativos sometidos a ligaduras
+holónomas.
+2. La dinámica de Lagrange puede obtener
+resultados diferentes a los de la mecánica de
+Newton en algunos sistemas mecánicos
+complejos.
+3. El principio impone que la diferencia entre
+energías cinética y potencial sea
+obligatoriamente un mínimo.
+4. El hamiltoniano de un sistema siempre es igual
+a la energía.
+5. Puede haber casos en los que el hamiltoniano
+sea diferente de la energía, pero ésta se
+conserve.
+98. Supongamos una partícula clásica que posee 2
+grados de libertad (plano XY) y está sometida a
+una fuerza recuperadora armónica
+bidimensional con distinta frecuencia en cada
+una de las dimensiones. Si (cid:11) es la diferencia de
+fases entre x(t) e y(t), entonces, la curva y
+versus x será:
+1. Independiente de (cid:5).
+2. Una circunferencia para (cid:5) = 90º,
+independientemente de las amplitudes de x(t) e
+y(t).
+3. Una circunferencia para (cid:5) = 90º, si las
+amplitudes de x(t) e y(t) son iguales.
+4. Cerrada cuando el cociente entre las
+frecuencias sea racional.
+11 -
+5. Imposible de representar, ya que las
+frecuencias son distintas.
+99. ¿Cuál de las siguientes magnitudes es un
+invariante Lorentz?:
+1. El cuadripotencial A(cid:2).
+2. El Laplaciano tetradimensional.
+3. El tensor de campo electromagnético f(cid:2)v.
+4. La cuadricorriente J(cid:2).
+5. El tensor energía-momento P(cid:2)v.
+100. En una guía de ondas de sección arbitraria, en
+la que se suponen paredes limitantes de
+conductividad infinita e interior lleno de un
+medio no conductor, se cumple que:
+1. La solución a la ecuación de ondas es una
+onda plana.
+2. No hay modos electromagnéticos transversales
+(EMT) en una guía tipo “tubo hueco”.
+3. En una guía tipo “cable coaxial” tampoco
+pueden existir los modos EMT.
+4. Si K = K u es la constante de propagación
+g g z
+de la guía, la amplitud del campo eléctrico
+depende de z.
+5. La guía actúa como un filtro de “pasa bajo”
+para la frecuencia de la onda.
+101. Cuando se introducen en una disolución de KCl
+dos láminas de 5 cm2de área, separadas 2.5 cm,
+y se establece entre ellas una diferencia de
+potencial de 50 V, circula una corriente de 1.2
+mA. La conductividad del electrolito es:
+1. 1.2 x 10-3 ohm-1.m-1
+2. 2.4 x 10-3 ohm-1.m-1
+3. 1.2 x 10-4 ohm-1.m-1
+4. 1.2 x 10-3 ohm.m-1
+5. 2.4 x 10-3 ohm.m-1
+102. Si la diferencia de potencial de un condensador
+plano pasa de V a –2V su capacidad:
+1. Se duplica.
+2. No cambia.
+3. Se reduce a la mitad
+4. Cambia de signo.
+5. Se reduce a la cuarta parte.
+103. ¿Cuál es la expresión de la ley de Faraday en
+forma diferencial?:
+(E = campo eléctrico, B = inducción magnetica)
+1. rot E = - (cid:12)B/(cid:12)t
+2. rot B = - (cid:12)E/(cid:12)t
+3. div B = 0
+4. div E = (cid:12)B/(cid:12)t
+5. (cid:12)2E/(cid:12)2t = rot B
+104. La divergencia de la inducción magnética B es
+nula. Esta afirmación equivale a la:
+- 1
+1. No existencia de polos magnéticos aislados.
+2. Imposibilidad de superar la velocidad de la
+luz.
+3. Imposibilidad de alcanzar el cero absoluto.
+4. No existencia de campos electricos E = c B.
+5. No existencia de momentos magnéticos
+unucleares nulos.
+105. ¿Qué nombre recibe la unidad de inductancia o
+inducción mutua?:
+1. Weber.
+2. Tesla.
+3. Gauss.
+4. Faradio.
+5. Henrio.
+106. El momento magnético de una partícula
+cargada es:
+1. Directamente proporcional a su momento
+angular.
+2. Directamente proporcional al cuadrado de la
+carga.
+3. Inversamente proporcional a su momento
+angular.
+4. Inversamente proporcional a la carga.
+5. Inversamente proporcional al cuadrado de la
+carga.
+107. En un sistema de N cargas puntuales de igual
+valor, la energía electrostática total del sistema
+es proporcional a:
+1. N
+2. N2
+3. N2-N
+4. N2-1
+5. N* (N2-1)
+108. ¿Cuál de las siguientes afirmaciones es cierta
+para un sólido diamagnético?:
+1. La inducción magnética B en el material es
+mayor que en el vacío.
+2. La magnetización M no depende del campo
+magnético H.
+3. La susceptibilidad magnética (cid:13) no depende del
+campo magnético H.
+4. Solamente se da este fenómeno en sustancias
+cuyos átomos y moléculas carecen de
+momentos magnéticos intrínsecos.
+5. La susceptibilidad magnética (cid:13) es positiva. M
+y H tienen el mismo sentido.
+109. Si la magnitud de la inductancia mutua de dos
+bobinas cualesquiera (cuyas autoinductancias
+son L y L ) es M se cumple que:
+1 2
+1. L •L < M
+1 2
+2. L •L < M2
+1 2
+12 -
+3. L •L (cid:14) M2
+1 2
+4. L •L > ó < M según las intensidades
+1 2
+5. L •L > ó < M según las geometrías.
+1 2
+110. En una guía de ondas en el vacío se cumple que:
+(c: velocidad de la luz)
+1. v > c para todas las frecuencias.
+fase
+2. v • v < c2 para todas las frecuencias.
+fase grupo
+3. v > c para todas las frecuencias.
+grupo
+4. v > c para frecuencias mayores que la de
+fase
+corte.
+5. v • v > c2 para todas las frecuencias.
+fase grupo
+111. La llamada condición de Lorentz es una:
+1. Ley física igual que las ecuaciones de
+Maxwell.
+2. Condición matemática llamada condición de
+normalización.
+3. Consecuencia del principio de relatividad
+especial.
+4. Consecuencia de las ecuaciones de Maxwell.
+5. Consecuencia de la ley de Gauss.
+112. En un plasma:
+1. El gas se expande por repulsión entre cargas.
+2. Se produce un fenómeno de contracción,
+estable, que induce siempre reacciones
+nucleares.
+3. Se produce un fenómeno de contracción
+inestable por atracción de los flujos paralelos
+de corriente.
+4. El gas se contrae hasta condensar y abandonar
+su estado de plasma.
+5. El flujo magnético crea vértices inestables
+siempre, de modo que los flujos de corriente
+son siempre espirales.
+113. Para una capacidad eléctrica (c), la relación
+entre los valores máximos de tensión, V , e
+m
+intensidad, I , así como el desfase, (cid:7), que existe
+m
+entre ellos, es:
+1. V /I = C(cid:8) (cid:15) - (cid:15) = 0
+m m V I
+2. V /I = 1/C(cid:8) (cid:15) - (cid:15) = 45º
+m m V I
+3. V /I = C(cid:8) (cid:15) - (cid:15) = 45º
+m m V I
+4. V /I = 1/C(cid:8) (cid:15) - (cid:15) = -90º
+m m V I
+5. V /I = C(cid:8) (cid:15) - (cid:15) = -90º
+m m V I
+114. Se conecta un condensador de placas paralelas
+de 3.0 (cid:6)F a una fuente de tensión continua de
+100 voltios. Si se inserta un dieléctrico de
+constante (cid:12) = 2.2 entre las placas. ¿Cuál es el
+trabajo efectuado por la batería al insertarse el
+dieléctrico?:
+1. 2.3 • 10-3 J
+2. 1.8 • 10-2 J
+3. 3.6 • 10-2 J
+4. 0.3 • 10-1 J
+- 1
+5. 1.3 • 10-3 J
+115. La energía de un condensador cargado se puede
+expresar:
+1. Por medio de las magnitudes que caracterizan
+el campo eléctrico en el espacio entre las
+armaduras.
+2. Por medio del potencial.
+3. Por medio del potencial si la superficie de los
+conductores son equipotenciales.
+4. Por medio del potencial si se conoce la
+capacidad.
+5. Ninguna de las anteriores.
+116. Las siguientes afirmaciones hacen referencia al
+concepto de campo eléctrico. ¿Cuál de ellas es
+FALSA?:
+1. La ley de Gauss establece que el flujo neto del
+producto de la permitividad del espacio libre
+por el campo eléctrico a través de una
+superficie cerrada es igual a la carga neta
+encerrada dentro de la superficie.
+2. La densidad de carga superficial de una lámina
+es proporcional a la discontinuidad en la
+componente normal del campo eléctrico a
+través de la lámina.
+3. La integral de línea del campo eléctrico a
+través de una trayectoria cerrada es cero.
+4. Las líneas de campo o líneas de fuerza son
+tangentes a las superficies equipotenciales.
+5. En las regiones de carga cero la ecuación de
+Poisson coincide con la ecuación de Laplace.
+117. ¿Cuál de las siguientes afirmaciones es FALSA
+para una transición metal superconductor?:
+1. Existe una temperatura crítica por debajo de la
+cual el metal pasa a ser superconductor.
+2. La resistencia eléctrica cae a cero
+paulatinamente cuando la temperatura tiende a
+cero.
+3. La estructura cristalina del sólido no varía en
+absoluto.
+4. Se produce un salto en la capacidad calorífica
+sin que aparezca calor latente.
+5. En el estado superconductor existe un límite
+de absorción para las ondas electromagnéticas.
+118. E(cid:1)n Física del Estado Sólido los vectores de onda
+k pertenecen al espacio:
+1. Inverso.
+2. Simétrico.
+3. Antisimétrico.
+4. Homeomorfo.
+5. Recíproco.
+119. La característica fundamental de los átomos de
+materiales semiconductores de tipo “p” es que:
+13 -
+1. Tienen una banda de valencia muy estrecha.
+2. Tienen electrones en la banda de conducción.
+3. No tienen banda de conducción.
+4. Tienen huecos en la banda de valencia.
+5. La diferencia de energía entre la banda de
+conducción y la de valencia es muy grande.
+120. En un cristal semiconductor, la masa efectiva de
+un portador depende de:
+1. El tipo de portador, el material y la
+temperatura.
+2. El tipo de portador y la temperatura, pero no
+del material.
+3. El tipo de portador y el material, pero no de la
+temperatura.
+4. Sólo del tipo de tipo de portador, ni del
+material ni de la temperatura.
+5. Sólo del material, ni del tipo de portador ni de
+la temperatura.
+121. Entre los fenómenos que corresponden a las
+desviaciones de la característica ideal del diodo
+en polarización directa están:
+1. Ruptura por avalancha.
+2. Ruptura Zener.
+3. Generación de portadores en región de
+vaciamiento.
+4. Inyección de alto nivel.
+5. Efecto Early.
+122. En la estructura CMOS ideal con sustrato n si
+la polarización es V < V < 0:
+T G
+1. El comportamiento es el de una heterounión.
+2. Se produce acumulación.
+3. Se produce vaciamiento.
+4. Disminuye el nivel de Fermi del metal
+respecto al del semiconductor.
+5. Se produce inversión.
+123. Un procedimiento para paliar el ruido térmico
+consiste en:
+1. Utilizar técnicas de diseño que empleen la
+realimentación positiva.
+2. Aumentar el ancho de banda del sistema
+amplificador de modo que exceda de la zona
+correspondiente al espectro de la señal
+amplificada.
+3. Apantallar los equipos de medida rodeándolos
+de superficies metálicas.
+4. Utilizar filtros paso bajo.
+5. Realizar la amplificación simultáneamente con
+varios sistemas en paralelo.
+124. Indicar la afirmación FALSA respecto del
+funcionamiento de un fotodiodo:
+1. La polarización de la unión PN es inversa.
+2. La luz incidente crean pares de electrón-hueco
+- 1
+en la zona del espacio de carga.
+3. La polarización de la unión PN es directa.
+4. Los portadores de carga crean una corriente
+proporcional al flujo luminoso.
+5. Los portadores de carga se mueven debido al
+campo eléctrico.
+125. Una señal modulada en amplitud tiene una
+amplitud máxima de 12 V y una amplitud
+mínima de 8 V. Calcular el valor del índice de
+modulación, m:
+1. m = 0.3
+2. m = 0.2
+3. m = 0.1
+4. m = 0.5
+5. m = 0.4
+126. En un diodo Schottky con semiconductor tipo n
+en polarización directa:
+1. Se produce un aumento de la tensión de banda
+plana.
+2. Desaparecen los portadores mayoritarios.
+3. Se produce inversión de portadores.
+4. Se modifica la barrera de potencial para los
+electrones del semiconductor.
+5. Se modifica la barrera de potencial para los
+electrones del metal.
+127. ¿Cuál es el resultado en aritmética hexadecimal
+de los números 9 + C?:
+1. 21
+16
+2. 12 16(cid:3)
+3. 15
+16
+4. F 16(cid:3)
+5. 2A 16(cid:3)
+128. ¿Cuántos bits de información se requieren para
+representar 106 en forma binaria?:
+1. 16 bits.
+2. 21 bits.
+3. 20 bits.
+4. 22 bits.
+5. 18 bits.
+129. En un semiconductor extrínseco de Silicio tipo
+p:
+1. Las impurezas dopantes son habitualmente de
+Fósforo.
+2. La resistividad aumenta con el nivel de
+impurezas dopantes.
+3. El nivel de Fermi no es función del nivel de
+dopado.
+4. La movilidad de los portadores de carga
+mayoritarios aumenta con la temperatura.
+5. La conductividad disminuye con la
+temperatura en un intervalo amplio de la
+temperatura ambiental.
+14 -
+130. En una unión p-n abrupta, polarizada
+inversamente, si se aumenta la tensión de
+polarización sin alcanzar la tensión de ruptura:
+1. La corriente de saturación inversa disminuye.
+2. La capacidad de transición disminuye.
+3. La disipación de potencia en la unión
+disminuye.
+4. La corriente de saturación inversa aumenta
+fuertemente.
+5. El nivel de Fermi disminuye.
+131. En una unión p-n:
+1. La capacidad de transición es mayor que la
+capacidad de difusión.
+2. La profundidad de cargas descubiertas es
+mayor en la zona más dopada.
+3. La resistencia dinámica de la unión p-n es
+mínima con polarización inversa por debajo de
+la tensión zener.
+4. Con polarización inversa cada zona
+semiconductora inyecta a la unión sus
+portadores de carga mayoritarios.
+5. La resistencia dinámica de la unión p-n es
+función del punto de funcionamiento.
+132. En una unión p-n polarizada directamente:
+1. La corriente es el doble que la corriente de
+saturación inversa.
+2. La barrera de potencial en la unión es mayor
+que sin polarizar.
+3. Cada zona inyecta en la unión sus portadores
+minoritarios.
+4. La corriente en las proximidades de la unión
+es esencialmente por difusión de portadores
+minoritarios.
+5. La profundidad de la zona de cargas
+descubiertas es mayor que sin polarizar la
+unión.
+133. Si un transistor bipolar en la configuración de
+emisor común se incrementa la diferencia de
+potencial colector-emisor sin variar la
+diferencia de potencial base-emisor:
+1. Aumenta la corriente de base.
+2. Aumenta la resistencia dinámica de la unión
+base-emisor.
+3. Aumenta el parámetro (cid:16).
+4. Disminuye la corriente de colector.
+5. Disminuye la corriente de emisor.
+134. Un transistor unipolar y un transistor bipolar se
+diferencian en:
+1. El transistor unipolar es un dispositivo
+controlado por tensión y el transistor bipolar
+por corriente.
+2. El transistor bipolar se ha de polarizar con una
+- 1
+fuente de tensión bipolar de tensión positiva y
+negativa respecto a tierra y el unipolar no es
+necesario.
+3. En los procesos de conducción del transistor
+bipolar intervienen tanto los portadores
+mayoritarios como los minoritarios, y en el
+transistor unipolar sólo los portadores
+minoritarios.
+4. El transistor unipolar es un dispositivo
+controlado por corriente de puerta y el
+transistor bipolar por tensión de colector.
+5. En los transistores unipolares los procesos de
+conducción son por portadores mayoritarios y
+en el transistor bipolar sólo por los
+minoritarios.
+135. En un FET canal n polarizado en la región de
+saturación:
+1. La movilidad de los electrones en la zona más
+estrecha del canal de conducción varia
+inversamente respecto a la intensidad del
+campo eléctrico en el canal.
+2. La corriente drenador-surtidor disminuye al
+aumentar la tensión drenador-surtidor.
+3. No consume potencia.
+4. La movilidad de los electrones en la zona más
+estrecha del canal de conducción es
+independiente del campo eléctrico en el canal.
+5. La corriente drenador-surtidor es
+independiente de la tensión en puerta.
+136. Un MOSFET canal n de empobrecimiento y un
+MOSFET canal n de enriquecimiento se
+diferencian en:
+1. Los procesos de conducción en el de
+empobrecimiento tienen lugar mediante
+huecos y en el de enriquecimiento por
+electrones.
+2. En el de empobrecimiento existe una región de
+funcionamiento óhmico, relación entre tensión
+drenador-surtidor y corriente drenador-
+surtidor prácticamente lineal, y en el de
+enriquecimiento no.
+3. En el de empobrecimiento la corriente de
+drenador-surtidor solo tiene valores
+apreciables para tensiones puerta-surtidor
+positivas, y en el de enriquecimiento la
+corriente de drenador-surtidor tiene valores
+apreciables para tensiones puerta-surtidor
+positivas y negativas.
+4. Cuando la tensión puerta-surtidor es nula, en
+el de empobrecimiento existe un canal n de
+conducción, y en el de enriquecimiento no
+existe un canal n de conducción.
+5. En la región de saturación la corriente
+drenador-surtidor en el MOSFET de
+empobrecimiento disminuye al aumentar la
+diferencia de potencial drenador-surtidor, y en
+el MOSFET de–enriquecimiento la corriente
+drenador-surtidor aumenta al aumentar la
+15 -
+diferencia de potencial drenador-surtidor.
+137. En un amplificador de tensión las impedancias
+de entrada y de salida:
+1. La impedancia de entrada no influye en su
+ganancia.
+2. Deben ser ambas bajas.
+3. La impedancia de entrada debe ser alta y la de
+salida baja.
+4. Deben ser ambas altas.
+5. La impedancia de entrada debe ser baja y la de
+salida alta.
+138. En un amplificador de corriente:
+1. La impedancia de salida no influye en su
+ganancia.
+2. La impedancia de entrada debe ser alta y la de
+salida baja.
+3. Las impedancias de entrada y salida deben ser
+altas.
+4. La impedancia de entrada debe ser baja y la de
+salida alta.
+5. La impedancia de entrada no influye en su
+ganancia.
+139. Un amplificador realimentado cuya ganancia de
+lazo, producto de la ganancia sin realimentar
+por el factor de realimentación, a una
+determinada frecuencia es –2:
+1. Es un amplificador de tensión estable.
+2. Es un amplificador de corriente estable.
+3. Es un dispositivo que arranca a oscilar a dicha
+frecuencia con amplitud de la oscilación
+decreciente.
+4. Es un dispositivo que arranca a oscilar a dicha
+frecuencia con amplitud de la oscilación
+creciente.
+5. Tiene una salida que se bloquea a cero voltios.
+140. Se conectan en serie dos amplificadores de
+tensión iguales, y cada uno de ellos tiene una
+frecuencia inferior de corte de 20 Hz. La
+frecuencia inferior de corte de la asociación
+serie es de aproximadamente:
+1. 5,5 Hz.
+2. 12,2 Hz.
+3. 21,2 Hz.
+4. 31,2 Hz.
+5. 44,2 Hz.
+141. En una puerta EXOR de n entradas la salida
+será “1” cuando:
+1. Las dos primeras entradas son “1”.
+2. Las dos primeras entradas son “0”.
+3. Cuando todas las entradas son “0”.
+4. El número de entradas a “0” sea par.
+5. El número de entradas a “1” sea impar.
+- 1
+142. Dos puertas lógicas EXOR de dos entradas se
+conectan de forma que la salida de la primera
+puerta va a una entrada de la segunda puerta, y
+a las tres entradas restantes van las variables
+lógicas a, b y c, una a cada entrada. Si se repite
+la estructura pero con puertas EXNOR usando
+las mismas variables lógicas, las salidas de los
+dos sistemas resultantes son:
+1. Siempre iguales.
+2. Siempre diferentes.
+3. Sólo iguales cuando las tres entradas sean “0”.
+4. Diferentes cuando las tres entradas estén a “1”.
+5. Diferentes cuando dos entradas estén a “0”.
+143. Un dispositivo digital se le dota de salida
+triestado para:
+1. Que soporte más consumo.
+2. Poder trabajar con diferentes tensiones de
+alimentación.
+3. Poder conectarlo a otros dispositivos digitales
+que trabajan con estados alto y bajo de valores
+de tensión no compatibles con los de la
+tecnología de este dispositivo digital.
+4. Poder conectarse y tener temporalmente el
+control de una línea a la cual hay otros
+dispositivos similares conectados.
+5. Que su salida pueda definir el estado “0” sin
+consumir potencia.
+144. Un monostable que se dispara por flanco de
+subida y es redisparable, está configurado para
+dar a su salida un pulso de duración 2
+milisegundos y amplitud de +5V. Si se aplica de
+forma continua en su entrada de disparo una
+señal cuadrada de amplitud suficiente para
+disparar el monostable y frecuencia 2 kHz:
+1. La salida del monostable se bloquea a 0V.
+2. En la salida del monostable hay una señal de
+frecuencia 1 kHz.
+3. En la salida del monostable hay una señal de
+frecuencia 2 kHz.
+4. En la salida del monostable hay una señal de
+frecuencia 4 kHz.
+5. La salida del monostable se bloquea a +5V.
+145. Un detector Geiger cuenta las partículas
+detectadas en un intervalo de tiempo t y se
+obtiene la tasa de cuentas r, en cuentas por
+minuto. El error asociado a r es:
+1. r
+1
+2.
+r
+r
+3.
+t
+16 -
+r
+4.
+t2
+5. rt
+146. En general, el criterio que asocia la desviación
+estándar de una cantidad (cid:13), con su raíz
+cuadrada, (cid:14) = (cid:1) , se aplica si (cid:13) es:
+1. Una tasa de cuentas.
+2. Un promedio de varias medidas
+independientes.
+3. Una medida del fondo ambiental.
+4. El número de cuentas registradas en un
+intervalo de tiempo.
+5. Una medida de actividad.
+147. El factor de fano se introduce para:
+1. No cuantificar las fluctuaciones estadísticas.
+2. Relacionar el número de sucesos predichos y
+no detectados.
+3. Indicar el mayor o menor rendimiento de un
+detector.
+4. Adecuar los resultados teóricos a los reales
+porque es una constante empírica.
+5. Reflejar la fracción de la energía de la
+partícula incidente que se pierde.
+148. Se realizan 10 medidas con un Geiger y se
+obtienen en las diez medidas el mismo resultado
+de 25 cuentas por minuto. Ello es indicativo de
+que:
+1. La actividad específica es constante.
+2. El detector está estropeado.
+3. La actividad de la muestra es de 25 ± 5
+cuentas por minuto.
+4. La eficiencia intrínseca de detección es 1.
+5. El periodo de la sustancia radiactiva es mucho
+mayor que el intervalo de tiempo en el que se
+han realizado las medidas.
+149. En un detector Geiger diseñado para detectar
+fotones, éstos interaccionan con la pared del
+detector y los electrones secundarios que llegan
+al gas son los que producen las avalanchas. La
+eficiencia intrínseca de detección del Geiger
+para energías de aproximadamente 1 MeV en
+función del espesor de la pared:
+1. Aumenta con el espesor de la pared hasta un
+máximo y luego disminuye.
+2. Es constante.
+3. Depende de la actividad de la fuente.
+4. Depende de la orientación fuente-detector.
+5. Disminuye con el espesor de la pared.
+150. En un detector de tipo Geiger-Muller:
+1. El tiempo muerto es siempre mayor que el
+- 1
+tiempo de recuperación.
+2. Durante el tiempo muerto no se detecta ningún
+pulso.
+3. Durante el tiempo muerto se detectan pulsos
+pero no se cuentan.
+4. El tiempo muerto es del orden de 1000 (cid:4)s.
+5. El tiempo muerto puede ser mayor que el
+tiempo de resolución.
+151. Se realiza un experimento de recuento de
+impulsos que da como resultado un número de
+cuentas M con fuente radiactiva y un valor F
+para el fondo. Si en condiciones idénticas se
+repite aumentando en un factor C la eficiencia
+del detector, la desviación típica relativa resulta
+respecto al primer caso:
+1. C veces menor (queda dividida por C).
+2. Igual, ya que la eficiencia afecta por igual a la
+medida de M y del fondo F.
+3. C veces mayor (queda multiplicada por C).
+4. Queda multiplicada por C1/2.
+5. Queda dividida por C1/2.
+152. El intervalo de tiempo que ha de transcurrir
+entre la formación de una avalancha de
+electrones y la siguiente, para que esta última
+origine un impulso que sea aceptado por un
+contador Geiger, se denomina tiempo de:
+1. Emisión.
+2. Preparación.
+3. Resolución.
+4. Muerto.
+5. Recuperación.
+153. ¿Cómo se denomina, para un detector de
+radiación, la razón entre el número de pulsos
+registrados y el número de cuantos de radiación
+(partículas o fotones que inciden en el
+detector)?:
+1. Resolución energética.
+2. Eficiencia absoluta.
+3. Eficiencia intrínseca.
+4. Eficiencia total.
+5. Eficiencia pico.
+154. La máxima amplitud de pulso, V , que puede
+max
+esperarse a partir de la creación de n pares de
+0
+iones en una cámara de ionización estándar
+viene dada por:
+(n : número de pares de iones original, e: carga
+0
+del electrón, C: capacidad)
+1. V = n eC.
+max 0
+2. V = n e/C.
+max 0
+3. V = eC/ n .
+max 0
+4. V = n eC.
+max 0/
+5. V = C/ en .
+max 0
+155. La corriente de ionización, I, esperada a partir
+17 -
+de una cantidad dada de gas radiactivo dentro
+de una cámara de ionización viene dada
+por:
+(E: energía promedio depositada en el gas por
+desintegración, (cid:1): actividad total, e: carga del
+electrón, W: energía promedio depositada por
+par de iones en el gas)
+1. I = E(cid:16)/eW.
+2. I = (cid:16)eWE.
+3. I = E/(cid:16)eW.
+4. I = Ee/(cid:16)W.
+5. I = E(cid:16)e/W.
+156. ¿Cuál de las siguientes características NO se
+aplica a un amplificador operacional?:
+1. La señal e es la tensión entre dos bornes de
+i
+entrada al circuito, ninguno de los cuales tiene
+porqué ser la referencia.
+2. Valores del orden de 105 – 107 son frecuentes
+para la ganancia en lazo abierto.
+3. Cuando el sistema funciona linealmente, los
+dos bornes de entrada se pueden considerar al
+mismo potencial.
+4. La situación de saturación superior
+corresponde a un valor de e constante y
+o
+negativo.
+5. Los amplificadores operacionales se pueden
+diseñar a base de triodos o transistores
+discretos.
+157. Determinar el resultado de la siguiente suma
+con el número correcto de cifras significativas.
+1.58 x 102 + 0.821 =:
+1. 158.82
+2. 158.821
+3. 159 x 102
+4. 1.588 x 102
+5. 1.590 x 102
+158. ¿Para cuál de estas magnitudes se asocia como
+error la raíz cuadrada de la medida?:
+1. La tasa de cuentas.
+2. La suma o diferencia de cuentas.
+3. El promedio de cuentas independientes.
+4. El número de cuentas.
+5. Una cantidad derivada del número de cuentas.
+159. La transformada de Fourier permite que
+podamos representar en términos de una serie
+exponencial (o trigonométrica):
+1. Sólo funciones periódicas en un intervalo
+infinito.
+2. Sólo funciones no periódicas en un intervalo
+finito.
+3. Funciones periódicas o no en un intervalo
+infinito.
+4. Funciones periódicas o no en un intervalo
+- 1
+exclusivamente finito.
+5. Sólo funciones periódicas en un intervalo
+finito.
+160. La distribución de Student depende de los:
+1. Valores absolutos de las magnitudes medidas,
+y de los grados de libertad.
+2. Grados de libertad y del método de medida.
+3. Grados de libertad, y mientras menores sean
+más tiende a una distribución de Gauss.
+4. Grados de libertad, y si estos tienden a infinito
+la distribución se aproxima a una distribución
+gaussiana.
+5. Grados de libertad, y si estos tienden a infinito
+la distribución se aproxima a una distribución
+de Poisson.
+161. La regresión por mínimos cuadrados a una
+recta de una serie de datos experimentales
+requiere:
+1. Siempre dispersiones muestrales homogéneas
+de los datos experimentales y garantiza el
+menor error experimental.
+2. Dispersiones muestrales homogéneas, o una
+ponderación de las mismas, y proporciona la
+recta con menor desviación estándar entre
+valor función y dato medido.
+3. Dos series de medidas de diferentes
+dispersiones de manera que los resultados se
+contrasten estadísticamente.
+4. Un mesurando tal que todos los parámetros de
+influencia tengan distribución gaussiana.
+5. Que el objeto de medida tenga una
+distribución de Student.
+162. Señale la igualdad cierta de las siguientes, en las
+que f representa una función escalar, V una
+función vectorial y las operaciones implicadas
+son rot: Rotacional, div: Divergencia, grad:
+Gradiente, lap: Laplaciano:
+1. Rot(rot(V)) = grad(div(V)) – lap(V).
+2. (rot rot)(V) = grad(div(V)) – lap(V).
+3. Lap(f) = div(rot(f)).
+4. Lap(V) = rot (grad(V)).
+5. Div(rot(V)) = grad(div(V)).
+163. ¿Qué distribución sigue la variable aleatoria
+obtenida como suma de dos variables aleatorias
+independientes que siguen la distribución de
+Poisson?:
+1. De Poisson.
+2. Gaussiana.
+3. Binomial.
+4. Hipergeométrica.
+5. Chi cuadrado.
+164. El momento de orden r de una variable
+aleatoria x, con medida x se define como la:
+m
+18 -
+1. Desviación típica de xr.
+2. Esperanza de xr-x .
+m
+3. Esperanza de (xr-x r)2.
+m
+4. Esperanza de xr.
+5. Esperanza de xr-x r.
+m
+165. En un espacio vectorial arbitrario una métrica
+es:
+1. Una operación producto.
+2. Un tensor covariante de orden dos simétrico.
+3. Un tensor covariante de orden dos asimétrico.
+4. Un tensor contravariante de orden
+antisimétrico.
+5. Una operación suma.
+166. ¿Cuál de las siguientes afirmaciones es FALSA
+con respecto al producto tensorial?:
+1. Cumple la propiedad distributiva.
+2. Es conmutativo.
+3. Cumple la propiedad asociativa.
+4. Existe el elemento neutro.
+5. El producto tensorial de dos tensores es otro
+tensor.
+167. Un tensor es:
+1. Una matriz simétrica.
+2. Una matriz antisimétrica.
+3. Un espacio vectorial.
+4. Una forma multilineal.
+5. Un anillo no conmutativo.
+168. El coeficiente de correlación entre dos variables
+aleatorias toma los valores +1 o –1 cuando las
+variables aleatorias son:
+1. Independientes.
+2. Linealmente dependientes.
+3. Cuadráticamente dependientes.
+4. Cúbicamente dependientes.
+5. Dependientes, sea cual sea la expresión
+funcional de su dependencia.
+169. Una función con un número finito de
+discontinuidades, y un número finito de valores
+extremos en un intervalo puede, en todo ese
+intervalo:
+1. Representarse como serie de Taylor.
+2. Representarse como serie de Fourier.
+3. Derivarse.
+4. Expresarse como una suma finita de
+polinomios.
+5. Representarse por una gaussiana.
+170. En Rn un conjunto cualquiera S es compacto si
+y sólo si es:
+1. Cerrado.
+- 1
+2. Cerrado y acotado.
+3. Abierto.
+4. Abierto y acotado.
+5. Acotado.
+171. Siendo (cid:7) un campo escalar y F un campo
+vectorial se denomina “Laplaciano” a un
+operador diferencial equivalente a:
+1. rot (cid:17)(cid:15) = 0
+2. (cid:15)(cid:17) div F = (cid:17)2(cid:15)
+3. div (cid:17)(cid:15) = (cid:17)2(cid:15)
+4. (cid:17)2(cid:15) = (cid:15)(cid:17) + div F
+5. (cid:17) div F = rot (cid:15)
+172. Si designamos con d el diferencial, y f(x) es una
+función real de variable real x. ¿Qué
+entendemos, en análisis matemático, por df/dx?:
+1. El cociente de df entre dx.
+2. La derivada de f(x) respecto de x.
+3. El diferencial de f.
+4. El cociente de dos incrementos arbitrarios
+finitos.
+5. El cociente de f entre x.
+173. En Estadística, cuando la curva de distribución
+de frecuencias es simétrica la:
+1. Media es igual al doble de la Mediana.
+2. Moda es igual al doble de la Media.
+3. Mediana es mayor que la Media.
+4. Media, Moda y Mediana son iguales.
+5. Media es siempre 1.
+174. Dos sucesos son independientes cuando:
+1. Ocurren consecutivamente.
+2. La ocurrencia de uno depende de la del otro.
+3. Tienen probabilidades de ocurrencia
+diferentes.
+4. La ocurrencia de uno no afecta a la
+probabilidad de ocurrencia del otro.
+5. Tienen probabilidades de ocurrencia igual a
+cero.
+175. La curva de distribución normal estándar:
+1. Tiene una media de cero.
+2. No es una curva de frecuencias.
+3. Tiene una desviación estándar de cero.
+4. Tiene una media de uno.
+5. Es de tipo logarítmico.
+176. ¿Cuál de los siguientes estadísticos muestrales
+es un estimador no sesgado de la varianza de la
+población?:
+1 (cid:1)N
+1. x (cid:1)x
+N i
+1
+19 -
+(cid:1)
+2.
+1 (cid:2)(cid:1)N
+x (cid:1)
+x(cid:1)
+2
+N i
+1
+(cid:1)
+3.
+1 (cid:2)(cid:1)N
+x
+(cid:1)x(cid:1)
+2
+N i
+1 (cid:1)
+4.
+1 (cid:2)(cid:1)N
+x
+(cid:1)x(cid:1)
+2
+N (cid:1)1 i
+1 (cid:1)
+5.
+N (cid:2)(cid:1)N
+x
+(cid:1)x(cid:1)
+2
+N (cid:1)1 i
+1
+177. La función cuadrática f : R2 (cid:3) R, (x, y) (cid:3) x2 –
+y2 tiene como gráfica una superficie llamada:
+1. Paraboloide elíptico.
+2. Paraboloide hiperbólico.
+3. Elipsoide de revolución.
+4. Hiperboloide de revolución.
+5. Paraboloide de revolución.
+178. Sea f una función continua cuyo dominio es un
+rectángulo R = [a, b] x [c, d]. ¿Qué nombre
+recibe el siguiente teorema?
+(cid:1)b(cid:1)d
+(cid:15)(x, y) dxdy =
+a c
+(cid:1)d(cid:1)b
+(cid:15)(x, y) dxdy =
+c a
+(cid:1)
+(cid:15)(x, y) dA:
+R
+1. Teorema de Cavalieri.
+2. Teorema del valor medio.
+3. Teorema de Green.
+4. Teorema de Fubini.
+5. Teorema de Taylor.
+179. Las pasarelas o “gateways” son dispositivos:
+1. De “hardware” que convierten protocolos de
+comunicación entre redes.
+2. De “hardware” y “software” que convierten
+protocolos de comunicación entre redes.
+3. De “hardware” que conectan redes que usan el
+mismo protocolo.
+4. Característicos de las redes inalámbricas.
+5. Para transmisión masiva de datos.
+180. La topología lógica de una red es:
+1. La forma geométrica en que se distribuyen las
+estaciones de trabajo.
+2. La que queda descrita desde la perspectiva de
+las señales que viajan por ella.
+3. Característica del protocolo FTP.
+4. Característica de las redes Ethernet.
+5. Características de las redes de Token Ring.
+181. Se dispone de 5 bits para codificar números
+enteros empleando la representación en
+complemento 2. ¿Cuál es el rango de números
+- 2
+representables?:
+1. [-16,15].
+2. [-15,16].
+3. [-32,32].
+4. [-16,16].
+5. [0,32].
+182. ¿Cuál es el menor número de bits necesario
+para representar el número 4096 usando
+aritmética sin signo?:
+1. 12.
+2. 14.
+3. 13.
+4. 11.
+5. 16.
+183. ¿Qué valor decimal representa la configuración
+binaria de 4 bits (1000) codificado en magnitud
+y signo?:
+1. 8.
+2. –8.
+3. 0.
+4. –7.
+5. 7.
+184. ¿Cuál de las siguientes afirmaciones es cierta
+respecto a la representación de números reales
+en coma flotante?:
+1. La distribución de números no es uniforme,
+obteniéndose una representación mejor de los
+números próximos al cero.
+2. Permite representar números reales con una
+precisión arbitraria.
+3. Se emplea un mayor número de bits para
+representar la parte decimal que la entera.
+4. No es posible representar el infinito.
+5. Almacena en posiciones de memoria
+diferentes la mantisa y el exponente.
+185. Una memoria ROM de 6 entradas y 4 salidas
+binarias es capaz de almacenar:
+1. 64 palabras de 4 bits.
+2. 16 palabras de 6 bits.
+3. 63 palabras de 4 bits.
+4. 15 palabras de 6 bits.
+5. 32 palabras de 4 bits.
+186. Supóngase un sistema digital combinacional
+cuya entrada es un número binario (z) de 2 bits
+(x x ), si la salida del sistema es 1 cuando el
+0 1
+número de unos en z es impar y 0 en caso
+contrario. ¿Cuál es la función de conmutación
+que describe el sistema?:
+1. z = x • x (AND).
+0 1
+2. z = x + x (OR).
+0 1
+3. z = x (cid:18) x (XOR).
+0 1
+20 -
+4. z = x • (x + x ).
+0 0 1
+5. z = x + (x • x ).
+1 0 1
+187. La ejecución de una instrucción en un
+procesador segmentado se realiza en cinco
+etapas, cada una de las cuales dura 20ns, 35ns,
+65ns, 35ns y 45ns respectivamente. El tiempo
+medio de ejecución de una instrucción es:
+1. 20ns.
+2. 65ns.
+3. 35ns.
+4. 200ns.
+5. 40ns.
+188. La jerarquía de memoria permite mejorar el
+rendimiento de los procesadores mediante:
+1. Un aumento de la capacidad de
+almacenamiento del sistema.
+2. Una reducción del número de fallos de página.
+3. Un aumento de la frecuencia de reloj del
+procesador.
+4. Una reducción del tiempo medio de acceso a
+memoria.
+5. Un aumento del ancho de banda del bus de
+expansión.
+189. El uso de memoria virtual en un sistema
+permite:
+1. Ejecutar procesos de tamaño mayor que la
+memoria principal del sistema.
+2. Reducir el tiempo de ejecución de un proceso.
+3. Asegurar que todos los datos que referencia un
+proceso se encuentren siempre en memoria
+principal.
+4. Reducir el tiempo de acceso a la memoria
+principal del sistema.
+5. Reducir el número de fallos de memoria
+caché.
+190. Se dispone de un procesador que trabaja a una
+frecuencia de 800MHz que es capaz de ejecutar
+dos instrucciones en cada ciclo de reloj. ¿Cuál
+es el rendimiento pico del procesador medido en
+MIPS (millones de instrucciones por segundo)?:
+1. 800 MIPS.
+2. 400 MIPS.
+3. 1600 MIPS.
+4. 1200 MIPS.
+5. 1000 MIPS.
+191. El protocolo de comunicaciones FTP permite:
+1. Transferir archivos de un sistema a otro.
+2. Transferir mensajes de correo electrónico.
+3. Compartir recursos entre dos sistemas.
+4. Transferir hipertextos (HTTP).
+5. La conexión remota a otros sistemas.
+- 2
+192. ¿Cuál de las siguientes afirmaciones es cierta
+respecto a la entrada/salida mediante
+interrupciones?:
+1. Cuando se produce una interrupción el
+periférico espera hasta que se termine la
+ejecución del programa.
+2. Antes de ejecutar la rutina de tratamiento de
+interrupción es necesario guardar el registro de
+estado del procesador.
+3. El procesador detiene la ejecución de la
+instrucción en curso y responde a la
+interrupción.
+4. La rutina de tratamiento de interrupción no
+modifica en su ejecución el registro de estado
+del procesador.
+5. Para que un programa haga uso de un
+periférico debe incluir en su código la rutina
+de tratamiento de interrupción asociada a ese
+periférico.
+193. En una comunicación TCP/IP, el puerto de la
+conexión es un identificador que permite
+distinguir:
+1. Al usuario que interviene en la conexión.
+2. Qué interfaz de red se está usando en la
+conexión.
+3. El proceso o la aplicación involucrada en la
+conexión.
+4. La región de memoria en la que se almacenan
+los mensajes.
+5. Las máquinas de la red que intervienen en la
+conexión.
+194. Una subrutina recursiva es aquella que:
+1. En su ejecución se llama a sí misma.
+2. Se llama muchas veces desde otras subrutinas
+en la ejecución de un programa.
+3. No puede implementarse con un ciclo
+iterativo.
+4. Hace un uso intensivo de llamadas a otras
+subrutinas.
+5. No realiza ninguna llamada a otras subrutinas.
+195. Un muro de seguridad (firewall) es un sistema
+que:
+1. Permite la conexión de una intranet a internet.
+2. Permite autentificar los usuarios que se
+conectan a una red.
+3. Permite la compartición de recursos
+distribuidos de forma segura.
+4. Impide las conexiones no autorizadas a una
+red.
+5. Asegura las conexiones encriptando los
+paquetes que pasan por él.
+196. En un sistema operativo, el área de intercambio
+(swap) es la región:
+21 -
+1. De memoria principal que ocupan los procesos
+que se están ejecutando.
+2. De memoria principal que ocupan los datos de
+los procesos en ejecución.
+3. Del disco que ocupan los datos de los
+procesos en ejecución.
+4. De memoria principal donde se transvasan los
+procesos que no se están ejecutando.
+5. De disco donde se transvasan los procesos que
+no se están ejecutando.
+197. Un puntero es una variable que contiene:
+1. El índice para acceder a un array.
+2. Una dirección de memoria.
+3. El resultado de la ejecución de una subrutina.
+4. Una estructura de datos.
+5. Un dato de doble precisión.
+198. El protocolo de comunicaciones SMTP permite:
+1. Transferir archivos de un sistema a otro.
+2. Transferir mensajes de correo electrónico.
+3. Compartir recursos entre dos sistemas.
+4. Transferir hipertextos (HTTP).
+5. La conexión remota a otros sistemas.
+199. Cuando se realiza una llamada a una subrutina.
+¿Qué se almacena en la pila de sistema?:
+1. Las variables globales del programa.
+2. Las direcciones de comienzo de las funciones
+que usará la subrutina.
+3. La dirección de la siguiente instrucción a la de
+llamada a la subrutina.
+4. La dirección de la última instrucción de la
+subrutina.
+5. La dirección de la primera instrucción de la
+subrutina.
+200. ¿Qué son los discos RAID?:
+1. Cada uno de los discos lógicos resultantes de
+particionar un disco físico.
+2. Los discos que se comparten por red.
+3. Los discos que se conectan al bus SCSI.
+4. Un conjunto de discos físicos vistos por el
+sistema con una unidad lógica.
+5. Discos con una gran capacidad de
+almacenamiento y velocidad de acceso.
+201. Un condensador de 3 nF está cargado a una
+diferencia de potencial de 3 V y otro
+condensador de 1 nF está cargado a una
+diferencia de potencial de 1 V. Si se conectan en
+paralelo de forma que se unan las placas con
+cargas de signo opuesto, la diferencia de
+potencial de la asociación en paralelo es:
+1. 3 V
+2. 0,5 V
+3. 2 V
+- 2
+4. 1,5 V
+5. 1 V
+202. ¿Cuál es la función de la técnica de
+entrada/salida por acceso directo a memoria
+(DMA)?:
+1. Realizar transferencias de datos entre memoria
+y un periférico con una intervención mínima
+de la CPU.
+2. Aumentar el número de periféricos que pueden
+conectarse a un sistema.
+3. Permitir el acceso de la CPU a la memoria
+principal evitando la memoria caché.
+4. Permitir que los periféricos de entrada accedan
+directamente a la memoria de los periféricos
+de salida.
+5. Aumentar el ancho de banda del bus al que se
+conectan los periféricos.
+203. Los trastornos que sufre un ser humano cuando
+asciende a una montaña por encima de
+aproximadamente 3500 m constituyen el
+llamado mal de montaña. Estos trastornos se
+deben:
+1. Al aumento de la presión parcial del O en la
+2
+sangre.
+2. A la disminución de la presión parcial del O
+2
+en la sangre.
+3. Al aumento de la gravedad.
+4. A la disminución de la gravedad.
+5. A la disminución de la temperatura.
+204. En régimen laminar la resistencia
+hidrodinámica de un conductor cilíndrico es
+proporcional a la:
+1. Viscosidad del líquido e inversamente
+proporcional a su densidad.
+2. Densidad del líquido e inversamente
+proporcional a su viscosidad.
+3. Longitud del tubo e inversamente proporcional
+a su sección.
+4. Densidad del líquido e inversamente
+proporcional a su sección.
+5. Viscosidad del líquido y proporcional a la
+longitud del tubo.
+205. Tomando el cero de la energía potencial
+gravitacional cuando dos masas están
+infinitamente separadas, para la energía de un
+cuerpo en un movimiento circular planetario.
+¿Cuál de las siguientes afirmaciones es
+correcta?:
+1. La energía total del sistema es constante y
+negativa.
+2. La energía total del sistema es constante y
+positiva.
+3. La energía potencial del sistema es igual a la
+energía cinética pero de signo contrario.
+22 -
+4. La energía potencial del sistema disminuye al
+aumentar el radio de la órbita.
+5. Ninguna de las afirmaciones anteriores es
+correcta.
+206. La altura que asciende un líquido por
+capilaridad en un tubo es:
+1. Proporcional a la viscosidad del líquido e
+inversamente proporcional a su densidad.
+2. Proporcional a la densidad del líquido e
+inversamente proporcional al radio del tubo.
+3. Proporcional al radio del tubo y a la tensión
+superficial del líquido.
+4. Inversamente proporcional al radio del tubo y
+a la tensión superficial del líquido.
+5. Inversamente proporcional al radio del tubo y
+a la densidad del líquido.
+207. En un sistema descrito por una lagrangiana L,
+si una cierta coordenada generalizada q no
+aparece en L podemos afirmar que:
+1. q describe un movimiento periódico.
+2. q es una constante del movimiento.
+3. El momento conjugado de q es una constante
+del movimiento.
+4. La energía cinética del sistema es una
+constante del movimiento.
+5. q describe un movimiento rectilíneo y
+uniforme.
+208. Cuando el trabajo realizado por las fuerzas de
+un campo es independiente del camino elegido
+para pasar de la posición inicial a la final se dice
+que el campo de fuerza es:
+1. Activo.
+2. Estático.
+3. Inestable.
+4. Conservativo.
+5. No conservativo.
+209. La tercera ley de Kepler indica que el periodo
+de rotación (T) de un planeta y su distancia (R)
+al Sol (semieje mayor) están relacionados según
+la ecuación:
+1. R2 / T3 = constante.
+2. R4 / T2 = constante.
+3. R3 / T2 = constante.
+4. R2 / T = constante.
+5. R2 / T2 = constante.
+210. Si se reduce a la mitad la longitud de un
+péndulo su periodo de oscilación:
+1. No cambia.
+2. Aumenta en 2.
+3. Se reduce en 1/8.
+4. Se duplica.
+5. Se reduce en 1/4.
+- 2
+211. Una mujer de masa, m, permanece de pie sobre
+una balanza en un ascensor. Si el ascensor sube
+con una determinada aceleración se puede
+afirmar que el peso de la mujer:
+1. Es menor que mg.
+2. Es igual a mg.
+3. Es mayor que mg.
+4. No se puede calcular.
+5. No varía.
+212. ¿Cuál sería el momento de inercia de una
+varilla delgada respecto a un eje normal a ella
+en su punto medio?:
+1. 3/10 MR2.
+2. 1/2 MR2.
+3. 1/4 MR2.
+4. 2/5 MR2.
+5. 1/3 MR2.
+213. Una partícula puntual clásica. ¿Puede tener
+momento de inercia?:
+1. No, ésta es una propiedad exclusiva de los
+cuerpos extensos e independiente del
+movimiento que realice el cuerpo.
+2. Si, y es independiente del movimiento de la
+partícula.
+3. Si, y depende del radio R del giro que esté
+realizando dicha partícula.
+4. No, ésta es una propiedad exclusiva de los
+cuerpos extensos y depende del movimiento
+que estos realicen.
+5. Una partícula clásica no, pero una cuántica sí,
+múltiplos de la constante reducida de Planck
+1/2(cid:3)h.
+214. De las siguientes afirmaciones sobre la
+aceleración de Coriolis SÓLO una es cierta.
+¿Cuál?:
+1. Es una de las componentes de la gravedad, la
+paralela al eje de rotación de la tierra.
+2. Es un efecto relativista que se produce cuando
+hay un movimiento rectilíneo uniformemente
+acelerado.
+3. Es la causante de la llamada fuerza centrífuga
+en el movimiento curvilíneo.
+4. Al describir el movimiento de una partícula
+desde 2 sistemas de referencia que giran uno
+respecto a otro surge este término. Dicho
+efecto es independiente del movimiento que se
+estudia.
+5. Al describir el movimiento de una partícula
+desde 2 sistemas de referencia que giran uno
+respecto a otro surge este término. Dicho
+efecto es dependiente del movimiento que se
+estudia.
+215. De un cuerpo que gira con velocidad angular
+23 -
+constante, se puede decir que:
+1. Existe un par externo que lo impulsa, pues
+cada punto es una masa que gira.
+2. No hay fuerzas aplicadas sobre él, pues su
+estado dinámico no cambia.
+3. No hay momentos de fuerzas externas ya que
+su giro es constante.
+4. Describe un movimiento de nutación.
+5. Si no se deforma cada punto, tiene una
+aceleración constante.
+216. Indicar qué afirmación es FALSA:
+1. Los sistemas de referencia Inerciales son todos
+aquellos en los que los observadores se
+mueven entre sí con movimiento rectilíneo
+uniforme.
+2. La aceleración de una partícula es la misma en
+cualquier sistema de referencia inercial.
+3. Ningún experimento mecánico permite
+dilucidar si un sistema de referencia inercial
+está en reposo o en movimiento rectilíneo
+uniforme.
+4. Las Leyes de Newton se cumplen en los
+sistemas de referencia inerciales.
+5. La aceleración de un cuerpo no permanece
+invariable bajo la transformación galileana.
+217. ¿Cómo es la energía total en toda órbita
+cerrada resultante de interacción gravitatoria?:
+1. Positiva.
+2. Negativa.
+3. Nula.
+4. Infinita.
+5. Igual a G (Constante Gravitación Universal).
+218. ¿Cómo es el momento lineal de un sistema de
+partículas expresado en el sistema de referencia
+centro de masas?:
+1. Siempre negativo.
+2. Siempre positivo.
+3. Nulo.
+4. No se puede definir.
+5. Siempre mayor que en el sistema de referencia
+laboratorio.
+219. ¿A qué es igual la variación temporal del
+momento angular de un sistema de partículas?:
+1. A la resultante de las fuerzas exteriores.
+2. Al momento total de las fuerzas interiores.
+3. Al momento total de las fuerzas exteriores.
+4. A una constante.
+5. A cero.
+220. En un sólido rígido que gira alrededor de un eje
+a determinada velocidad angular (w). ¿Cuándo
+es su momento angular paralelo a w?:
+- 2
+1. Depende del valor del momento de inercia.
+2. Nunca.
+3. Siempre, para cualquier eje de rotación.
+4. Cuando el eje de rotación es eje principal de
+inercia.
+5. Para cualquier eje definido en el sistema de
+referencia centro de masas.
+221. En un sólido rígido que gira alrededor de un eje
+con velocidad w dada. ¿Cuándo es su energía
+Cinética igual a Iw2/2 (siendo I su momento de
+inercia)?:
+1. Siempre, para todo eje de rotación.
+2. Sólo cuando el eje de rotación es eje principal
+de inercia.
+3. Sólo para determinados sólidos.
+4. Sólo cuando el eje de rotación es externo al
+sólido rígido.
+5. Nunca.
+222. ¿En cuál de los siguientes procesos se realiza un
+trabajo no nulo?:
+1. Movimiento circular uniforme de una
+partícula.
+2. Movimiento de una partícula cargada en un
+campo magnético.
+3. Cambio de presión isócoro de un gas ideal.
+4. Movimiento debido a una fuerza conservativa
+de un cuerpo a lo largo de una trayectoria
+cerrada.
+5. Compresión isoterma cuasi-estática de un gas
+ideal.
+223. ¿Cuánto vale el periodo de un péndulo simple
+de 9.8 m de longitud?:
+1. 2/(cid:3).
+2. 3(cid:3)/2.
+3. 2(cid:3)/3.
+4. 2(cid:3).
+5. (cid:3)/2.
+224. La órbita que describe una partícula de masa m
+bajo la acción de una fuerza inversamente
+proporcional al cuadrado de la distancia
+cuando la energía mecánica global sea
+positiva es siempre:
+1. Cerrada.
+2. Circular.
+3. Parabólica.
+4. Hiperbólica.
+5. Elíptica.
+225. El potencial gravitatorio de una masa m en el
+seno de un campo gravitatorio es:
+1. Una superficie equipotencial.
+2. Una función escalar igual a la energía
+potencial de masa uno.
+24 -
+3. El gradiente del campo gravitatorio.
+4. Menos el gradiente del campo gravitatorio.
+5. Equivale a la gravedad.
+226. En el sistema internacional la unidades de la
+tasa de fluencia energética son:
+1. J/(s•m).
+2. J/s.
+3. eV/(s•m).
+4. J/(s•m2).
+5. J/(s•m3).
+227. La iluminación energética es una magnitud:
+1. Radiométrica y su unidad es el watio.
+2. Fotométrica y su unidad es el watio.
+3. Radiométrica y su unidad es el watio. m2.
+4. Radiométrica y su unidad es watio-1.
+5. Fotométrica y su unidad es el watio. m2.
+228. El lux es la unidad de:
+1. Luminancia.
+2. Iluminación.
+3. Flujo luminoso.
+4. Brillo.
+5. Intensidad.
+229. Un haz de luz de una longitud de onda de 6000
+Angstroms incide sobre una rejilla de difracción
+que tiene 5000 líneas/cm. Estimar el ángulo en
+el que se produce la línea de primer orden:
+1. 17.5º.
+2. 14.6º.
+3. 18.2º.
+4. 14.9º.
+5. 16.7º.
+230. En Óptica se denominan puntos nodales de un
+sistema óptico a:
+1. Aquellos puntos que para cualquier objeto
+situado a gran distancia del sistema óptico
+forma su imagen en dichos puntos nodales.
+2. Aquellos puntos que para cualquier objeto
+situado a corta distancia del sistema óptico
+forma su imagen en dichos puntos nodales.
+3. Todo punto por el cual pasa un rayo sin sufrir
+desviación alguna.
+4. Dos puntos conjugados que tienen la
+propiedad de que todo rayo que incida en el
+sistema pasando por el primero sale del mismo
+perpendicular a la dirección de incidencia y
+pasan por el segundo.
+5. Dos puntos conjugados que tienen la
+propiedad de que todo rayo que incida en el
+sistema pasando por el primero sale del mismo
+paralelo a la dirección de incidencia y pasa por
+el segundo.
+- 2
+231. La doble refracción se produce al pasar la luz a
+través de:
+1. Todos los cristales transparentes, excepto los
+que pertenecen al sistema cúbico.
+2. Todos los cristales transparentes.
+3. Sólo los cristales del sistema cúbico.
+4. El agua.
+5. Ninguna de las anteriores.
+232. En un microscopio óptico:
+1. Al disminuir la distancia entre el objetivo y el
+ocular se produce una disminución en su
+aumento.
+2. Al aumentar la distancia focal del ocular no se
+modifican los aumentos.
+3. Al aumentar la potencia del objetivo no se
+modifican los aumentos.
+4. El aumento es proporcional a la suma de las
+distancias focales del objetivo y ocular e
+inversamente a la distancia entre objetivo y
+ocular.
+5. El aumento es proporcional a la distancia entre
+objetivo y ocular e inversamente al producto
+de las distancias focales del objetivo y ocular.
+233. Sea un haz de luz incidente sobre una superficie
+pulida de una placa de vidrio ordinario de
+índice de refracción n. Si se desea obtener un
+haz de luz reflejada polarizada:
+1. Los rayos reflejados y refractados resultantes
+son perpendiculares entre sí.
+2. El ángulo de haz incidente debe ser de 90º.
+3. La luz incidente debe estar previamente
+polarizada.
+4. El rayo refractado resultante tiene intensidad
+nula.
+5. El ángulo de polarización resultante es
+independiente de n.
+234. Supongamos una cavidad que encierra dos
+cuerpos uno de los cuales es negro. En
+condiciones de equilibrio térmico, si solamente
+es posible el intercambio de calor por radiación,
+se tiene que por unidad de tiempo y superficie:
+1. Ambos emiten la misma cantidad de energía.
+2. El cuerpo negro emite menos energía que el
+otro.
+3. El cuerpo negro emite más energía que el otro.
+4. El cuerpo negro no emite energía, sólo
+absorbe.
+5. En condiciones de equilibrio ninguno emitirá
+ni absorberá energía.
+235. Cierta persona, hipermétrope, no puede ver con
+nitidez los objetos situados a una distancia
+menor de 75 cm. La potencia, en dioptrías, que
+deben tener sus gafas para que pueda ver con
+claridad a una distancia de 25 cm es:
+25 -
+1. +2.67.
+2. –2.67.
+3. +3.
+4. –3.
+5. +3.3x10-3.
+236. El radio de curvatura del cristalino es de 8 mm.
+El índice de refracción del medio interno del ojo
+es 1.34. La potencia óptica es:
+1. 42.5 dioptrías.
+2. 21.2 dioptrías.
+3. 85 dioptrías.
+4. 36.4 dioptrías.
+5. 8.5 dioptrías.
+237. Una cámara fotográfica tiene un teleobjetivo de
+100 mm de focal. La distancia entre la lente y la
+película puede variarse entre 100 y 125 mm.
+¿Cuáles son las distancias mínima y máxima a
+las que un objeto produce una imagen nítida
+sobre la película?:
+1. 0.5 m y 10 m.
+2. 0.5 m e infinito.
+3. 0.25 m e infinito.
+4. 0.5 m y 10 m.
+5. 0.12 m e infinito.
+238. La distancia desde el punto principal imagen
+hasta el foco imagen se denomina:
+1. Potencia.
+2. Principal imagen.
+3. Principal objeto.
+4. Focal imagen.
+5. Focal objeto.
+239. El principio de Fermat afirma que el camino
+óptico a lo largo de una trayectoria real de la
+luz es:
+1. Máximo.
+2. Mínimo.
+3. Punto de silla.
+4. Estacionario.
+5. Estático.
+240. ¿Cuál es la causa de que una imagen presente
+una aberración de distorsión?:
+1. Falta de constancia del aumento lateral.
+2. La imagen de puntos en un plano objeto no se
+hallan en el mismo plano del espacio imagen.
+3. La imagen de un punto son dos puntos.
+4. La imagen de un punto es una mancha.
+5. La imagen de un punto es una línea.
+241. Las aberraciones en los sistemas ópticos se
+deben a:
+- 2
+1. La pérdida de la validez de la aproximación
+realizada en los sistemas centrados paraxiales.
+2. La falta de homogeneidad del material en la
+fabricación de las lentes.
+3. Las imprecisiones en la esfericidad de las
+lentes.
+4. La propagación de la luz no se realiza a
+velocidad infinita.
+5. Las lentes reales no son totalmente
+transparentes.
+242. Si un sistema óptico se halla en medios de
+índices de refracción iguales:
+1. El valor de la focal imagen es igual al valor de
+la focal objeto.
+2. La focal imagen y la objeto difieren en una
+unidad.
+3. La óptica paraxial no es aplicable a ese
+sistema.
+4. El valor absoluto de la focal imagen es igual al
+valor absoluto de la focal objeto.
+5. El valor absoluto de la focal imagen es igual a
+menos el valor absoluto de la focal objeto.
+243. La potencia radiada en todo el espacio por un
+dipolo eléctrico que oscila con frecuencia (cid:8) es
+proporcional a:
+1. (cid:8).
+2. (cid:8)2.
+3. (cid:8)3.
+4. (cid:8)4.
+5. (cid:8)-2.
+244. Con respecto a las funciones de distribución de
+Boltzmann, Bose y Fermi, ¿cuál de las
+siguientes afirmaciones es la correcta?:
+(k: Constante de Bolztmann, T: Temperatura
+absoluta)
+1. La distribución de Boltzmann se aplica a
+partículas indistinguibles que no están sujetas
+al principio de exclusión.
+2. Para energías pequeñas comparadas con kT el
+número de partículas por estado cuántico es
+mayor en la distribución de Bose que en la
+distribución de Boltzmann.
+3. La distribución de Bose se aplica en el estudio
+de la emisión termoiónica.
+4. La distribución de Fermi se aplica en el
+estudio de un gas de fonones.
+5. Las eigenfunciones de partículas que obedecen
+a la distribución de Bose es antisimétrica ante
+un intercambio de marcas de las partículas.
+245. La velocidad de las ondas sonoras en un fluido
+depende:
+1. Inversamente de la temperatura.
+2. Directamente de la gravedad.
+3. Directamente de la densidad.
+26 -
+4. Inversamente de la constante universal de los
+gases R.
+5. Directamente del módulo de compresibilidad.
+246. La cantidad de calor necesaria para pasar un
+gramo de una sustancia en estado sólido a
+estado gaseoso se denomina calor de:
+1. Fusión.
+2. Vaporización.
+3. Solidificación.
+4. Sublimación.
+5. Ignición.
+247. La Ley de Boyle-Mariotte nos dice que:
+1. La presión aplicada en un punto cualquiera de
+un flujo se transmite, sin variación, a todos los
+puntos del mismo.
+2. Si un cuerpo está sumergido totalmente en un
+líquido, el empuje experimentado es igual al
+peso del volumen desplazado.
+3. PV = cte. Es la ecuación correspondiente a un
+proceso de compresión adiabático.
+4. PV = cte. Es la ecuación correspondiente a un
+proceso de compresión isotermo.
+5. Entre dos puntos de un fluido incompresible,
+separados por una distancia vertical Z, existe
+una diferencia de presión igual al peso de una
+columna de fluido, de base unidad y altura
+igual a la distancia vertical entre ambos
+puntos.
+248. El calor específico de los diferentes elementos
+químicos en estado sólido multiplicados por su
+correspondiente peso atómico (ley de Dulong y
+Petit):
+1. Es constante para todos los valores de
+temperaturas.
+2. Vale aproximadamente 6 en el cero absoluto.
+3. Se hace infinito en el cero absoluto.
+4. Es constante en el rango de las temperaturas
+ambientales.
+5. En general disminuye con la temperatura.
+249. ¿Cuál de las siguientes expresiones
+termodinámicas es siempre cierta?:
+(H: entalpía; U: energía interna; S: entropía;
+G: energía libre; p: presión; V: volumen; T:
+temperatura; W: trabajo; Q: calor)
+1. H = U - p•V.
+2. H = U + T•S – Q.
+3. (cid:19)G = (cid:19)H + (cid:19)S.
+4. (cid:19)G = (cid:19)U `W - (cid:19)S.
+5. H = U + p•V.
+250. En la ley de Stefan-Boltzmann la potencia
+radiada por un cuerpo en forma de ondas
+electromagnéticas, como mecanismo de
+transmisión de calor, depende:
+- 2
+1. Inversamente de la emisividad (e).
+2. Directamente con el cuadrado del área (A).
+3. Directamente con la temperatura absoluta (T).
+4. Directamente con la temperatura absoluta (T)
+al cuadrado.
+5. Directamente con la temperatura absoluta (T)
+a la cuarta potencia.
+251. Para fluidos en movimiento, la ecuación de
+continuidad es consecuencia de la conservación
+de:
+1. La masa.
+2. La energía.
+3. La cantidad de movimiento.
+4. El momento angular.
+5. El trabajo.
+252. ¿Cuál de las siguientes características del
+proceso de expansión libre de un gas ideal es
+FALSA?:
+1. No se realiza trabajo.
+2. No existe transferencia de calor.
+3. La energía interna del gas permanece
+constante.
+4. La temperatura del gas disminuye.
+5. La energía interna del gas es independiente de
+su presión y volumen.
+253. La ecuación de estado de un sistema es:
+1. Una relación entre las variables de estado del
+sistema válida mientras el sistema no pierda la
+estructura física que lo define.
+2. Una relación que sólo se cumple en los
+procesos adiabáticos de los sistemas aislados.
+3. Una relación sólo válida para los procesos
+reversibles.
+4. Válida únicamente en los sistemas en
+equilibrio termodinámico.
+5. El resultado de realizar la aproximación de
+equilibrio termodinámico local.
+254. La ley de equilibrio estadístico, nos dice que al
+alcanzar un sistema de N partículas una
+determinada energía interna U evolucionará
+hasta:
+1. Alcanzar un estado de mínima energía.
+2. Alcanzar la partición más probable.
+3. Poseer la distribución microcanónica.
+4. Que no actúe ningún agente externo no
+evolucionará microscópicamente.
+5. Que se adquiera la T más baja compatible con
+el sistema.
+255. En un ciclo de Carnot el rendimiento depende
+exclusivamente de:
+1. Las diversas Temperaturas del ciclo.
+27 -
+2. Las Temperaturas externas del ciclo.
+3. Las Presiones externas del ciclo.
+4. Las diversas Presiones del ciclo.
+5. Las Temperaturas y Presiones externas del
+ciclo.
+256. La impedancia acústica tiene la siguiente
+ecuación de dimensiones:
+1. ML-1T2.
+2. M-1L-1T.
+3. ML-2T.
+4. ML-2T-1.
+5. ML-2T-2.
+257. A una temperatura más alta que el punto de
+Curie el material:
+1. Ferromagnético se transforma en
+paramagnético ordinario.
+2. Paramagnético se transforma en
+ferromagnético ordinario.
+3. Ferromagnético se transforma en
+antiferromagnético.
+4. Paramagnético se transforma en
+antiferromagnético.
+5. Ferromagnético se transforma en
+ultramagnético.
+258. Si la amplitud de un haz de ultrasonidos en un
+punto es A , ¿cuál será su amplitud a una
+0
+distancia x?:
+1. A(x) = A ekx.
+0
+2. A(x) = A /x.
+0
+3. A(x) = A k/x2.
+0
+4. A(x) = A e-kx.
+0
+5. A(x) = k A x2.
+0
+259. ¿Cuál de estas unidades pertenece al Sistema
+Internacional?
+1. Gauss.
+2. Weber.
+3. Ampere.
+4. Maxwell.
+5. Oersted.
+260. ¿Cuál de estos elementos NO es ferromagnético
+a temperatura ambiente?:
+1. Hierro.
+2. Níquel.
+3. Cobalto.
+4. Plomo.
+5. Gadolinio.
+- 28 -

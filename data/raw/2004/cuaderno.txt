@@ -1,0 +1,2631 @@
+MINISTERIO DE EDUCACION, CULTURA Y DEPORTE
+MINISTERIO DE SANIDAD Y CONSUMO
+PRUEBAS SELECTIVAS 2003 - CONVOCATORIA ÚNICA -
+CUADERNO DE EXAMEN
+RADIOFÍSICOS
+ADVERTENCIA IMPORTANTE
+ANTES DE COMENZAR SU EXAMEN, LEA ATENTAMENTE LAS SIGUIENTES
+INSTRUCCIONES
+1. Compruebe que este Cuaderno de Examen lleva todas sus páginas y no tiene defec-
+tos de impresión. Si detecta alguna anomalía, pida otro Cuaderno de Examen a la Me-
+sa.
+2. La “Hoja de Respuestas” se compone de tres ejemplares en papel autocopiativo que
+deben colocarse correctamente para permitir la impresión de las contestaciones en to-
+dos ellos. Compruebe sus datos identificativos impresos en ellas. Recuerde que debe
+firmar esta Hoja.
+3. Sólo se valoran las respuestas marcadas en la “Hoja de Respuestas”, siempre que se
+tengan en cuenta las instrucciones contenidas en la misma.
+4. Compruebe que la respuesta que va a señalar en la “Hoja de Respuestas” correspon-
+de al número de pregunta del cuestionario.
+5. Si inutiliza su “Hoja de Respuestas” pida un nuevo juego de repuesto a la Mesa de
+Examen y no olvide consignar sus datos personales.
+6. Recuerde que el tiempo de realización de este ejercicio es de cinco horas improrro-
+gables.
+7. Podrá retirar su Cuaderno de Examen una vez finalizado el ejercicio y hayan sido re-
+cogidas las “Hojas de Respuesta” por la Mesa.
+- 1 -
+1. Dadas dos posiciones distintas de un mismo
+s(cid:243)lido r(cid:237)gido, ¿bajo quØ condiciones se puede
+pasar de una a la otra mediante una traslaci(cid:243)n
+seguida de un giro paralelo a la direcci(cid:243)n de
+traslaci(cid:243)n (transformaci(cid:243)n helicoidal)?:
+1. Siempre.
+2. Nunca.
+3. S(cid:243)lo si el s(cid:243)lido tiene al menos un eje de si-
+metr(cid:237)a axial.
+4. S(cid:243)lo si el s(cid:243)lido es plano.
+5. Unicamente si el s(cid:243)lido es un elipsoide.
+2. La amplitud (Ao) de un haz de ultrasonidos
+var(cid:237)a con la distancia (x) segœn la expresi(cid:243)n:
+1. A(x) = Ao/x2.
+2. A(x) = Ao e-kx.
+3. A(x) = Ao/kx.
+4. A(x) = Ao-x.
+5. A(x) = Ao x2.
+3. La variaci(cid:243)n del campo gravitatorio (g) con la
+distancia radial (r) en el interior de una esfera
+maciza de masa M depende de:
+1. r.
+2. r2.
+3. r-1.
+4. r-2.
+5. r-3.
+4. Una barra de acero tiene 0.25 m de diÆmetro y
+1.5 m de longitud en reposo. Si el m(cid:243)dulo de
+Young del acero es 2·1011 N/m2, el cambio de
+longitud cuando soporta una carga de 10000 kg
+es de:
+1. 1.5 mm.
+2. 0.030 mm.
+3. 0.15 mm.
+4. 0.015 mm.
+5. 0.3 mm.
+5. El momento de inercia respecto a su eje de un
+cilindro s(cid:243)lido de masa m y radio r es:
+1. mr2.
+2. (1/2) mr2.
+3. (1/3) mr2.
+4. (2/3) mr2.
+5. (1/4) mr2.
+6. Sea una part(cid:237)cula de energ(cid:237)a E sometida a una
+fuerza derivada de un potencial central y pro-
+porcional a 1/r2. Seæalar cuÆl de las siguientes
+afirmaciones es cierta:
+1. Si E=0 el movimiento tiene dos puntos de
+retroceso.
+2. Si E<0 la (cid:243)rbita que describe la part(cid:237)cula no
+estÆ acotada.
+- 2
+3. Si E=0 el movimiento no tiene puntos de
+retroceso.
+4. Si E>0 el movimiento tiene un punto de retro-
+ceso y la part(cid:237)cula tiende al infinito con velo-
+cidad constante.
+5. Si E>0 la (cid:243)rbita que describe la part(cid:237)cula es
+una circunferencia.
+7. En el hemisferio norte la fuerza de Coriolis,
+2m(vxω), tiende a desviar un proyectil dispara-
+do a lo largo de la superficie terrestre en direc-
+ci(cid:243)n distinta del eje terrestre:
+(Nota; v: velocidad respecto al sistema de coor-
+denadas en rotaci(cid:243)n; ω: velocidad angular de la
+Tierra)
+1. Hacia la derecha.
+2. Hacia la izquierda.
+3. Hacia ninguna direcci(cid:243)n, ya que es nula.
+4. Paralelamente al vector ω.
+5. En el sentido del campo magnØtico de los
+vientos solares.
+8. La dimensi(cid:243)n del espacio de fases de un sistema
+de N part(cid:237)culas libres en el espacio tridimensio-
+nal es:
+1. 9N.
+2. 7N.
+3. 2N.
+4. 3N.
+5. 6N.
+9. La velocidad l(cid:237)mite de una part(cid:237)cula de masa m
+en ca(cid:237)da libre en la Tierra que sufre una fuerza
+de arrastre en su desplazamiento por la atm(cid:243)s-
+→ → →
+fera de F = -b·v (siendo b una constante y v
+a
+la velocidad de la part(cid:237)cula), cumple que:
+1. Es independiente de m.
+2. Var(cid:237)a de forma cuadrÆtica con m.
+3. Cuanto mayor es b, mayor es la velocidad
+l(cid:237)mite.
+4. Es independiente de la masa de la tierra.
+5. Var(cid:237)a de forma lineal con m.
+10. El nœmero de integrales del movimiento inde-
+pendientes que puede tener un sistema mecÆni-
+co cerrado (es decir, que no interacciona con
+otros sistemas) de s grados de libertad es igual
+a:
+1. 2s-1.
+2. s-1.
+3. 2s.
+4. 2s-2.
+5. s+1.
+11. El periodo de un pØndulo es totalmente inde-
+pendiente del valor de la amplitud angular de la
+oscilaci(cid:243)n:
+2 -
+1. En ningœn caso.
+2. En el pØndulo de trayectoria circular (pØndulo
+simple).
+3. En el pØndulo de trayectoria cicloidal.
+4. En el pØndulo de trayectoria el(cid:237)ptica.
+5. En el pØndulo de trayectoria sinusoidal.
+12. Una cuerda de violonchelo tiene una longitud
+de 1.8 m, y una masa de 7 g. Indique cuÆl es la
+tensi(cid:243)n necesaria para que la cuerda produzca
+una frecuencia fundamental de 460 Hz:
+1. 1498 N.
+2. 10640 N.
+3. 299 N.
+4. 150 N.
+5. 894 N.
+13. Un satØlite artificial tiene una (cid:243)rbita de 2500
+km sobre la superficie de la Tierra. ¿CuÆl es la
+velocidad que debe tener para mantener la
+(cid:243)rbita circular?:
+Radio terrestre: 6400 km. Constante de gravi-
+taci(cid:243)n G = 6.67x10-11 N.m2.kg-2 Masa terrestre =
+6.1024kg.
+1. 6700 m/s.
+2. 670 m/s.
+3. 15400 m/s.
+4. 1540 m/s.
+5. 3450 m/s.
+14. ¿CuÆl de las siguientes afirmaciones es FALSA
+respecto de las transformaciones de Lorentz?:
+1. S(cid:243)lo se aplican a sistemas de referencia iner-
+ciales.
+2. Equivalen a un giro hiperb(cid:243)lico en el espacio
+(x, y, z, t).
+3. Son la generalizaci(cid:243)n relativista de las trans-
+formaciones de Galileo.
+4. Son no lineales.
+5. Conservan la cantidad c2t2 (cid:150) x2 (cid:150) y2 (cid:150) z2.
+15. En un sistema formado por dos part(cid:237)culas pun-
+tuales de igual masa (m) separadas por una
+distancia a, el valor del momento de inercia
+respecto del eje que pasa por las dos part(cid:237)culas
+es:
+1. ma2/2.
+2. ma2.
+3. 2ma2.
+4. 0.
+5. (cid:150) ma2.
+16. Un cuerpo en rotaci(cid:243)n sumergido en un fluido
+que se mueve perpendicularmente a su eje de
+giro, experimenta una fuerza perpendicular
+tanto al eje de giro como a la velocidad del flui-
+do. Esta fuerza se debe:
+- 3
+1. Al efecto Magnus.
+2. A la aceleraci(cid:243)n de Coriolis.
+3. Al coeficiente de viscosidad.
+4. Al coeficiente de rodadura.
+5. Al coeficiente de rozamiento.
+17. Supongamos que varias part(cid:237)culas tienen un
+mismo valor de energ(cid:237)a cinØtica. ¿CuÆl de ellas
+tiene una velocidad mÆs cercana a la de la luz?:
+1. El prot(cid:243)n.
+2. El neutr(cid:243)n.
+3. El electr(cid:243)n.
+4. La part(cid:237)cula alfa.
+5. El deuter(cid:243)n.
+18. Segœn la Ley de Hagen-Poiseuille, el flujo vo-
+lœmico o caudal a travØs de una tuber(cid:237)a de un
+fluido viscoso en rØgimen laminar, al hacer
+doble el radio de la tuber(cid:237)a, aumenta en un
+factor:
+1. 2.
+2. 4.
+3. 8.
+4. 16.
+5. ‰.
+19. Una barra de 90 cm de longitud oscila a modo
+de pØndulo f(cid:237)sico alrededor de un eje transver-
+sal que para por un punto situado a 15 cm del
+extremo superior. El periodo de la oscilaci(cid:243)n
+serÆ:
+(m = 3 kg es la masa de la barra)
+1. Proporcional a m.
+2. Proporcional a (m)1/2.
+3. Proporcional a 1/(m)1/2.
+4. 1,47 s.
+5. 14,7 s.
+20. ¿CuÆnto valdr(cid:237)a la velocidad relativa entre dos
+observadores si la relaci(cid:243)n entre tiempo propio
+e impropio vale 0.866?:
+1. 0.5 c.
+2. 0.25 c.
+3. 0.75 c.
+4. 0.87 c.
+5. 0.91 c.
+21. Un sistema referencial de coordenadas ligado a
+la Tierra es un sistema no inercial. Por tanto,
+los principios fundamentales de la dinÆmica
+propuestos por Newton y corroborados por
+mœltiples experimentos:
+1. S(cid:243)lo son vÆlidos en sistemas no inerciales.
+2. Son vÆlidos siempre en la Tierra porque Østa
+es un sistema inercial, en contra de lo que se
+dice en el enunciado.
+3. S(cid:243)lo son aproximadamente vÆlidos en la Tie
+3 -
+rra.
+4. Son vÆlidos siempre y en cualquier sistema de
+referencia, sea Øste un sistema inercial o no.
+5. S(cid:243)lo son vÆlidos para s(cid:243)lidos r(cid:237)gidos.
+22. La velocidad de escape desde la superficie de la
+Tierra:
+1. No depende de la masa de la Tierra.
+2. No depende del radio de la Tierra.
+3. No depende de la masa del objeto que escapa.
+4. Es la misma para todos los planetas del siste-
+ma solar.
+5. Es siempre nula.
+23. Seæalar la frase correcta:
+1. Las fuerzas conservativas no realizan trabajo.
+2. Si s(cid:243)lo actœan fuerzas conservativas, la ener-
+g(cid:237)a cinØtica no cambia.
+3. La energ(cid:237)a potencial s(cid:243)lo se define cuando las
+fuerzas son conservativas.
+4. La variaci(cid:243)n de la energ(cid:237)a mecÆnica total
+(cinØtica mÆs potencial) es igual al trabajo
+realizado por las fuerzas conservativas.
+5. La energ(cid:237)a potencial siempre se conserva.
+24. A los tres parÆmetros independientes que nos
+permiten determinar la orientaci(cid:243)n del s(cid:243)lido
+r(cid:237)gido, se les denomina:
+1. ParÆmetros de Cayley-Klein.
+2. Figuras de Lissajous.
+3. Angulos de Euler.
+4. Ecuaciones de Lagrange.
+5. Espacio de Minkowsky.
+25. Una de las consecuencias de la teor(cid:237)a restringi-
+da de la relatividad es que una varilla de una
+determinada longitud en un sistema de referen-
+cia, tendrÆ para un observador m(cid:243)vil, desde su
+propio sistema de referencia, una longitud apa-
+rente:
+1. Igual.
+2. Doble.
+3. Nula.
+4. Triple.
+5. Menor o igual.
+26. El teorema de Liouville:
+1. S(cid:243)lo se aplica a sistemas independientes del
+tiempo.
+2. Es incompatible con el teorema de Gauss.
+3. Se cumple incluso cuando el hamiltoniano
+depende expl(cid:237)citamente del tiempo.
+4. S(cid:243)lo se aplica en el espacio de configuraci(cid:243)n.
+5. Ninguna de las anteriores es correcta.
+27. ¿Con quØ tipo de transformada matemÆtica se
+transforma un Lagrangiano en un Hamiltonia-
+- 4
+no?:
+1. Legendre.
+2. Fourier.
+3. Galois.
+4. Laplace.
+5. Reiner-Nordstrom.
+28. ¿CuÆntas veces es superior la intensidad de un
+sonido de 80 dB con respecto a otro de 40 dB?:
+1. 2.
+2. 102.
+3. 40.
+4. 104.
+5. 10 log (80/40).
+29. Para un esfuerzo longitudinal, el cociente, cam-
+biado de signo, entre las deformaciones unita-
+rias transversal y longitudinal es una constante
+caracter(cid:237)stica de cada material y recibe el nom-
+bre de:
+1. M(cid:243)dulo de Young.
+2. Coeficiente de Poisson.
+3. Coeficiente isotr(cid:243)pico.
+4. Constante elÆstica del material.
+5. M(cid:243)dulo de compresibilidad.
+30. La ecuaci(cid:243)n de Laplace relacionando la tensi(cid:243)n
+en la pared (T) con la presi(cid:243)n transmural (P) y
+el radio de una esfera r es:
+1. T = P·r/3.
+2. T = 3·P·r/2.
+3. T = 2·P·r.
+4. T = P·r.
+5. T = P·r/2.
+31. ¿CuÆl es la relaci(cid:243)n relativista entre energ(cid:237)a
+total (E), masa en reposo (m) y cantidad de
+movimiento (p) de una part(cid:237)cula libre?:
+1. E = mc2 + pc.
+2. E = p2/2m.
+3. E = m2c2 + p2c2.
+4. E2 = m2c4 + p2c2.
+5. E2 = p2/2m2.
+32. Si el momento de inercia de un anillo con res-
+pecto a un eje perpendicular a Øste y que pasa
+por el centro toma el valor MR2 (siendo R el
+radio del anillo y M su masa), calcular el mo-
+mento de inercia en un eje perpendicular que
+pasa a una distancia R/2 del centro:
+1. 5MR2/4.
+2. 2MR2.
+3. 3MR2/2.
+4. 5MR2/2.
+5. 3MR2.
+4 -
+33. Bajo la acci(cid:243)n de un campo gravitatorio newto-
+niano, ¿de quØ manera depende el semieje ma-
+yor de las trayectorias el(cid:237)pticas del valor abso-
+luto de la energ(cid:237)a (E)?:
+1. E.
+2. E1/2.
+3. No depende de la energ(cid:237)a.
+4. 1/E1/2.
+5. 1/E.
+34. El tensor de Ricci:
+1. Sustituye al operador de spin en la ecuaci(cid:243)n
+de Dirac.
+2. Rige la transici(cid:243)n al estado superconductor de
+un material en la teor(cid:237)a BCS.
+3. Es la derivada covariante del tensor de
+Maxwell.
+4. Relaciona el vector inducci(cid:243)n magnØtica con
+el vector magnetizaci(cid:243)n.
+5. Resulta de la contracci(cid:243)n del primer y œltimo
+(cid:237)ndice del tensor de Riemann.
+35. En una cuerda tensada, la velocidad de propa-
+gaci(cid:243)n de las ondas transversales al aumentar
+la masa en 4 veces:
+1. No var(cid:237)a.
+2. Se cuadriplica.
+3. Disminuye a la cuarta parte.
+4. Disminuye a la mitad.
+5. Disminuye a la tercera parte.
+36. El desplazamiento de part(cid:237)culas en una fase
+l(cid:237)quida, causado por la aplicaci(cid:243)n de una dife-
+rencia de potencial elØctrico, se denomina:
+1. Electr(cid:243)lisis.
+2. Adsorci(cid:243)n.
+3. Electroforesis.
+4. Osmosis.
+5. Flujo.
+37. Para que un sistema de part(cid:237)culas pueda poseer
+temperaturas absolutas negativas, es condici(cid:243)n
+necesaria que:
+1. Sus niveles energØticos disponibles estØn
+acotados inferiormente.
+2. En la naturaleza no es posible este hecho.
+3. Sus niveles energØticos disponibles no estØn
+acotados ni superior ni inferiormente.
+4. Sus niveles energØticos estÆn acotados supe-
+riormente.
+5. El nœmero de estados energØticos disponibles
+sea impar.
+38. La adsorci(cid:243)n de gases sobre s(cid:243)lidos se clasifica
+en f(cid:237)sica (intervienen fuerzas f(cid:237)sicas solamente)
+o qu(cid:237)mica (se establecen verdaderos enlaces
+qu(cid:237)micos):
+- 5
+1. En la primera se forman mœltiples capas ad-
+sorbidas y en la segunda a lo sumo una capa.
+2. La primera se produce a elevadas temperatu-
+ras y la segunda s(cid:243)lo es apreciable a tempera-
+turas inferiores a la ebullici(cid:243)n.
+3. Ambas son independientes de la temperatura.
+4. La primera depende a la vez de la sustancia
+que se adsorbe y del adsorbente y la segunda
+depende mÆs de la sustancia que se adsorbe
+que del adsorbente.
+5. El calor de adsorci(cid:243)n es superior en la primera
+que en la segunda.
+39. Segœn la Ley de Fourier, si duplicamos el gro-
+sor de una placa de un s(cid:243)lido cuyas paredes se
+mantienen a distinta temperatura el flujo de
+calor a travØs de la misma:
+1. No var(cid:237)a.
+2. Se duplica.
+3. Se divide por dos.
+4. Se eleva al cuadrado.
+5. Se multiplica por cuatro.
+40. En la expansi(cid:243)n o estrangulamiento Joule-
+Kelvin, un fluido que circula por un conducto
+tØrmicamente aislado sufre una disminuci(cid:243)n
+brusca de presi(cid:243)n al pasar a travØs de un tabi-
+que poroso o un tubo capilar. Este proceso
+mantiene constante la:
+1. Energ(cid:237)a.
+2. Entalp(cid:237)a.
+3. Entrop(cid:237)a.
+4. Temperatura.
+5. Energ(cid:237)a libre.
+41. La teor(cid:237)a cinØtica de los gases establece que la
+temperatura absoluta de un gas es proporcional
+al valor medio, relativo a sus molØculas, de:
+1. Sus velocidades.
+2. Los cuadrados de sus velocidades.
+3. El logaritmo de sus velocidades.
+4. Sus masas.
+5. La ra(cid:237)z cuadrada de sus velocidades.
+42. La regla de las fases de Gibbs establece que el
+nœmero de fases en equilibrio para un sistema
+con c componentes no puede ser mayor que:
+1. c.
+2. c-1.
+3. c2.
+4. c+2.
+5. 2c.
+43. Para un componente que se encuentra en distin-
+tas fases de un mismo sistema (p. ej. s(cid:243)lido-
+l(cid:237)quido vapor) la condici(cid:243)n de equilibrio esta-
+blece la igualdad en cada fase de:
+5 -
+1. Su energ(cid:237)a molar.
+2. Su potencial qu(cid:237)mico.
+3. Su entrop(cid:237)a molar.
+4. Su entalp(cid:237)a molar.
+5. No establece ninguna igualdad.
+44. Las capacidades calor(cid:237)ficas para gases diat(cid:243)mi-
+cos y triat(cid:243)micos dependen del nœmero de Æto-
+mos de la molØcula de la forma:
+1. Se incrementan con el nœmero de Ætomos por
+molØcula.
+2. Disminuyen con el nœmero de Ætomos por
+molØcula.
+3. Son constantes e iguales a R (cte de los ga-
+ses).
+4. Son constantes e iguales a 2R.
+5. Aumentan para unos gases y disminuyen para
+otros.
+45. La humedad relativa del aire es el cociente
+(multiplicado por cien) entre la:
+1. Masa de vapor de agua en relaci(cid:243)n a la masa
+total de aire.
+2. Masa de vapor de agua en relaci(cid:243)n a la masa
+de aire seco.
+3. Presi(cid:243)n parcial del vapor de agua y la presi(cid:243)n
+de saturaci(cid:243)n del agua a la misma temperatu-
+ra.
+4. Presi(cid:243)n parcial del vapor de agua y la presi(cid:243)n
+atmosfØrica.
+5. Presi(cid:243)n parcial del vapor de agua y la presi(cid:243)n
+parcial a 0”C.
+46. En un equilibrio entre una disoluci(cid:243)n y su di-
+solvente puro separados por una membrana
+semipermeable la presi(cid:243)n osm(cid:243)tica es la:
+1. Presi(cid:243)n del disolvente.
+2. Presi(cid:243)n de la disoluci(cid:243)n.
+3. Presi(cid:243)n atmosfØrica.
+4. Presi(cid:243)n de vapor del disolvente.
+5. Diferencia entre la presi(cid:243)n de la disoluci(cid:243)n y
+la del disolvente puro.
+47. Seæala la afirmaci(cid:243)n FALSA con respecto al
+rendimiento de Carnot de una mÆquina que
+trabaja entre las temperaturas T1 (foco fr(cid:237)o) y
+T2 (foco caliente):
+1. Depende de la temperatura del foco fr(cid:237)o.
+2. Depende de la temperatura del foco caliente.
+3. Es siempre menor que 1.
+4. Es el m(cid:237)nimo rendimiento posible de la mÆ-
+quina operando entre esas dos temperaturas.
+5. No depende del tipo de gas que utilice la mÆ-
+quina en el ciclo.
+48. Las capacidades calor(cid:237)ficas molares de un gas
+cumplen:
+- 6
+1. Cp>Cv.
+2. γ<1, siendo γ el coeficiente adiabÆtico.
+3. Cp+Cv = R.
+4. Cp+Cv = γ.
+5. γ = Cv/Cp.
+49. En toda expansi(cid:243)n adiabÆtica de un gas perfec-
+to:
+1. Hay aumento de calor.
+2. Disminuye la temperatura.
+3. Aumenta la temperatura.
+4. No var(cid:237)a la presi(cid:243)n.
+5. No se produce trabajo.
+50. La ley de Wiedeman-Franz establece que el
+cociente entre la conductividad tØrmica y elØc-
+trica en la mayor(cid:237)a de los metales es indepen-
+diente del metal y ademÆs es:
+1. Independiente de la temperatura.
+2. Proporcional al cuadrado de la temperatura.
+3. Proporcional a la temperatura.
+4. Proporcional a la ra(cid:237)z cuadrada de la tempe-
+ratura.
+5. Igual a π.
+51. La variaci(cid:243)n en un determinado proceso de la
+energ(cid:237)a libre de Helmholtz o funci(cid:243)n de
+Helmholtz de un sistema mantenido a tempera-
+tura constante corresponde en relaci(cid:243)n al sis-
+tema a:
+1. El calor absorbido.
+2. La variaci(cid:243)n de energ(cid:237)a interna.
+3. El trabajo mÆximo realizable por el sistema.
+4. El trabajo m(cid:237)nimo realizable por el sistema.
+5. El calor cedido a los alrededores.
+52. El nœmero de imÆgenes que se pueden obtener
+con dos espejos planos que forman un Ængulo α:
+1. Depende de la calidad de los espejos.
+2. Depende de la posici(cid:243)n del objeto entre los
+espejos.
+3. No depende de nada, es infinito.
+4. Depende del tamaæo de los espejos.
+5. Depende del Ængulo que forman los espejos.
+53. La Irradiancia de una fuente puntual es:
+1. Proporcional al cubo del campo elØctrico.
+2. La energ(cid:237)a media por unidad de Ærea.
+3. Inversamente proporcional al cuadrado de la
+distancia.
+4. La energ(cid:237)a media por unidad de tiempo.
+5. Proporcional a la distancia.
+54. La cantidad de movimiento o momento lineal
+de un fot(cid:243)n:
+6 -
+1. S(cid:243)lo existe en el vac(cid:237)o.
+2. Es proporcional al vector de onda k.
+3. Es inversamente proporcional al vector de
+onda k.
+4. Tiene como unidades Newtons por metro.
+5. Tiene como unidades Vatios por metro.
+55. En (cid:243)ptica, los rayos paraxiales son:
+1. Los rayos que forman con el eje (cid:243)ptico Ængu-
+los pequeæos (sen α≈α).
+2. Los rayos que pasan por el centro (cid:243)ptico.
+3. Los rayos que pasan por los focos.
+4. La pareja de rayos tales que, uno de ellos sale
+del punto objeto hasta llegar al sistema (cid:243)ptico,
+y el otro continœa la trayectoria del primero
+hasta llegar al punto imagen correspondiente.
+5. Los rayos que pasan por los planos principa-
+les.
+56. En una lente delgada convergente o positiva las
+distancias focales, siguiendo las normas DIN:
+1. Son iguales y del mismo signo.
+2. Son iguales pero de diferente signo.
+3. Son diferentes y de diferente signo.
+4. No tienen ninguna relaci(cid:243)n.
+5. Son diferentes pero con el mismo signo.
+57. En la polarizaci(cid:243)n lineal de la luz:
+1. La direcci(cid:243)n de E es constante en el tiempo.
+2. La direcci(cid:243)n y la amplitud escalar de E son
+variables con el tiempo.
+3. El campo elØctrico y el magnØtico estÆn desfa-
+sados π/3.
+4. La direcci(cid:243)n de E es variable con el tiempo.
+5. El campo elØctrico y el magnØtico estÆn desfa-
+sados π/4.
+58. Una lÆmina de media onda es un elemento (cid:243)pti-
+co que introduce:
+1. Un desfase relativo de π/2 radianes entre las
+componentes ortogonales de una onda.
+2. Un desfase relativo de π radianes entre las
+componentes ortogonales de una onda.
+3. Una atenuaci(cid:243)n de ‰ en la amplitud escalar
+del campo elØctrico entre las componentes
+ortogonales de una onda.
+4. Una atenuaci(cid:243)n de … en la amplitud escalar
+del campo elØctrico entre las componentes
+ortogonales de una onda.
+5. Una atenuaci(cid:243)n de ‰ en la amplitud escalar
+del campo elØctrico de las dos componentes
+ortogonales de una onda.
+59. Una onda plana con una frecuencia de 3 GHz se
+propaga en un medio infinito, homogØneo e
+is(cid:243)tropo con ε=7 y µ=3. ¿CuÆl es su longitud
+r r
+de onda?:
+(c = 3 •108 m • s-1)
+- 7
+1. 0.0218 m.
+2. 0.0442 m.
+3. 0.61 m.
+4. 1.213 m.
+5. 0.0044 m.
+60. ¿CuÆl es la separaci(cid:243)n angular entre los mÆxi-
+mos principales de la emisi(cid:243)n de 26 antenas de
+diÆmetro 2m cada una, equiespaciadas 8 m
+sabiendo que la longitud de onda es 20 cm.?:
+1. 0.4”.
+2. 2.1”.
+3. 8.2”.
+4. 1.4”.
+5. 12.2”.
+61. ¿En quØ tipo de medios aparece el efecto
+Voight?:
+1. En l(cid:237)quidos.
+2. En s(cid:243)lidos.
+3. En vapores.
+4. S(cid:243)lo en agua.
+5. Ninguna es correcta.
+62. El Ængulo cr(cid:237)tico para la reflexi(cid:243)n total de la luz
+que pasa de un vidrio (n = 1,5) al aire, es de 42”.
+Por lo tanto, la luz que incida sobre una super-
+ficie vidrio-aire procedente del vidrio:
+1. SerÆ totalmente refractada si el Ængulo de
+incidencia es mayor que 42”.
+2. SerÆ totalmente refractada, independiente-
+mente del valor del Ængulo de incidencia.
+3. No serÆ refractada si el Ængulo de incidencia
+es menor que 42”.
+4. SerÆ totalmente reflejada si el Ængulo de inci-
+dencia es mayor que 42”.
+5. SerÆ totalmente reflejada independientemente
+del Ængulo de incidencia.
+63. En Optica, ¿a quØ se refiere el tØrmino dicro(cid:237)s-
+mo?:
+1. A un polarizador que sea isotr(cid:243)pico.
+2. A un polarizador que posea simetr(cid:237)a cil(cid:237)ndri-
+ca.
+3. A la absorci(cid:243)n selectiva de una de las dos
+componentes ortogonales de la luz no polari-
+zada.
+4. A la transmisi(cid:243)n no selectiva de una de las dos
+componentes ortogonales de la luz no polari-
+zada.
+5. Es un tØrmino para nombrar el efecto de los
+compensadores de Babinet.
+64. En Optica, la coma es una aberraci(cid:243)n:
+1. Primaria monocromÆtica para un objeto pun-
+tual fuera del eje.
+7 -
+2. Primaria monocromÆtica para un objeto pun-
+tual situado en el eje.
+3. Primaria policromÆtica para un objeto puntual
+fuera del eje.
+4. Secundaria monocromÆtica para un objeto
+puntual fuera del eje.
+5. Primaria monocromÆtica para un objeto exten-
+so fuera del eje.
+65. La imagen producida por un lente convergente
+es virtual cuando:
+1. La distancia objeto es mayor que la distancia
+focal.
+2. La distancia objeto es menor que la distancia
+focal.
+3. La lente es biconvexa.
+4. La calidad del material empleado para su
+fabricaci(cid:243)n no es buena.
+5. Nunca.
+66. Si un haz de luz pasa de un medio cristalino
+homogØneo e is(cid:243)tropo a un medio cristalino
+homogØneo y anis(cid:243)tropo:
+1. No se cumple la ley de Snell.
+2. S(cid:243)lo se cumple entre el rayo incidente y el
+rayo ordinario la ley de Snell.
+3. No se satisface entre el rayo incidente y el
+rayo extraordinario la ley de Snell.
+4. En general, los haces ordinario y extraordina-
+rio difieren en direcci(cid:243)n, velocidad y longitud
+de onda.
+5. La respuesta anterior no es cierta si el cristal
+es uniÆxico.
+67. El efecto Faraday consiste en:
+1. La modificaci(cid:243)n del tensor de permitividad
+dielØctrica de un medio cuando es sometido a
+un campo elØctrico.
+2. La modificaci(cid:243)n del tensor de permitividad
+dielØctrica de un medio cuando es sometido a
+una tensi(cid:243)n mecÆnica.
+3. El cambio de la velocidad de propagaci(cid:243)n de
+las ondas de sonido en un medio sometido a
+un campo elØctrico.
+4. Una doble refracci(cid:243)n plana para la luz que se
+propaga por un medio cuando es sometido a
+un campo magnØtico perpendicular a la direc-
+ci(cid:243)n de propagaci(cid:243)n.
+5. La rotaci(cid:243)n del plano de polarizaci(cid:243)n de la luz
+que atraviesa un medio cuando es sometido a
+un campo magnØtico paralelo a la direcci(cid:243)n de
+propagaci(cid:243)n.
+68. Sea una resistencia de 7 Ω seguida de tres resis-
+tencias en paralelo de 6 Ω. ¿CuÆnto vale la
+resistencia equivalente?:
+1. 11 Ω.
+2. 15 Ω.
+- 8
+3. 9 Ω.
+4. 7.5 Ω.
+5. 13 Ω.
+69. La relaci(cid:243)n que existe entre el momento angu-
+lar y el momento magnØtico de una part(cid:237)cula en
+movimiento se denomina:
+1. Resonancia de giro.
+2. Precesi(cid:243)n de Larmor.
+3. Cociente de resonancia magnØtica.
+4. Cociente giromagnØtico.
+5. Cociente espectrosc(cid:243)pico.
+70. El trabajo que efectœa un campo magnØtico
+sobre una part(cid:237)cula cargada elØctricamente que
+se mueve en Øl:
+1. Depende de la velocidad de la part(cid:237)cula.
+2. Depende de la masa de la part(cid:237)cula.
+3. Depende del valor de la carga de la part(cid:237)cula.
+4. Depende de la velocidad y la carga de la part(cid:237)-
+cula.
+5. Es siempre nulo.
+71. En una superficie de separaci(cid:243)n entre dos me-
+dios, el potencial escalar φ y el campo elØctrico
+→
+E cumplen que:
+1. φ es continuo, pero no necesariamente lo es
+→
+E.
+→
+2. E es continuo, pero no necesariamente lo es
+φ.
+→
+3. Tanto φ como E deben ser continuos.
+→
+4. Tanto φ como E pueden ser continuos o dis-
+continuos.
+→
+5. φ puede ser continuo o discontinuo y E debe
+ser discontinuo.
+72. La magnitud del vector de Poynting como fun-
+ci(cid:243)n del Ængulo para la radiaci(cid:243)n del dipolo
+elØctrico, siendo θ el Ængulo que forma con la
+direcci(cid:243)n del dipolo, es proporcional a:
+1. sen(θ).
+2. sen2(θ).
+3. cos(θ).
+4. cos2(θ).
+5. No depende de θ.
+73. En una gu(cid:237)a de ondas rectangular de dimensio-
+nes x = a, y = b, los modos TEM permitidos son:
+(E = (Ccos(k x)sen(k y), m y n enteros)
+x 1 2
+1. k = mπ/a, k = nπ/b.
+1 2
+2. k = mπ/a, k = nπb.
+1 2
+3. k = ma/π, k = nb/π.
+1 2
+4. k = πa/m, k = πb/n.
+1 2
+8 -
+5. Ninguno.
+74. La capacidad de un condensador de lÆminas
+paralelas en vac(cid:237)o:
+1. Depende de la carga del condensador.
+2. Es independiente de la superficie de las lÆmi-
+nas.
+3. Es inversamente proporcional a la separaci(cid:243)n
+de las lÆminas.
+4. Es directamente proporcional al producto de
+la superficie y densidad de las lÆminas.
+5. Depende del voltaje aplicado.
+75. Si aplicamos una fuerza electromotriz (f.e.m)
+con una frecuencia de 60 Hz a un circuito que
+presenta una autoinductancia de 0.5 H, una
+resistencia de 30 Ω y un condensador de 4·10-5
+F, ¿quØ diferencia de fase hay entre la corriente
+y la f.e.m?:
+1. (cid:150)12.1”.
+2. 60.8”.
+3. 70.2”.
+4. (cid:150)40”.
+5. 76.2”.
+76. Las radiaciones infrarrojas corresponden a
+ondas electromagnØticas de longitud de onda:
+1. Menor que 100 Angstron.
+2. Entre 0,75 µm y varios mm.
+3. Menor de 0,5 nm.
+4. De 109 Hz (aproximadamente).
+5. 10-12 W m-2.
+77. En un condensador plano conectado a una
+fuente de tensi(cid:243)n V, se han separado las placas
+entre s(cid:237):
+→
+1. El campo D ha aumentado.
+2. La capacidad no ha variado.
+3. La capacidad ha aumentado.
+→
+4. El campo E ha disminuido.
+5. La carga de los conductores ha aumentado.
+78. Una corriente eficaz de 1 A en un circuito de
+corriente alterna disipa en una resistencia:
+1. El doble de calor que una corriente de 1 A en
+circuito de corriente continua.
+2. Exactamente el mismo calor que una corriente
+de 1 A en un circuito de corriente continua.
+3. La mitad de calor que una corriente de 1 A en
+un circuito de corriente continua.
+4. Una cantidad de calor prÆcticamente nula.
+5. Mucho calor.
+79. Los microscopios electr(cid:243)nicos utilizan como
+lentes:
+- 9
+1. Materiales de poliuretano.
+2. Campos elØctricos.
+3. Campos elØctricos y magnØticos.
+4. Campos magnØticos.
+5. Cristales compatibles con el haz de electrones
+producido.
+80. El equivalente en Thevenin de un generador es:
+1. Una fuente real de intensidad.
+2. Una fuente ideal de tensi(cid:243)n.
+3. Una fuente real de tensi(cid:243)n.
+4. Una fuente ideal de intensidad.
+5. Un condensador de constante de tiempo RC.
+81. La velocidad de la luz c, y ε y µ estÆn relacio-
+0 0
+nados por:
+1. c = (ε /µ)1/2.
+0 0
+2. c = (µ /ε )1/2.
+0 0
+3. c = (µ /ε )2/3.
+0 0
+4. c = [π/(µ ε )]-2/3.
+0 0
+5. c = [1/(ε µ)]1/2.
+0 0
+82. La resistividad de un metal:
+1. Es inversamente proporcional a su temperatu-
+ra.
+2. Es directamente proporcional a su temperatu-
+ra.
+3. Es independiente de su temperatura.
+4. Es prÆcticamente independiente de la intensi-
+dad de corriente que lo atraviese.
+5. Disminuye cuando se aplica una diferencia de
+potencial superior al potencial de Curie entre
+dos puntos del mismo.
+83. La ionosfera terrestre se comporta como un
+plasma. Es por ello que para enviar seæales de
+radiofrecuencia a un satØlite en el exterior de la
+ionosfera, Østas deben ser de frecuencia:
+1. Superior a la frecuencia propia del plasma.
+2. Inferior a la frecuencia propia del plasma.
+3. Igual a la frecuencia propia del plasma.
+4. Cualquiera (independiente de la frecuencia
+propia del plasma).
+5. Infinita, lo que indica que las radiofrecuencias
+no pueden atravesar el plasma.
+84. Siendo E el campo elØctrico y H el campo mag-
+nØtico, ¿cuÆl de estas cantidades es un invarian-
+te relativista del campo electromagnØtico?:
+1. H2-E2.
+2. H2.
+3. E+H.
+4. E2.
+5. E3.
+85. El campo elØctrico creado por un dipolo elØctri-
+co var(cid:237)a con la distancia (R), a distancias gran
+9 -
+des como:
+1. 1/R.
+2. 1/R2.
+3. 1/R3.
+4. 1/R4.
+5. 1/R5.
+86. De acuerdo a las leyes de Faraday de la electr(cid:243)-
+lisis, la masa de sustancia liberada en una di-
+soluci(cid:243)n y la carga elØctrica total que ha pasado
+por la misma se relacionan de modo que la
+masa liberada es:
+1. Proporcional al cuadrado de la carga.
+2. Directamente proporcional a la carga.
+3. Inversamente proporcional a la carga.
+4. Proporcional a la ra(cid:237)z cuadrada de la carga.
+5. Ninguna es correcta.
+87. El momento dipolar elØctrico de una esfera
+uniformemente cargada, de carga Q y radio a,
+respecto de su centro es:
+1. 0.
+2. Qa/2.
+3. πQa2.
+4. Q.
+5. πQa/2.
+88. En un equipo de rayos X dental se requiere un
+potencial de valor V = 70.4 Kv. Si se conecta a
+s
+la red elØctrica con V = 220 V (50 Hz), ¿cuÆl
+p
+debe ser el nœmero de espiras (N) del secunda-
+s
+rio del transformador si la bobina del primario
+tiene N = 200 vueltas?:
+p
+1. 18000.
+2. 36000.
+3. 9000.
+4. 27000.
+5. 64000.
+89. Calcular la energ(cid:237)a elØctrica necesaria para
+tener una distribuci(cid:243)n volœmica uniforme de
+cargas en una esfera de radio R con carga total
+Q:
+1. (3/5) Q2 / (4πε R).
+0
+2. 3 Q2 / (4πε R).
+0
+3. (3/4) Q2 / (4πε R2).
+0
+4. (3/4) Q / (4πε R).
+0
+5. (3/5) Q / (4πε R2).
+0
+90. La energ(cid:237)a magnØtica almacenada en un metro
+de cable coaxial de radio interior R y radio
+1
+exterior R , a igualdad de los demÆs parÆme-
+2
+tros, es mayor si:
+1. El radio interior aumenta.
+2. El dielØctrico del cable tiene una permeabili-
+dad magnØtica mÆs alta.
+- 1
+3. El radio exterior disminuye.
+4. La intensidad de corriente disminuye.
+5. El dielØctrico del cable tiene una permeabili-
+dad magnØtica mÆs baja.
+91. Para obtener a partir de una buena fuente de
+tensi(cid:243)n una buena fuente de intensidad se colo-
+car(cid:237)a:
+1. Una pequeæa impedancia en paralelo.
+2. Una gran impedancia en paralelo.
+3. Una pequeæa impedancia en serie.
+4. Una gran impedancia en serie.
+5. No se puede obtener una buena fuente de
+intensidad a partir de una buena fuente de ten-
+si(cid:243)n.
+92. La radiaci(cid:243)n cuadrupolar elØctrica es respecto
+a la radiaci(cid:243)n dipolar elØctrica:
+1. 4 veces menor.
+2. 4 veces mayor.
+3. 104 veces menor.
+4. 104 veces mayor.
+5. 2 veces mayor.
+93. Segœn la f(cid:243)rmula de Larmor, la potencia media
+radiada por un dipolo elØctrico oscilante es
+proporcional a: (a = aceleraci(cid:243)n):
+1. a2.
+2. a.
+3. a1/3.
+4. a2/3.
+5. a-1.
+94. ¿CuÆl de las siguientes part(cid:237)culas emite mayor
+radiaci(cid:243)n de sincrotr(cid:243)n cuando es curvada en
+un campo magnØtico?:
+1. Prot(cid:243)n.
+2. Mu(cid:243)n.
+3. Electr(cid:243)n.
+4. Deuterio.
+5. Pi(cid:243)n.
+95. Si P es el vector polarizaci(cid:243)n y E el campo elØc-
+trico, entonces en la ecuaci(cid:243)n P = αE, α es, en
+general:
+1. Un escalar.
+2. Un vector.
+3. Un tensor.
+4. Una primitiva sintÆctica.
+5. 4-vector complejo.
+96. Sean cuatro cargas puntuales de q = q = q =
+1 2 3
+q = 5C situadas en q (-3,0,0), q (0,3,0), q (3,0,0)
+4 1 2 3
+y q (0,-3,0). En (0,0,0):
+4
+→
+1. El campo elØctrico E serÆ positivo y el po-
+tencial V serÆ negativo.
+10 -
+→
+2. E = 0 y V ≠ 0.
+→
+3. E > 0 y V = 0.
+→
+4. E = 0 y V = 0.
+→
+5. E = ∞.
+97. Un amplificador real de tensi(cid:243)n tiene como
+caracter(cid:237)stica normal:
+1. Impedancia de salida infinita.
+2. Impedancia de entrada infinita.
+3. Impedancia de salida muy elevada.
+4. Ganancia infinita.
+5. Impedancia de entrada muy elevada.
+98. Sea un amplificador de ganancia A tal que
+A>>1. Si realimentamos negativamente dicho
+dispositivo a travØs de una resistencia R se
+cumple que:
+1. La resistencia efectiva de entrada aumenta en
+un factor (1+A).
+2. La ganancia en corriente del amplificador
+realimentado resulta prÆcticamente indepen-
+diente de A.
+3. Aumenta la inestabilidad.
+4. La tensi(cid:243)n efectiva de entrada no var(cid:237)a.
+5. Nos alejamos del comportamiento ideal.
+99. Un amplificador ideal de tensi(cid:243)n tiene una ga-
+nancia en lazo abierto:
+1. Menor que uno.
+2. Igual a uno.
+3. Infinito.
+4. Depende del cociente entre la tensi(cid:243)n de sali-
+da y la corriente de entrada.
+5. Mayor que uno.
+100. La relaci(cid:243)n entre seæal de salida y seæal de
+entrada en un sistema de control recibe el nom-
+bre de:
+1. Ganancia directa.
+2. Forma can(cid:243)nica.
+3. Ganancia en lazo cerrado.
+4. Funci(cid:243)n de transferencia en lazo abierto.
+5. Funci(cid:243)n de transferencia de realimentaci(cid:243)n.
+101. Al calentarse un filamento metÆlico emite elec-
+trones. ¿Con quØ nombre se conoce este efec-
+to?:
+1. Termoi(cid:243)nico.
+2. TermoelØctrico.
+3. An(cid:243)dico.
+4. Termo-ani(cid:243)nico.
+5. Electrol(cid:237)tico.
+102. En la pantalla de un osciloscopio con base de
+tiempo y sin ninguna seæal aplicada aparecerÆ:
+- 1
+1. Un punto quieto en el centro.
+2. Una l(cid:237)nea vertical.
+3. Una l(cid:237)nea horizontal.
+4. Nada.
+5. Una l(cid:237)nea diagonal.
+103. Un amper(cid:237)metro cuya corriente de fondo de
+escala es 100 mA, tiene un error de calibrado
+del ± 5% del valor de escala. Si circula una
+corriente de 20 mA, el error es:
+1. 1%.
+2. 25%.
+3. 10%.
+4. 50%.
+5. 100%.
+104. Un amper(cid:237)metro ideal debe colocarse en un
+circuito en:
+1. Serie en el circuito y poseer impedancia infi-
+nita.
+2. Serie en el circuito y poseer impedancia nula.
+3. Serie y poseer impedancia similar a la del
+circuito para que haga resonancia.
+4. Paralelo y poseer impedancia distinta a la del
+circuito.
+5. Paralelo en el circuito y poseer impedancia
+infinita.
+105. Se aplican dos seæales de igual amplitud a cada
+uno de los dos canales de un osciloscopio, es-
+tando los mandos de sensibilidad de los dos
+canales en la misma posici(cid:243)n. Trabajando en
+modo X-Y se observa en la pantalla un segmen-
+to inclinado 135” respecto del eje positivo de
+abscisas, las dos seæales tienen:
+1. La misma frecuencia y un desfase de 45”.
+2. Relaci(cid:243)n de frecuencias 1:2 y en fase.
+3. La misma frecuencia y estÆn en fase.
+4. La misma frecuencia y un desfase de 180”.
+5. Relaci(cid:243)n de frecuencias 1:2 y un desfase de
+135”.
+106. El fen(cid:243)meno de la fotoconductividad se debe a:
+1. La disminuci(cid:243)n de la resistividad elØctrica del
+material al recibir luz.
+2. El aumento del nœmero de huecos en la banda
+de conducci(cid:243)n debida a la llegada de luz.
+3. El aumento del nœmero de electrones libres en
+la banda de valencia debida a la llegada de
+luz.
+4. La disminuci(cid:243)n del nœmero de electrones en la
+banda de conducci(cid:243)n debida a las recombina-
+ciones.
+5. El aumento de la resistividad elØctrica del
+material al recibir luz.
+107. ¿CuÆl o cuÆles de los siguientes mØtodos se
+11 -
+utilizan para la fabricaci(cid:243)n de una uni(cid:243)n
+abrupta en la producci(cid:243)n de un diodo de uni(cid:243)n
+p-n?:
+1. Aleaci(cid:243)n e implantaci(cid:243)n de iones.
+2. Difusi(cid:243)n tØrmica.
+3. Implantaci(cid:243)n de iones.
+4. Aleaci(cid:243)n y crecimiento epitaxial.
+5. Crecimiento epitaxial y difusi(cid:243)n.
+108. Un diodo de barrera Schottky ideal tiene una
+corriente de saturaci(cid:243)n inversa igual a 10-14
+Amperios para un voltaje aplicado al diodo de 0
+V. A ra(cid:237)z de una reducci(cid:243)n de la barrera de
+0,05 eV, ¿cuÆl es el nuevo valor de la corriente
+de saturaci(cid:243)n inversa?:
+1. 9,124 ٠10-14 A.
+2. 7,123 ٠10-13 A.
+3. 5,232 ٠10-14 A.
+4. 1,989 ٠10-14 A.
+5. 6,842 ٠10-12 A.
+109. En el contexto de la evoluci(cid:243)n tØrmica del Uni-
+verso, ¿de quØ orden de magnitud es la tempe-
+ratura a la que se produjo el desacoplo de los
+neutrinos con respecto a otras part(cid:237)culas?:
+1. 1015 K.
+2. 1020 K.
+3. 106 K.
+4. 108 K.
+5. 1011 K.
+110. La clasificaci(cid:243)n de Harvard de los espectros de
+estrellas en clases espectrales se relaciona esen-
+cialmente con:
+1. La abundancia de He.
+2. La abundancia de H.
+3. La intensidad espectral en el UV.
+4. La temperatura superficial.
+5. Las l(cid:237)neas de calcio ionizado.
+111. En el marco de la Relatividad General, el teo-
+rema de Birkhoff afirma que:
+1. En el vac(cid:237)o, un campo gravitacional esfØrica-
+mente simØtrico debe ser estÆtico, con una
+mØtrica dada por la soluci(cid:243)n de
+Schwarzschild.
+2. En el vac(cid:237)o, un campo gravitacional con si-
+metr(cid:237)a cil(cid:237)ndrica estÆ descrito por la mØtrica
+de Robertson-Walker.
+3. La mØtrica de Robertson-Walker es singular.
+4. La aplicabilidad de la aproximaci(cid:243)n de Fried-
+mann-Narlikar.
+5. La no aplicabilidad de la aproximaci(cid:243)n de
+Friedmann-Narlikar.
+112. Una gran parte de la Cosmolog(cid:237)a moderna estÆ
+basada en el Principio Cosmol(cid:243)gico. ¿QuØ
+- 1
+afirma dicho principio?:
+1. El Universo es invariante bajo dilataciones.
+2. La mØtrica del Universo es invariante bajo
+todo tipo de transformaciones gauge.
+3. El Universo permanecerÆ en expansi(cid:243)n eter-
+namente.
+4. El Universo es limitado e infinito.
+5. Todas las posiciones en el universo son esen-
+cialmente equivalentes.
+113. Con respecto a la termodinÆmica de los aguje-
+ros negros (AN):
+1. La gravedad superficial es variable sobre el
+horizonte de un agujero negro estacionario.
+2. En un AN Kerr-Newman la entrop(cid:237)a debida a
+las part(cid:237)culas no masivas es singularmente
+estable.
+3. En la evoluci(cid:243)n dinÆmica hacia el futuro de un
+sistema cualquiera de AN, la suma de las
+Æreas de sus horizontes nunca decrece.
+4. Un agujero negro clÆsico permite distinguir
+entre AN procedentes de geones.
+5. Un agujero negro clÆsico permite distinguir
+entre AN procedentes de leptones.
+114. ¿CuÆl de las siguientes relaciones entre dosis
+absorbida (D), kerma (K), y kerma por colisi(cid:243)n
+(K) es siempre cierta para un medio irradiado
+c
+con fotones en condiciones de equilibrio elec-
+tr(cid:243)nico?:
+1. D = K.
+2. D = K.
+c
+3. K = K.
+c
+4. D = K - K.
+c
+5. D = K + K.
+c
+115. ¿En cuÆl de los siguientes rangos de valores del
+nœmero mÆsico A, se da la desintegraci(cid:243)n alfa?:
+1. A < 100.
+2. A < 100, con A par.
+3. A > 170.
+4. Cualquier valor de A.
+5. A < 50.
+116. La dispersi(cid:243)n elÆstica que sufren las part(cid:237)culas
+cargadas positivamente al interaccionar con los
+nœcleos at(cid:243)micos, se conoce como:
+1. Efecto Compton.
+2. Dispersi(cid:243)n de Rutherford.
+3. Producci(cid:243)n de pares.
+4. Dispersi(cid:243)n de Thomson.
+5. Dispersi(cid:243)n de Rayleigh.
+117. La exposici(cid:243)n es una magnitud f(cid:237)sica que carac-
+teriza la ionizaci(cid:243)n producida en:
+1. Agua.
+12 -
+2. Aire.
+3. Vac(cid:237)o.
+4. Grasa.
+5. Tejido conectivo.
+118. ¿En cuÆl de los siguientes procesos de desinte-
+graci(cid:243)n la energ(cid:237)a es emitida principalmente en
+forma de neutrinos?:
+1. Desintegraci(cid:243)n alfa.
+2. Desintegraci(cid:243)n beta negativa.
+3. Desintegraci(cid:243)n beta positiva.
+4. Captura electr(cid:243)nica.
+5. Conversi(cid:243)n interna.
+119. Los rayos X caracter(cid:237)sticos se producen:
+1. Al convertirse un electr(cid:243)n en un fot(cid:243)n.
+2. Al convertirse un positr(cid:243)n en un fot(cid:243)n.
+3. Al pasar un fot(cid:243)n cerca del nœcleo.
+4. En la transici(cid:243)n de un electr(cid:243)n desde una capa
+externa a una interna.
+5. Cuando un neutr(cid:243)n cede su exceso de energ(cid:237)a.
+120. ¿CuÆl de las siguientes part(cid:237)culas penetrarÆ
+mÆs en agua?:
+1. Electr(cid:243)n Auger de 20 keV.
+2. Part(cid:237)cula alfa de 20 MeV.
+3. Prot(cid:243)n de 20 keV.
+4. Positr(cid:243)n de 1 MeV.
+5. Part(cid:237)cula beta de 2 MeV.
+121. ¿CuÆl de las siguientes part(cid:237)culas no produce
+ionizaci(cid:243)n directa?:
+1. Positr(cid:243)n.
+2. Neutr(cid:243)n.
+3. Part(cid:237)cula alfa.
+4. Electr(cid:243)n.
+5. Prot(cid:243)n.
+122. El material mÆs apropiado para el Ænodo de un
+tubo de rayos X es aquel que tenga:
+1. Punto de fusi(cid:243)n alto y conductividad elØctrica
+pequeæa.
+2. Punto de fusi(cid:243)n bajo.
+3. Punto de fusi(cid:243)n alto y nœmero at(cid:243)mico alto.
+4. Nœmero at(cid:243)mico pequeæo.
+5. Punto de fusi(cid:243)n alto y nœmero at(cid:243)mico peque-
+æo.
+123. Dentro de los fen(cid:243)menos de interacci(cid:243)n de la
+radiaci(cid:243)n con la materia, en el efecto Compton:
+1. La energ(cid:237)a de un fot(cid:243)n incidente es absorbida
+por un Ætomo del medio.
+2. Un fot(cid:243)n incidente interacciona directamente
+con un electr(cid:243)n.
+3. Un electr(cid:243)n incidente interacciona directa-
+mente con un electr(cid:243)n de la materia.
+- 1
+4. Al incidir un fot(cid:243)n en el medio se crea un par
+electr(cid:243)n negativo y electr(cid:243)n positivo.
+5. Se producen dos fotones que salen en direc-
+ciones opuestas.
+124. Cuando un nœcleo X(A;Z) se desintegra crean-
+do otro nuevo Y(A(cid:146),Z(cid:146)), donde Z(cid:146) = Z-2, A(cid:146) = A-
+4, puede deberse a un proceso de:
+1. Emisi(cid:243)n β.
+2. Captura electr(cid:243)nica.
+3. Generaci(cid:243)n de un nœcleo con la misma masa.
+4. Emisi(cid:243)n α.
+5. Emisi(cid:243)n γ.
+125. La energ(cid:237)a umbral necesaria para que un fot(cid:243)n
+cree un par electr(cid:243)n-positr(cid:243)n, en presencia de
+un nœcleo, es:
+1. m c2.
+0
+2. 3m c2.
+0
+3. 2m c2.
+0
+4. (1/2)m c2.
+0
+5. 5m c2.
+0
+126. En una transici(cid:243)n isomØrica de un nœcleo, el
+nœcleo predecesor y el resultante tienen:
+1. Mismos Z (nœmero at(cid:243)mico) y A (nœmero de
+masa at(cid:243)mica).
+2. Distintos Z y A.
+3. S(cid:243)lo distinto Z.
+4. S(cid:243)lo distinto A.
+5. Misma energ(cid:237)a.
+127. Existen 100 millones de Ætomos en una muestra
+de un elemento radiactivo cuyo valor de cons-
+tante radiactiva es de 4 s-1. ¿CuÆl serÆ la activi-
+dad de la muestra?:
+1. 25 MBq.
+2. 50 MBq.
+3. 100 MBq.
+4. 200 MBq.
+5. 400 MBq.
+128. En el efecto Auger un:
+1. Fot(cid:243)n de fluorescencia produce un nuevo
+efecto fotoelØctrico en el mismo Ætomo en que
+se hab(cid:237)a producido.
+2. Fot(cid:243)n de fluorescencia produce un nuevo
+efecto fotoelØctrico siendo la energ(cid:237)a del se-
+gundo fot(cid:243)n mayor que la del fot(cid:243)n incidente.
+3. Electr(cid:243)n incide sobre un Ætomo y produce la
+emisi(cid:243)n de un fot(cid:243)n.
+4. Electr(cid:243)n incide sobre un Ætomo y provoca la
+expulsi(cid:243)n de otro electr(cid:243)n.
+5. Electr(cid:243)n incide sobre un Ætomo y pierde par-
+cialmente su energ(cid:237)a.
+129. La unidad de medida de la exposici(cid:243)n en el S.I.
+13 -
+es:
+1. Roentgen.
+2. Gray.
+3. Culombio/Kg.
+4. Rad.
+5. Rem.
+130. La longitud de onda Compton de un prot(cid:243)n es
+aproximadamente:
+(h = 6.626x10-34 Js, c = 2.998x108 m/s, m =
+p
+1.673x10-27 kg)
+1. 10-6 cm.
+2. 10-24 cm.
+3. 10-10 cm.
+4. 10-13 cm.
+5. 10-15 cm.
+131. ¿De quØ orden es la eficiencia en la producci(cid:243)n
+de rayos X en los tubos empleados en radio-
+diagn(cid:243)stico?:
+1. 100%.
+2. 50%.
+3. 25%.
+4. 10%.
+5. 1%.
+132. En un estudio de tiroides, se administra 1 MBq
+de I-131 a un paciente. Sabiendo que el periodo
+de semidesintegraci(cid:243)n biol(cid:243)gica es de 14 d(cid:237)as,
+¿cuÆl es la actividad de I-131 que permanece en
+el paciente al cabo de 10 d(cid:237)as?:
+(Dato: periodo de semidesintegraci(cid:243)n f(cid:237)sica del
+I-131 = 8,05 d(cid:237)as)
+1. 0,26 MBq.
+2. 0,31 MBq.
+3. 0,42 MBq.
+4. 0,61 MBq.
+5. 0,73 MBq.
+133. Cuanto mÆs se calienta el filamento del cÆtodo
+de un tubo de rayos X:
+1. MÆs energ(cid:237)a adquieren los rayos X.
+2. Menos radiaci(cid:243)n caracter(cid:237)stica se produce en
+el tubo.
+3. MÆs cantidad de fotones se producen.
+4. Menos diferencia de potencial existe entre
+cÆtodo y Ænodo.
+5. Los electrones adquieren mÆs velocidad.
+134. La energ(cid:237)a mÆxima de los fotones X producidos
+por un tubo de rayos X:
+1. Crece al aumentar la intensidad.
+2. Disminuye al aumentar la intensidad.
+3. Crece al aumentar la tensi(cid:243)n de aceleraci(cid:243)n.
+4. Disminuye al aumentar la tensi(cid:243)n de acelera-
+ci(cid:243)n.
+- 1
+5. Depende de la temperatura de calefacci(cid:243)n del
+filamento.
+135. Las transformaciones realizadas en los nœcleos
+X(A,Z) por emisi(cid:243)n β+:
+1. Dan lugar a otro nœcleo Y(A, Z+1).
+2. Se produce en nœcleos excedentes en proto-
+nes.
+3. Dan lugar a otro nœcleo Y(A+1, Z).
+4. Aumentan en una unidad la carga elØctrica del
+nœcleo.
+5. Disminuyen en una unidad el nœmero de elec-
+trones perifØricos.
+136. Si µ es el coeficiente de atenuaci(cid:243)n lineal, y x la
+distancia en la direcci(cid:243)n de avance de un haz de
+fotones, la atenuaci(cid:243)n del mismo al atravesar
+un medio material responde a la f(cid:243)rmula:
+1. I = I e-µx.
+0
+2. I = I Ln(-µx).
+0
+3. I = I eµx.
+0
+4. I = I Ln(µx).
+0
+5. I = I µx.
+0
+137. El coeficiente de atenuaci(cid:243)n mÆsico debido a
+interacci(cid:243)n Compton:
+1. Depende en gran medida del nœmero at(cid:243)mico
+Z.
+2. Es independiente de Z y depende s(cid:243)lo del
+nœmero de electrones por gramo.
+3. Es proporcional a Z2.
+4. Es proporcional a Z-1.
+5. Ninguna de las anteriores.
+138. La distribuci(cid:243)n angular de los electrones emiti-
+dos en un proceso fotoelØctrico respecto a la
+direcci(cid:243)n del fot(cid:243)n incidente:
+1. No depende de la energ(cid:237)a de los fotones.
+2. A bajas energ(cid:237)as todos los Ængulos son igual
+de probables.
+3. A altas energ(cid:237)as todos los Ængulos son igual de
+probables.
+4. A bajas energ(cid:237)as es mÆs probable la emisi(cid:243)n a
+90”.
+5. A altas energ(cid:237)as es mÆs probable la emisi(cid:243)n a
+90”.
+139. El pico de Bragg no se observa en los electrones
+debido a:
+1. Su alta velocidad.
+2. Su carga negativa.
+3. Su pequeæa masa.
+4. Su pequeæo recorrido.
+5. Que es un fermi(cid:243)n.
+140. Sabiendo que, para fotones de 1 MeV, el coefi-
+ciente de atenuaci(cid:243)n mÆsico del Ox(cid:237)geno es
+14 -
+0.0637 cm2/g y para el Hidr(cid:243)geno es 0.1263
+cm2/g, ¿cuÆl serÆ el coeficiente de atenuaci(cid:243)n
+mÆsico para el agua para la misma energ(cid:237)a?:
+1. 0.1900 cm2/g.
+2. 0.3163 cm2/g.
+3. 0.0707 cm2/g.
+4. 0.6359 cm2/g.
+5. 0.0008 cm2/g.
+141. Las interacciones predominantes en agua para
+fotones de 1 MeV, 10 MeV y 100 MeV son res-
+pectivamente:
+1. FotoelØctrico, Compton y producci(cid:243)n de pa-
+res.
+2. Compton, Compton y producci(cid:243)n de pares.
+3. FotoelØctrico, fotoelØctrico y compton.
+4. Compton, producci(cid:243)n de pares y producci(cid:243)n
+de pares.
+5. Compton en todas ellas.
+142. En un tubo de producci(cid:243)n de RX excitado a 100
+KVp se produce un haz con un espectro:
+1. MonoenergØtico de Energ(cid:237)a igual a 100 KeV.
+2. MonoenergØtico de Energ(cid:237)a igual a 50 KeV.
+3. Continuo de Energ(cid:237)a mÆxima 100 KeV y con
+picos superpuestos.
+4. Discreto con picos en 100 KeV y 50 KeV.
+5. Continuo, donde el mayor nœmero de RX
+tiene Energ(cid:237)a igual a 100 KeV.
+143. En una desintegraci(cid:243)n α, la energ(cid:237)a de desinte-
+graci(cid:243)n es:
+1. Menor cuanto menor sea el periodo.
+2. Mayor cuanto menor sea el periodo.
+3. Independiente del periodo.
+4. Independiente de la energ(cid:237)a cinØtica de las
+part(cid:237)culas α.
+5. Siempre menor de 4 MeV.
+144. ¿C(cid:243)mo se producen fundamentalmente los
+rayos X en un tubo?:
+1. Por efecto de Compton.
+2. Por efecto fotoelØctrico.
+3. Por producci(cid:243)n de pares.
+4. Por Bremsstrahlung.
+5. Por dispersi(cid:243)n de Coulomb.
+145. El factor de multiplicaci(cid:243)n de un contador pro-
+porcional:
+1. Es independiente del nœmero de electrones
+generados en el gas.
+2. Es independiente de la tensi(cid:243)n de polarizaci(cid:243)n
+aplicada a los electrodos.
+3. Es inversamente proporcional al nœmero de
+electrones generados.
+4. Depende bÆsicamente de la tasa de recuento.
+- 1
+5. Debe ser lo mÆs pequeæo posible.
+146. Los diodos de semiconductor se basan en la
+creaci(cid:243)n de:
+1. Pares de iones generados por la radiaci(cid:243)n
+ionizante.
+2. Pares electr(cid:243)n-hueco generados por la radia-
+ci(cid:243)n ionizante.
+3. Iones y cargas generados por la radiaci(cid:243)n
+incidente.
+4. Electrones-positrones.
+5. Defectos de red inducidos por la radiaci(cid:243)n.
+147. Los dos(cid:237)metros de termoluminiscencia estÆn
+basados en la propiedad de algunos s(cid:243)lidos de:
+1. Emitir luz cuando sobre ellos incide un haz de
+radiaci(cid:243)n.
+2. Elevar su temperatura al incidir sobre ellos la
+radiaci(cid:243)n.
+3. Almacenar de manera estable parte de la ener-
+g(cid:237)a absorbida durante la irradiaci(cid:243)n que se
+emite posteriormente en forma de luz al elevar
+su temperatura suficientemente.
+4. Almacenar de modo estable parte de la ener-
+g(cid:237)a absorbida durante la irradiaci(cid:243)n, ilumi-
+narlos posteriormente para que emitan la
+energ(cid:237)a almacenada.
+5. La recombinaci(cid:243)n de sus pares electr(cid:243)n-hueco
+generados por la radiaci(cid:243)n.
+148. La propiedad que permite la cuantificaci(cid:243)n de
+las dosis absorbidas mediante una pel(cid:237)cula fo-
+togrÆfica es:
+1. La conductividad elØctrica inducida por la
+radiaci(cid:243)n en la pel(cid:237)cula irradiada.
+2. La actividad de los granos de BrAg que for-
+man la pel(cid:237)cula.
+3. Los pares electr(cid:243)n/hueco generados por la
+radiaci(cid:243)n en la emulsi(cid:243)n.
+4. El revelado de la pel(cid:237)cula irradiada.
+5. El nivel de ennegrecimiento de la pel(cid:237)cula
+irradiada.
+149. En una cÆmara de ionizaci(cid:243)n, el efecto de satu-
+raci(cid:243)n debido a la recombinaci(cid:243)n de iones posi-
+tivos con electrones:
+1. Es independiente de la tasa de dosis.
+2. Depende de la diferencia de potencial entre
+electrodos.
+3. Es un efecto deseable para conseguir el equi-
+librio electr(cid:243)nico.
+4. Es tanto mÆs dØbil cuanto menor sea el efecto
+fotoelØctrico.
+5. Es independiente del diseæo de la cÆmara.
+150. Los detectores Cerenkov:
+1. Son mÆs eficientes que los de centelleo.
+2. Se utilizan exclusivamente para medida de
+15 -
+bajas energ(cid:237)as.
+3. Emiten luz isotr(cid:243)picamente.
+4. Tienen mejor resoluci(cid:243)n temporal que los de
+centelleo.
+5. Son igual de eficientes que los de centelleo.
+151. Los detectores de centelleo, en comparaci(cid:243)n con
+los detectores de semiconductor, poseen:
+1. Mejor resoluci(cid:243)n energØtica.
+2. Peor resoluci(cid:243)n energØtica.
+3. Igual resoluci(cid:243)n energØtica.
+4. Mejor resoluci(cid:243)n temporal.
+5. Igual resoluci(cid:243)n temporal.
+152. Una cÆmara de ionizaci(cid:243)n abierta al aire mues-
+tra una lectura L1 en condiciones de referencia
+bajo un haz de radiaci(cid:243)n ionizante. Si dismi-
+nuimos la presi(cid:243)n y la temperatura y hacemos
+una lectura L2 bajo el mismo haz tendremos:
+1. L2 aumentarÆ por efecto de la presi(cid:243)n y de la
+temperatura.
+2. L2 aumentarÆ por efecto de la presi(cid:243)n, pero
+disminuirÆ por la temperatura.
+3. L2 disminuirÆ por efecto de la presi(cid:243)n, pero
+aumentarÆ por la temperatura.
+4. L2 disminuirÆ por efecto de la presi(cid:243)n y de la
+temperatura.
+5. L2 no variarÆ respecto de L1.
+153. La tasa real de cuentas para un sistema no pa-
+ralizable viene dada por:
+(n: tasa real de cuentas, m: tasa de cuentas
+observada, τ: tiempo muerto del sistema)
+1. n = m / (1-mτ).
+2. n = m(1-τ).
+3. n = me-mτ.
+4. n = m • (1-e-mτ).
+5. n = m / (1+mτ).
+154. ¿Con cuÆl de los siguientes sistemas se puede
+medir directamente la dosis de radiaci(cid:243)n ab-
+sorbida por un medio?:
+1. Calor(cid:237)metro.
+2. CÆmara de ionizaci(cid:243)n.
+3. Termoluminiscencia.
+4. Dosimetr(cid:237)a fotogrÆfica.
+5. Detector de centelleo.
+155. El ruido de fondo genera un error en las medi-
+das de la actividad de una muestra radiactiva.
+Para determinar la actividad neta de la muestra
+se debe:
+1. Blindar el detector.
+2. Determinar el contaje generado por el ruido de
+fondo y restarlo de la actividad total.
+3. Utilizar detectores contaminados.
+4. Tener en la cuenta el 40K del cuerpo humano.
+- 1
+5. Realizar las medidas en la oscuridad.
+156. Sabiendo que el Silicio tiene una densidad unas
+2000 veces mayor que la del aire y que la ener-
+g(cid:237)a de ionizaci(cid:243)n es 10 veces menor, la respues-
+ta de un diodo con respecto a la de una cÆmara
+de ionizaci(cid:243)n es:
+1. Unas 20000 veces mayor.
+2. Unas 2000 veces mayor.
+3. Unas 2000 veces menor.
+4. Son del mismo orden de magnitud si la cÆma-
+ra de ionizaci(cid:243)n estÆ polarizada conveniente-
+mente.
+5. Es mayor para un diodo tipo (cid:147)p(cid:148) y del mismo
+orden para uno tipo (cid:147)n(cid:148).
+157. ¿CuÆl de las siguientes afirmaciones sobre las
+cÆmaras de ionizaci(cid:243)n es cierta?:
+1. Es recomendable una alta recombinaci(cid:243)n.
+2. Para la medida de neutrinos es necesario el
+uso de cÆmaras tipo Farmer.
+3. La variaci(cid:243)n de su respuesta con la direcci(cid:243)n
+del haz incidente debe ser notable.
+4. La sensibilidad de la cÆmara es directamente
+proporcional a su volumen sensible.
+5. Tendremos que usarla en las mismas condi-
+ciones de P y T en las que fue calibrada.
+158. Entre los siguientes compuestos, seæale aquØl
+que se emplea en dosimetr(cid:237)a qu(cid:237)mica:
+1. LiF.
+2. CaF .
+2
+3. CaSO .
+4
+4. FeSO .
+4
+5. LiBO .
+4
+159. Como detector de neutrones podremos usar:
+1. Una cÆmara de ionizaci(cid:243)n abierta al aire y
+rellena con parafina.
+2. Una cÆmara de ionizaci(cid:243)n de gran volumen
+(500 cm3 al menos) y con caperuza de equili-
+brio.
+3. Un contador Geiger.
+4. Un detector de gas polarizado en la regi(cid:243)n de
+descarga continua.
+5. Un contador proporcional relleno de BF .
+3
+160. Bajo las leyes de conservaci(cid:243)n de las interaccio-
+nes dØbiles, ¿cuÆl de las siguientes reacciones
+estarÆn permitidas?:
+A) ν + p → µ+ + n. B) ν + p → e− + π + + p.
+µ e
+C) Λ → π + + e− + ν . D) K + → π 0 + π + + ν.
+e µ
+1. Las respuestas B y D.
+2. Las respuestas A y C.
+3. Las respuestas A y B.
+4. La respuesta D.
+5. La respuesta C.
+16 -
+161. El grupo de transformaciones locales que deja
+invariante el lagrangiano de la QED es:
+1. SU(2) .
+R
+2. U(2) .
+y
+3. SU(3).
+4. U(1) .
+EM
+5. SU(5).
+162. Segœn el modelo de quarks, un bari(cid:243)n de spin 1
+no puede existir puesto que:
+1. Un bari(cid:243)n se compone de tres quarks; como el
+spin del quark es 1/2, no se pueden combinar
+para formar un bari(cid:243)n de spin 1.
+2. Un bari(cid:243)n se compone de dos quarks; como el
+spin del quark es 1/3, no se pueden combinar
+para formar un bari(cid:243)n de spin 1.
+3. No existen estados ligados de quarks (libertad
+asint(cid:243)tica).
+4. Violar(cid:237)a el principio de balance detallado.
+5. Un bari(cid:243)n se compone de un solo quark, cuyo
+spin es 1/2.
+163. Una part(cid:237)cula y su antipart(cid:237)cula:
+1. Tienen que ser diferentes entre s(cid:237).
+2. Pueden aniquilarse siempre en dos fotones.
+3. Nunca pueden interaccionar entre s(cid:237).
+4. Forman un par de Cooper en la teor(cid:237)a del gas
+de Fermi.
+5. Tienen que poseer la misma masa.
+164. ¿CuÆles son las part(cid:237)culas mediadoras (que se
+intercambian) en las interacciones fuertes que
+tienen lugar en los nœcleos?:
+1. Gluones.
+2. Gravitones.
+3. Fotones.
+4. Bosones W+, W−.
+5. Bosones Z0.
+165. El betatr(cid:243)n es un acelerador:
+1. Lineal de electrones.
+2. Circular de electrones.
+3. Lineal de protones.
+4. Circular de protones.
+5. Lineal de neutrones.
+166. ¿CuÆl de los siguientes tØrminos NO es un
+quark?:
+1. Arriba (up).
+2. Abajo (down).
+3. Encanto (charm).
+4. Verdad (truth).
+5. Mentira (lie).
+167. Entre las siguientes part(cid:237)culas seæale aquØlla de
+- 1
+mayor masa:
+1. Neutrino.
+2. Mes(cid:243)n mu.
+3. Mes(cid:243)n pi.
+4. Electr(cid:243)n.
+5. Positr(cid:243)n.
+168. ¿A quØ grupo de part(cid:237)culas elementales perte-
+necen los neutrones?:
+1. Bariones.
+2. Leptones.
+3. Mesones.
+4. Bosones.
+5. Gluones.
+169. Respecto de los piones y muones es cierto que:
+1. Los piones son hadrones y los muones son
+leptones.
+2. Los piones son hadrones y los muones son
+mesones.
+3. Ambos son mesones.
+4. Ambos son hadrones.
+5. Los piones son mesones y los muones son
+hadrones.
+170. Respecto al Bari(cid:243)n Σ+, si S es su esp(cid:237)n y Q su
+carga, se puede afirmar que:
+1. S = 0 y Q = 0.
+2. S = 1/2 y Q = -1.
+3. S = 0 y Q = +1.
+4. S = 1/2 y Q = +1.
+5. S = 0 y Q = -1.
+171. El mu(cid:243)n (µ) tiene una masa de:
+1. 106 eV/c2.
+2. 106 MeV/c2.
+3. 206 MeV/c2.
+4. 400 MeV/c2.
+5. 206 GeV/c2.
+172. ¿QuØ tipo de part(cid:237)culas elementales describe la
+ecuaci(cid:243)n de Dirac?:
+1. Bosones escalares.
+2. Bosones vectoriales.
+3. Fermiones de spin ‰.
+4. Gravitones.
+5. Gluones.
+173 ¿De quØ orden de magnitud es la masa del bo-
+s(cid:243)n Z0, del Modelo EstÆndar de la F(cid:237)sica de
+Part(cid:237)culas?:
+1. 10 MeV.
+2. 1 MeV.
+3. 1 GeV.
+4. 100 GeV.
+17 -
+5. 100 TeV.
+174. La extraæeza de los nucleones y los piones tiene
+un valor de:
+1. S = 0 y S = 1, respectivamente.
+2. S = 0 para ambos.
+3. S = 2 y S = 0, respectivamente.
+4. S = 1 y S = -1, respectivamente.
+5. S = 2 y S = 1, respectivamente.
+175. ¿CuÆl de estas propiedades de los gluones es la
+correcta?:
+1. Son fermiones.
+2. Poseen carga de color.
+3. No tienen interacciones entre ellos.
+4. Tienen spin cero.
+5. Existen 8 tipos distintos con cargas +1 (cid:243) (cid:150)1.
+176. Un estado que contenga s(cid:243)lo una part(cid:237)cula ex-
+traæa:
+1. Puede decaer en un estado de extraæeza cero.
+2. Puede ser creado mediante interacci(cid:243)n fuerte a
+partir de un estado de extraæeza cero.
+3. No puede existir.
+4. Debe tener los nœmeros bari(cid:243)nico y lept(cid:243)nico
+iguales.
+5. Viola temporalmente el principio de exclusi(cid:243)n
+de Pauli.
+177. El valor de (rango de la interacci(cid:243)n dØbil / ran-
+go de la interacci(cid:243)n fuerte) es aproximadamen-
+te:
+1. 10-3.
+2. ∞.
+3. 0.
+4. 10-1.
+5. 102.
+178. El Principio de Incertidumbre de Heisenberg se
+puede expresar como:
+1. ∆E•∆t≥ħ/2 ∆p•∆x≥ħ/2.
+2. ∆E•∆t≥h/2 ∆p•∆x≥h/2.
+3. ∆E•∆t≤ħ/2 ∆p•∆x≤ħ/2.
+4. ∆E•∆t≤h/2 ∆p•∆x≤h/2.
+5. ∆E•∆t≥ħ/2 ∆p•∆x≥h/2.
+179. Si una estrella O5 fuera un cuerpo negro de
+3500 K, ¿d(cid:243)nde tendr(cid:237)a su mÆximo en el espec-
+tro continuo?:
+(La constante de Wien vale 2.898 10-3 mK)
+1. 7342 ¯.
+2. 654 nm.
+3. 8280 ¯.
+4. 734,2 µm.
+5. 5050 ¯.
+- 1
+180. Al aumentar la intensidad del haz de fotones
+incidente sobre un metal donde se produce el
+efecto fotoelØctrico se cumple que:
+1. Aumenta la energ(cid:237)a cinØtica de los electrones
+desprendidos.
+2. Disminuye la energ(cid:237)a cinØtica de los electro-
+nes desprendidos.
+3. Aumenta la frecuencia cr(cid:237)tica de emisi(cid:243)n.
+4. Aumenta el nœmero de electrones emitidos por
+unidad de tiempo.
+5. Disminuye la frecuencia cr(cid:237)tica de emisi(cid:243)n.
+181. El factor g de LandØ para el nivel 3P vale:
+1
+1. 0.
+2. 1/2.
+3. 1.
+4. 3/2.
+5. 2.
+182. Una part(cid:237)cula incide sobre una barrera de po-
+tencial con una energ(cid:237)a mayor que la altura de
+la barrera. La longitud de onda asociada a la
+part(cid:237)cula:
+1. Se hace menor.
+2. No se modifica.
+3. Se hace mayor.
+4. Se necesita conocer la diferencia entre la
+energ(cid:237)a y la altura de barrera para responder.
+5. Cuanto menor sea la diferencia entre ambas
+energ(cid:237)as, mÆs se modifica.
+183. ¿QuiØn formul(cid:243) matemÆticamente la ecuaci(cid:243)n
+de la onda asociada a una radiaci(cid:243)n corpuscu-
+lar?:
+1. Bohr.
+2. Schr(cid:246)dinger.
+3. Born.
+4. Planck.
+5. Einstein.
+184. El principio de exclusi(cid:243)n de Pauli se aplica a:
+1. Todas las part(cid:237)culas con spin.
+2. Part(cid:237)culas que satisfacen la estad(cid:237)stica de
+Boltzmann.
+3. Sistemas de part(cid:237)culas con nœmero entero de
+spin.
+4. Part(cid:237)culas que satisfacen la estad(cid:237)stica de
+Fermi-Dirac.
+5. Part(cid:237)culas que satisfacen la estad(cid:237)stica de
+Bose-Einstein.
+185. 0 1
+Las matrices de Pauli σ
+x
+=  
+1 0
+0 −i 1 0 
+σ
+y
+=   σ
+z
+=   y la matriz iden
+i 0  0 −1
+18 -
+1 0
+tidad I =   cumplen:
+0 1
+1. σ 2 = σ 2 = σ 2 = -I.
+x y x
+2. σ 2 = σ 2 = σ 2 = I.
+x y x
+3. [σ , σ ] = σ.
+x y z
+4. [σ , σ ] = 0.
+x y
+5. [σ , σ ] = [σ , σ ].
+x y y x
+186. El l(cid:237)mite clÆsico de la ecuaci(cid:243)n de Schr(cid:246)dinger
+es la ecuaci(cid:243)n:
+1. Del Lagrangiano.
+2. De Hamilton-Jacobi.
+3. De Sommerfeld.
+4. De Dirac.
+5. De Bohr-Einstein.
+187. Si se intercambian las coordenadas espaciales
+de dos electrones en un estado de spin total 0:
+1. La funci(cid:243)n de onda cambia de signo.
+2. La funci(cid:243)n de onda no cambia.
+3. La funci(cid:243)n de onda cambia a una funci(cid:243)n
+completamente diferente.
+4. El valor esperado de la energ(cid:237)a cambia de
+signo.
+5. El conmutador de los operadores posici(cid:243)n y
+momento lineal cambia a su herm(cid:237)tico conju-
+gado.
+188. En MecÆnica CuÆntica, tenemos un pozo de
+potencial cuadrado de paredes infinitas y uni-
+dimensional. Dada una part(cid:237)cula de masa M, y
+siendo n el nœmero cuÆntico principal del sis-
+tema, ¿quØ tipo de dependencia presenta la
+energ(cid:237)a con respecto a n?:
+1. 1/n.
+2. n2.
+3. n.
+4. n3.
+5. 1/n2.
+189. La separaci(cid:243)n entre los niveles energØticos de
+una part(cid:237)cula que se mueve en una caja unidi-
+mensional de paredes infinitas:
+1. Aumenta si crece la masa de la part(cid:237)cula.
+2. Aumenta si crece la longitud de confinamien-
+to.
+3. No depende de la masa de la part(cid:237)cula.
+4. No depende de la longitud de confinamiento.
+5. Disminuye si crece la masa de la part(cid:237)cula.
+190. Si la temperatura del Sol disminuyera a un
+valor que fuera la quinta parte de su tempera-
+tura actual, ¿en quØ proporci(cid:243)n se reducir(cid:237)a la
+energ(cid:237)a que la Tierra recibe del Sol?:
+1. En un factor 1/625.
+- 1
+2. En un factor 1/25.
+3. En un factor 1/125.
+4. En un factor 1/5.
+5. En un factor 1/75.
+191. En una barrera de potencial en la que la part(cid:237)-
+cula incida con energ(cid:237)a mayor que la altura de
+la barrera, su coeficiente de transmisi(cid:243)n serÆ
+igual a uno:
+1. S(cid:243)lo si la anchura de la barrera es un nœmero
+entero de longitudes de onda de De Broglie de
+la part(cid:237)cula.
+2. S(cid:243)lo si la anchura de la barrera es un nœmero
+semientero de longitudes de onda de De Bro-
+glie de la part(cid:237)cula.
+3. Si la anchura de la barrera es un nœmero ente-
+ro o semientero de longitudes de onda de De
+Broglie de la part(cid:237)cula.
+4. Siempre serÆ igual a uno.
+5. Nunca serÆ igual a uno.
+192. Se tiene un potencial escal(cid:243)n y otro potencial en
+el que, alcanzando la misma altura que el po-
+tencial escal(cid:243)n, la subida es mÆs gradual. El
+coeficiente de reflexi(cid:243)n para una part(cid:237)cula inci-
+dente, con energ(cid:237)a mayor que el potencial esca-
+l(cid:243)n en ambos casos es:
+1. Mayor en el escal(cid:243)n que en la subida gradual.
+2. Mayor en la subida gradual que en el escal(cid:243)n.
+3. Igual en ambos.
+4. Mucho mayor en la subida gradual que en el
+escal(cid:243)n.
+5. No hay reflexi(cid:243)n en este caso.
+193. Una part(cid:237)cula que se encuentra en el estado
+n = 3 de una caja unidimensional de paredes
+infinitas cumple que:
+1. Posee una funci(cid:243)n de ondas no continua.
+2. Tiene una energ(cid:237)a menor que si estuviera en el
+estado n = 1.
+3. Su funci(cid:243)n de onda es asimØtrica con respecto
+al centro de la caja.
+4. Posee una funci(cid:243)n de onda con zonas positi-
+vas y negativas.
+5. Su funci(cid:243)n de onda tiene 5 nodos.
+194. Sean A y B dos operadores y a y b dos estados
+cualesquiera del sistema. ¿CuÆl de las siguientes
+afirmaciones es correcta?:
+1. AB = B(cid:134)A(cid:134).
+2. A es un operador herm(cid:237)tico si < aAb > =
+< bAa >*.
+3. A + B(cid:134) = B + A(cid:134).
+4. A es un operador herm(cid:237)tico si < aAb > =
+< aAb >*.
+5. A + B = B(cid:134) + A(cid:134).
+195. ¿CuÆl de los siguientes fen(cid:243)menos en el efecto
+19 -
+fotoelØctrico puede explicarse a partir de la
+teor(cid:237)a ondulatoria clÆsica de la luz?:
+1. La energ(cid:237)a cinØtica de los electrones es inde-
+pendiente de la intensidad de la luz.
+2. Existe una frecuencia de corte para la luz
+incidente, por debajo de la cual el efecto fo-
+toelØctrico no ocurre.
+3. No existe un retraso medible entre el instante
+en que comienza a incidir la luz y la expulsi(cid:243)n
+del fotoelectr(cid:243)n.
+4. El nœmero de electrones emitidos por unidad
+de tiempo es proporcional a la intensidad de la
+luz.
+5. Independientemente de cuÆl sea la intensidad
+del campo aplicado, el efecto fotoelØctrico
+puede no ocurrir.
+196. Los espacios de Hilbert cumplen que:
+(u,v ∈ espacio, α ∈ cuerpo de los nœmeros com-
+plejos)
+1. No son espacios lineales.
+2. No tiene definido el producto escalar.
+3. < uv > = αv >.
+4. < uv > es un nœmero real.
+5. < uu > ≥ 0.
+197. El flujo magnØtico que puede atravesar la cavi-
+dad hueca de un anillo superconductor:
+1. Es siempre nulo.
+2. Es nulo para materiales superconductores de
+tipo I.
+3. Es nulo para materiales superconductores de
+tipo II.
+4. EstÆ cuantizado en mœltiplos de una cantidad
+de flujo elemental.
+5. Nunca puede ser nulo.
+198. ¿QuiØn descubri(cid:243) el neutr(cid:243)n?:
+1. Chadwick.
+2. Bohr.
+3. Rutherford.
+4. Thomson.
+5. Sommerfeld.
+199. Una molØcula diat(cid:243)mica estÆ orientada segœn el
+eje Z. Su momento angular total es L. Conside-
+rando que los electrones de la molØcula estÆn
+sometidos a un potencial de Hartree en aproxi-
+maci(cid:243)n de un electr(cid:243)n y en ausencia de pertur-
+baciones (como por ejemplo la rotaci(cid:243)n de la
+molØcula) el hamiltoniano del sistema conmuta
+con:
+1. L2.
+2. L2 y L.
+z
+3. L2 , L y L .
+x y
+4. L y L .
+x y
+5. L.
+z
+- 2
+200. La atracci(cid:243)n de Van der Waals:
+1. Se presenta entre Ætomos y molØculas polares.
+2. Se presenta exclusivamente entre Ætomos y
+molØculas no polares.
+3. No es de origen elØctrico.
+4. Origina enlaces fuertes.
+5. Es la causa del enlace metÆlico.
+201. En una molØcula de vapor de agua:
+1. El centro de las cargas positivas coincide con
+el de las negativas.
+2. El centro de las cargas positivas no coincide
+con el de las negativas.
+3. Los tres Ætomos estÆn alineados.
+4. Los tres Ætomos forman triÆngulo equilÆtero.
+5. El centro de masa estÆ en el Ætomo de ox(cid:237)ge-
+no.
+202. La velocidad media de las part(cid:237)culas de un gas
+ideal que viene descrito por la distribuci(cid:243)n de
+velocidades de Maxwell, depende de la tempe-
+ratura (T) como:
+1. T1/2.
+2. T.
+3. T2.
+4. T3/2.
+5. Es independiente de T.
+203. Si una part(cid:237)cula estÆ sometida a un potencial
+central U = -krn, siendo k y n constantes, los
+promedios temporal de su energ(cid:237)a cinØtica <T>
+y potencial <U> estÆn relacionados por:
+1. <T> = n<U>/4.
+2. <T> = (n-1)<U>/4.
+3. <T> = n<U>/4k.
+4. <T> = <U>exp(-<T>/<U>).
+5. <T> = (n+1)<U>/2.
+204. El principio de equipartici(cid:243)n de la energ(cid:237)a esta-
+blece que la energ(cid:237)a promedio por grado de
+libertad activo de una molØcula es igual a:
+1. kT.
+2. RT.
+3. (1/2) kT.
+4. kT2.
+5. Ln (T).
+205. Un sistema macrosc(cid:243)pico aislado y en equilibrio
+viene descrito por una colectividad:
+1. Virtual.
+2. Isotermo (cid:150) isobÆrica.
+3. Macrocan(cid:243)nica.
+4. Can(cid:243)nica.
+5. Microcan(cid:243)nica.
+20 -
+206. En cuanto a las funciones de distribuci(cid:243)n de
+Fermi, Bose y Boltzmann, se puede decir que:
+1. A altas energ(cid:237)as (E >> KT) se cumple que
+n ≅ n >> n .
+Fermi Bose Boltzmann
+2. A bajas energ(cid:237)as (E << KT) se cumple
+n < n < n .
+Bose Boltzmann Fermi
+3. A altas energ(cid:237)as (E >> KT) se cumple que
+n ≅ n ≅ n .
+Fermi Bose Boltzmann
+4. A bajas energ(cid:237)as n ≅ n ≅ n .
+Fermi Bose Boltzmann
+5. A cualquier energ(cid:237)a n < n < n .
+Fermi Bose Boltzmann
+207. El valor de la densidad de carga nuclear:
+1. Es constante en el interior del nœcleo, deca-
+yendo rÆpidamente hasta cero en la superficie
+nuclear.
+2. Aumenta en el interior lentamente conforme
+aumenta A.
+3. Se mantiene constante en el interior conforme
+aumenta A.
+4. Es aproximadamente igual a la densidad de
+masa.
+5. Todas las respuestas anteriores son falsas.
+208. Las series radiactivas naturales se pueden ex-
+presar con arreglo a una f(cid:243)rmula. Seæale cuÆl
+de las siguientes NO pertenece a una de las
+series naturales:
+1. A = 4 n.
+2. A = 4 n + 1.
+3. A = 4 n + 2.
+4. A = 4 n + 3.
+5. A = 4 n + 5.
+209. La simetr(cid:237)a conocida como Isospin surge por-
+que:
+1. La interacci(cid:243)n fuerte es invariante frente a
+paridad.
+2. El neutr(cid:243)n es una part(cid:237)cula sin carga elØctrica.
+3. La interacci(cid:243)n nuclear no distingue el neutr(cid:243)n
+del prot(cid:243)n.
+4. El neutr(cid:243)n es la antipart(cid:237)cula del prot(cid:243)n.
+5. El neutr(cid:243)n es su propia antipart(cid:237)cula.
+210. ¿En torno a quØ energ(cid:237)a se encuentra el umbral
+para activaci(cid:243)n por reacciones fotonucleares?:
+1. 10 keV.
+2. 100 keV.
+3. 10 MeV.
+4. 100 MeV.
+5. No existe umbral.
+211. El volumen nuclear depende del nœmero mÆsico
+(A) aproximadamente como:
+1. A2.
+2. A3.
+3. A.
+- 2
+4. A4.
+5. A1/2.
+212. Comparada con la longitud Compton del elec-
+tr(cid:243)n, el radio de Bohr del Ætomo de hidr(cid:243)geno
+es aproximadamente:
+(h = 6.62x10-34 Js, m = 9.109x10-31 kg, e =
+e
+1.602x10-19 C, c = 2.998x108 m/s)
+1. 22 veces mayor.
+2. 2000 veces mayor.
+3. Igual.
+4. 100 veces menor.
+5. 100√2π veces mayor.
+213. El elemento qu(cid:237)mico con mayor energ(cid:237)a de
+primera ionizaci(cid:243)n electr(cid:243)nica es el:
+1. He.
+2. Ne.
+3. Xe.
+4. H.
+5. Li.
+214. El Efecto Zeeman es debido:
+1. A que la Energ(cid:237)a del Ætomo depende de la
+orientaci(cid:243)n relativa de su momento magnØtico
+con el campo magnØtico externo.
+2. Al acoplamiento JJ at(cid:243)mico.
+3. A que el spin del electr(cid:243)n mÆs interno se ali-
+nea con el campo magnØtico externo.
+4. A que el campo magnØtico externo actœa aco-
+plando el spin nuclear con el electr(cid:243)nico.
+5. Al acoplamiento existente entre el spin nu-
+clear y el campo magnØtico externo.
+215. El acoplamiento de Russell (cid:150) Saunders:
+1. Es vÆlido para Ætomos con Z grandes.
+2. Se produce cuando la interacci(cid:243)n spin (cid:150) (cid:243)rbita
+es mÆs intensa que la interacci(cid:243)n residual de
+Coulomb.
+3. Es un acoplamiento j (cid:150) j.
+4. Un acoplamiento entre Ætomos.
+5. Se produce cuando la interacci(cid:243)n spin (cid:150) (cid:243)rbita
+es de menor intensidad que la interacci(cid:243)n re-
+sidual de Coulomb.
+216. Sabiendo que para el cobre el m(cid:243)dulo de Young
+y la densidad son 1.1x1011 Pa y 8900 kg/m3,
+determine la velocidad de las ondas longitudi-
+nales a travØs de una barra de cobre:
+1. 974 m/s.
+2. 3520 m/s.
+3. 7040 m/s.
+4. 1856 m/s.
+5. 2659 m/s.
+217. Respecto a la masa efectiva de un portador de
+carga en un semiconductor, podemos afirmar
+21 -
+que:
+1. Es inversamente proporcional a la anchura de
+la banda de energ(cid:237)a en que se encuentra el
+portador.
+2. Es igual a la masa real del portador si Øste se
+encuentra fuera de la banda de conducci(cid:243)n.
+3. Es inversamente proporcional al cuadrado de
+la anchura de la banda de energ(cid:237)a en que se
+encuentra el portador.
+4. No depende de la anchura de la banda donde
+se encuentra y aumenta con el nœmero de es-
+tados ocupados de dicha banda.
+5. No depende de la distancia interat(cid:243)mica de la
+correspondiente red cristalina.
+218. En f(cid:237)sica de semiconductores, la correlaci(cid:243)n que
+vincula el coeficiente de difusi(cid:243)n de portadores
+de carga y su movilidad en condiciones de equi-
+librio termodinÆmico se llama:
+1. Conductividad intr(cid:237)nseca.
+2. Coeficiente de Debye.
+3. Relaci(cid:243)n de Einstein.
+4. Conductividad extr(cid:237)nseca.
+5. Tiempo de relajaci(cid:243)n de Maxwell.
+219. ¿CuÆl es el nœmero posible de redes bidimen-
+sionales regulares en cristalograf(cid:237)a?:
+1. Uno.
+2. Dos.
+3. Tres.
+4. Cuatro.
+5. Cinco.
+220. Los magnones son las excitaciones:
+1. Elementales de un material antiferromagnØti-
+co.
+2. Elementales de un material ferromagnØtico.
+3. Elementales de un material diamagnØtico.
+4. Que se producen en un cristal por la presencia
+de un campo magnØtico.
+5. Elementales de un material superconductor.
+221. ¿CuÆl de los siguientes modelos de estado s(cid:243)lido
+describe un cristal como una red peri(cid:243)dica de
+pozos y barreras de potencial rectangulares?:
+1. Drude.
+2. Sommerfeld.
+3. Debye.
+4. Kronig (cid:150) Penney.
+5. Debye (cid:150) Einstein.
+222. La masa efectiva de un electr(cid:243)n de la banda de
+conducci(cid:243)n de un s(cid:243)lido es:
+1. Proporcional a la derivada de la energ(cid:237)a en el
+espacio k.
+2. Inversamente proporcional a la energ(cid:237)a.
+- 2
+3. Independiente de la energ(cid:237)a.
+4. Inversamente proporcional a la derivada de la
+energ(cid:237)a en el espacio k.
+5. Inversamente proporcional a la derivada se-
+gunda de la energ(cid:237)a en el espacio k.
+223. En un material semiconductor de tipo n, la
+concentraci(cid:243)n de electrones libres es:
+1. Distinta a la densidad de Ætomos donadores.
+2. Doble de la densidad de Ætomos donadores.
+3. Aproximadamente igual a la densidad de
+Ætomos donadores.
+4. La mitad de la densidad de Ætomos donadores.
+5. Imposible de conocer.
+224. En un cristal metÆlico la contribuci(cid:243)n de los
+electrones libres a su capacidad calor(cid:237)fica mo-
+lar:
+1. Depende linealmente de T y s(cid:243)lo es apreciable
+a temperaturas bajas.
+2. Depende linealmente de T y s(cid:243)lo es apreciable
+a temperaturas altas.
+3. Depende œnicamente de T3 a temperaturas
+bajas.
+4. Es nula, los electrones libres s(cid:243)lo contribuyen
+a la dilataci(cid:243)n tØrmica.
+5. Es independiente de la temperatura T.
+225. Respecto a la fenomenolog(cid:237)a de la superconduc-
+tividad en s(cid:243)lidos, ¿cuÆl de las siguientes afir-
+maciones es verdadera?:
+1. La temperatura cr(cid:237)tica aumenta con la masa
+at(cid:243)mica.
+2. La temperatura cr(cid:237)tica no depende de la masa
+at(cid:243)mica.
+3. Los buenos conductores en estado normal son
+los mejores superconductores.
+4. En un superconductor tipo II hay una penetra-
+ci(cid:243)n parcial de las l(cid:237)neas de campo magnØtico
+a partir de un campo cr(cid:237)tico.
+5. En el estado superconductor la entrop(cid:237)a es
+mayor que en estado normal.
+226. Los Ætomos de gases intertes en cristales estÆn
+enlazados mediante la interacci(cid:243)n de Van Der
+Waals (interacci(cid:243)n inducida dipolo-dipolo), y
+Østa var(cid:237)a con la distancia como:
+1. 1/R.
+2. 1/R2.
+3. 1/R3.
+4. 1/R4.
+5. 1/R6.
+227. Cuando un semiconductor tipo n se encuentra
+completamente degenerado:
+1. No es vÆlida la relaci(cid:243)n de Einstein.
+2. El nivel de Fermi estÆ justo por debajo de la
+22 -
+banda de conducci(cid:243)n.
+3. El nivel de Fermi se encuentra en la banda de
+conducci(cid:243)n por lo menos a 2kT sobre E (E:
+c c
+energ(cid:237)a m(cid:237)nima de la banda de valencia).
+4. La concentraci(cid:243)n de portadores libres no de-
+pende de la temperatura.
+5. Si lo sometemos a un gradiente de temperatu-
+ra y a una polarizaci(cid:243)n magnØtica, se da el
+efecto Arnold.
+228. El desprendimiento o la absorci(cid:243)n de calor en el
+volumen de un material conductor elØctrico al
+pasar por Øl una corriente elØctrica y existir un
+gradiente de temperatura se denomina efecto:
+1. Peltier.
+2. Arnold.
+3. Seebeck.
+4. Thomson.
+5. Hall.
+229. En un material semiconductor del tipo p:
+1. Los huecos son portadores minoritarios.
+2. Los electrones son portadores mayoritarios.
+3. Los huecos son portadores minoritarios, y los
+electrones son portadores mayoritarios.
+4. Los huecos son portadores mayoritarios, y los
+electrones portadores minoritarios.
+5. S(cid:243)lo existen electrones.
+230. Desde el punto de vista de la simetr(cid:237)a el nœmero
+de tipos diferentes de redes tridimensionales de
+Bravais que podemos encontrar es:
+1. 7.
+2. 9.
+3. 11.
+4. 14.
+5. 20.
+231. Si se quieren enviar las imÆgenes de TAC de los
+pacientes, desde el servicio de Radiolog(cid:237)a al de
+Radiof(cid:237)sica, con conexi(cid:243)n no compartida, en
+menos de 10 segundos, ¿cuÆl ser(cid:237)a el menor
+ancho de banda necesario instalar?
+ConsidØrese que como promedio un paciente
+requiere 50 imÆgenes de 512 x 512 p(cid:237)xeles con
+4096 niveles de gris por p(cid:237)xel.
+1. 10 Mbyte.
+2. 100 Mbyte.
+3. 1 Gbyte.
+4. 10 Gbyte.
+5. 1 Mbyte.
+232. ¿CuÆl es la representaci(cid:243)n de la cantidad (cid:147)die-
+cisØis unidades(cid:148) en la base 16?:
+1. 10.
+2. 01.
+3. 11.
+- 2
+4. 110.
+5. 101.
+233. La suma binaria de los nœmeros 1101110 y
+00100011 es:
+1. 10010001.
+2. 11100101.
+3. 01011001.
+4. 11001101.
+5. 10110100.
+234. Un cachØ es una memoria:
+1. Usada para conseguir polarizaciones el(cid:237)pticas
+de la luz lÆser en computaci(cid:243)n cuÆntica.
+2. Pequeæa y rÆpida localizada cerca de la CPU
+que contiene la mayor parte del c(cid:243)digo o de
+los datos recientemente accedidos.
+3. De entrada/salida con unas resoluciones mu-
+cho mayores que las de una impresora.
+4. De disco conectado mediante un bus PCI,
+cuya funci(cid:243)n es acelerar el cÆlculo aritmØtico
+y l(cid:243)gico.
+5. Usada en procesadores superescalares para
+implementar el algoritmo de Tomasulo.
+235. ¿QuØ genera un Klystron?:
+1. Rayos X.
+2. Rayos Ultravioletas.
+3. Rayos Infrarrojos.
+4. Microondas.
+5. Ultrasonidos.
+236. En relaci(cid:243)n al diseæo de un blindaje, NO es
+necesario tener en cuenta:
+1. El campo de radiaci(cid:243)n.
+2. La fuente de radiaci(cid:243)n.
+3. La geometr(cid:237)a de la instalaci(cid:243)n.
+4. La temperatura media de la instalaci(cid:243)n.
+5. El factor de carga o carga de trabajo de la
+instalaci(cid:243)n.
+237. Si la densidad (cid:243)ptica (D) de una pel(cid:237)cula radio-
+grÆfica se define como D = log (Bo/B), donde
+10
+Bo es la intensidad de la fuente que ilumina la
+pel(cid:237)cula y B la intensidad de luz transmitida,
+¿cuÆndo tendrÆ D el valor 1?:
+1. Cuando B = Bo/10.
+2. Cuando B = Bo.
+3. Cuando B = 0.
+4. Cuando B = Bo x 10.
+5. Cuando B = Bo x e-1.
+238. Si una pel(cid:237)cula radiogrÆfica tiene densidad 1,
+dos de esas pel(cid:237)culas en contacto tendrÆn una
+densidad:
+1. 10.
+23 -
+2. log 2.
+3. 2.
+4. log 10.
+5. (cid:150)10.
+239. De las siguientes tØcnicas de imagen mØdica:
+tomograf(cid:237)a computarizada (TC), tomograf(cid:237)a
+por emisi(cid:243)n de positrones (PET) y resonancia
+magnØtica nuclear (RMN), ¿en cuÆles se em-
+plean fuentes radiactivas?:
+1. En PET y TC.
+2. En PET y RMN.
+3. En RMN y TC.
+4. En las tres.
+5. Tan s(cid:243)lo en PET.
+240. En uno de los siguientes dispositivos los haces
+de fotones NO se producen por radiaci(cid:243)n de
+frenado. Seæalar cuÆl:
+1. Generador de Van der Graff.
+2. Microtr(cid:243)n.
+3. Acelerador lineal de electrones de uso cl(cid:237)nico.
+4. Betatr(cid:243)n.
+5. Unidad de Co-60.
+241. Seæale la respuesta FALSA en relaci(cid:243)n con la
+transformada de Fourier (F):
+1. F (f+g)(w) = F f(w) + F g(w).
+2. F (df/dx) (w) = iwF f(w).
+3. F g(λx) = λ F g(x), donde λ es una cte.
+4. Existe la transformada de la funci(cid:243)n delta de
+Dirac.
+5. F (g f)(x) = Fg(x)Ff(x), donde es la opera-
+* *
+ci(cid:243)n convoluci(cid:243)n.
+242. Se observan 1000 cuentas de una muestra ra-
+diactiva de un tipo A y 2000 de un tipo B. Asu-
+miendo que los procesos que producen A y B
+son independientes, ¿cuÆl es el error estad(cid:237)stico
+en la relaci(cid:243)n r = N /N ?:
+A B
+1. ∆r ≅ 0.02.
+2. ∆r ≅ 1.02.
+3. ∆r ≅ 0.08.
+4. ∆r ≅ 50.
+5. ∆r ≅ 2.
+243. En una observaci(cid:243)n en la que se han obtenido
+los siguientes valores: 3, 4, 3, 5, 5, 4, 6, 7, 4, 6, 7,
+8, 6, 5, 2, ¿cuÆl es su mediana?:
+1. 5.
+2. 4,5.
+3. 5,5.
+4. 6.
+5. 4.
+244. En la distribuci(cid:243)n de una variable aleatoria
+continua, la probabilidad de que la variable
+- 2
+tome un valor puntual es:
+1. Uno.
+2. Cero.
+3. No se puede saber.
+4. Un valor comprendido entre 0, 1.
+5. Del 100%.
+245. ¿CuÆl de los siguientes nœmeros es imaginario?:
+1. log 1.
+2. i2.
+3. arctg 2.
+4. eiπ.
+5. arccos 2.
+246. Si n es un nœmero natural cualquiera, ¿cuÆl de
+los siguientes nœmeros es siempre par?:
+1. n+1.
+2. n(n+2).
+3. n(n-1).
+4. n2.
+5. 2n-1.
+247. En el caso de representaci(cid:243)n binaria de los
+nœmeros enteros, el nœmero positivo mÆs gran-
+de que puede representarse en una palabra de n
+bits es:
+1. 2n.
+2. 2n+1.
+3. 2n-1.
+4. 2n.
+5. 2n-1-1.
+248. Si en la consulta de un pediatra, despuØs de
+consultar el grÆfico donde se relaciona el peso y
+edad de los niæos varones, se oye esta frase (cid:147)el
+peso de su hijo se encuentra en el percentil 80(cid:148),
+significa que:
+1. El niæo tiene un buen peso.
+2. El 80% de los niæos de su edad tienen un peso
+inferior al suyo.
+3. El niæo estÆ gordito.
+4. El 20% de los niæos de su edad tienen un peso
+inferior al suyo.
+5. El 80% de los niæos de su edad tienen un peso
+parecido.
+249. ¿CuÆl de las siguientes expresiones es FALSA
+para la delta de Dirac δ(x)?:
+∞, x=0
+1. δ(x) = 
+0, x≠0
+∞
+2. ∫dxδ(x)=1
+−∞
+3. xδ(x) = 1.
+4. δ(x) = δ(-x).
+5. La delta de Dirac no es una funci(cid:243)n.
+24 -
+250. Un operador lineal es unitario si:
+1. Es idempotente.
+2. Su valor es uno.
+3. Su inverso coincide con su adjunto.
+4. Coincide con su inverso.
+5. Coincide con su adjunto.
+251. Se realiza el producto de una funci(cid:243)n arm(cid:243)nica
+de 1 MHz por una de impulsos rectangulares de
+10 Hz. La envolvente de la funci(cid:243)n producto
+serÆ:
+1. Una sinusoide de frecuencia 1 MHz.
+2. Una sinusoide de frecuencia 10 MHz.
+3. Una funci(cid:243)n de impulsos rectangulares y
+frecuencia 1 MHz.
+4. Una funci(cid:243)n de impulsos rectangulares y
+frecuencia 10 Hz.
+5. No se pueden multiplicar funciones de dife-
+rentes frecuencias.
+252. Los autovalores de un operador herm(cid:237)tico A:
+1. Son reales siempre.
+2. Son siempre diferentes.
+3. Dependen de la base escogida para representar
+el operador.
+4. Son siempre imaginarios.
+5. Pueden ser imaginarios.
+253. Indicar el spin en el estado base y la paridad del
+nœcleo del nitr(cid:243)geno (Z=7, A=15).
+1. 11/2; impar.
+2. 25/2; par.
+3. 3/2; impar.
+4. 3/2; par.
+5. 4/3; impar.
+254. Cuando dos ondas coinciden en un mismo pun-
+to, la amplitud de la perturbaci(cid:243)n resultante es:
+1. El producto de las amplitudes de dichas on-
+das.
+2. La suma algebraica de la amplitud de dichas
+ondas.
+3. La amplitud de la onda individual de mayor
+frecuencia.
+4. La amplitud de la onda individual de menor
+frecuencia.
+5. La ra(cid:237)z cuadrada de la suma de los cuadrados
+de las amplitudes de las ondas individuales.
+255. En un circuito RC los valores de la resistencia
+R y la capacidad son 32000 ohmios y 3,5 micro-
+faradios. ¿CuÆl es el tiempo necesario para que
+la corriente descienda hasta la mitad de su va-
+lor inicial?:
+1. 1,5•10-2 s.
+- 2
+2. 5,9•10-2 s.
+3. 8,3•10-3 s.
+4. 7,6•10-2 s.
+5. 5,9•10-3 s.
+256. ¿CuÆl es el valor de la frecuencia de la onda
+electromagnØtica para la cual resuena una an-
+tena dipolar de media onda de longitud 2.0 m?:
+1. 7,5•107 Hz.
+2. 8,2•106 Hz.
+3. 2,2•107 Hz.
+4. 1,6•106 Hz.
+5. 3,4•107 Hz.
+257. La variaci(cid:243)n de entrop(cid:237)a en una transferencia
+de calor a travØs de un medio, desde una fuente
+caliente a una fr(cid:237)a es:
+1. 2R ln 2.
+2. W/T.
+3. 0.
+4. C ln T/T.
+p f i
+5. nR ln V/V.
+f i
+258. Los siguientes enunciados hacen referencia a la
+teor(cid:237)a de Maxwell acerca de las ondas electro-
+magnØticas. ¿CuÆl de ellos es FALSO?:
+1. Los campos elØctrico y magnØtico de una
+onda electromagnØtica, mutuamente perpendi-
+culares entre s(cid:237), oscilan en fase, con intensida-
+des proporcionales.
+2. Si en el vac(cid:237)o existe un campo elØctrico uni-
+forme entonces tambiØn existe un campo
+magnØtico uniforme y viceversa.
+3. Estos campos obedecen a ecuaciones de ondas
+con idØnticas velocidades de propagaci(cid:243)n.
+4. La velocidad de propagaci(cid:243)n predicha por las
+ecuaciones de onda en tØrminos de valores de
+la permeabilidad del vac(cid:237)o y la permitividad
+del vac(cid:237)o es igual a la velocidad de la luz.
+5. Las ondas luminosas son ondas electromag-
+nØticas.
+259. El campo magnØtico generado por una corrien-
+te elØctrica al circular por un conductor rectil(cid:237)-
+neo es:
+1. Inversamente proporcional a la corriente elØc-
+trica.
+2. Directamente proporcional a la distancia del
+conductor.
+3. Directamente proporcional al cuadrado de la
+distancia del conductor.
+4. Inversamente proporcional a la distancia del
+conductor.
+5. Inversamente proporcional al cuadrado de la
+corriente elØctrica.
+260. Suponiendo que una lÆmpara emite 10 vatios de
+luz visible uniformemente en todas direcciones,
+25 -
+¿cuÆl es la potencia de luz que llega a la pupila
+de un ojo, cuyo radio es 1,0 mm, y que estÆ a 5,0
+m de la lÆmpara?:
+1. 1,1•10-6 W.
+2. 1,0•10-7 W.
+3. 2,6•10-6 W.
+4. 1,6•10-7 W.
+5. 0,3•10-7 W.
+- 26 -
