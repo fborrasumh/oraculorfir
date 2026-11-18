@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
     inputs:
       paso:
-        description: 'todo | externos | imagenes | procesar | clasificar | calibrar | sondear | descubrir | descargar'
+        description: 'todo | cosecha | externos | imagenes | procesar | clasificar | calibrar | sondear | descubrir | descargar'
         default: 'todo'
         required: true
 permissions:
@@ -35,8 +35,11 @@ jobs:
       - name: Descargar por la API del portal FSE
         if: env.PASO == 'todo'
         run: python scripts/rfir_fetch.py --api
+      - name: Cosecha de exámenes antiguos en webs y paquetes .zip (data/fuentes_externas.json → _cosecha)
+        if: env.PASO == 'todo' || env.PASO == 'externos' || env.PASO == 'cosecha'
+        run: python scripts/rfir_cosecha.py || true
       - name: RFIR antiguos desde copias de los PDF oficiales
-        if: env.PASO == 'todo' || env.PASO == 'externos'
+        if: env.PASO == 'todo' || env.PASO == 'externos' || env.PASO == 'cosecha'
         run: python scripts/rfir_externos.py
       - name: Cuadernillos de imágenes (portal y copias) → data/img
         if: env.PASO == 'imagenes'

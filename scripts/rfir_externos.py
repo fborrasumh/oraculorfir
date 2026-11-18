@@ -11,10 +11,12 @@ import rfir_datos as M
 R = pathlib.Path(__file__).resolve().parent.parent; RAW = R / 'data' / 'raw'
 ESPERADAS = lambda y: 260 if y <= 2013 else 235 if y <= 2019 else 185 if y <= 2021 else 210   # incluidas las de reserva; si la portada lo dice, manda la portada (anunciadas)
 UA = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36'}
+ORIG = {}   # fichero local de la cosecha → enlace de origen (para origen.txt)
 cj = http.cookiejar.CookieJar(); OP = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
 
 
 def baja(url):
+    if url.startswith('file://'): return pathlib.Path(urllib.parse.unquote(urllib.parse.urlparse(url).path)).read_bytes()   # PDF ya bajado por la cosecha
     m = re.search(r'[?&]id=([\w-]+)', url) if 'drive.google' in url else None
     if m: url = f'https://drive.usercontent.google.com/download?id={m.group(1)}&export=download&confirm=t'
     url = urllib.parse.quote(url, safe=':/?&=%#')   # tildes en el nombre («Formación-Sanitaria-Especializada.pdf»)
@@ -66,7 +68,7 @@ def anunciadas(tx):
 
 def anio_examen(tx):
     """Año del EXAMEN según el propio cuaderno: «PRUEBAS SELECTIVAS 2012» se examinó en enero de 2013."""
-    m = re.search(r'PRUEBAS\s+SELECTIVAS\s+(20\d\d)', tx, re.I)
+    m = re.search(r'PRUEBAS\s+SELECTIVAS[^\d]{0,40}?(20\d\d)', tx, re.I)   # a veces se cuela otro campo de la portada («NÚMERO DE MESA:») antes del año
     return int(m.group(1)) + 1 if m else None
 
 
@@ -104,6 +106,12 @@ def main():
             for (y, tp), us in carpeta_drive(fid, c.get('desfase', 1) if isinstance(c, dict) else 1).items():
                 e = F.setdefault(str(y), {'cuaderno': [], 'plantilla': []}); e[tp] = us + e.get(tp, [])
         except Exception as ex: print('  Drive: error al leer la carpeta', fid, ex)
+    cp = pathlib.Path('/tmp/cosecha.json')   # candidatos de la cosecha (scripts/rfir_cosecha.py), detrás de los de cada año
+    if cp.exists():
+        C = json.loads(cp.read_text(encoding='utf-8')); ORIG.update(C.pop('_origen', {}))
+        for ys, e in C.items():
+            f = F.setdefault(ys, {'cuaderno': [], 'plantilla': []})
+            for tp in ('cuaderno', 'plantilla'): f[tp] = f.get(tp, []) + [u for u in e[tp] if u not in f.get(tp, [])]
     if '--imagenes' in sys.argv: return imagenes(F)
     resumen = []
     for ys, e in F.items():
@@ -117,7 +125,7 @@ def main():
             try:
                 b = baja(u); tx, tipo = texto_de(b, u)
                 if tipo != 'pdf': raise ValueError('no es un PDF')
-                if not re.search(r'fisica', unicodedata.normalize('NFD', tx[:1500].lower()).encode('ascii', 'ignore').decode()): raise ValueError('la portada no menciona FÍSICA')
+                if not re.search(r'fisic|radiof', unicodedata.normalize('NFD', tx[:1500].lower()).encode('ascii', 'ignore').decode()): raise ValueError('la portada no menciona FÍSICA')
                 ver = re.search(r'versi[oó]n\s*[:\-]?\s*(\d)', tx[:1500], re.I)
                 if ver and ver.group(1) != '0': raise ValueError(f'es la versión {ver.group(1)} del cuaderno y las plantillas que se cruzan son de la versión 0')
                 ya = anio_examen(tx)
@@ -127,7 +135,7 @@ def main():
                     port = re.search(r'.{0,60}preguntas.{0,60}', tx[:3000].replace('\n', ' '))
                     raise ValueError(f"solo {len(q2)} preguntas de {esp} ({nopt} opciones, última nº {max([q['n'] for q in q2] or [0])}); portada: «{port.group(0) if port else '—'}»; final: «{tx[-200:].replace(chr(10), ' / ')}»")
                 d.mkdir(parents=True, exist_ok=True); (d / 'cuaderno.pdf').write_bytes(b); (d / 'cuaderno.txt').write_text(tx, encoding='utf-8'); qs = q2
-                origen.append('cuaderno: ' + u); print(f'{y} cuaderno OK ({len(q2)} preg., {nopt} opciones) ← {u}'); break
+                origen.append('cuaderno: ' + ORIG.get(u, u)); print(f'{y} cuaderno OK ({len(q2)} preg., {nopt} opciones) ← {u}'); break
             except Exception as ex: print(f'{y} cuaderno ✕ {u}: {ex}')
         if not qs: resumen.append(f'{y}: sin cuaderno válido'); continue
         if not (d / 'plantilla.txt').exists():
@@ -138,14 +146,14 @@ def main():
                     if tipo == 'html': i = tx.lower().find('respuesta'); tx = tx[i:] if i >= 0 else tx
                     if tipo == 'pdf' and len(tx.strip()) < 200: raise ValueError('PDF escaneado sin texto: no se lee para no arriesgar respuestas mal leídas')
                     if not plantilla_del_anio(tx, y): raise ValueError('la plantilla menciona otros años')
-                    if u in usadas: raise ValueError('esta plantilla ya se usó para otro año')
+                    if ORIG.get(u, u) in usadas: raise ValueError('esta plantilla ya se usó para otro año')
                     r = M.parse_plantilla(tx, nmax, nopt)
                     cubre = sum(1 for q in qs if q['n'] in r); anul = sum(1 for q in qs if r.get(q['n']) == 0)
                     if cubre < 0.9 * len(qs): raise ValueError(f"respuestas para {cubre} de {len(qs)}; inicio del texto: «{tx[:700].replace(chr(10), ' / ')}»")
                     if anul > 15: raise ValueError(f'{anul} anuladas: la tabla no se ha leído bien (lo normal son menos de 10)')
                     (d / 'plantilla.txt').write_text(tx, encoding='utf-8')
                     if tipo == 'pdf': (d / 'plantilla.pdf').write_bytes(b)
-                    usadas.add(u); origen.append('plantilla: ' + u); print(f'{y} plantilla OK ({cubre}/{len(qs)}, anuladas {sum(1 for v in r.values() if v == 0)}) ← {u}'); break
+                    usadas.add(ORIG.get(u, u)); origen.append('plantilla: ' + ORIG.get(u, u)); print(f'{y} plantilla OK ({cubre}/{len(qs)}, anuladas {sum(1 for v in r.values() if v == 0)}) ← {u}'); break
                 except Exception as ex: print(f'{y} plantilla ✕ {u}: {ex}')
         if origen:   # se añade a lo que ya hubiera (el cuaderno puede venir de una ejecución anterior)
             prev = [l for l in ((d / 'origen.txt').read_text(encoding='utf-8').splitlines() if (d / 'origen.txt').exists() else []) if l.startswith(('cuaderno: ', 'plantilla: '))]

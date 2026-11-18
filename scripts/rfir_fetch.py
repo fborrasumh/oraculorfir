@@ -196,7 +196,7 @@ def _es_cuaderno_titulacion(pdf):
         tx = (d.pages[0].extract_text() or '').lower()
     import unicodedata
     tx = unicodedata.normalize('NFD', tx).encode('ascii', 'ignore').decode()
-    return bool(re.search(r'fisica', tx[:800]))
+    return bool(re.search(r'fisic|radiof', tx[:800]))
 
 
 def api(titulacion=None, imagenes=False):
