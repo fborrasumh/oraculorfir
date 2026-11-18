@@ -1,6 +1,6 @@
 # Informe de extracción · OráculoRFIR
 
-Generado: 2026-11-18T11:06:40+00:00
+Generado: 2026-11-18T11:23:18+00:00
 
 | Año | Preguntas | Opciones | Con respuesta | Anuladas | Cotejo con lo publicado | Estado |
 |---|---|---|---|---|---|---|
@@ -30,6 +30,6 @@ Generado: 2026-11-18T11:06:40+00:00
 | 2025 | 210 | 4 | 209 | 1 | — | ✓ |
 | 2026 | 210 | 4 | 203 | 7 | — | ✓ |
 
-Preguntas totales: 5922 · clasificadas con IA: 5847 · sin clasificar: 12 (0%)
+Preguntas totales: 5922 · clasificadas con IA: 5922 · sin clasificar: 0 (0%)
 
 Revisa a mano al menos 20 preguntas por año contra el PDF antes de fiarte de los datos.
