@@ -91,7 +91,6 @@ agua?:
 2. L/2.
 3. 2L/3.
 4. L.
-Pagina: 1
 8. Un asteroide se dirige hacia la Tierra desde una
 gran distancia con velocidad v y parámetro de
 impacto d. Si M y R son la masa y el radio de la
@@ -150,7 +149,6 @@ el centro de masas es 𝟐 𝒎𝑹𝟐)
 4. 2.50 cm.
 )03/3--0-SOCISIF
 OIDAR--(
-1 de 28
 13. Tres partículas de masas 𝒎 ,𝒎 ,𝒎 , con 𝒎 (cid:13)
 𝟏 𝟐 𝟑 𝟏
 𝒎 (cid:13)𝒎 , se col ocan verticalmente, cada una
@@ -214,7 +212,6 @@ plano inclinado vale:
 (cid:6)
 4. (cid:14)(cid:3)(cid:14)(cid:26)(cid:23)(cid:25).
 (cid:6) (cid:27)
-Pagina: 2
 18. Con las apropiadas condiciones iniciales, según
 el teorema de Bertrand una partícula material
 sometida a un c ampo de fuerzas central puede
@@ -262,7 +259,6 @@ tren sobre los raíles:
 4. 2812 N hacia el oeste.
 )03/4--0-SOCISIF
 OIDAR--(
-2 de 28
 22. Una barra rígida de masa 𝑴 y longitud 𝒍 gira en
 torno a un eje perpendicular a la misma que pasa
 por su centro. En sus extremos se unen dos masas
@@ -325,7 +321,6 @@ dura de radio R es constante. Su valor es:
 2. 𝑅(cid:1)/2.
 3. 𝑅(cid:1).
 4. 𝜋𝑅(cid:1).
-Pagina: 3
 27. Una cuerda de banjo de 30 cm de longitud oscila
 en un patrón de onda estacionaria. Resuena en
 su segundo armónico a 512 Hz. ¿Cuál es la ten-
@@ -376,17 +371,16 @@ denada vertical del alambre se expres a como
 𝟖𝒂
 medida desde el ápice, pudiendo tomar valores
 negativos) :
-1. 2𝜋(cid:3)(cid:1)(cid:33).
+1. 2𝜋(cid:3) (cid:1)(cid:33).
 (cid:23)
-2. 2𝜋(cid:3)(cid:32)(cid:33).
+2. 2𝜋(cid:3) (cid:32)(cid:33).
 (cid:23)
-3. 2𝜋(cid:3)(cid:15)(cid:33).
+3. 2𝜋(cid:3) (cid:15)(cid:33).
 (cid:23)
-4. 2𝜋(cid:3)(cid:33).
+4. 2𝜋(cid:3) (cid:33).
 (cid:23)
 )03/5--0-SOCISIF
 OIDAR--(
-3 de 28
 32. Considere un modelo idealizado en el que un pá-
 jaro (fuente puntual) emite una potencia sonora
 constante. ¿Cuántos decibelios bajará el nivel de
@@ -434,7 +428,6 @@ en la posición.
 en la posición.
 4. De segundo orden en el tiempo y en la posi-
 ción.
-Pagina: 4
 37. Un gas ideal monoatómico cambia desde el es-
 tado inicial (P, V, T, n) al estado final (P, V ,T
 i i i i f f f
@@ -480,8 +473,8 @@ metro se encuentra en la división +70?:
 3. 66.7 ºC.
 4. 73.5 ºC.
 41. Indicar el valor del coeficiente de expansión
-adiabática
-(cid:29)𝛄(cid:17)𝑪𝒑(cid:31)
+adiabática (cid:29)𝛄(cid:17)
+𝑪𝒑(cid:31)
 de un gas ideal diatómico:
 𝑪𝑽
 1. 3/5.
@@ -500,7 +493,6 @@ sibilidad isotérmica?:
 (cid:38)(cid:36) (cid:34)(cid:36) (cid:35)
 )03/6--0-SOCISIF
 OIDAR--(
-4 de 28
 43. En el contexto de la termodinámica, la ecuación
 fundamental en la representación energética de
 un sistema hidrostático cerrado es:
@@ -551,9 +543,8 @@ kJ/mol):
 2. 121 ºC.
 3. 116 ºC.
 4. 100 ºC.
-Pagina: 5
-49. Disponemos de resistencias de 120  y necesita-
-mos una equivalente de 80 . ¿Cuál es el mínimo
+49. Disponemos de resistencias de 120 Ω y necesita-
+mos una equivalente de 80 Ω. ¿Cuál es el mínimo
 número de resistencias que hemos de combinar
 para lograrlo?:
 1. 2.
@@ -604,7 +595,6 @@ vacío. ¿Qué valor tendrá la velocidad de fase?:
 4. c/√2.
 )03/7--0-SOCISIF
 OIDAR--(
-5 de 28
 54. La resistencia de un alambre de cobre es 1.05 Ω
 a 20 ℃. Las resistencias en Ω a 0º C y a 100º C
 serán, respec tivamente (Dato: coe ficiente de
@@ -653,7 +643,6 @@ y la permitividad eléctrica ε del medio es:
 2. g/ε.
 3. gε.
 4. 1/(gε).
-Pagina: 6
 59. Dos cargas puntuales de 7 nC y -3 nC están si-
 tuadas en los puntos (0,3) y (0,4) respectivamente
 (unidades en mm). ¿Cuánto vale el módulo del
@@ -708,14 +697,13 @@ nito uniformemente cargado:
 4. Es infinito.
 )03/8--0-SOCISIF
 OIDAR--(
-6 de 28
 64. Una batería con fuerza e lectromotriz de 60
 V está conectada a un circuito con dos resis-
-tencias en serie R = 80  y R = 30  . Se
+tencias en serie R = 80 Ω y R = 30 Ω . Se
 1 2
 mide la diferencia de potencial en R con un
 1
-voltímetro de 150  de resistencia interna.
+voltímetro de 150 Ω de resistencia interna.
 La lectura obtenida en voltios es aproxima-
 damente:
 1. 28.
@@ -764,7 +752,6 @@ deradas planas.
 4. Las dimensiones de la abertura son pequeñas
 en comparación con la distancia de observa-
 ción.
-Pagina: 7
 69. En el experimento de Young, un haz láser de lon-
 gitud de onda λ incide en dos rendijas muy estre-
 chas separadas por una distancia a, que consti-
@@ -820,7 +807,6 @@ ción 0.22 dB/km?:
 4. 50.
 )03/9--0-SOCISIF
 OIDAR--(
-7 de 28
 75. Consideremos una lente delgada convergente de
 distancia focal imagen f. La distancia mínima,
 medida a lo largo del e je de revolución de la
@@ -879,7 +865,6 @@ esta matriz densidad describa un estado puro?:
 1 1
 4. 𝛼(cid:17) (cid:50) , 𝛽(cid:17) (cid:50) , 𝛾(cid:17) 0.
 2 2
-Pagina: 8
 80. Sea una partícula cuántica no relativista en un
 pozo infinito de potencial unidimensional. Una
 de las barreras del pozo se desplaza repentina-
@@ -941,7 +926,6 @@ onda inicial es 𝝋(cid:19)𝒙,𝟎(cid:22)(cid:17)𝑨 𝒔𝒊𝒏𝟑(cid:1
 4. 𝐴(cid:17) 1.
 )03/01--0-SOCISIF
 OIDAR--(
-8 de 28
 84. El espín de un electrón viene dado en general por
 la superposición |𝛙(cid:13) (cid:17)𝛂|↑(cid:13) (cid:30) 𝛃|↓(cid:13), siendo
 𝛂(cid:17) 𝐚(cid:30)𝐢 𝐛 y 𝛃(cid:17)𝒄 (cid:30) 𝒊 𝒅 números complejos.
@@ -966,13 +950,13 @@ base ortonormal (cid:53)|𝟏(cid:13),|𝟐(cid:13)(cid:54) es (cid:29) (cid:31)
 función de onda en t=0 es |𝝍(cid:19)𝒕(cid:17)𝟎 (cid:22)(cid:13) (cid:17) 𝟑 |𝟏(cid:13)
 (cid:12) 𝒊 |𝟐(cid:13) , entonces en el tiempo 𝒕 será:
 (cid:56) (cid:56)
-1. |𝜓(cid:19)𝑡(cid:22)(cid:13) (cid:17)3e(cid:9)(cid:55) ℏ(cid:44) |1(cid:13) (cid:30) 𝑖 𝑒(cid:10)(cid:55) ℏ(cid:44)|2(cid:13)
+1. |𝜓(cid:19)𝑡(cid:22)(cid:13) (cid:17)3e(cid:9)(cid:55) ℏ (cid:44) |1(cid:13) (cid:30) 𝑖 𝑒(cid:10)(cid:55) ℏ (cid:44)|2(cid:13)
 (cid:56) (cid:56)
-2. |𝜓(cid:19)𝑡(cid:22)(cid:13) (cid:17)3𝑒(cid:9)(cid:55) ℏ(cid:44) |1(cid:13) (cid:12) 𝑖 𝑒(cid:10)(cid:55) ℏ(cid:44) |2(cid:13)
+2. |𝜓(cid:19)𝑡(cid:22)(cid:13) (cid:17)3𝑒(cid:9)(cid:55) ℏ (cid:44) |1(cid:13) (cid:12) 𝑖 𝑒(cid:10)(cid:55) ℏ (cid:44) |2(cid:13)
 (cid:56) (cid:56)
-3. |𝜓(cid:19)𝑡(cid:22)(cid:13) (cid:17)3𝑒(cid:9)(cid:55) ℏ(cid:44) |1(cid:13) (cid:12) 𝑖 𝑒(cid:9)(cid:55) ℏ(cid:44) |2(cid:13)
+3. |𝜓(cid:19)𝑡(cid:22)(cid:13) (cid:17)3𝑒(cid:9)(cid:55) ℏ (cid:44) |1(cid:13) (cid:12) 𝑖 𝑒(cid:9)(cid:55) ℏ (cid:44) |2(cid:13)
 (cid:56) (cid:56)
-4. |𝜓(cid:19)𝑡(cid:22)(cid:13) (cid:17)3𝑒(cid:10)(cid:55) ℏ(cid:44) |1(cid:13)(cid:30) 𝑖 𝑒(cid:9)(cid:55) ℏ(cid:44)|2(cid:13)
+4. |𝜓(cid:19)𝑡(cid:22)(cid:13) (cid:17)3𝑒(cid:10)(cid:55) ℏ (cid:44) |1(cid:13)(cid:30) 𝑖 𝑒(cid:9)(cid:55) ℏ (cid:44)|2(cid:13)
 87. Considere un átomo de Hidrógeno en su estado
 fundamental, en la aproximación no-relativista y
 de masa protónica infinita (es decir, el núcleo
@@ -992,14 +976,13 @@ distancia entre ellas?:
 2. Disminuye.
 3. Cambia de signo.
 4. No cambia.
-Pagina: 9
 89. En un experimento de efecto fotoeléctrico se usa
 luz monocromática y un cátodo de sodio cuy a
 función de trabajo es de 2.28 eV. Para dos longi-
-tudes de onda  y  distintas, los correspon-
+tudes de onda λ y λ distintas, los correspon-
 1 2
 dientes potenciales de frenado son 1.85 V y 0.82
-V, respectivamente. El cociente  / es:
+V, respectivamente. El cociente λ /λ es:
 1 2
 1. 2.26.
 2. 0.44.
@@ -1060,7 +1043,6 @@ guientes relaciones son ciertas?:
 4. ПpП = -p, ПSП = -S.
 )03/11--0-SOCISIF
 OIDAR--(
-9 de 28
 95. Un electrón se mueve en una trayectoria circular
 de 0.25 cm de radio en el seno de un campo mag-
 nético uniforme de 2 mT. Determinar la longitud
@@ -1105,7 +1087,6 @@ Schwarzschild de diámetro 2ꞏ1010 m:
 2. 6.7(cid:62)1036.
 3. 1.3(cid:62)1037.
 4. 2.7(cid:62) 1037.
-Pagina: 1
 101. El experimento de Pound y Rebka determinó el
 desplazamiento de la frecuencia de los fotones en
 un campo gravitatorio como test de la relativi-
@@ -1160,7 +1141,6 @@ energía es inversamente proporcional al factor
 giromagnético del protón.
 )03/21--0-SOCISIF
 OIDAR--(
-10 de 28
 106. El proceso de desintegración radiactiva denomi-
 nado conversión interna consiste en:
 1. La transferencia de energía de un estado nu-
@@ -1209,7 +1189,6 @@ de hidrógeno en su estado fundamental?:
 2. 300.
 3. 3ꞏ108.
 4. 3ꞏ1014.
-Pagina: 1
 111. Los posibles valores del momento angular total J
 que puede tener un átomo en un estado con nú-
 meros cuánticos de espín S=5/2 y orbital L=2
@@ -1231,16 +1210,20 @@ la fórmula 𝑬(cid:17) (cid:12)𝑬𝟎. ¿Cuál de las siguientes es la
 𝒏𝟐
 expresión para E ?:
 0
-1. (cid:18)(cid:29) (cid:63) (cid:31)(cid:1) .
+1. (cid:18)(cid:29) (cid:63) (cid:31) (cid:1) .
 (cid:1) (cid:32)(cid:48)(cid:44)(cid:45)ℏ
-2. (cid:18)(cid:29) (cid:63)(cid:8) (cid:31)(cid:1) .
+2. (cid:18)(cid:29) (cid:63)(cid:8) (cid:31) (cid:1) .
 (cid:1) (cid:32)(cid:48)(cid:44)(cid:45)ℏ
 3.
-(cid:14)(cid:29)(cid:18)(cid:63)(cid:8) (cid:31)(cid:1)
+(cid:14)(cid:29)(cid:18)(cid:63)(cid:8)
+(cid:31)
+(cid:1)
 .
 (cid:1) (cid:32)(cid:48)(cid:44)(cid:45)ℏ
 4.
-(cid:29)(cid:18)(cid:63)(cid:8) (cid:31)(cid:1)
+(cid:29)(cid:18)(cid:63)(cid:8)
+(cid:31)
+(cid:1)
 .
 (cid:32)(cid:48)(cid:44)(cid:45)ℏ
 114. En el interior de los átomos, la escala típica de
@@ -1272,7 +1255,6 @@ de Boltzmann, el potencial químico es:
 4. Cero.
 )03/31--0-SOCISIF
 OIDAR--(
-11 de 28
 117. Un sistema con función de partición canónica
 𝒁(cid:17) ∑ 𝒆(cid:9)𝜷𝑬𝒓, donde 𝑬 es la energía del estado r
 𝒓 𝒓
@@ -1324,7 +1306,6 @@ los materiales conductores electrónicos es:
 2. El efecto Peltier.
 3. El efecto Thomson.
 4. El efecto Seebeck.
-Pagina: 1
 123. Si asumimos que los átomos poseen forma de es-
 feras de radio R. ¿Cuál es la fracción de empa-
 quetamiento del diamante sabiendo que su es-
@@ -1388,7 +1369,6 @@ Bohr?:
 tico.
 )03/41--0-SOCISIF
 OIDAR--(
-12 de 28
 128. En algunos sólidos paramagnéticos hay una con-
 tribución a la susceptibilidad magnética que se
 llama “paramagnetismo de van Vleck”, cuya de-
@@ -1442,7 +1422,6 @@ deuterón posee una energía de enlace de:
 2. 2.22.
 3. 7.22.
 4. 8.22.
-Pagina: 1
 134. Suponga un núcleo con número másico A=125, y
 una transición entre dos estados excitados del
 mismo, cuyas energías se diferencian en 1 MeV.
@@ -1496,7 +1475,6 @@ equilibrio secular se produce siempre que:
 4. T1 >> T2.
 )03/51--0-SOCISIF
 OIDAR--(
-13 de 28
 139. Señale la afirma ción INCORRECT A relacio-
 nada con las desintegraciones α:
 1. La partículas α son núcleos de (cid:32)He con una
@@ -1552,7 +1530,6 @@ riodo de semidesintegración del 238U es:
 2. 4.5∙109 s.
 3. 4.5∙109 años.
 4. 7.3∙109 años.
-Pagina: 1
 143. E l 76Ge decae al 76Se por el siguiente modo de de-
 caimiento:
 1. Conversión electrónica.
@@ -1605,7 +1582,6 @@ b a
 X Y
 )03/61--0-SOCISIF
 OIDAR--(
-14 de 28
 148. La fisión de los núcleos de 235U ocurre de manera
 más eficiente cuando los neutrones que inciden
 sobre ellos son térmicos. Esa es la razón de que
@@ -1658,7 +1634,6 @@ alfa?:
 2. 2.
 3. 3.
 4. 4.
-Pagina: 1
 153. En 1964 Cronin y Fitch observaron violación de
 la simetría CP en la desintegración de:
 1. Mesones π.
@@ -1705,7 +1680,6 @@ dar:
 4. b y d.
 )03/71--0-SOCISIF
 OIDAR--(
-15 de 28
 159. Sean dos partículas pesadas cargadas, con masas
 M y M y cargas z y z , respectivamente. Se ve-
 1 2 1 2
@@ -1762,7 +1736,6 @@ capas atómicas para ciertos materiales.
 medio a lo largo de la traza de l a partícula
 apantalla parcialmente el campo eléctrico del
 electrón.
-Pagina: 1
 164. ¿Cuál es, aproximadamente, el alcance de una
 partícula alfa de 3 MeV en aire?:
 1. 200 cm.
@@ -1819,7 +1792,6 @@ de “Dosis Equivalente”?:
 4. Curio (Ci).
 )03/81--0-SOCISIF
 OIDAR--(
-16 de 28
 169. Un operador situado a una distancia d de una
 fuente puntual monoenergética de energía E, re-
 cibe determinada dosis absorbida durante un
@@ -1869,7 +1841,6 @@ nización rellena de gas?:
 2. 4.
 3. 7.
 4. 10.
-Pagina: 1
 174. Los espectros de altura de pulsos obtenidos en
 haces de rayos gamma con detectores de cente-
 lleo, a menudo muestran el llamado “pico de re-
@@ -1913,7 +1884,6 @@ estadística de Poisson. Su valor es del orden de:
 3. 1 para detectores de centelleo.
 4. 10 para detectores de centelleo. )03/91--0-SOCISIF
 OIDAR--(
-17 de 28
 179. Un detector de centelleo mide la radiación emi-
 tida por una fue nte monoenergética de rayos
 gamma de 2 MeV. Analizando el espectro ener-
@@ -1953,8 +1923,8 @@ ficamente para conmutación en CA.
 4. Un tipo de transistor MOSFET de rápida con-
 mutación y muy afinado para el voltaje opera-
 cional.
-182. El resultado de la integral
-(cid:42)(cid:71) 𝒆𝒊 𝒙
+182. El resultado de la integral (cid:42)
+(cid:71) 𝒆𝒊 𝒙
 𝒅𝒙 es:
 (cid:9)(cid:71)𝒙𝟐(cid:10)𝟏
 1. π.
@@ -1969,7 +1939,6 @@ cional.
 2. infinito.
 3. 1.
 4. -e/2.
-Pagina: 1
 184. En cierta ciudad, el 2% de la población tiene una
 rara condición médica. Una prueba diagnóstica
 para esta condición con una tasa de acierto del
@@ -2022,7 +1991,6 @@ ducto escalar cumple:
 4. No converge.
 )03/02--0-SOCISIF
 OIDAR--(
-18 de 28
 189. Se define la función vectorial F(x,y) en el plano
 como el gradiente del ángulo polar (coordenadas
 polares) en cada punto. Consideramos la circu-
@@ -2075,7 +2043,6 @@ alrededor de cero:
 (cid:30)(cid:79)(cid:8) (cid:30)(cid:79)(cid:80)
 (cid:30)⋯
 (cid:1)! (cid:15)!
-Pagina: 1
 195. ¿Cuál de las siguientes afirmaciones sobre la
 función arctan(x) es correcta?:
 1. Su primera derivada es una función impar.
@@ -2124,7 +2091,6 @@ cuarto de baño:
 4. 4.6ꞏ106 Pa.
 )03/12--0-SOCISIF
 OIDAR--(
-19 de 28
 201. Dada una función fuerza F(r) conservativa, se
 cumple:
 1. Existe una función U(r) t al que 𝐹(cid:19) 𝑟(cid:22)(cid:17)
@@ -2132,7 +2098,7 @@ cumple:
 2. La divergencia de F es siempre nula.
 3. La integral de F(r) a lo largo de una curva cual-
 quiera se anula.
-4. El trabajo 𝑊 (cid:17)(cid:42)(cid:1) 𝐹(cid:19)𝑟(cid:22)𝑑𝑟 es independiente
+4. El trabajo 𝑊 (cid:17)(cid:42) (cid:1) 𝐹(cid:19)𝑟(cid:22)𝑑𝑟 es independiente
 (cid:14)(cid:1) (cid:14)
 de los puntos 1 y 2.
 202. Si consideramos un sistema aislado compuesto
@@ -2170,7 +2136,6 @@ niano linealmente independientes, donde n vale:
 2. 3.
 3. 2.
 4. 1.
-Pagina: 2
 205. La Regla de Bragg proporciona una buena apro-
 ximación a la pérdida de energía de partículas
 cargadas por unidad de longitud para un com-
@@ -2230,7 +2195,6 @@ eV/K):
 4. 1.1ꞏ10-29.
 )03/22--0-SOCISIF
 OIDAR--(
-20 de 28
 209. En un detector de centello:
 1. Los picos de rayos X, de retrodispersión, de
 aniquilación y de escape son debidos al mate-
@@ -2251,25 +2215,17 @@ círculo |𝒛(cid:12)𝟐 𝒊|(cid:17)𝟒 recorrido positivamente:
 4. πi/2.
 )03/32--0-SOCISIF
 OIDAR--(
-Pagina: 21 de 28
 )03/42--0-SOCISIF
 OIDAR--(
-Pagina: 22 de 28
 )03/52--0-SOCISIF
 OIDAR--(
-Pagina: 23 de 28
 )03/62--0-SOCISIF
 OIDAR--(
-Pagina: 24 de 28
 )03/72--0-SOCISIF
 OIDAR--(
-Pagina: 25 de 28
 )03/82--0-SOCISIF
 OIDAR--(
-Pagina: 26 de 28
 )03/92--0-SOCISIF
 OIDAR--(
-Pagina: 27 de 28
 )03/03--0-SOCISIF
 OIDAR--(
-Pagina: 28 de 28

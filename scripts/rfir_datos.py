@@ -23,7 +23,7 @@ def norm(s):
 
 
 # ── 1 · cuaderno ───────────────────────────────────────────────────────────────────────────────
-RUIDO = re.compile(r'^\s*(-?\s*\d+\s*-|\d+\s*/\s*\d+|p[aá]gina\s*:?(\s*\d+.*)?|\d+\s+de\s+\d+|\)\d+/\d+-+\d+-+\w+-+\(|\(-+\w+-+\d+-+\d+/\d+\(|versi[oó]n\s*:?\s*\d+.*|rfir\s*20\d\d.*|radiof[ií]sica\s*$|f[ií]sica\s*$|f[ií]sicos\s*$|cuaderno de examen.*|ministerio de sanidad.*|pruebas selectivas.*)\s*$', re.I)
+RUIDO = re.compile(r'^\s*(-?\s*\d+\s*-|\d+\s*/\s*\d+|p[aá]gina\s*:?(\s*\d+.*)?|\d+\s+de\s+\d+|:\s*\d+\s+de\s+\d+|\)\d+/\d+-+\d+-+\w+-+\(|\(-+\w+-+\d+-+\d+/\d+\(|versi[oó]n\s*:?\s*\d+.*|rfir\s*20\d\d.*|radiof[ií]sica\s*$|f[ií]sica\s*$|f[ií]sicos\s*$|cuaderno de examen.*|ministerio de sanidad.*|pruebas selectivas.*)\s*$', re.I)
 NUM = re.compile(r'^\s*(\d{1,3})\s*[.)]\s*(.*)$')
 
 
@@ -34,11 +34,24 @@ def limpia_lineas(texto):
     return [l.rstrip() for l in texto.replace('\r', '').split('\n') if l.strip() and not RUIDO.match(l)]
 
 
+def _contiene(largo, corto):
+    """¿Están las cifras de «corto» en orden dentro de «largo», con una o dos de más?"""
+    if not 0 < len(largo) - len(corto) <= 2: return False
+    it = iter(largo); return all(c in it for c in corto)
+
+
+SIMBOLO = {**{0xF000 + ord(c): c for c in '0123456789.,()+=*/:;<>[] '},   # fuente Symbol: cifras y signos en el área privada (el resto, p. ej. flechas, se deja)
+           **{0xF000 + ord(a): g for a, g in zip('abgdezhqiklmnxprstufcywABGDEZHQIKLMNXPRSTUFCYW', 'αβγδεζηθικλμνξπρστυφχψωΑΒΓΔΕΖΗΘΙΚΛΜΝΞΠΡΣΤΥΦΧΨΩ')}}
+
+
 def parse_cuaderno(texto, nopt):
     """Máquina de estados: pregunta q → enunciado → opciones 1..nopt → pregunta q+1.
     Un número de línea es opción si es la siguiente opción esperada; es pregunta nueva si es q+1 y ya están todas las opciones."""
     qs, cur, campo = [], None, None
     for l in limpia_lineas(texto):
+        m4 = re.match(r'^\s*(\d{4,5})(?=\s*[.)])', l)
+        if m4 and cur is not None and len(cur['opciones']) == nopt and _contiene(m4.group(1), str(cur['n'] + 1)):
+            l = str(cur['n'] + 1) + l[m4.end():]   # «1317.» → «137.»
         m = NUM.match(l)
         if not m and cur is not None and len(cur['opciones']) == nopt:   # errata del PDF: «165 La terapia…» sin punto
             m2 = SIN_PUNTO.match(l)
@@ -48,6 +61,10 @@ def parse_cuaderno(texto, nopt):
             sig_q = (qs[-1]['n'] + 1 if qs else 1) if cur is None else cur['n'] + 1
             if cur is not None and len(cur['opciones']) < nopt and n == len(cur['opciones']) + 1 and campo is not None:
                 cur['opciones'].append(resto); campo = 'opcion'; continue
+            if n != sig_q and cur is not None and len(cur['opciones']) == nopt and _contiene(str(n), str(sig_q)):
+                n = sig_q   # número impreso dos veces con desplazamiento («1317.» por «137.»)
+            if n == sig_q and cur is not None and nopt < n and len(cur['opciones']) < nopt and len(resto) > 15 and campo == 'opcion':
+                qs.append(cur); cur = None   # la anterior no tiene sus opciones numeradas (fórmulas dibujadas): se descarta y se sigue
             if n == sig_q and (cur is None or len(cur['opciones']) == nopt):
                 if cur is not None: qs.append(cur)
                 cur = {'n': n, 'enunciado': resto, 'opciones': []}; campo = 'enunciado'; continue
@@ -58,7 +75,7 @@ def parse_cuaderno(texto, nopt):
     une = lambda x: re.sub(r'(\w)- (?=[a-záéíóúñü])', r'\1', re.sub(r'\s+', ' ', x)).strip()   # «alér- gica» → «alérgica» (guion de fin de línea)
     for q in qs:
         q['enunciado'] = une(q['enunciado'])
-        q['opciones'] = [une(o) for o in q['opciones']]
+        q['opciones'] = [re.sub(r'\s+-(\s*\d{1,3})?(\s*-)?$', '', une(o)) for o in q['opciones']]   # pie de página «- 3 -» pegado a la última opción
         q['imagen'] = bool(re.search(r'\bimagen(?:es)?\s*(?:n\s*[ºo°.]*\s*)?\d', q['enunciado'], re.I))   # solo «imagen nº 3»: «imagen corporal» o «la figura de Nightingale» no llevan imagen
     return [q for q in qs if len(q['opciones']) == nopt]
 
@@ -166,8 +183,30 @@ def _dos_columnas(pg):
     """¿Página maquetada a dos columnas? Casi ninguna palabra cruza el centro y las dos mitades tienen texto."""
     ws = pg.extract_words(); mid = pg.width / 2
     if len(ws) < 40: return False
+    ws = [w for w in ws if sum(c.isalpha() for c in w['text']) >= 3] or ws   # sin las letras sueltas de estructuras y fórmulas dibujadas
+    if len(ws) < 30: return False
     cruza = sum(1 for w in ws if w['x0'] < mid < w['x1']); izq = sum(1 for w in ws if w['x1'] <= mid)
-    return cruza / len(ws) < 0.02 and 0.2 < izq / len(ws) < 0.8
+    r = izq / len(ws)
+    return cruza / len(ws) < 0.02 and (0.2 < r < 0.8 or (cruza == 0 and 0.05 < r < 0.95))   # una columna casi vacía (estructuras o figuras dibujadas) sigue siendo dos columnas
+
+
+def _medianil(pg):
+    """Dónde partir una página a dos columnas: el hueco vertical sin letras más cercano al centro (sin contar cabecera ni pie,
+    que suelen ir centrados). Los números de pregunta de la columna derecha a veces asoman a la izquierda de la mitad exacta."""
+    w, h = pg.width, pg.height; ocup = [0] * (int(w) + 2)
+    for c in pg.chars:
+        if c['text'].strip() and 0.07 * h < c['top'] < 0.93 * h:
+            for x in range(max(0, int(c['x0'])), min(len(ocup), int(c['x1']) + 1)): ocup[x] += 1
+    libres = [x for x in range(int(w * 0.38), int(w * 0.62)) if ocup[x] == 0]
+    tramos, ini = [], None
+    for a, b in zip(libres, libres[1:] + [None]):
+        ini = a if ini is None else ini
+        if b != a + 1:
+            if a - ini >= 3: tramos.append((ini, a))
+            ini = None
+    if not tramos: return w / 2
+    i, f = min(tramos, key=lambda t: (0 if t[0] <= w / 2 <= t[1] else min(abs(t[0] - w / 2), abs(t[1] - w / 2)), -(t[1] - t[0])))
+    return (i + f) / 2
 
 
 def texto_pdf(p, columnas=True):
@@ -177,11 +216,15 @@ def texto_pdf(p, columnas=True):
     out = []
     with pdfplumber.open(p) as pdf:
         for pg in pdf.pages:
+            pg = pg.dedupe_chars()   # caracteres impresos dos veces con un leve desplazamiento («1317..» en vez de «137.»)
+            pies = [round(w['top']) for w in pg.extract_words() if w['top'] > 0.85 * pg.height and re.match(r'p[aá]gina', w['text'], re.I)]
+            if pies:   # pie «Página: 3 de 20» centrado: al partir la página quedaría «Págin» en una columna y «a: 3 de 20» en la otra
+                pg = pg.filter(lambda o: not (o.get('object_type') == 'char' and any(abs(o['top'] - t) < 3 for t in pies)))
             if columnas and _dos_columnas(pg):
-                w, h = pg.width, pg.height
-                out += [pg.crop((0, 0, w / 2, h)).extract_text() or '', pg.crop((w / 2, 0, w, h)).extract_text() or '']
+                w, h = pg.width, pg.height; x = _medianil(pg)
+                out += [pg.crop((0, 0, x, h)).extract_text() or '', pg.crop((x, 0, w, h)).extract_text() or '']
             else: out.append(pg.extract_text() or '')
-    return '\n'.join(out)
+    return '\n'.join(out).translate(SIMBOLO)
 
 
 def procesa_anio(anio, d):
@@ -216,6 +259,7 @@ def procesa_anio(anio, d):
             if mi and (OUT / 'img' / str(anio) / f'{int(mi.group(1))}.jpg').exists(): img = f'data/img/{anio}/{int(mi.group(1))}.jpg'
         if (OUT / 'img' / str(anio) / f"q{q['n']}.jpg").exists():   # estructura o figura dibujada dentro del cuaderno (scripts/rfir_figuras.py)
             img = f"data/img/{anio}/q{q['n']}.jpg"; q['imagen'] = True
+        if any(not o.strip() for o in q['opciones']): q['imagen'] = True   # opciones dibujadas (estructuras, fórmulas): fuera de los simulacros salvo que haya figura
         out.append({'id': f"{anio}-{q['n']:03d}", 'anio': anio, 'n': q['n'], 'enunciado': q['enunciado'], 'opciones': q['opciones'],
                     'correcta': r if r else None, 'anulada': r == 0, 'imagen': q['imagen'], 'fuente': fuente, **({'img': img} if img else {})})
     inf['ok'] = True

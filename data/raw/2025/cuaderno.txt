@@ -93,7 +93,6 @@ nal?:
 2. Amperio.
 3. Ohmio.
 4. Culombio.
-Página:
 7. Un cañón lanza proyectiles con una velocidad
 de módulo constante v . Se escoge un ángulo α
 0
@@ -148,7 +147,6 @@ la masa 𝐦 es:
 2. 3.
 3. 4.
 4. 5.
-1 de 22
 11. El 14 de octubre de 2012 Felix Baumgartner (70
 kg) batió el récord de altura en caída libre al
 lanzarse desde un globo aerostático a una altura
@@ -162,7 +160,7 @@ zada la velocidad límite?:
 3. 1315 kW.
 4. 2607 kW.
 12. Un campo vectorial de fuerzas tiene la forma
-eˆ kt r , donde r es la distancia al centro de
+eˆ k(t) r , donde r es la distancia al centro de
 r
 fuerzas, eˆ el versor radial y k(t) una función
 r
@@ -198,7 +196,6 @@ una eficiencia total del 15%:
 2. 0.56 MW.
 3. 0.78 MW.
 4. 1.10 MW.
-Página:
 15. Suponga que alguien deja caer una roca por un
 acantilado de altura h. Mientras cae, se toma un
 millón de fotografías en instantes de tiempo
@@ -251,7 +248,6 @@ es mayor que 2300.
 3. La razón entre la longitud total de la tubería y
 su diámetro es mayor que 1.
 4. El flujo inicia la transición a turbulento.
-2 de 22
 20. Dos aviones están situados en la misma vertical
 volando horizontalmente, siendo la altura sobre
 el suelo de uno de ellos el doble que la del otro.
@@ -266,9 +262,9 @@ bajo?:
 21. Indique cuál es la expresión correcta de la ecua-
 ción fundamental de la estática de fluidos (sien-
 do f la fuerza externa por unidad de masa, p la
-presión y  la densidad):
-1. dp =  f dV.
-2. p =  div f.
+presión y ρ la densidad):
+1. dp = ρ f dV.
+2. p = ρ div f.
 1
 3. f = grad p.
 𝜌
@@ -300,7 +296,6 @@ cae el otro fragmento en el plano horizontal?:
 2. 2 D.
 3. 3 D.
 4. 4 D.
-Página:
 24. Un anillo tiene ensartada una cuenta que puede
 deslizarse. El anillo gira alrededor de un diáme-
 tro vertical con velocidad angular ω constante.
@@ -321,20 +316,28 @@ en el sentido negativo del eje OX y otra en el
 sentido positivo del eje OY. ¿En qué punto (x,y)
 del plano la velocidad de la partícula es míni-
 ma?:
-1.
-(𝑣02 ,𝑣02
+1. (
+𝑣0 2
+,
+𝑣0 2
 ).
 8𝑎 4𝑎
-2.
-(𝑣02 ,3𝑣02
+2. (
+𝑣0 2
+,
+3𝑣0 2
 ).
 8𝑎 8𝑎
-3.
-(3𝑣02 ,𝑣02
+3. (
+3𝑣0 2
+,
+𝑣0 2
 ).
 8𝑎 8𝑎
-4.
-(𝑣02 ,𝑣02
+4. (
+𝑣0 2
+,
+𝑣0 2
 ).
 4𝑎 8𝑎
 26. ¿Qué representa el área bajo la curva en un
@@ -356,7 +359,6 @@ inercia.
 inercia.
 4. Directamente proporcional a la raíz cuadrada
 del momento de inercia.
-3 de 22
 28. En un lago se produce un sonido debajo del
 agua que se propaga hacia la superficie trans-
 mitiéndose, en parte, al aire. La velocidad del
@@ -402,7 +404,6 @@ te?:
 2. 70.
 3. 100.
 4. 120.
-Página:
 32. Un tren de ondas mecánicas planas, transversa-
 les y longitudinales, incide perpendicularmente
 en las siguientes fronteras entre materiales:
@@ -463,7 +464,6 @@ donde n es un número:
 2. Natural.
 3. Par positivo.
 4. Impar positivo.
-4 de 22
 36. El tiempo de reverberación es el tiempo que
 transcurre desde que cesa la emisión sonora de
 la fuente hasta que la densidad de energía acús-
@@ -517,14 +517,13 @@ C.
 cer los datos numéricos.
 40. Un motor funciona con un gas comprimido a 2
 atm y 100 ºC. La transformación obedece a la
-ley pV=cte. Tras la expansión, el gas sale del
+ley pVγ=cte. Tras la expansión, el gas sale del
 motor a 0.5 atm de presión y -50 ºC de tempera-
-tura. Calcular :
+tura. Calcular γ:
 1. 1.59.
 2. 0.63.
 3. 2.
 4. 0.5.
-Página:
 41. Indique la afirmación correcta sobre el ciclo
 termodinámico de Stirling:
 1. Consta de 4 procesos internamente reversibles
@@ -577,7 +576,6 @@ ra?:
 𝑇
 3. 𝑣 ∝𝑇4.
 4. 𝑣 ∝√𝑇.
-5 de 22
 47. Siempre que un líquido está en equilibrio con su
 vapor se cumple que se igualan los valores espe-
 cíficos de sus:
@@ -633,7 +631,6 @@ alto.
 3. El color rojizo del cielo en la puesta de sol.
 4. La facilidad con que pueden producirse que-
 maduras solares al mediodía en verano.
-Página:
 52. Tenemos dos células, que etiquetamos A y B. La
 membrana de la célula tipo A tiene un grosor de
 8 nm y la de tipo B de 12 nm. La diferencia de
@@ -653,7 +650,7 @@ A B A B
 A B A B
 53. Se tiene un campo de inducción magnética uni-
 forme cuyas componentes vectoriales son
-(0,0,B), expresado en coordenadas cartesianas
+(0, 0, B), expresado en coordenadas cartesianas
 (x, y, z). ¿Cuál de los siguientes vectores es un
 potencial vector de dicho campo?:
 1. (-yB/2, xB/2, 0).
@@ -681,15 +678,14 @@ S.I.?:
 corriente I. Si la espira está apoyada en el plano
 XY, ¿cuánto vale el campo magnético en el eje
 X, a distancias x muy alejadas de la espira?:
-1. 𝐵⃗ =−𝜇0𝐼 𝑎2 𝑢⃗ .
+1. 𝐵⃗ =− 𝜇0𝐼 𝑎2 𝑢⃗ .
 4 |𝑥|2 𝑥
-2. 𝐵⃗ =−𝜇0𝐼 𝑎2 𝑢⃗ .
+2. 𝐵⃗ =− 𝜇0𝐼 𝑎2 𝑢⃗ .
 4 |𝑥|3 𝑥
-3. 𝐵⃗ =−𝜇0𝐼 𝑎2 𝑢⃗ .
+3. 𝐵⃗ =− 𝜇0𝐼 𝑎2 𝑢⃗ .
 4 |𝑥|2 𝑧
-4. 𝐵⃗ =−𝜇0𝐼 𝑎2 𝑢⃗ .
+4. 𝐵⃗ =− 𝜇0𝐼 𝑎2 𝑢⃗ .
 4 |𝑥|3 𝑧
-6 de 22
 57. Dos bobinas circulares del mismo radio, con el
 eje axial común, y separadas una distancia igual
 a dicho radio, definen una configuración que se
@@ -735,7 +731,6 @@ cociente L2/L1 valdrá:
 2. 2.
 3. 1/2.
 4. 1/4.
-Página:
 61. La fem inducida en un circuito está dada por la
 ley de inducción de Faraday y es:
 1. Igual a la derivada respecto del tiempo del
@@ -787,7 +782,6 @@ pendicular al campo eléctrico cuando la partí-
 cula se encuentra en movimiento, en tanto
 que la fuerza magnética actúa en la misma di-
 rección del campo magnético.
-7 de 22
 65. Asumiendo que cada átomo de cobre aporta un
 electrón libre, la carga total debida a los elec-
 trones libres contenida en un hilo de cobre de
@@ -842,7 +836,6 @@ puntos fijos.
 3. Es una línea recta en un medio homogéneo.
 4. Se curva hacia las regiones con velocidad de
 la luz creciente en el medio.
-Página:
 70. Un objeto luminoso se encuentra delante de una
 lente delgada divergente de distancia focal f. El
 objeto está situado delante de la lente a una
@@ -853,16 +846,16 @@ objeto formada por la lente es:
 3. Real, invertida y menor.
 4. Virtual, directa y menor.
 71. La polarización ⃗𝑷⃗ de un de material dieléctrico
-sometido a un campo eléctrico 𝑬⃗⃗ está dada por
-⃗𝑷⃗ =𝜺 ( 𝝌(𝟏)𝑬⃗⃗ +𝝌(𝟐)𝑬⃗⃗ 𝑬⃗⃗ +𝝌(𝟑)𝑬⃗⃗ 𝑬⃗⃗ 𝑬⃗⃗ +⋯), sien-
+sometido a un campo eléctrico 𝑬⃗ está dada por
+⃗𝑷⃗ =𝜺 ( 𝝌(𝟏)𝑬⃗ +𝝌(𝟐)𝑬⃗ 𝑬⃗ +𝝌(𝟑)𝑬⃗ 𝑬⃗ 𝑬⃗ +⋯), sien-
 𝟎
 do 𝝌(𝒏) la susceptibilidad eléctrica de orden n
 (tensor de orden 𝒏+𝟏). Si el material es un
 vidrio entonces:
-1. (2)≠, (3)≠.
-2. (2), (3).
-3. (2)≠, (3)=.
-4. (2)=, (3)≠.
+1. χ(2) ≠ 0, χ(3) ≠ 0.
+2. χ(2) = 0, χ(3) = 0.
+3. χ(2) ≠ 0, χ(3) = 0.
+4. χ(2) = 0, χ(3) ≠ 0.
 72. Un rayo de luz incide desde aire con un ángulo
 de 35º en una capa de aceite (n=1.47) que flota
 sobre agua (n=1.33). ¿Cuál será el ángulo que el
@@ -890,22 +883,21 @@ que el sistema óptico resultante posea la misma
 focal para dos longitudes de onda 𝝀 y 𝝀 ?:
 𝟏 𝟐
 1. 𝑑 =
-2𝑓0′(𝜆1)𝑓0′(𝜆2)
+2𝑓0 ′(𝜆1)𝑓0 ′(𝜆2)
 .
-𝑓0′(𝜆2)−𝑓0′(𝜆1)
+𝑓0 ′(𝜆2)−𝑓0 ′(𝜆1)
 2. 𝑑 =
-𝑓0′(𝜆1)𝑓0′(𝜆2)
+𝑓0 ′(𝜆1)𝑓0 ′(𝜆2)
 .
-𝑓0′(𝜆2)+𝑓0′(𝜆1)
+𝑓0 ′(𝜆2)+𝑓0 ′(𝜆1)
 3. 𝑑 =
-2𝑓0′(𝜆1)𝑓0′(𝜆2)
+2𝑓0 ′(𝜆1)𝑓0 ′(𝜆2)
 .
-𝑓0′(𝜆2)+𝑓0′(𝜆1)
+𝑓0 ′(𝜆2)+𝑓0 ′(𝜆1)
 4. 𝑑 =
-2𝑓0′(𝜆1)𝑓0′(𝜆2)
+2𝑓0 ′(𝜆1)𝑓0 ′(𝜆2)
 .
-𝑓0′(𝜆1)−𝑓0′(𝜆2)
-8 de 22
+𝑓0 ′(𝜆1)−𝑓0 ′(𝜆2)
 75. Un haz láser de 7 kW se focaliza sobre un área
 de 10-9 m2. La irradiancia y la amplitud del
 campo eléctrico en el foco son:
@@ -965,9 +957,8 @@ bilidad de la posición x es:
 𝑖ħ
 3. − 𝑝 .
 𝑚 𝑥
-4. −𝑖ħ 𝑝2 .
+4. − 𝑖ħ 𝑝2 .
 𝑚 𝑥
-Página:
 81. Sea un sistema cuántico formado por una partí-
 cula de espín s=1/2 y con momento angular
 orbital l=1 y supongamos que el conjunto
@@ -977,20 +968,20 @@ observables compatibles. Además, se sabe que el
 sistema se encuentra en un estado con momento
 angular total j=1/2 y tercera componente j =1/2,
 z
-descrito por la función de onda |>. Indique
+descrito por la función de onda |Ψ>. Indique
 cuál de las siguientes afirmaciones es verdade-
 ra:
-1. |> es un autoestado de la tercera componen-
+1. |Ψ> es un autoestado de la tercera componen-
 te del momento angular orbital, con autovalor
 l=1.
 z
-2. |> es un autoestado de la tercera componen-
+2. |Ψ> es un autoestado de la tercera componen-
 te del espín, con autovalor s=1/2.
 z
 3. En dicho estado, la suma de las terceras com-
 ponentes del momento angular orbital y del
 espín debe ser igual a 1/2.
-4. |> coincide, salvo por una fase, con la fun-
+4. |Ψ> coincide, salvo por una fase, con la fun-
 ción de onda que describe al estado con mo-
 mento angular j= 1/2 y j = -1/2.
 z
@@ -1012,7 +1003,7 @@ extracción de la plata es:
 4. 7.09×10−18 J.
 84. Un átomo de hidrógeno, descrito en la aproxi-
 mación electrostática, se encuentra inicialmente
-en el estado |𝚿(𝟎)⟩=𝟏 ⁄ (|𝟐𝟎𝟎⟩+|𝟐𝟏𝟎⟩−
+en el estado |𝚿(𝟎)⟩= 𝟏 ⁄ (|𝟐𝟎𝟎⟩+|𝟐𝟏𝟎⟩−
 √𝟔
 𝟐 |𝟐𝟏𝟏⟩) donde |𝐧𝓵𝒎⟩ son los estados propios
 del hamiltoniano. ¿Cuál es la probabilidad de
@@ -1024,7 +1015,6 @@ el mismo estado?:
 2. 0.
 3. 1.
 4. 1/6.
-9 de 22
 85. Sea una partícula cuántica no relativista de
 espín cero que se mueve confinada en una di-
 mensión y cuya función de onda es un paquete
@@ -1082,7 +1072,6 @@ Indique la afirmación correcta:
 3. Se trata de un estado puro |𝜓⟩=|𝑣⟩.
 4. Se trata de un estado puro |𝜓⟩=0.92|𝑢⟩+
 0.38|𝑤⟩.
-Página: 1
 90. ¿Cuánto tardará la luz en atravesar un átomo
 de hidrógeno en su estado fundamental si se
 asume como correcto el modelo atómico de
@@ -1117,7 +1106,7 @@ angular total J2, con autovalores 𝟑 ℏ𝟐, 𝟐ℏ𝟐 y
 𝟒
 𝟑 ℏ𝟐, respectivamente. ¿Qué valor se obtendría
 𝟒
-de medir el observable 𝑳⃗⃗ ·⃗𝑺⃗ ?:
+de medir el observable 𝑳⃗ ·⃗𝑺 ?:
 1. −ℏ𝟐.
 2. 0.
 3. 𝟑 ℏ𝟐.
@@ -1133,7 +1122,6 @@ la pendiente de dicha recta?:
 2. h.
 3. e/h.
 4. h/e.
-10 de 22
 95. Un muon negativo (masa unas 207 veces mayor
 que la masa del electrón) es atrapado por un
 protón. En el modelo de Bohr el muon describe
@@ -1189,7 +1177,6 @@ no?:
 2. exp(i x /a) cos(2π x/a).
 3. sin(π x/a).
 4. exp(-(x/a)2) cos(2π x).
-Página: 1
 101. La vida media del muon es 2x10-6s. Suponga
 que el impacto de un rayo cósmico en la atmós-
 fera crea un muon a 10 km de altura con una
@@ -1203,7 +1190,7 @@ tre es:
 102. Sean A y j los cuadrivectores potencial vector y
 densidad de corriente, respectivamente, y sea
 ◻𝟐 el operador D’Alembertiano. Las ecuaciones
-◻𝟐𝑨 =−𝟒𝝅𝒋𝝁 y 𝝏𝑨𝝁 =𝟎 en el espacio y len-
+◻𝟐𝑨 =− 𝟒𝝅𝒋𝝁 y 𝝏𝑨𝝁 =𝟎 en el espacio y len-
 𝝁 𝒄 𝝏𝒙𝝁
 guaje de Minkowski satisfacen que:
 1. No son covariantes.
@@ -1244,7 +1231,6 @@ L
 L
 4. v< .
 τ
-11 de 22
 105. La estrella Gliese 832 está ubicada a 16 años luz
 de la Tierra. Supongamos que enviamos una
 nave espacial para investigar el exoplaneta
@@ -1295,7 +1281,6 @@ tres fotones.
 3. Si su espín es J=1 se realiza mediante tres
 fotones.
 4. No puede realizarse si su espín es J=0.
-Página: 1
 109. ¿Cuál de las siguientes es la configuración elec-
 trónica del Cromo (Z=24), en su estado funda-
 mental?:
@@ -1349,7 +1334,6 @@ de onda de Compton con respeto a este tama-
 2. Mayor.
 3. Un poco menor.
 4. Mucho menor.
-12 de 22
 115. La probabilidad de que una molécula de un gas
 recorra una distancia superior al recorrido
 libre medio sin interaccionar es:
@@ -1377,7 +1361,7 @@ B
 4. 161.36 k .
 B
 117. La ecuación del Teorema del Virial 𝐓̅ =
-−𝟏 ∑̅̅̅̅𝐅̅̅̅∙̅̅𝐫̅, se puede escribir para el gas ideal:
+− 𝟏 ∑̅̅̅̅𝐅̅̅̅∙̅̅𝐫̅, se puede escribir para el gas ideal:
 𝟐 𝐣 𝐣 𝐣
 3
 1. PV= Nk T.
@@ -1413,7 +1397,6 @@ pecto de la conducción eléctrica?:
 3. Es un semimetal.
 4. No podemos decir nada sin conocer con más
 detalle la estructura de bandas.
-Página: 1
 121. Se ha sintetizado una molécula con 10 centros
 de Cr(3+) en forma circular. Se considera que
 al momento magnético de cada ion contribuye
@@ -1467,7 +1450,6 @@ dad térmica y la conductividad eléctrica es:
 2. Directamente proporcional a la temperatura.
 3. Igual a la constante de Boltzmann.
 4. Inversamente proporcional a la temperatura.
-13 de 22
 126. En la fisión del 235U se liberan del orden de 200
 MeV por núcleo fisionado. Sabiendo que en el
 año 2023 el consumo eléctrico en España fue de
@@ -1531,7 +1513,6 @@ estructura fina.
 equivalente a la constante de Planck y su va-
 lor determina la escala de energía en las inter-
 acciones electromagnéticas.
-Página: 1
 130. ¿Cuál es el origen del efecto Lamb?:
 1. La interacción coulombiana entre el electrón
 y el núcleo.
@@ -1562,7 +1543,7 @@ angular total)
 1. 𝜎(𝐸)=
 𝜋
 𝑔
-𝛤𝑎𝑋2𝛤𝑏𝑌2
+𝛤𝑎𝑋 2𝛤𝑏𝑌 2
 .
 𝑘2 (𝐸−𝐸𝑅)2+𝛤2/4
 2. 𝜎(𝐸)=
@@ -1590,21 +1571,13 @@ origen y cuya solución es un potencial tipo Yu-
 −𝒎𝒄
 kawa 𝝓(𝒓)= 𝒈 exp( ℏ 𝒓) ?:
 𝟒𝝅 𝒓
-1.
-∇2𝜙(𝑟)=(𝑚𝑐 )2
-𝜙(𝑟)+𝑔𝛿(𝑟).
+1. ∇2𝜙(𝑟)=( 𝑚𝑐 ) 2 𝜙(𝑟)+𝑔𝛿(𝑟).
 ℏ
-2.
-∇2𝜙(𝑟)=−(𝑚𝑐 )2
-𝜙(𝑟)+𝑔𝛿(𝑟).
+2. ∇2𝜙(𝑟)=−( 𝑚𝑐 ) 2 𝜙(𝑟)+𝑔𝛿(𝑟).
 ℏ
-3.
-∇2𝜙(𝑟)=(𝑚𝑐 )2
-𝜙(𝑟)−𝑔𝛿(𝑟).
+3. ∇2𝜙(𝑟)=( 𝑚𝑐 ) 2 𝜙(𝑟)−𝑔𝛿(𝑟).
 ℏ
-4.
-∇2𝜙(𝑟)=−(𝑚𝑐 )2
-𝜙(𝑟)−𝑔𝛿(𝑟).
+4. ∇2𝜙(𝑟)=−( 𝑚𝑐 ) 2 𝜙(𝑟)−𝑔𝛿(𝑟).
 ℏ
 133. En cuanto a la producción de rayos X de fluo-
 rescencia y de bremsstrahlung tenemos que:
@@ -1616,7 +1589,6 @@ anisótropa y los de bremsstrahlung de manera
 isótropa.
 3. Ambos se emiten de manera isótropa.
 4. Ambos se emiten de manera anisótropa.
-14 de 22
 134. El proceso por el cual un neutrón libre se desin-
 tegra a un protón:
 1. Da lugar a la emisión de un electrón con una
@@ -1677,7 +1649,6 @@ la exposición sería, en %:
 2. 90.
 3. 95.
 4. 99.
-Página: 1
 138. Una evidencia de la violación de la paridad en
 las desintegraciones débiles es que la interac-
 ción débil:
@@ -1726,26 +1697,25 @@ variar en un rango entre 0 y 0.43 MeV.
 2. El número másico del núcleo hijo es el mismo
 que el del núcleo padre.
 3. El núcleo también puede desintegrarse me-
-diante +.
+diante β+.
 4. No es posible la emisión de rayos X ni de
 electrones Auger, ya que la desintegración
 tiene lugar al estado fundamental del núcleo
 hijo.
-15 de 22
 143. Un determinado núcleo (padre) con A=226
-sufre desintegración  a un núcleo hijo, siendo
+sufre desintegración α a un núcleo hijo, siendo
 el valor del calor de reacción para este proceso
 igual a 4.87 MeV. Se observa que se emite una
-partícula  con energía 4.79 MeV con una pro-
+partícula α con energía 4.79 MeV con una pro-
 babilidad del 94.5% y otra, con energía 4.60
 MeV, con probabilidad del 5.5%. También se
-detecta radiación  de energía igual a 0.19 MeV,
+detecta radiación γ de energía igual a 0.19 MeV,
 con una probabilidad del 3.3%. Se puede en-
 tonces afirmar que:
-1. La desintegración  más probable tiene lugar
+1. La desintegración α más probable tiene lugar
 a un estado excitado del núcleo hijo.
 2. El número másico del núcleo hijo es A=224.
-3. La desintegración  menos probable tiene
+3. La desintegración α menos probable tiene
 lugar a un estado excitado del núcleo hijo.
 4. La probabilidad de que se emitan electrones
 por conversión interna es nula.
@@ -1786,7 +1756,6 @@ correcta para una desintegración β ?:
 0 1 −1
 4. 1𝑝→ 1𝑛+ 0𝛽+𝜈̅.
 1 0 +1
-Página: 1
 148. Una fuente de 60Co emite rayos gamma con
 energías de 1.17 y 1.33 MeV cada vez que un
 átomo decae. La fluencia de fotones por metro
@@ -1838,7 +1807,6 @@ según el modelo estándar?:
 2. 𝑝+𝑝→Σ++𝑛+K0+𝜋++𝜋0.
 3. 𝑝+𝑝→𝑝+𝑝+𝑝+ 𝑝̅.
 4. 𝑝+𝑝̅→𝜋++𝜋0.
-16 de 22
 153. ¿Cuál de las siguientes partículas es un barión?:
 1. π+.
 2. Κ+.
@@ -1857,10 +1825,10 @@ electrón 𝒎 en el esquema de renormalización
 4. 200 𝑚 .
 𝑒
 155. Indica cuál es la afirmación correcta en relación
-con los mesones K y :
+con los mesones K y π:
 1. Su radio es el mismo.
 2. La masa de los mesones K es menor que la de
-los mesones .
+los mesones π.
 3. Son sistemas quark-antiquark.
 4. Son sistemas con número cuántico de extra-
 ñeza nulo.
@@ -1884,14 +1852,14 @@ componente del isospín, 𝑻 , y la hipercarga 𝒀.
 𝑌
 1. 𝑄 =𝑇 + .
 3 2
-2. 𝑄
-=𝑇3+𝑌.
+2. 𝑄 =
+𝑇3+𝑌.
 2
 𝑌
 3. 𝑄 =𝑇 − .
 3 2
-4. 𝑄
-=𝑇3−𝑌2.
+4. 𝑄 =
+𝑇3−𝑌2.
 2
 158. ¿Cuál es la composición de quarks del mesón
 𝑱/𝝍?:
@@ -1899,7 +1867,6 @@ componente del isospín, 𝑻 , y la hipercarga 𝒀.
 2. 𝑐𝑠̅.
 3. 𝑐̅𝑐.
 4. 𝑠̅𝑠.
-Página: 1
 159. El bosón de Higgs es una partícula:
 1. Escalar con masa superior a 1 TeV.
 2. Escalar con masa inferior a 1 TeV.
@@ -1919,15 +1886,13 @@ muon positivo (de masa m ) y un neutrino (con
 masa esencialmente nula) 𝛑+ →𝛍++𝝂. Si el
 pion está en reposo, la energía total del muon
 después del decaimiento es:
-1. 𝐸
-=𝑚π2+𝑚μ2
-𝑐2
+1. 𝐸 = 𝑚π 2+𝑚μ 2 𝑐2
 μ 2𝑚π .
 2. 𝐸 =(𝑚 +𝑚 )𝑐2.
 μ π μ
 3. 𝐸 =𝑚 𝑐2
 μ μ .
-4. 𝐸 =(𝑚π+𝑚μ) 𝑐2.
+4. 𝐸 = (𝑚π+𝑚μ) 𝑐2.
 μ 2
 162. La terna de quarks cuya carga eléctrica total
 NO es neutra es:
@@ -1955,7 +1920,6 @@ del isospín.
 3. La extrañeza, la paridad y la carga eléctrica.
 4. La paridad, la carga eléctrica y la magnitud
 del isospín.
-17 de 22
 166. Imagínese un haz de protones de 200 MeV de
 energía cinética atravesando una cuba de agua.
 Considérese la colisión inelástica de los protones
@@ -2002,7 +1966,6 @@ de helio sale dispersado con un ángulo de 120º?:
 2. 25%.
 3. 50%.
 4. 75%.
-Página: 1
 170. Un haz de protones se mueve a través de un
 material cuyo índice de refracción es 1.4. Se
 emite radiación Cherenkov con un ángulo de
@@ -2036,19 +1999,23 @@ relaciona la exposición X con Ψ?:
 (Notación: 𝑾̅̅̅ energía promedio por par de
 iones creado, K Kerma de radiación)
 r
-1. 𝑋2 =Ψ2 (𝜇 𝑒𝑛⁄𝜌)
+1. 𝑋2 =Ψ2 ( 𝜇 𝑒𝑛⁄𝜌)
 𝐸,𝑎𝑖𝑟
-(𝑒 ⁄ 𝑊̅) 𝑎𝑖𝑟.
-2. 𝑋 =Ψ
-(𝜇
-𝑒𝑛⁄𝜌)
-(𝑊̅
+( 𝑒 ⁄ 𝑊̅ )
+𝑎𝑖𝑟
+.
+2. 𝑋 =Ψ (
+𝜇
+𝑒𝑛⁄𝜌) (
+𝑊̅
 ⁄ 𝑒) .
 𝐸,𝑎𝑖𝑟 𝑎𝑖𝑟
-3. 𝑋 =Ψ (𝜇 𝑒𝑛⁄𝜌)
+3. 𝑋 =Ψ ( 𝜇 𝑒𝑛⁄𝜌)
 𝐸,𝑎𝑖𝑟
-(𝑒 ⁄ 𝑊̅) 𝑎𝑖𝑟.
-4. 𝑋 =(𝐾 𝑟) 𝑎𝑖𝑟 (𝑒 ⁄ 𝑊̅) .
+( 𝑒 ⁄ 𝑊̅ )
+𝑎𝑖𝑟
+.
+4. 𝑋 =(𝐾 𝑟 ) 𝑎𝑖𝑟 ( 𝑒 ⁄ 𝑊̅ ) .
 𝑎𝑖𝑟
 174. Cuando electrones de alta energía cinética in-
 teractúan con un material, parte de esa energía
@@ -2065,7 +2032,6 @@ o moléculas del material.
 trón hasta alcanzar un valor máximo a alrede-
 dor de 10 MeV, manteniéndose constante pa-
 ra energías mayores.
-18 de 22
 175. En la señal de salida de diferentes tipos de de-
 tectores, las diferencias en la forma del pulso
 NO sirven para discriminar:
@@ -2108,7 +2074,6 @@ con cancelación polo-cero es:
 2. 1.
 3. 1.5.
 4. 2.
-Página: 1
 179. Para acoplar la superficie de salida de un cente-
 lleador a la ventana de entrada de un fotomul-
 tiplicador se emplea una guía óptica que cambia
@@ -2163,7 +2128,6 @@ la fórmula de:
 2. Maier y Nitschke.
 3. Clark.
 4. Birks.
-19 de 22
 182. Uno de los dispositivos más utilizados para la
 detección de neutrones lentos es el detector
 proporcional de BF . Se basa en la reacción
@@ -2228,7 +2192,6 @@ co de 1 kV/cm?:
 2. 240 A/m2.
 3. 240 A/cm2.
 4. 2.40 A/cm2.
-Página: 2
 185. En una unión p-n convencional, la concentra-
 ción de portadores se comporta de acuerdo con
 las características del régimen:
@@ -2272,7 +2235,6 @@ que se haya realizado en el primer equipo?:
 2. 2/7.
 3. 3/7.
 4. 4/7.
-20 de 22
 190. Un cubo de hielo de 10 cm3 de volumen comien-
 za a derretirse sin cambiar su forma a razón de
 6 cm3/s, ¿cuál es la razón de cambio de la super-
@@ -2314,7 +2276,7 @@ tes durante una hora particular?:
 2. 0.1277.
 3. 0.1479.
 4. 0.1842.
-194. 𝐜𝐨𝐬(𝒙−𝝅 )
+194. 𝐜𝐨𝐬(𝒙− 𝝅 )
 Calcule el siguiente límite 𝐥𝐢𝐦 𝟐 :
 𝒙→𝟎 𝒙
 1. 0.
@@ -2322,8 +2284,8 @@ Calcule el siguiente límite 𝐥𝐢𝐦 𝟐 :
 3. π/2.
 4. π.
 195.
-La integral
-∫𝝅
+La integral ∫
+𝝅
 𝟑 𝒙𝟐𝟎𝟐𝟒𝐬𝐢𝐧(
 𝒙𝟑
 )𝒅𝒙 tiene como
@@ -2335,7 +2297,6 @@ resultado:
 2. 1.4142.
 3. 2.7172.
 4. 3.1416.
-Página: 2
 196.
 El valor de la integral indefinida ∫√𝒙√𝒙√𝒙 𝒅𝒙
 es:
@@ -2369,7 +2330,7 @@ f(z) debe de ser una constante.
 2. cos 3α = cos3α – 3 cos α sen2α.
 3. cos 3α = 3 cos3α – cos α sen2α.
 4. cos 3α = cos3α – cos α sen2α.
-199. Sean R>0 e 𝑰(𝑹)= ∮𝒅𝒛 la integral de 1/z2 a lo
+199. Sean R>0 e 𝑰(𝑹)= ∮ 𝒅𝒛 la integral de 1/z2 a lo
 𝒛𝟐
 largo de la circunferencia en el plano complejo
 de radio R centrada en el origen. El límite de
@@ -2385,7 +2346,6 @@ palabra es de 16 bits?:
 2. 16 kilobits.
 3. 8 kilobytes.
 4. 4 kilobytes.
-21 de 22
 201. Sean p y q coordenadas canónicas conjugadas
 de un sistema mecánico de dos grados de liber-
 tad. ¿Cuál de las siguientes transformaciones es
@@ -2424,11 +2384,15 @@ son despreciables)
 campos eléctricos.
 1
 3. ∆𝑉 =2𝛾∆𝑉, con 𝛾 = .
-1 √1−𝑣2
+1
+√1−
+𝑣2
 𝑐2
 1 1
 4. ∆𝑉 = ∆𝑉 , con 𝛾 = .
-2𝛾 1 √1−𝑣2
+2𝛾 1
+√1−
+𝑣2
 𝑐2
 204. Un rayo incide desde un medio de índice de
 refracción 1.1 sobre un líquido. Si el ángulo de
@@ -2449,7 +2413,6 @@ so?:
 2. 2p,3p.
 3. 1s,2s,3s.
 4. 1s,2s,3s,3d.
-Página: 2
 206. El 64Cu es un núcleo que puede decaer mediante
 desintegración β- o β+. La energía cinética me-
 dia de la partícula β liberada es:
@@ -2494,7 +2457,6 @@ la probabilidad de que sea la primera?:
 2. 0.2728.
 3. 0.32.
 4. 0.375.
-22 de 22
 
 
 

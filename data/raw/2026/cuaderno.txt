@@ -106,7 +106,7 @@ rra?:
 3. 0.98 m/s2.
 4. 0.9604 m/s2.
 10. Da1do un sistema con una coordenada generali-
-za2da q, cuyo lagrangiano es: 𝑳(𝒒,𝒒̇,𝒕)=𝟏 𝜶𝒒̇𝟐+
+za2da q, cuyo lagrangiano es: 𝑳(𝒒,𝒒̇,𝒕)= 𝟏 𝜶𝒒̇𝟐+
 . 𝟐
 𝜷𝒒̇ −𝑽(𝒒,𝒕). ¿Cuál es el momento generalizado
 p asociado a la coordenada generalizada q?:
@@ -127,8 +127,10 @@ se expresa la lagrangiana?:
 1. L=T-V, con T energía cinética y V energía po-
 tencial.
 2. L=rmv, con r posición, m masa y v velocidad.
-3.
-𝐿=∫𝑏√1+(𝑑𝑦 )2
+3. 𝐿=∫
+𝑏√1+( 𝑑𝑦
+)
+2
 , con a y b los extremos de
 𝑎 𝑑𝑥
 la trayectoria.
@@ -281,8 +283,8 @@ cula incidente:
 4𝑚𝑒𝑀𝑝
 𝑇 .
 𝑒,𝑚𝑎𝑥 (𝑚𝑒+𝑀𝑝)2 𝑝
-2. 𝑇
-=𝑚𝑒𝑇
+2. 𝑇 =
+𝑚𝑒𝑇
 .
 𝑒,𝑚𝑎𝑥 𝑀𝑝 𝑝
 1
@@ -375,7 +377,7 @@ equipo fuera de especificaciones?:
 4. 30 Hz.
 31. Un4a onda viajera, 𝒈(𝒙,𝒕), se desplaza en el sen-
 tid3o positivo del eje 𝑶𝑿 con una velocidad 𝒗 =
-𝟐. m/s. Se sabe que 𝒈(𝒙,𝒕 = 𝟏)= 𝟏 .
+𝟐 . m/s. Se sabe que 𝒈(𝒙,𝒕 = 𝟏)= 𝟏 .
 𝟐 + 𝒙𝟐
 ¿Cuánto vale 𝒈(𝒙 = 𝟎,𝒕 = 𝟎)?:
 1. 1/2.
@@ -601,15 +603,15 @@ vu9eltas N está en el seno de un campo magnético
 di.r igido en la dirección del eje de la bobina. El
 campo magnético varía en el tiempo de forma si-
 nusoidal de manera que genera una fuerza elec-
-tromotriz en la bobina de valor eficaz . La
-fuerza electromotriz eficaz ’ que el mismo
+tromotriz en la bobina de valor eficaz ε. La
+fuerza electromotriz eficaz ε’ que el mismo
 campo magnético genera en una bobina de igual
 número de vueltas N que la anterior, pero con
 radio 2R es:
-1. ’=
-2. ’= 
-3. ’=2
-4. ’= 
+1. ε’=ε/2.
+2. ε’= ε.
+3. ε’=2ε.
+4. ε’= 4ε.
 54. ¿C7uál es la impedancia de un condensador en el
 an1álisis de circuitos en el dominio-s, es decir, em-
 pl.e ando la transformada de Laplace?:
@@ -729,7 +731,7 @@ energía cinética que vale:
 Q4 distribuida de manera uniforme en todo su vo-
 lu.m en. Determine el módulo del campo eléctrico
 generado por dicha esfera en un punto situado a
-una distancia r del centro de la esfera tal que r 
+una distancia r del centro de la esfera tal que r >
 R:
 1. 0.
 𝟏 𝑸𝒓
@@ -825,13 +827,13 @@ existe solución real para la ley de Snell, y toda
 la energía se refleja internamente.
 4. El rayo refractado desaparece al ser el índice
 de refracción del aire menor que el del vidrio.
-72. La9 permitividad eléctrica compleja () de un
+72. La9 permitividad eléctrica compleja ε(ω) de un
 m6aterial dieléctrico en función de la frecuencia
- . satisface:
- ()=(−)
- ()=(−)
- ()= −(−)
-4. ()= −(−)
+ω . satisface:
+1. ε(ω)=ε(−ω).
+2. ε*(ω)=ε(−ω).
+3. ε(ω)= −ε(−ω).
+4. ε*(ω)= −ε(−ω).
 73. Un9 haz de luz pasa a través de un colimador óp-
 tic7o (una rendija que define el haz) y proyecta
 un. a imagen sobre una pantalla. Si la distancia
@@ -972,19 +974,22 @@ pí7n total, S:
 84. Si1 un sistema consta de tres partículas, cada una
 de0 ellas de espín ½ y la energía del sistema es pro-
 po9rcional al cuadrado de la componente z del es-
-pí.n total, H =  (S)², las energías y degeneracio-
+pí.n total, H = α (S)², las energías y degeneracio-
 z
 nes resultantes son:
-1. 9/4 (degeneración 2) y /4 (degeneración 6).
-2. 3/2 (degeneración 2) y /2 (degeneración 6).
-3. 9/4 (degeneración 4) y /4 (degeneración 4).
-4. 9/2 (degeneración 3) y 3/2 (degeneración
+1. 9α/4 (degeneración 2) y α/4 (degeneración 6).
+2. 3α/2 (degeneración 2) y α/2 (degeneración 6).
+3. 9α/4 (degeneración 4) y α/4 (degeneración 4).
+4. 9α/2 (degeneración 3) y 3α/2 (degeneración
 5).
 85. ¿Q1ué energías forman el espectro de un rotor
 co1n simetría axial con Hamiltoniano
-𝑯0 =𝑳𝒙𝟐+𝑳𝒚𝟐
+𝑯
+0
+=
+𝑳𝒙 𝟐+𝑳𝒚 𝟐
 +
-𝑳𝒛𝟐
+𝑳𝒛 𝟐
 para un momento angular L=1,
 . 𝟐𝑰𝒙 𝟐𝑰𝒛
 I=I /2?:
@@ -1036,8 +1041,8 @@ tic1o puro. Señala la opción INCORRECTA:
 3
 1.. p2 = p.
 2. Tr(p) = 1.
-3.
-p†
+3. p
+†
 = p.
 4. p-1 = -p.
 89. Se1gún los postulados de la mecánica cuántica,
@@ -1078,23 +1083,26 @@ do1s {|𝟏⟩,|𝟐⟩,|𝟑⟩} con autoenergías {𝑬 ,𝑬 ,𝑬 },
 𝟏 𝟐 𝟑
 re6spectivamente, y Hamiltoniano, H, se encuen-
 tr.a inicialmente estado:
-|𝚿(𝟎)⟩=𝟏⁄ 𝟐 (|𝟏⟩−|𝟐⟩)+𝟏 ⁄ √𝟐|𝟑⟩ . Su estado en
+|𝚿(𝟎)⟩=𝟏⁄ 𝟐 (|𝟏⟩−|𝟐⟩)+𝟏 ⁄ √𝟐 |𝟑⟩ . Su estado en
 un instante posterior, t, es:
-1. |Ψ(𝑡)⟩=1 ⁄
-2
-(e−i𝐸 ℏ1𝑡 |1⟩− e−−i𝐸 ℏ2𝑡 |2⟩)+
-1 ⁄ e−−i𝐸 ℏ3𝑡 |3⟩.
+1. |Ψ(𝑡)⟩= 1 ⁄ 2 (e −i𝐸 ℏ 1𝑡 |1⟩− e− −i𝐸 ℏ 2𝑡 |2⟩)+
+1 ⁄ e− −i𝐸 ℏ 3𝑡 |3⟩.
 √2
-2. |Ψ(𝑡)⟩=
-e−−i𝐸 ℏ3𝑡
+2. |Ψ(𝑡)⟩= e−
+−i𝐸
+ℏ
+3𝑡
 |3⟩.
-3. |Ψ(𝑡)⟩=1 ⁄ ( 𝐸 𝑡 |1⟩−𝐸 𝑡 |2⟩)+
+3. |Ψ(𝑡)⟩= 1 ⁄ ( 𝐸 𝑡 |1⟩−𝐸 𝑡 |2⟩)+
 √2 1 2
 1 ⁄ 𝐸 𝑡 |3⟩.
 √2 3
 −i(𝐸1−𝐸3)𝑡
 4. |Ψ(𝑡)⟩=(e ℏ |1⟩−
-e−−i(𝐸2 ℏ−𝐸3)𝑡
+e−
+−i(𝐸2
+ℏ
+−𝐸3)𝑡
 |2⟩).
 92. Un1a partícula cuántica se encuentra en el estado
 no1rmalizado | 𝝍 >=√𝟑/𝟐|𝒂 > + 𝟏/𝟐 |𝒂 >,
@@ -1118,22 +1126,22 @@ espaciales compactadas.
 2. 4 dimensiones: 3 espaciales y 1 temporal.
 3. 6 dimensiones: 5 espaciales y 1 temporal.
 4. 3 dimensiones espaciales.
-94. Da1 da una función de onda de espín a corres-
+94. Da 1 da una función de onda de espín a corres-
 1
 pondiente al acoplamiento de dos electrones
 9
 para dar S =1 determinar el valor de
 . T
 a
-S 
+ρS ρ
 1
  S
 2
 a :
-1. 22.
-2.  2 .
+1. 2ρ2.
+2. ρ 2 .
 3.
-
+ρ
 4
 2
 .
@@ -1149,9 +1157,7 @@ encontramos?:
 cho de que la ecuación radial depende sólo del
 número cuántico l y no del número cuántico m.
 2. Degeneración accidental, ya que 2 autovalores
-𝐸
-𝑘,𝑙
-y 𝐸 𝑘′,𝑙′, correspondientes a dos ecuaciones
+𝐸 𝑘,𝑙 y 𝐸 𝑘′,𝑙′ , correspondientes a dos ecuaciones
 radiales diferentes 𝑙′≠𝑙 son iguales si 𝑘+𝑙 =
 𝑘′+𝑙′.
 3. No existe degeneración.
@@ -1196,7 +1202,7 @@ gar a la parte delantera del vagón?:
 3. √5/3 𝑙/𝑐.
 4. √1/2𝑙/𝑐.
 100. Su1pongamos tres sistemas de referencia O, O1 y
-O22 que se mueven en un régimen relativista coli-
+O2 que se mueven en un régimen relativista coli-
 ne6almente a lo largo de sus ejes x, de modo que
 O.1 se mueve con velocidad v respecto a O, y O2
 1
@@ -1317,7 +1323,7 @@ a8 es el radio de Bohr, tiene la forma:
 2. 𝑅 ∝𝑒−𝑟/𝑎0.
 1𝑠
 3. 𝑅
-∝𝑒−𝑟2/𝑎02
+∝𝑒−𝑟2/𝑎0 2
 .
 1𝑠
 4. 𝑅 ∝1/𝑟.
@@ -1425,11 +1431,14 @@ te7rial:
 𝟏
 fr4ecuencia 𝝎, hace que una muestra de agua ab-
 so8rba por resonancia magnética nuclear una po-
-te.
+te
+.
 n cia 𝑾 (𝝎)∝
-𝝎𝑻𝟐𝑩𝟏𝟐
+𝝎𝑻𝟐𝑩𝟏 𝟐
 , relacionada con el
-𝟐 𝟏+(𝝎𝟎−𝝎)𝟐𝑻 𝟐𝟐
+𝟐 𝟏+(𝝎𝟎−𝝎)𝟐𝑻
+𝟐
+𝟐
 tiempo de relajación transversal 𝑻 y la frecuen-
 𝟐
 cia 𝝎 de Larmor inducida por el campo magné-
@@ -1689,10 +1698,10 @@ fuera exclusivamente repulsiva.
 en7 orden CRECIENTE de masa: protón (p+),
 ne5utrón (n0), muon (µ-), Kaón neutro (K0):
 .
-1. K0, µ- , p+, n0.
-2. µ- , K0, p+, n0.
-3. µ- , p+, K0, n0.
-4. µ- , p+, n0, K0.
+1. K0, µ - , p+, n0.
+2. µ - , K0, p+, n0.
+3. µ - , p+, K0, n0.
+4. µ - , p+, n0, K0.
 141. En1 relación con la interacción fuerte y la estruc-
 tu7ra de los hadrones, señale la afirmación CO-
 RR6ECTA:
@@ -2114,13 +2123,13 @@ libres es aproximadamente igual a:
 2. La densidad de átomos donadores.
 3. La densidad de átomos aceptores.
 4. La concentración de huecos libres.
-183. Si denotamos por  al coeficiente de correlación
+183. Si denotamos por ρ al coeficiente de correlación
 de dos variables aleatorias X e Y. Entonces po-
 demos AFIRMAR que:
-1.  = 0 implica que X e Y son independientes.
-2. Si X e Y son independientes, entonces  = 0.
-3.  > 0 para todas X e Y.
-4.  > 1 implica que X e Y son proporcionales.
+1. ρ = 0 implica que X e Y son independientes.
+2. Si X e Y son independientes, entonces ρ = 0.
+3. ρ > 0 para todas X e Y.
+4. ρ > 1 implica que X e Y son proporcionales.
 184. Du rante 10 minutos se realiza una medida con
 un detector y se obtienen 2400 cuentas. En ese
 mismo intervalo de tiempo (10 minutos), se mide
@@ -2134,7 +2143,7 @@ ciada, utilizando un factor de cobertura k = 2?:
 3. 1825±93.
 4. 1825±108.
 185. La serie armónica alternada
-∑∞ (−𝟏)𝒏+𝟏 =𝟏−𝟏 +𝟏 −𝟏 +𝟏 ⋯, es un típico
+∑∞ (−𝟏)𝒏+𝟏 =𝟏− 𝟏 + 𝟏 − 𝟏 + 𝟏 ⋯, es un típico
 𝒏=𝟏 𝒏 𝟐 𝟑 𝟒 𝟓
 ejemplo de serie:
 1. Absolutamente convergente.
@@ -2298,7 +2307,7 @@ de2 1 cm de radio debido a la acción de un campo
 m.a gnético uniforme de 1 mT. ¿Cuál es su veloci-
 dad?:
 1. 1.76 m/ms.
-2. 1.76 m/s.
+2. 1.76 m/μs.
 3. 1.76 m/s.
 4. 1.76 km/s.
 205. ¿C1uál es la frecuencia de la radiación electro-

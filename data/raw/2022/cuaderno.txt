@@ -87,7 +87,7 @@ to ejercida entre el suelo y el objeto es:
 2. 0.8 N.
 3. 4.0 N.
 4. 5.9 N.
-- 1
+-
 7. Calcular el periodo de la órbita de Venus alre-
 dedor del Sol sabiendo que la distancia media
 del Sol a Venus es de 0.72 UA:
@@ -188,7 +188,7 @@ zamiento neta sobre el conjunto de sus ruedas?:
 2. 1703.5 N en el sentido del movimiento.
 3. 1703.5 N en sentido contrario al movimiento.
 4. No hay suficientes datos.
-- 2
+-
 17. Un cuerpo de masa 0.1 kg está sujeto a un mue-
 lle con cierta constante elástica. Si el muelle se
 deforma inicialmente una amplitud de 0.1 m y
@@ -301,7 +301,7 @@ LED en términos de frecuencia?:
 2. 7.5 × 1015 Hz.
 3. 16.6 THz.
 4. 0.05 MHz
-- 3
+-
 28. Dos altavoces están situados frente a frente en
 los extremos opuestos de un largo corredor y
 están conectados a una misma fuente que pro-
@@ -405,7 +405,7 @@ brio final es igual a la del estado inicial.
 final es igual a la del estado inicial.
 4. La expansión del gas es un proceso cuasiestá-
 tico.
-- 4
+-
 37. Se dispone de dos cilindros macizos de la misma
 longitud L. Uno de ellos está fabricado con el
 material “A” y el otro con el material “B”. Se
@@ -522,9 +522,9 @@ potencia radiada?:
 2. 4.
 3. 8.
 4. 16.
-- 5
+-
 47. Mediante un conjunto de resistencias iguales (R
-= 1 ) se construye una red cuadrada muy ex-
+= 1 Ω) se construye una red cuadrada muy ex-
 tensa, utilizando soldadura de resistividad des-
 preciable. Se conecta una fuente ideal de co-
 rriente de 1 A a los extremos de una de las resis-
@@ -632,20 +632,20 @@ axial, tanto en el interior como en el exterior.
 3. En el interior es axial y en el exterior acimu-
 tal.
 4. En el interior es axial y en el exterior es nulo.
-- 6
+-
 56. Se tiene una carga eléctrica puntual Q en las
 coordenadas (0, 0, R/2) y otra q en (2R, 0, 0),
 inmersas en el vacío cuya permitividad eléctrica
-es  . ¿Cuál es el flujo del campo eléctrico gene-
+es ε . ¿Cuál es el flujo del campo eléctrico gene-
 0
 rado por ambas cargas en una superficie esféri-
 ca de radio R centrada en el origen de coorde-
 nadas?:
-1. Q /  .
+1. Q / ε .
 0
-2. q /  .
+2. q / ε .
 0
-3. (Q (cid:3397) q(cid:4667) /  .
+3. (Q (cid:3397) q(cid:4667) / ε .
 0
 4. Cero.
 57. Un ion positivo se mueve en una región en la
@@ -742,21 +742,21 @@ representan:
 2. Estados paralelos de polarización elíptica.
 3. Estados paralelos de polarización circular.
 4. Estados ortogonales de polarización elíptica.
-- 7
+-
 67. Un rayo se propaga entre dos medios de índices
 de refracción n y n , incidiendo de 1 a 2 con un
 1 2
-ángulo  respecto de la normal. Si  es el ángu-
+ángulo φ respecto de la normal. Si φ es el ángu-
 c
 lo crítico, para que haya reflexión total se tiene
 que cumplir que:
-1. n >n y >
+1. n >n y φ>φ
 1 2 c .
-2. n <n y >
+2. n <n y φ>φ
 1 2 c .
-3. n >n y <
+3. n >n y φ<φ
 1 2 c .
-4. n <n y <
+4. n <n y φ<φ
 1 2 c .
 68. En relación con la representación vectorial de
 los estados de la luz, señale la opción correcta:
@@ -834,15 +834,15 @@ complejos. Se cumple que:
 2. b=ia, |f>=|2> y |g>=|1>.
 3. b=a*, |f>=|1> y |g>=|2>.
 4. b=a*, |f>=|2> y |g>=|1>.
-77. Sea (r1,r2,r3) la parte espacial de una función
+77. Sea φ(r1,r2,r3) la parte espacial de una función
 de onda de tres electrones con posiciones r1, r2
 y r3. Si la tercera componente del espín es ℏ/2
 para los tres electrones, ¿cuál de las siguientes
 igualdades es correcta?:
-1. (r3,r1,r2) = (r2,r1,r3).
-2. (r2,r1,r3) = -(r1,r3,r2).
-3. (r3,r2,r1) = (r2,r1,r3).
-4. (r1,r3,r2) = -(r3,r2,r1).
+1. φ(r3,r1,r2) = φ(r2,r1,r3).
+2. φ(r2,r1,r3) = -φ(r1,r3,r2).
+3. φ(r3,r2,r1) = φ(r2,r1,r3).
+4. φ(r1,r3,r2) = -φ(r3,r2,r1).
 78. Si una simetría global de un sistema cuántico
 descrita por el grupo O(3) está espontáneamen-
 te rota, quedando una simetría de grupo O(2),
@@ -852,7 +852,7 @@ esa ruptura de simetría es:
 2. 2.
 3. 3.
 4. 5.
-- 8
+-
 79. La dinámica de una partícula cuántica está
 descrita por el Hamiltoniano H = H + V, donde
 0
@@ -975,7 +975,7 @@ interacción entre el potencial vector asociado
 al campo magnético y el potencial vector de
 los distintos fotones, produciendo un corri-
 miento de fase en el patrón de difracción.
-- 9
+-
 88. El estado de una partícula en un potencial de
 Coulomb está descrito por la función de onda
 𝝍(cid:4666)𝒓,𝜽,𝝋(cid:4667)(cid:3404)𝑨 𝒓𝟑𝒆(cid:2879)𝒓/𝒂(cid:3427)𝒀𝟏(cid:4666)𝜽,𝝋(cid:4667)(cid:3398)𝒀(cid:2879)𝟏(cid:4666)𝜽,𝝋(cid:4667)(cid:3431),
@@ -1159,7 +1159,7 @@ ra T?:
 109. Se tiene que la frecuencia de Debye, 𝝂 , de un
 𝑫
 𝟏
-sólido es 𝝂 (cid:3404)𝒗(cid:4672)𝟑𝒏 (cid:4673)𝟑 donde 𝒏 es el número de
+sólido es 𝝂 (cid:3404)𝒗(cid:4672) 𝟑𝒏 (cid:4673)𝟑 donde 𝒏 es el número de
 𝑫
 𝟒𝝅
 átomos por unidad de volumen que contiene el
@@ -1241,7 +1241,7 @@ Josephson se genere una corriente alterna de
 frecuencia 0.483598 GHz?:
 1. 1 V.
 2. 1 mV.
-3. 1 V.
+3. 1 μV.
 4. 1 nV.
 117. En un sólido cristalino con 4 átomos en la celda
 unidad primitiva. ¿Cuántas ramas acústicas
@@ -1417,10 +1417,10 @@ talado? (Dato: T (14C)= 5730 años):
 134. Dos isótopos, A y B, del mismo elemento, tienen
 periodos de semidesintegración de 0.35 s y 69.8
 años, respectivamente. Sabiendo que ambos se
-desintegran mediante el proceso  al estado
+desintegran mediante el proceso α al estado
 fundamental del núcleo hijo correspondiente,
 ¿qué afirmación sobre los valores de la energía
-cinética de la partícula  emitida en cada caso
+cinética de la partícula α emitida en cada caso
 es válida?:
 1. La del isótopo A es mayor que la del isótopo
 B.
@@ -1440,7 +1440,7 @@ tegrado al cabo de un tiempo T/6?:
 4. 2673.
 136. Una muestra de 14C se desintegra (100%) me-
 -
-diante  al estado fundamental de núcleos de
+diante β al estado fundamental de núcleos de
 14N. En dicha desintegración se emiten:
 1. Electrones y antineutrinos, estos últimos con
 una energía cinética fija.
@@ -1791,10 +1791,10 @@ pe de rayos X que aparecen en el espectro:
 terial que recubre al detector, normalmente
 plomo.
 2. Sobresalen con más claridad cuanto mayor es
-la energía de la radiación  emitida por la
+la energía de la radiación γ emitida por la
 muestra.
 3. Solo se observan si la energía de la radiación
- emitida es mayor de 1.022 MeV.
+γ emitida es mayor de 1.022 MeV.
 4. Sobresalen con más claridad que en el espec-
 tro obtenido con un detector de silicio de las
 mismas características.
@@ -1836,7 +1836,7 @@ emitan:
 3. Electrones Auger.
 4. Rayos X, procedentes del proceso de captura
 electrónica.
-175. La reacción 10B(n,) se usa para convertir neu-
+175. La reacción 10B(n,α) se usa para convertir neu-
 trones lentos (0.025 eV) en partículas detecta-
 bles. Si el resultado de la reacción es un núcleo
 de 7Li excitado y una partícula alfa y Q = 2.31
@@ -1850,11 +1850,11 @@ de la reacción es de:
 tener los isótopos usados en tomografía por
 emisión de positrones (PET):
 -
-1. Vida media de años y desintegración .
-2. Vida media de años y desintegración +.
+1. Vida media de años y desintegración β.
+2. Vida media de años y desintegración β+.
 -
-3. Vida media de minutos y desintegración  .
-4. Vida media de minutos y desintegración +.
+3. Vida media de minutos y desintegración β .
+4. Vida media de minutos y desintegración β+.
 177. Para reducir el rizado de la onda producida a la
 salida de un puente rectificador podemos conec-
 tar:
@@ -1915,7 +1915,7 @@ números reales, representa:
 3. Una parábola centrada en (a,b).
 4. Una circunferencia centrada en (0,0).
 183. Estudie la convergencia de la serie
-∑(cid:2998) (cid:4672)𝒏(cid:2878)𝟐 (cid:4673)𝒏 , donde a > 0 es un parámetro y
+∑(cid:2998) (cid:4672) 𝒏(cid:2878)𝟐 (cid:4673) 𝒏 , donde a > 0 es un parámetro y
 𝒏(cid:2880)𝟏 𝒂 𝒏(cid:2878)𝟑
 marque la opción correcta:
 1. Si 𝑎(cid:3408)1 la serie es convergente.
@@ -1983,7 +1983,7 @@ familia de curvas ortogonal a dicha familia es:
 3. dy/dx = 1/f(x,y).
 4. dy/dx = -1/f(x,y).
 18 -
-189. Sea la integral definida (cid:1516)𝒂 𝒍𝒏𝒙 𝒅𝒙. Indique un
+189. Sea la integral definida (cid:1516) 𝒂 𝒍𝒏𝒙 𝒅𝒙. Indique un
 𝟏
 valor de “a” para que el resultado sea la uni-
 dad:
@@ -2108,10 +2108,10 @@ pequeño cambio ΔL cuando la temperatura
 varía una pequeña cantidad ΔT. ¿Cuánto vale
 el coeficiente de expansión térmica del mate-
 rial?:
-1. L/(LT).
-2. L/(LT).
-3. L/T.
-4. L/T.
+1. ΤΔL/(L ΔT).
+2. ΔL/(L ΔT).
+3. ΤΔL/ΔT.
+4. ΔL/ΔT.
 203. ¿Cuál de las siguientes expresiones de la densi-
 dad de energía de una onda electromagnética en
 el vacío es FALSA?:
@@ -2171,7 +2171,7 @@ de Ge(Li) sensible a la energía.
 4. 2754 keV, 2243 keV, 1732 keV y 1369 keV.
 209. Un contador Geiger consiste en un tubo de 1 cm
 de radio conectado a tierra (cátodo) y de un hilo
-de 80 m de radio a un potencial de 2000V
+de 80 μm de radio a un potencial de 2000V
 (ánodo). El campo eléctrico en la superficie del
 hilo anódico es:
 1. 5.2 x 106 V/m.
