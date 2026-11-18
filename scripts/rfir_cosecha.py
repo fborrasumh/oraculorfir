@@ -62,11 +62,11 @@ def baja_desde(u, pagina=None):
     if m: u = f'https://drive.google.com/uc?export=download&id={m.group(1)}'   # enlace de vista de Drive → descarga
     if 'web.archive.org' in u:   # archive.org corta conexiones si se le pide mucho seguido: reintentos con pausa
         import time
-        for k in range(5):
+        for k in range(3):
             try: return X.baja(u)
             except Exception as e:
-                if k == 4: raise
-                print(f'    archive.org: reintento {k + 1} ({e})'); time.sleep(8 * (k + 1))
+                if k == 2: raise
+                print(f'    archive.org: reintento {k + 1} ({e})'); time.sleep(6 * (k + 1))
     if not pagina: return X.baja(u)
     req = urllib.request.Request(urllib.parse.quote(u, safe=':/?&=%#'), headers={**X.UA, 'Referer': pagina})
     return X.OP.open(req, timeout=180).read()   # mismo «opener» que al visitar la página: lleva sus cookies
@@ -78,7 +78,7 @@ def wayback(patron, filtro=None):
     try: filas = json.loads(X.baja(q).decode('utf-8', 'ignore') or '[]')
     except Exception as e: print('  wayback ✕', patron, e); return []
     out = [f'https://web.archive.org/web/{f[1]}id_/{f[2]}' for f in filas[1:] if (f[2].lower().split('?')[0].endswith(('.pdf', '.zip')) or 'pdf' in f[3] or 'zip' in f[3])
-           and (not filtro or re.search(filtro, f[2], re.I))]
+           and (not filtro or re.search(filtro, urllib.parse.unquote(f[2].split('?')[0].rsplit('/', 1)[-1]), re.I))]   # el filtro mira solo el nombre del fichero
     print(f'  wayback {patron}: {len(out)} ficheros archivados' + (f' que cumplen «{filtro}»' if filtro else ''))
     return out
 

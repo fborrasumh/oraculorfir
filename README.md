@@ -25,18 +25,67 @@ Forma parte de la familia [Oráculo](https://fborrasumh.github.io/oraculo/) (MIR
 
 ## Datos
 
-Mientras no exista `data/rfir.json`, la app funciona en **modo demostración**: recuentos ficticios y 12 preguntas escritas para la demo, ambos marcados como tales.
+Hay **25 exámenes RFIR** (2002–2026), **21 con su respuesta oficial**; en total 5.922 preguntas.
+Los años sin plantilla cuentan para la predicción (cuántas preguntas tiene cada asignatura), pero no entran en los simulacros.
 
-El flujo **Actions → «Datos RFIR»** (`.github/workflows/datos-rfir.yml`) se lanza solo la primera vez que se sube y después a mano (**Run workflow**):
+| Año del examen | Preguntas | Con respuesta | Cuaderno | Respuestas |
+|---|---|---|---|---|
+| 2002 | 260 | — | radiofisicagratis.wordpress.com | sin plantilla: solo cuenta para la predicción |
+| 2003 | 260 | 240 | radiofisicagratis.wordpress.com | radiofisicagratis.wordpress.com |
+| 2004 | 260 | 249 | radiofisicagratis.wordpress.com | radiofisicagratis.wordpress.com |
+| 2005 | 260 | 245 | radiofisicagratis.wordpress.com | radiofisicagratis.wordpress.com |
+| 2006 | 260 | 244 | radiofisicagratis.wordpress.com | radiofisicagratis.wordpress.com |
+| 2007 | 259 | 247 | radiofisicagratis.wordpress.com | radiofisicagratis.wordpress.com |
+| 2008 | 260 | 244 | radiofisicagratis.wordpress.com | radiofisicagratis.wordpress.com |
+| 2009 | 260 | — | radiofisicagratis.wordpress.com | sin plantilla: solo cuenta para la predicción |
+| 2010 | 260 | 248 | radiofisicagratis.wordpress.com | radiofisicagratis.wordpress.com |
+| 2011 | 260 | 247 | radiofisicagratis.wordpress.com | radiofisicagratis.wordpress.com |
+| 2012 | 260 | 241 | radiofisicagratis.wordpress.com | radiofisicagratis.wordpress.com |
+| 2013 | 235 | 221 | radiofisicagratis.wordpress.com | radiofisicagratis.wordpress.com |
+| 2014 | 235 | 223 | radiofisicagratis.wordpress.com | radiofisicagratis.wordpress.com |
+| 2015 | 235 | 222 | radiofisicagratis.wordpress.com | radiofisicagratis.wordpress.com |
+| 2016 | 235 | — | radiofisicagratis.wordpress.com | sin plantilla: solo cuenta para la predicción |
+| 2017 | 235 | — | radiofisicagratis.wordpress.com | sin plantilla: solo cuenta para la predicción |
+| 2018 | 235 | 225 | radiofisicagratis.wordpress.com | radiofisicagratis.wordpress.com |
+| 2019 | 235 | 225 | radiofisicagratis.wordpress.com | radiofisicagratis.wordpress.com |
+| 2020 | 183 | 181 | consalud.es | radiofisicagratis.wordpress.com |
+| 2021 | 185 | 179 | radiofisicagratis.wordpress.com | radiofisicagratis.wordpress.com |
+| 2022 | 210 | 210 | Portal FSE del Ministerio | Portal FSE del Ministerio |
+| 2023 | 210 | 208 | Portal FSE del Ministerio | Portal FSE del Ministerio |
+| 2024 | 210 | 208 | Portal FSE del Ministerio | Portal FSE del Ministerio |
+| 2025 | 210 | 209 | Portal FSE del Ministerio | Portal FSE del Ministerio |
+| 2026 | 210 | 203 | Portal FSE del Ministerio | Portal FSE del Ministerio |
 
-1. `scripts/rfir_fetch.py --api` abre el portal FSE con Chromium, obtiene su token anónimo y pide a su API, convocatoria a convocatoria, el cuaderno de la versión 0 y la hoja de respuestas definitiva. El código de titulación de Física se prueba entre «R», «RF», «FI», «FS», «FIS», «RFIR» y se acepta solo si la portada del cuaderno es de Física.
-2. `scripts/rfir_externos.py` completa años antiguos con las URL de `data/fuentes_externas.json` (vacío por ahora: añade copias de los cuadernos y plantillas oficiales si quieres más años).
-3. `scripts/rfir_datos.py` extrae preguntas, opciones y respuesta oficial y escribe `data/rfir.json` y `data/informe.md`.
-4. `scripts/rfir_clasifica_ia.py` asigna la asignatura de cada pregunta con IA (secreto `OPENAI_API_KEY`).
+**De dónde sale cada cosa**
 
-Con el paso `calibrar`, `scripts/rfir_calibracion.py` mide el panel de agentes con 100 preguntas oficiales y guarda `data/calibracion.json`. Con `imagenes`, se bajan los cuadernillos de imágenes.
+- **Portal FSE del Ministerio de Sanidad** (2022 en adelante): `scripts/rfir_fetch.py` pide a la API de su web el cuaderno de la versión 0 y la hoja de respuestas definitiva.
+- **Años anteriores**: el Ministerio ya no los publica. `scripts/rfir_cosecha.py` recorre las fuentes de `data/fuentes_externas.json` (`_cosecha`): webs, noticias, paquetes .zip y copias archivadas en la Wayback Machine. Mira dentro de cada PDF si es un cuaderno o una plantilla, de qué titulación y de qué año.
+- **HEAD-QA** (Vilares y Gómez-Rodríguez, ACL 2019; v2: Correa-Guillén, Gómez-Rodríguez y Vilares, 2025; licencia MIT) guarda los cuadernos oficiales y su respuesta correcta. Se usa de dos formas: sus PDF originales pasan por las mismas comprobaciones, y sus respuestas solo se toman si el cuaderno es el mismo, pregunta a pregunta (`scripts/rfir_headqa.py`).
+
+**Comprobaciones antes de aceptar un año copiado** (`scripts/rfir_externos.py`)
+
+- El año del examen se lee en el propio cuaderno: «PRUEBAS SELECTIVAS 2012» es el examen de enero de 2013.
+- La titulación se comprueba en la portada.
+- Se prefiere la versión 0. Si solo hay otra versión, la plantilla tiene que ser de esa misma versión.
+- Deben salir al menos el 90 % de las preguntas que anuncia la portada.
+- La plantilla debe cubrir el 90 % de las preguntas.
+- No se acepta una plantilla provisional ni una que ya se haya usado para otro año.
+- **La IA resuelve 30 preguntas del cuaderno y debe coincidir con la plantilla en al menos el 60 %.** Con la plantilla de ese examen coinciden casi todas (80–100 %); con la de otro año, solo las que acierta el azar (en torno al 25 %). Así se evita emparejar una plantilla con el año equivocado cuando su nombre o su texto no lo dejan claro.
+
+Los años copiados se marcan en la app como «tomada de una copia del cuaderno oficial».
 
 **Revisa a mano al menos 20 preguntas por año contra el PDF antes de dar los datos por buenos.**
+
+Mientras no exista `data/rfir.json`, la app funciona en **modo demostración**: recuentos ficticios y 12 preguntas escritas para la demo, ambos marcados como tales.
+
+El flujo **Actions → «Datos RFIR»** (`.github/workflows/datos-rfir.yml`) lo hace todo:
+
+- **todo**: portal, cosecha, validación, HEAD-QA, extracción y clasificación con IA.
+- **cosecha**: solo los años antiguos.
+- **calibrar**: mide el panel de agentes.
+- **imagenes**: baja los cuadernillos de imágenes.
+
+`scripts/rfir_clasifica_ia.py` asigna con IA la asignatura de cada pregunta (secreto `OPENAI_API_KEY`).
 
 ## Desarrollo y pruebas
 
