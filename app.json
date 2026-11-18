@@ -1,0 +1,77 @@
+{
+  "slug": "oraculorfir",
+  "name": "OráculoRFIR",
+  "tagline": "Qué asignaturas caerán en el RFIR 2027, con simulacros de preguntas oficiales",
+  "eyebrow": "RFIR 2027 · Exámenes oficiales del Ministerio de Sanidad · Universidad Miguel Hernández de Elche",
+  "h1": "Lo que dicen los exámenes RFIR oficiales *sobre tu examen de 2027*",
+  "lede": "OráculoRFIR cuenta cuántas preguntas ha puesto cada asignatura en los exámenes RFIR oficiales, estima cuántas caerán el 23 de enero de 2027 y te dice cuánto fiarte de esa estimación. Practica gratis con preguntas oficiales y su respuesta de la plantilla definitiva.",
+  "logo_icon": "sparkles",
+  "ia": true,
+  "lang": "es",
+  "langs": [
+    "es",
+    "en",
+    "pt"
+  ],
+  "connect_extra": [
+    "'self'"
+  ],
+  "i18n": {
+    "en": {
+      "title": "OráculoRFIR · Which subjects will come up in the RFIR 2027",
+      "eyebrow": "RFIR 2027 · Official exams of the Spanish Ministry of Health · Miguel Hernández University of Elche",
+      "h1": "What the official RFIR exams say *about your 2027 exam*",
+      "lede": "OráculoRFIR counts how many questions each subject has had in the official RFIR exams (Physics), estimates how many will come up on 23 January 2027 and tells you how far to trust that estimate. Practise for free with official questions and the answer from the final answer key."
+    },
+    "pt": {
+      "title": "OráculoRFIR · Que disciplinas vão sair no RFIR 2027",
+      "eyebrow": "RFIR 2027 · Exames oficiais do Ministério da Saúde de Espanha · Universidade Miguel Hernández de Elche",
+      "h1": "O que os exames RFIR oficiais dizem *sobre o seu exame de 2027*",
+      "lede": "O OráculoRFIR conta quantas perguntas cada disciplina teve nos exames RFIR oficiais (Física), estima quantas vão sair a 23 de janeiro de 2027 e diz-lhe até que ponto confiar nessa estimativa. Pratique grátis com perguntas oficiais e a resposta da grelha definitiva."
+    }
+  },
+  "authors": [
+    {
+      "name": "Fernando Borrás Rocher",
+      "orcid": "0000-0002-5519-4573",
+      "affiliation": "Universidad Miguel Hernández de Elche"
+    }
+  ],
+  "idea_credit": "Basada en OráculoMIR y OráculoFIR, adaptada al examen RFIR (Física).",
+  "catalog": {
+    "cat": "estudio",
+    "icon": "ti-crystal-ball",
+    "sub_es": "Predicción RFIR 2027",
+    "desc_es": "Cuántas preguntas caerán de cada asignatura en el RFIR 2027 (Física), con validación a ciegas, simulacros de preguntas oficiales y generador de preguntas verificado por varios agentes.",
+    "sub_en": "RFIR 2027 forecast",
+    "desc_en": "How many questions each subject will have in the RFIR 2027 (Physics), with blind validation, mock exams of official questions and a question generator checked by several agents.",
+    "tit_es": "OráculoRFIR",
+    "comp_es": "RFIR",
+    "tit_en": "OráculoRFIR",
+    "comp_en": "RFIR"
+  },
+  "modules": [
+    "00-utils",
+    "10-persist",
+    "20-providers",
+    "30-verify",
+    "60-nav",
+    "65-i18n",
+    "70-report"
+  ],
+  "app_js": [
+    "i18n.js",
+    "nucleo.js",
+    "datos.js",
+    "app.js"
+  ],
+  "img_extra": [
+    "'self'"
+  ],
+  "csp_extra": [
+    "manifest-src 'self'",
+    "worker-src 'self'"
+  ],
+  "head_extra": "<link rel=\"manifest\" href=\"manifest.webmanifest\"><link rel=\"apple-touch-icon\" href=\"icons/icon-192.png\"><meta name=\"apple-mobile-web-app-capable\" content=\"yes\">",
+  "idea_es": null
+}

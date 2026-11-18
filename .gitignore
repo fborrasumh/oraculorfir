@@ -1,0 +1,6 @@
+data/raw/_debug/
+__pycache__/
+all.js
+node_modules/
+*.png
+!icons/*.png

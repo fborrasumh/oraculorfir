@@ -1,0 +1,16 @@
+{
+  "name": "OráculoRFIR · Preparación RFIR 2027",
+  "short_name": "OráculoRFIR",
+  "description": "Predicción por asignatura del RFIR 2027, simulacros y reto diario con preguntas oficiales, repaso espaciado y explicaciones.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0F2237",
+  "theme_color": "#0F2237",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}

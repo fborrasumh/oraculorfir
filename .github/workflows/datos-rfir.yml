@@ -1,0 +1,84 @@
+# Trae los exámenes RFIR oficiales al repositorio y regenera data/rfir.json.
+# Lánzalo desde la pestaña «Actions» → «Datos RFIR» → «Run workflow».
+name: Datos RFIR
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/datos-rfir.yml']
+  workflow_dispatch:
+    inputs:
+      paso:
+        description: 'todo | externos | imagenes | procesar | clasificar | calibrar | sondear | descubrir | descargar'
+        default: 'todo'
+        required: true
+permissions:
+  contents: write
+jobs:
+  datos:
+    runs-on: ubuntu-latest
+    env:
+      PASO: ${{ env.PASO || 'todo' }}
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - name: Dependencias
+        run: |
+          pip install playwright==1.47.0 pdfplumber==0.11.4 pypdfium2 Pillow
+          python -m playwright install --with-deps chromium
+      - name: Pruebas del extractor
+        run: python tests/test_datos.py
+      - name: Sondear la API del portal (diagnóstico)
+        if: env.PASO == 'sondear'
+        run: python scripts/rfir_fetch.py --sondear
+      - name: Descargar por la API del portal FSE
+        if: env.PASO == 'todo'
+        run: python scripts/rfir_fetch.py --api
+      - name: RFIR antiguos desde copias de los PDF oficiales
+        if: env.PASO == 'todo' || env.PASO == 'externos'
+        run: python scripts/rfir_externos.py
+      - name: Cuadernillos de imágenes (portal y copias) → data/img
+        if: env.PASO == 'imagenes'
+        run: |
+          sudo apt-get install -y -qq poppler-utils tesseract-ocr >/dev/null
+          python scripts/rfir_fetch.py --api --imagenes || true
+          python scripts/rfir_externos.py --imagenes
+          python scripts/rfir_imagenes.py
+          python scripts/rfir_figuras.py
+      - name: Descubrir enlaces en el portal FSE (método antiguo)
+        if: env.PASO == 'descubrir'
+        run: python scripts/rfir_fetch.py --descubrir
+      - name: Descargar cuadernos y plantillas definitivas
+        if: env.PASO == 'descargar'
+        run: python scripts/rfir_fetch.py --descargar
+      - name: Extraer preguntas y clasificar
+        if: env.PASO != 'descubrir' && env.PASO != 'sondear' && env.PASO != 'calibrar'
+        run: python scripts/rfir_datos.py || true
+      - name: Clasificar por asignatura con IA (secreto OPENAI_API_KEY, modelo gpt-6-luna)
+        if: env.PASO != 'descubrir' && env.PASO != 'sondear' && env.PASO != 'calibrar'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MODELO_IA: gpt-6-luna
+        run: python scripts/rfir_clasifica_ia.py && python scripts/rfir_datos.py
+      - name: Medir la fiabilidad del panel de agentes con 100 preguntas oficiales (secreto OPENAI_API_KEY)
+        if: env.PASO == 'calibrar'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          MODELO_IA: gpt-6-luna
+        run: python scripts/rfir_calibracion.py 100
+      - name: Informe en el resumen de la ejecución
+        if: always()
+        run: cat data/informe.md >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || echo "Sin informe todavía" >> "$GITHUB_STEP_SUMMARY"
+      - name: Guardar capturas del portal (para ajustar el descubrimiento)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with: {name: portal-debug, path: data/raw/_debug, if-no-files-found: ignore}
+      - name: Subir los datos al repositorio
+        run: |
+          git config user.name "oraculorfir-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data
+          git diff --cached --quiet || git commit -m "Datos RFIR: exámenes oficiales y extracción ($(date -u +%F))"
+          git push
