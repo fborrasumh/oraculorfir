@@ -17,7 +17,7 @@ jobs:
   datos:
     runs-on: ubuntu-latest
     env:
-      PASO: ${{ env.PASO || 'todo' }}
+      PASO: ${{ inputs.paso || 'todo' }}
     timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
